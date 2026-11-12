@@ -314,3 +314,38 @@
 - [Lamplight & Parchment colour palette](https://honestlittleapps.github.io/palettes/lamplight-parchment-color-palette): Old paper, lamplight and walnut ink. Warm neutrals for journals, Bible study notes and vintage designs. Hex: #FBF5E9, #EADBC0, #D4B483, #B07A1E, #8A5A2B, #5A3A22, #2E2118.
 - [Midnight Wind-Down colour palette](https://honestlittleapps.github.io/palettes/midnight-wind-down-color-palette): Calm indigos for night-time designs and dark-mode screens, from soft lavender to near-black. Hex: #E8E6F7, #B9B4E6, #7F79C9, #4338CA, #2C2A7A, #1A1946, #0D0C24.
 - [Fruit of the Spirit colour palette](https://honestlittleapps.github.io/palettes/fruit-of-the-spirit-color-palette): Nine bright colours, one for each fruit of the Spirit in Galatians 5:22–23. Made for kids' church, bulletin boards and bookmarks. Hex: #C2255C, #F59F00, #4DABF7, #69DB7C, #F783AC, #FFD43B, #5C7CFA, #E599F7, #20C997.
+
+
+## Scroll-to-scale explorers
+
+- [All explorers](https://honestlittleapps.github.io/scale/)
+- [How tall is a thunderstorm?](https://honestlittleapps.github.io/scale/how-tall-is-a-thunderstorm/): Scroll from the ground to the top of a thunderstorm, past the Burj Khalifa, Everest and cruising jets. Storm tops reach 40,000 to 60,000+ feet. Free interactive explorer.
+- [From Kitty Hawk to the Moon](https://honestlittleapps.github.io/scale/kitty-hawk-to-the-moon/): Scroll a to-scale timeline of flight from the Wright brothers' 12-second flight in 1903 to Apollo 11 in 1969: Lindbergh, Earhart, the sound barrier, Sputnik and Gagarin.
+- [Zoom into your body, from you to an atom](https://honestlittleapps.github.io/scale/zoom-into-the-human-body/): An interactive zoom into the human body: scroll from your full height down to skin, cells, bacteria, viruses, DNA and atoms, with the real size of each.
+- [The whole Bible to scale](https://honestlittleapps.github.io/scale/bible-to-scale/): All 66 books and 1,189 chapters as squares, with a reading-plan calculator.
+
+## Free printable mini books (one sheet, one cut)
+
+- [All mini books](https://honestlittleapps.github.io/mini-books/)
+- [The Christmas Story mini book](https://honestlittleapps.github.io/mini-books/christmas-story-mini-book/): Free printable Christmas story mini book from Luke 2 (KJV): one sheet of paper, one cut, 8 little pages to read, colour and draw. Great for Sunday school and Advent.
+- [My Weather Book mini book](https://honestlittleapps.github.io/mini-books/weather-mini-book/): Free printable weather mini book for kids: sun, clouds, rain, thunder and lightning safety, snow, wind and rainbows. One sheet, one cut, 8 pages. Pre-K to Grade 2.
+- [Number Bonds to 10 mini book](https://honestlittleapps.github.io/mini-books/number-bonds-to-10-mini-book/): Free printable number bonds to 10 mini book: ten-frames for 9+1, 8+2, 7+3, 6+4, 5+5 and a make-your-own page. One sheet, one cut, 8 pages. Kindergarten and Grade 1.
+- [The Fruit of the Spirit mini book](https://honestlittleapps.github.io/mini-books/fruit-of-the-spirit-mini-book/): Free printable fruit of the Spirit mini book for kids: all nine from Galatians 5:22–23 (KJV), with what each means and an 'I can' line. One sheet, one cut, 8 pages.
+- [The Wright Brothers mini book](https://honestlittleapps.github.io/mini-books/wright-brothers-mini-book/): Free printable Wright brothers mini book for kids: the bicycle shop, kites and gliders, the wind tunnel, Kitty Hawk and the first flight on December 17, 1903. One sheet, one cut, 8 pages.
+- [Sun and Shadows mini book](https://honestlittleapps.github.io/mini-books/sun-and-shadows-mini-book/): Free printable sun and shadows mini book for kids: sunrise in the east, short shadows at midday, long shadows at sunset, golden hour and sun safety. One sheet, one cut, 8 pages.
+
+## Free daily classroom warm-ups (bell ringers)
+
+- [All warm-ups](https://honestlittleapps.github.io/warm-ups/)
+- [Math Warm-Ups for Grades 3–5](https://honestlittleapps.github.io/warm-ups/math-warm-ups-grades-3-5/): 20 free daily math warm-ups for grades 3–5: a times-table fact, a word problem and a rounding, fraction, place-value or perimeter question each day. Projector-ready, answers included.
+- [Number Sense Warm-Ups for Kindergarten and Grade 1](https://honestlittleapps.github.io/warm-ups/number-sense-warm-ups-k-1/): 20 free daily number sense warm-ups for kindergarten and grade 1: make 10 with ten-frames, counting patterns and simple adding and taking away. Projector-ready.
+- [Brain Teaser Warm-Ups for Grades 6–8](https://honestlittleapps.github.io/warm-ups/brain-teaser-warm-ups-grades-6-8/): 20 free daily brain teaser warm-ups for middle school: number patterns, missing operation signs and quick percent questions. Projector-ready bell ringers with answers.
+- [Bible Warm-Ups for Sunday School and Christian Classrooms](https://honestlittleapps.github.io/warm-ups/bible-warm-ups-for-kids/): 20 free daily Bible warm-ups for Sunday school and Christian schools: a KJV verse to fill in, which book it's from, and a Bible fact question. Projector-ready with answers.
+
+## Group chat kits (ready-to-send daily messages)
+
+- [All group chat kits](https://honestlittleapps.github.io/group-chat/)
+- [Proverbs a Day: 31 Group Chat Texts for Men's Groups](https://honestlittleapps.github.io/group-chat/proverbs-a-day-group-chat-texts-for-men/): 31 ready-to-send group chat texts for men's groups and accountability partners: one chapter of Proverbs a day, with a question to answer. Copy, WhatsApp or text.
+- [30 Check-In Texts to Send Your Partner](https://honestlittleapps.github.io/group-chat/check-in-texts-to-send-your-partner/): 30 thoughtful check-in texts to send your husband, wife or partner: one a day for a month. Kind, honest questions that open real conversations. Copy or text in one tap.
+- [20 Math Riddles for the Family Group Chat](https://honestlittleapps.github.io/group-chat/math-riddles-for-the-family-group-chat/): 20 daily math riddles for the family group chat, with each answer sent the next day. Great for grandparents, cousins and kids who love a challenge. Copy or WhatsApp.
+- [14-Day Water Challenge: Group Chat Texts for Friends](https://honestlittleapps.github.io/group-chat/14-day-water-challenge-group-texts/): A 14-day drink-more-water challenge for friends, coworkers or family, with one ready-to-send group text a day. Simple habits, photo check-ins and no counting.
