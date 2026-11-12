@@ -118,3 +118,42 @@
 - [Sunset walk tonight?](https://honestlittleapps.github.io/cards/sunset-walk-tonight/): sunset walk invite.
 - [Rest up. Get well soon.](https://honestlittleapps.github.io/cards/get-well-soon/): get well soon card.
 - [Bet you can't solve this](https://honestlittleapps.github.io/cards/bet-you-cant-solve-this/): riddle card.
+
+## Podcasts (original ambient audio)
+- [Sleep Sounds by Sleepward](https://honestlittleapps.github.io/podcasts/sleep-sounds/): Original, ad-free sleep sounds: brown noise, rain, ocean waves, a box fan and soft night bells. Each episode is ten calm minutes with a gentle fade, made by Honest Little Apps. RSS: https://honestlittleapps.github.io/podcasts/sleep-sounds/feed.xml
+- [Deep Focus Sprints by FocusPass](https://honestlittleapps.github.io/podcasts/focus-sounds/): Ten-minute focus sprints with a bell to start and three bells to finish. Brown noise, pink noise and rain beds, all original, ad-free and made by Honest Little Apps. RSS: https://honestlittleapps.github.io/podcasts/focus-sounds/feed.xml
+
+## Projector & TV game shows (free, teams + timer)
+- [Bible Trivia Game Show](https://honestlittleapps.github.io/games/bible-trivia-game-show/): Bible trivia game for youth group.
+- [Guess the Year: History Game](https://honestlittleapps.github.io/games/guess-the-year-history-game/): history game for the classroom.
+- [Brain Teaser Showdown](https://honestlittleapps.github.io/games/brain-teaser-showdown/): brain teasers for the classroom.
+- [Make 10 Class Challenge](https://honestlittleapps.github.io/games/make-ten-class-challenge/): number bonds to 10 game for the whole class.
+- [Couples Quiz Night](https://honestlittleapps.github.io/games/couples-quiz-night/): couples game night questions.
+
+## Daily full-screen slides for TVs and digital signage
+- [Proverb of the Day](https://honestlittleapps.github.io/screens/proverbs-a-day-for-men/)
+- [Psalms of the Day](https://honestlittleapps.github.io/screens/psalms-in-a-month/)
+- [Fruit of the Spirit this Week](https://honestlittleapps.github.io/screens/fruit-of-the-spirit-weekly/)
+- [Bible Trivia Question of the Day](https://honestlittleapps.github.io/screens/bible-trivia-question-of-the-day/)
+- [Brain Teaser of the Day](https://honestlittleapps.github.io/screens/brain-puzzle-of-the-day-calendar/)
+- [Number Puzzle of the Day](https://honestlittleapps.github.io/screens/daily-number-puzzle-calendar/)
+- [Make 10: Math Warm-Up](https://honestlittleapps.github.io/screens/make-ten-math-calendar-for-kids/)
+- [Morning Math & Rhyme Warm-Up](https://honestlittleapps.github.io/screens/kids-daily-math-reading-warm-up-calendar/)
+- [Science Fact of the Day](https://honestlittleapps.github.io/screens/gravity-fact-of-the-day-calendar/)
+- [Weather Fact of the Day](https://honestlittleapps.github.io/screens/weather-fact-of-the-day-calendar/)
+- [This Week in History](https://honestlittleapps.github.io/screens/on-this-day-in-history-calendar/)
+- [Money Fact of the Day](https://honestlittleapps.github.io/screens/money-fact-of-the-day-calendar/)
+- [Afternoon Focus Warm-Up](https://honestlittleapps.github.io/screens/daily-focus-warm-up-calendar/)
+- [Water Check-In](https://honestlittleapps.github.io/screens/water-reminder-calendar/)
+- [Journal Prompt of the Day](https://honestlittleapps.github.io/screens/daily-journal-prompts-calendar/)
+- [Tonight's Sunset & Golden Hour](https://honestlittleapps.github.io/screens/sunset-golden-hour-calendar/)
+
+## Church bulletin inserts (printable, KJV)
+- [First Sunday of Advent: Hope](https://honestlittleapps.github.io/bulletin-inserts/advent-week-1-hope/) — Sunday, November 29, 2026, Isaiah 9:2
+- [Second Sunday of Advent: Peace](https://honestlittleapps.github.io/bulletin-inserts/advent-week-2-peace/) — Sunday, December 6, 2026, Isaiah 9:6
+- [Third Sunday of Advent: Joy](https://honestlittleapps.github.io/bulletin-inserts/advent-week-3-joy/) — Sunday, December 13, 2026, Luke 2:10
+- [Fourth Sunday of Advent: Love](https://honestlittleapps.github.io/bulletin-inserts/advent-week-4-love/) — Sunday, December 20, 2026, John 3:16
+- [Christmas: A Saviour is born](https://honestlittleapps.github.io/bulletin-inserts/christmas-eve-and-christmas-day/) — Christmas Eve & Christmas Day, 2026, Luke 2:11
+- [New Year: New every morning](https://honestlittleapps.github.io/bulletin-inserts/new-year-2027-new-every-morning/) — Sunday, January 3, 2027, Lamentations 3:22–23
+- [Season after Epiphany: A lamp for the next step](https://honestlittleapps.github.io/bulletin-inserts/a-lamp-unto-my-feet/) — Sunday, January 10, 2027, Psalm 119:105
+- [Season after Epiphany: Fruit that grows](https://honestlittleapps.github.io/bulletin-inserts/fruit-of-the-spirit-for-families/) — Sunday, January 17, 2027, Galatians 5:22–23

@@ -1,0 +1,76 @@
+{
+ "sleep-sounds": [
+  {
+   "slug": "brown-noise-for-sleep",
+   "title": "Brown Noise for Sleep (10 min)",
+   "desc": "Deep, steady brown noise to mask room sounds while you fall asleep.",
+   "bytes": 1800512,
+   "date": "Sat, 07 Nov 2026 10:00:00 +0000"
+  },
+  {
+   "slug": "gentle-rain-for-sleep",
+   "title": "Gentle Rain for Sleep (10 min)",
+   "desc": "Soft rain on a quiet night. No thunder, no music.",
+   "bytes": 1800512,
+   "date": "Sun, 08 Nov 2026 10:00:00 +0000"
+  },
+  {
+   "slug": "ocean-waves-for-sleep",
+   "title": "Ocean Waves for Sleep (10 min)",
+   "desc": "Slow, rolling waves, roughly one every nine seconds, to breathe along with.",
+   "bytes": 1800512,
+   "date": "Mon, 09 Nov 2026 10:00:00 +0000"
+  },
+  {
+   "slug": "box-fan-white-noise",
+   "title": "Box Fan Sound (10 min)",
+   "desc": "The steady hum of a box fan, for people who can't sleep without one.",
+   "bytes": 1800504,
+   "date": "Tue, 10 Nov 2026 10:00:00 +0000"
+  },
+  {
+   "slug": "night-bells-and-brown-noise",
+   "title": "Night Bells over Brown Noise (10 min)",
+   "desc": "Very soft, far-apart bells over a low brown-noise bed. A wind-down, not an alarm.",
+   "bytes": 1800519,
+   "date": "Wed, 11 Nov 2026 10:00:00 +0000"
+  }
+ ],
+ "focus-sounds": [
+  {
+   "slug": "10-minute-focus-sprint-brown-noise",
+   "title": "10-Minute Focus Sprint: Brown Noise",
+   "desc": "One bell to start, three bells to stop. Pick one task and stay on it until the bells.",
+   "bytes": 1800523,
+   "date": "Sat, 07 Nov 2026 10:00:00 +0000"
+  },
+  {
+   "slug": "10-minute-focus-sprint-pink-noise",
+   "title": "10-Minute Focus Sprint: Pink Noise",
+   "desc": "Brighter than brown noise, good for covering office chatter.",
+   "bytes": 1800522,
+   "date": "Sun, 08 Nov 2026 10:00:00 +0000"
+  },
+  {
+   "slug": "10-minute-focus-sprint-rain",
+   "title": "10-Minute Focus Sprint: Rain",
+   "desc": "Rain on the window and one job to finish before the bells.",
+   "bytes": 1800516,
+   "date": "Mon, 09 Nov 2026 10:00:00 +0000"
+  },
+  {
+   "slug": "10-minute-focus-sprint-minute-markers",
+   "title": "10-Minute Focus Sprint with Minute Markers",
+   "desc": "A soft tick every minute so you always know where you are. Great for timed work or study.",
+   "bytes": 1800530,
+   "date": "Tue, 10 Nov 2026 10:00:00 +0000"
+  },
+  {
+   "slug": "10-minute-study-session-ocean",
+   "title": "10-Minute Study Session: Ocean",
+   "desc": "Slow waves as a steady background for reading or revision.",
+   "bytes": 1800518,
+   "date": "Wed, 11 Nov 2026 10:00:00 +0000"
+  }
+ ]
+}
