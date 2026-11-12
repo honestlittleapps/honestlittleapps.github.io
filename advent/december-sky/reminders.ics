@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//December//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:December sky 2026 (Honest Little Apps)
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:december-sky-2026-12-01@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261201T080000
+DTEND:20261201T081500
+SUMMARY:Sky door 1: Last quarter Moon
+DESCRIPTION:The Moon reaches last quarter at 06:08 UTC. It rises around mi
+ dnight\, so look for a half-lit Moon in the morning sky on the way to sch
+ ool or work.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 1: Last quarter Moon
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-02@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261202T080000
+DTEND:20261202T081500
+SUMMARY:Sky door 2: Venus\, the morning star
+DESCRIPTION:All December\, Venus shines low in the southeast before sunris
+ e. Apart from the Sun and the Moon\, nothing in the sky is brighter.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 2: Venus\, the morning star
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-03@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261203T080000
+DTEND:20261203T081500
+SUMMARY:Sky door 3: Two planets before dawn
+DESCRIPTION:Before sunrise\, look high in the south-southwest for two brig
+ ht points. The brighter one is Jupiter\, and the reddish one is Mars.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 3: Two planets before dawn
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-04@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261204T080000
+DTEND:20261204T081500
+SUMMARY:Sky door 4: Saturn after dark
+DESCRIPTION:That steady\, slightly yellow star in the south during the eve
+ ning is Saturn. Planets don't twinkle much\, and that's the giveaway.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 4: Saturn after dark
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-05@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261205T080000
+DTEND:20261205T081500
+SUMMARY:Sky door 5: Earliest sunsets of the year
+DESCRIPTION:Around 40° north\, the earliest sunsets of the year fall betw
+ een about December 5 and 10\, two weeks before the shortest day. Make the
+  most of it: the evenings start getting longer from here.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 5: Earliest sunsets of the year
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-06@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261206T080000
+DTEND:20261206T081500
+SUMMARY:Sky door 6: Why the sunset comes early
+DESCRIPTION:Solar noon drifts later through December because Earth's orbit
+  is an ellipse and its axis is tilted. That's why sunsets start getting l
+ ater while sunrises keep getting later too.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-6
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 6: Why the sunset comes early
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-07@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261207T080000
+DTEND:20261207T081500
+SUMMARY:Sky door 7: Longer twilight
+DESCRIPTION:Winter twilight lasts a little longer than in March or Septemb
+ er\, because the Sun sinks at a shallower angle. That gives you a few ext
+ ra minutes of colour after sunset.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 7: Longer twilight
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-08@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261208T080000
+DTEND:20261208T081500
+SUMMARY:Sky door 8: The darkest week starts
+DESCRIPTION:The Moon is almost new\, so this week has the darkest evening 
+ skies of the month. It's the best time to see faint stars.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 8: The darkest week starts
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-09@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261209T080000
+DTEND:20261209T081500
+SUMMARY:Sky door 9: New Moon
+DESCRIPTION:New Moon arrives at 00:51 UTC. There's no moonlight tonight. L
+ et your eyes adjust for 15 minutes and you'll see far more stars.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-9
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 9: New Moon
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-10@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261210T080000
+DTEND:20261210T081500
+SUMMARY:Sky door 10: Catch the young Moon
+DESCRIPTION:Look low in the southwest 30 to 45 minutes after sunset tonigh
+ t or tomorrow for a hair-thin crescent. It's one of the prettiest sights 
+ of the month.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 10: Catch the young Moon
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-11@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261211T080000
+DTEND:20261211T081500
+SUMMARY:Sky door 11: Orion is back
+DESCRIPTION:By mid-evening\, Orion climbs in the east. Find the three star
+ s of his belt in a short\, straight row.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 11: Orion is back
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-12@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261212T080000
+DTEND:20261212T081500
+SUMMARY:Sky door 12: Earthshine
+DESCRIPTION:See a faint glow on the dark part of the crescent? That's sunl
+ ight bouncing off Earth\, lighting up the Moon's night side.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 12: Earthshine
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-13@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261213T080000
+DTEND:20261213T081500
+SUMMARY:Sky door 13: Geminid meteor shower
+DESCRIPTION:The Geminids peak on the night of December 13 to 14. The cresc
+ ent Moon sets in the mid-evening\, leaving dark skies. Under truly dark s
+ kies you can see 100 or more meteors an hour\, though far fewer from town
+ . Watch after 10 pm.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 13: Geminid meteor shower
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-14@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261214T080000
+DTEND:20261214T081500
+SUMMARY:Sky door 14: Where Geminids come from
+DESCRIPTION:Most meteor showers come from comets. The Geminids come from a
+ n asteroid called 3200 Phaethon. Earth crosses its trail of dust every De
+ cember.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 14: Where Geminids come from
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-15@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261215T080000
+DTEND:20261215T081500
+SUMMARY:Sky door 15: Later and later sunrises
+DESCRIPTION:Evenings are slowly getting longer\, but sunrises keep getting
+  later until early January. Near 40° north\, the latest sunrise comes ar
+ ound January 5.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 15: Later and later sunrises
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-16@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261216T080000
+DTEND:20261216T081500
+SUMMARY:Sky door 16: The Seven Sisters
+DESCRIPTION:High in the evening sky\, look for a small\, misty cluster tha
+ t looks like a tiny dipper. It's the Pleiades. Binoculars show dozens of 
+ stars.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 16: The Seven Sisters
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-17@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261217T080000
+DTEND:20261217T081500
+SUMMARY:Sky door 17: First quarter Moon
+DESCRIPTION:First quarter arrives at 05:42 UTC. Point binoculars at the li
+ ne between light and shadow\, where craters cast long shadows.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 17: First quarter Moon
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-18@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261218T080000
+DTEND:20261218T081500
+SUMMARY:Sky door 18: The Belt of Venus
+DESCRIPTION:Right after sunset\, turn around and face east. A pink band si
+ ts above a blue-grey strip. The pink band is the Belt of Venus\, and the 
+ strip under it is Earth's own shadow.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 18: The Belt of Venus
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-19@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261219T080000
+DTEND:20261219T081500
+SUMMARY:Sky door 19: Blue hour
+DESCRIPTION:Blue hour comes after sunset\, when the Sun is about 4 to 8 de
+ grees below the horizon. The sky turns deep blue and city lights balance 
+ with the sky. It's the best light for photos.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 19: Blue hour
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-20@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261220T080000
+DTEND:20261220T081500
+SUMMARY:Sky door 20: The southernmost sunset
+DESCRIPTION:In the Northern Hemisphere\, December sunsets are the farthest
+  south of west all year. Note where the Sun goes down from your window\, 
+ then check again in June.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-20
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 20: The southernmost sunset
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-21@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261221T080000
+DTEND:20261221T081500
+SUMMARY:Sky door 21: Winter solstice
+DESCRIPTION:The solstice is at 20:50 UTC today. It's the shortest day of t
+ he year in the Northern Hemisphere and the longest in the Southern Hemisp
+ here.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-21
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 21: Winter solstice
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-22@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261222T080000
+DTEND:20261222T081500
+SUMMARY:Sky door 22: Ursid meteors
+DESCRIPTION:The small Ursid shower peaks around now. This year a nearly fu
+ ll Moon washes most of them out\, so the Geminids were the shower to catc
+ h.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 22: Ursid meteors
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-23@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261223T080000
+DTEND:20261223T081500
+SUMMARY:Sky door 23: Full Cold Moon
+DESCRIPTION:The Moon is full at 01:28 UTC on December 24\, which is the ev
+ ening of December 23 in the Americas. Winter full Moons ride high in the 
+ sky\, so they cast crisp shadows.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-23
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 23: Full Cold Moon
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-sky-2026-12-24@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261224T080000
+DTEND:20261224T081500
+SUMMARY:Sky door 24: Christmas Eve sky
+DESCRIPTION:The bright Moon rises around sunset tonight. The days have bee
+ n getting longer since the solstice\, by only a few seconds at first\, bu
+ t the turn has come.
+URL:https://honestlittleapps.github.io/advent/december-sky/#door-24
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sky door 24: Christmas Eve sky
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
