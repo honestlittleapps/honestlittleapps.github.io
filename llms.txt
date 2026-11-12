@@ -265,3 +265,19 @@
 - [Times Tables Quiz: The Tricky Facts](https://honestlittleapps.github.io/quizzes/times-tables-tricky-facts-quiz): 15 of the times-table facts kids miss most, with near-miss answer choices. Grades 3–5 · Math facts. Eight import formats plus a playable version.
 - [Family Emergency Preparedness Quiz](https://honestlittleapps.github.io/quizzes/family-emergency-preparedness-quiz): 12 questions on kits, contacts, fire safety and what to do first. Families · Scouts · Health class. Eight import formats plus a playable version.
 - [Fruit of the Spirit Quiz](https://honestlittleapps.github.io/quizzes/fruit-of-the-spirit-quiz): 10 questions on Galatians 5:22–23 and the nine qualities. Kids church · Youth group · Small group. Eight import formats plus a playable version.
+
+## Free activities: cross-stitch patterns, scavenger hunts, charades & Pictionary
+
+- ["Thy Word Is a Lamp" Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/thy-word-is-a-lamp-cross-stitch-pattern): A free KJV Psalm 119:105 cross-stitch chart in black with a gold border. Beginner friendly: full stitches only.
+- ["Watch Ye, Stand Fast" Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/stand-fast-cross-stitch-pattern): A bold KJV 1 Corinthians 16:13 cross-stitch chart for a man's office, garage or study. Full stitches only.
+- ["Drink Your Water" Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/drink-your-water-cross-stitch-pattern): A cheerful little reminder for the kitchen or desk, with a border of water drops. Two colours, full stitches only.
+- ["Love Joy Peace" Fruit of the Spirit Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/love-joy-peace-cross-stitch-pattern): The first three of the fruit of the Spirit (Galatians 5:22) framed by a green vine with red berries. Full stitches only.
+- ["Chase the Golden Hour" Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/golden-hour-cross-stitch-pattern): A sunset-striped cross-stitch chart for anyone who stops to watch the sky. Four colours, full stitches only.
+- [Sunset & Sky Scavenger Hunt](https://honestlittleapps.github.io/activities/sunset-sky-scavenger-hunt): 15 things to spot in the evening sky, from the first star to the Earth's shadow.
+- [Backyard Creature Scavenger Hunt](https://honestlittleapps.github.io/activities/backyard-creature-scavenger-hunt): 15 small creatures and clues to find outside, no special gear needed.
+- [Home Safety Scavenger Hunt](https://honestlittleapps.github.io/activities/home-safety-scavenger-hunt): 15 safety things to find (or notice are missing) in 20 minutes, room by room.
+- [Bible Verse Scavenger Hunt](https://honestlittleapps.github.io/activities/bible-verse-scavenger-hunt): 15 famous verses to find with a Bible, with an answer key for leaders.
+- [Grocery Store Math Scavenger Hunt](https://honestlittleapps.github.io/activities/grocery-store-math-scavenger-hunt): 15 math and reading missions to do on a normal shopping trip.
+- [Bible Charades](https://honestlittleapps.github.io/activities/bible-charades): 40 Bible stories and people to act out, with a built-in timer and score.
+- [Date Night Charades for Couples](https://honestlittleapps.github.io/activities/date-night-charades): 40 date-night moments to act out for each other, from slow dancing to a burnt dinner.
+- [Family Game Night Pictionary Words](https://honestlittleapps.github.io/activities/family-game-night-pictionary-words): 40 draw-it words from easy to tricky, with a random picker and a 60-second timer.
