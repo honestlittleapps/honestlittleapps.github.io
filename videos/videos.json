@@ -1,0 +1,74 @@
+[
+ {
+  "slug": "christmas-service-countdown-5-minutes",
+  "title": "Christmas Service Countdown (5 Minutes)",
+  "secs": 300,
+  "app": 6820304462,
+  "who": "Christmas Eve and Christmas services",
+  "size": 3053680
+ },
+ {
+  "slug": "advent-service-countdown-5-minutes",
+  "title": "Advent Service Countdown (5 Minutes)",
+  "secs": 300,
+  "app": 6820775927,
+  "who": "Advent Sunday services",
+  "size": 2949449
+ },
+ {
+  "slug": "church-welcome-countdown-5-minutes",
+  "title": "Church Welcome Countdown (5 Minutes)",
+  "secs": 300,
+  "app": 6820778195,
+  "who": "any Sunday service, youth group or small group",
+  "size": 2938003
+ },
+ {
+  "slug": "new-years-eve-countdown-2027",
+  "title": "New Year's Eve Countdown to 2027 (60 Seconds)",
+  "secs": 60,
+  "app": 6794488304,
+  "who": "New Year's Eve parties and watch-night services",
+  "size": 435092
+ },
+ {
+  "slug": "classroom-timer-1-minute",
+  "title": "1-Minute Classroom Timer",
+  "secs": 60,
+  "app": 6795713307,
+  "who": "quick classroom tasks",
+  "size": 333069
+ },
+ {
+  "slug": "clean-up-timer-2-minutes",
+  "title": "2-Minute Clean-Up Timer for Kids",
+  "secs": 120,
+  "app": 6788619891,
+  "who": "classroom and home clean-ups",
+  "size": 751581
+ },
+ {
+  "slug": "classroom-timer-3-minutes",
+  "title": "3-Minute Classroom Timer",
+  "secs": 180,
+  "app": 6817125699,
+  "who": "warm-ups, partner talk and transitions",
+  "size": 1145944
+ },
+ {
+  "slug": "classroom-timer-5-minutes",
+  "title": "5-Minute Classroom Timer",
+  "secs": 300,
+  "app": 6808798253,
+  "who": "group work, quizzes and brain breaks",
+  "size": 1573298
+ },
+ {
+  "slug": "focus-timer-10-minutes",
+  "title": "10-Minute Focus Timer",
+  "secs": 600,
+  "app": 6795610975,
+  "who": "study sessions and focused work",
+  "size": 3200867
+ }
+]
