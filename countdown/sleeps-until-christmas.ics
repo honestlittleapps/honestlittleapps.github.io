@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Countdown//EN
+BEGIN:VEVENT
+UID:sleeps-until-christmas@honestlittleapps.github.io
+DTSTAMP:20261112T110000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Christmas 2026
+DESCRIPTION:Countdown and get-ready list: https://honestlittleapps.github.io/countdown/sleeps-until-christmas/
+URL:https://honestlittleapps.github.io/countdown/sleeps-until-christmas/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Christmas 2026 is one week away
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Christmas 2026 is tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

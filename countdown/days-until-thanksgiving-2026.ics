@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Countdown//EN
+BEGIN:VEVENT
+UID:days-until-thanksgiving-2026@honestlittleapps.github.io
+DTSTAMP:20261112T110000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Thanksgiving 2026
+DESCRIPTION:Countdown and get-ready list: https://honestlittleapps.github.io/countdown/days-until-thanksgiving-2026/
+URL:https://honestlittleapps.github.io/countdown/days-until-thanksgiving-2026/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thanksgiving 2026 is one week away
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thanksgiving 2026 is tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

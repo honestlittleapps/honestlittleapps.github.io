@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Countdown//EN
+BEGIN:VEVENT
+UID:days-until-ash-wednesday-lent-2027@honestlittleapps.github.io
+DTSTAMP:20261112T110000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Ash Wednesday 2027
+DESCRIPTION:Countdown and get-ready list: https://honestlittleapps.github.io/countdown/days-until-ash-wednesday-lent-2027/
+URL:https://honestlittleapps.github.io/countdown/days-until-ash-wednesday-lent-2027/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ash Wednesday 2027 is one week away
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ash Wednesday 2027 is tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
