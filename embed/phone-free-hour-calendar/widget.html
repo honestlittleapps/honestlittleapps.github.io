@@ -1,0 +1,25 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex"><title>One phone-free hour a night, already scheduled widget</title><style>
+*{box-sizing:border-box}html,body{margin:0;height:100%}body{font:15px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#1d1d1f;background:#fff}
+.box{height:100%;display:flex;flex-direction:column;border:1px solid #e6e4df;border-radius:14px;overflow:hidden}
+.top{background:linear-gradient(150deg,#0d7a4f,#07492f);color:#fff;padding:10px 14px;font-size:12px;letter-spacing:.07em;text-transform:uppercase;font-weight:700;display:flex;justify-content:space-between;gap:8px}
+.in{padding:12px 14px;flex:1;overflow:auto}.t{font-weight:750;font-size:17px;line-height:1.25;margin:0 0 6px}.in p{margin:0 0 8px}
+details{background:#f6f5f2;border-radius:10px;padding:6px 10px}summary{cursor:pointer;font-weight:650}
+.f{border-top:1px solid #eee;padding:8px 14px;font-size:12px;display:flex;justify-content:space-between;gap:8px;align-items:center}
+.f a{color:#0d7a4f;text-decoration:none;font-weight:650}body.dark{background:#1c1c1e;color:#f2f2f7}body.dark .box{border-color:#333}body.dark details{background:#2c2c2e}body.dark .f{border-color:#333}body.dark .f a{filter:brightness(1.9)}
+</style></head><body><div class="box"><div class="top"><span id="lbl">One phone-free hour a night, already scheduled</span><span id="dt"></span></div><div class="in" id="c">Loading…</div>
+<div class="f"><a id="cal" href="https://honestlittleapps.github.io/calendars/phone-free-hour-calendar/" target="_blank" rel="noopener">Get it daily, free</a><a href="https://apps.apple.com/app/id6795610975?pt=129123876&amp;ct=embed-phone-free-hour-calendar&amp;mt=8" target="_blank" rel="noopener">FocusPass · App Store</a></div></div>
+<script>
+(function(){var q=new URLSearchParams(location.search);if(q.get('theme')==='dark')document.body.classList.add('dark');
+var key='phone-free-hour-calendar';var city=q.get('city');if(city&&/^[a-z-]+$/.test(city)&&'0'==='1'){key='phone-free-hour-calendar--sunset-'+city;if(city==='new-york')key='phone-free-hour-calendar';}
+var now=new Date();var ds=now.getFullYear()+'-'+String(now.getMonth()+1).padStart(2,'0')+'-'+String(now.getDate()).padStart(2,'0');
+function esc(s){return s.replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function para(s){return s.split('\n\n').map(function(p){return '<p>'+esc(p).replace(/\n/g,'<br>')+'</p>'}).join('')}
+fetch('https://honestlittleapps.github.io/data/'+key+'.json').then(function(r){return r.json()}).then(function(d){
+var past=d.items.filter(function(i){return i.d<=ds});var cd=past.length?past[past.length-1].d:(d.items[0]||{}).d;
+var cur=d.items.filter(function(i){return i.d===cd}).slice(0,1);document.getElementById('lbl').textContent=d.calname;
+document.getElementById('dt').textContent=cd===ds?'Today':new Date(cd+'T12:00:00').toLocaleDateString(undefined,{month:'short',day:'numeric'});
+document.getElementById('c').innerHTML=cur.map(function(i){var parts=i.b.split('\n\n\n\n');var x='<div class="t">'+esc(i.t)+(i.tm?' · '+esc(i.tm):'')+'</div>'+para(parts[0]);
+if(parts[1])x+='<details><summary>Show the answer</summary>'+para(parts[1].trim())+'</details>';return x}).join('<hr style="border:0;border-top:1px solid #eee">');
+}).catch(function(){document.getElementById('c').textContent='Could not load today\u2019s entry.'});})();
+</script></body></html>
