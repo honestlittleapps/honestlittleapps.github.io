@@ -341,4 +341,72 @@ if(K==='cry'){let i=0,sol=false;const f=()=>A==='code'?codeSVG(i,sol):crySVG(A,i
 if(K==='gen'){let seed=1;const f=()=>A==='mandala'?mandala(seed):A==='snowflake'?snowflake(seed):ornaments(seed);const draw=()=>S.innerHTML=f();draw();bar.append(btn('New design',()=>{seed=Math.floor(Math.random()*1e6);draw()}),btn('Download PNG',()=>png(f(),1632,2112,`${A}-coloring-page-${seed}.png`,'#fff')))}
 if(K==='jn'){let pi=0;const draw=()=>S.innerHTML=jnSVG(A,pi);draw();if(A==='gratitude')bar.append(btn('New prompt',()=>{pi++;draw()}));bar.append(btn('Download PNG',()=>png(jnSVG(A,pi),1632,2112,`${A}-journal-page.png`,'#fff')))}
 
+
+/* ===== ROUND 5: routine charts, word scrambles, spot the difference, signs ===== */
+const RT={
+ morning:['My Morning Routine','☀️ Wake up and stretch|🚽 Bathroom|🪥 Brush teeth|👕 Get dressed|🛏️ Make my bed|🥣 Eat breakfast|🎒 Pack my backpack|👟 Shoes and coat on'],
+ bedtime:['My Bedtime Routine','📵 Screens off|🛁 Bath or wash up|🪥 Brush teeth|👚 Pajamas on|📖 Story or reading time|💭 Talk about my day|💡 Lights out'],
+ afterschool:['After-School Routine','🍎 Snack|🎒 Unpack my bag|✏️ Homework|📚 Read for 20 minutes|🏃 Play outside|🧹 One chore|📱 Screen time (after the list!)'],
+ adhd:['My Daily Reset','💧 Water first|📝 Pick today’s one thing|⏱️ Start it for 2 minutes|🍽️ Eat a real lunch|🚶 10-minute walk|🧺 One reset task (dishes or laundry)|🔌 Phone charging outside the bedroom|🌙 Set out tomorrow’s things']};
+function rtSVG(key,title,steps){const T=title||RT[key][0],St=(steps||RT[key][1]).split('|').map(x=>x.trim()).filter(Boolean).slice(0,10),D=['M','T','W','T','F','S','S'],x0=40,w=736,lw=380,cw=(w-lw)/7,y0=170,rh=Math.min(82,720/St.length);
+ let s=`<text x="408" y="88" text-anchor="middle" font-family="Arial Rounded MT Bold,Arial Black,Arial,sans-serif" font-weight="900" font-size="46" fill="${AC}">${esc(T)}</text><text x="408" y="124" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#555">Check off each step. Fill a whole column for a star!</text>`;
+ D.forEach((d,i)=>{s+=`<rect x="${x0+lw+i*cw}" y="${y0-40}" width="${cw}" height="38" fill="${AC}" ${i===0?'rx="0"':''}/><text x="${x0+lw+i*cw+cw/2}" y="${y0-14}" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="17" fill="#fff">${d}</text>`});
+ St.forEach((st,r)=>{const y=y0+r*rh,m=st.match(/^(\p{Extended_Pictographic}️?)\s*(.*)$/u),ic=m?m[1]:'⭐',tx=m?m[2]:st;s+=`<rect x="${x0}" y="${y}" width="${w}" height="${rh}" fill="${r%2?'#fff':'#FAFAF7'}" stroke="#ccc"/><text x="${x0+38}" y="${y+rh/2+14}" text-anchor="middle" font-size="${Math.min(40,rh*.5)}">${ic}</text>`+tl(wrap(tx,24).slice(0,2),x0+74,y+rh/2+(wrap(tx,24).length>1?-4:7),22,'font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#222"');
+  for(let i=0;i<7;i++){const cx=x0+lw+i*cw+cw/2;s+=`<rect x="${cx-14}" y="${y+rh/2-14}" width="28" height="28" rx="6" fill="#fff" stroke="#888" stroke-width="2"/>`}});
+ const by=y0+St.length*rh+18;for(let i=0;i<7;i++){const cx=x0+lw+i*cw+cw/2;let d='';for(let k=0;k<10;k++){const a=-Math.PI/2+k*Math.PI/5,r=k%2?8:19;d+=(k?'L':'M')+(cx+Math.cos(a)*r).toFixed(1)+','+(by+22+Math.sin(a)*r).toFixed(1)}s+=`<path d="${d}Z" fill="#fff" stroke="${AC}" stroke-width="2"/>`}
+ s+=`<text x="${x0+lw-14}" y="${by+29}" text-anchor="end" font-family="Arial,sans-serif" font-weight="700" font-size="17" fill="${AC}">All done? Color the star →</text>`;return page(s+FOOT)}
+
+/* WORD SCRAMBLES */
+const WSC={
+ bible:['Bible Word Scramble','MOSES NOAH DAVID GOLIATH JERUSALEM BETHLEHEM PRAYER DISCIPLE GOSPEL PROPHET PSALMS GENESIS PARABLE MIRACLE APOSTLE COVENANT'],
+ christmas:['Christmas Word Scramble','MANGER SHEPHERD ANGEL STAR WREATH ORNAMENT CANDLE SNOWFLAKE GIFTS CAROL NATIVITY BETHLEHEM STOCKING TINSEL MISTLETOE REINDEER'],
+ thanksgiving:['Thanksgiving Word Scramble','TURKEY PUMPKIN GRATEFUL HARVEST FAMILY PILGRIM CRANBERRY FEAST BLESSING AUTUMN GRAVY STUFFING THANKFUL POTATOES PIE LEAVES'],
+ spelling:['Spelling Word Scramble','FRIEND SCHOOL PENCIL RABBIT GARDEN YELLOW MONKEY PURPLE WINTER SISTER BASKET TURTLE ROCKET BUTTON KITTEN PLANET'],
+ winter:['Winter Word Scramble','SNOWMAN MITTENS SLED ICICLE SCARF FROST BLIZZARD COCOA SKATES CHILLY PENGUIN IGLOO FLURRY BOOTS FIREPLACE BLANKET']};
+function scSVG(key,seed,sol){const[t,ws]=WSC[key],R=rng(key+seed),W=shuf(ws.split(' '),R).slice(0,12);let s=head(t,'Unscramble each word and write it on the line. Use the word bank if you get stuck.');
+ W.forEach((w,i)=>{let sc;do{sc=shuf(w.split(''),R).join('')}while(sc===w&&w.length>1);const col=i%2,row=Math.floor(i/2),x=60+col*360,y=180+row*104;s+=`<circle cx="${x+16}" cy="${y-8}" r="16" fill="${AC}"/><text x="${x+16}" y="${y-2}" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="15" fill="#fff">${i+1}</text><text x="${x+44}" y="${y}" font-family="Courier New,monospace" font-weight="700" font-size="28" letter-spacing="4" fill="#111">${sc}</text><line x1="${x+44}" x2="${x+320}" y1="${y+46}" y2="${y+46}" stroke="#999" stroke-width="1.5"/>${sol?`<text x="${x+48}" y="${y+40}" font-family="Arial,sans-serif" font-weight="700" font-size="22" fill="${AC}">${w}</text>`:''}`});
+ const bank=[...W].sort().join('  ·  ');s+=`<rect x="60" y="820" width="696" height="130" rx="14" fill="${AC}" fill-opacity=".07" stroke="${AC}"/><text x="80" y="850" font-family="Georgia,serif" font-weight="700" font-size="17">Word bank</text>`+tl(wrap(bank,70),408,882,26,'text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#333"');return page(s+FOOT)}
+
+/* SPOT THE DIFFERENCE */
+const SH={circle:(x,y,r)=>`<circle cx="${x}" cy="${y}" r="${r}"/>`,square:(x,y,r)=>`<rect x="${x-r}" y="${y-r}" width="${2*r}" height="${2*r}" rx="4"/>`,tri:(x,y,r)=>`<path d="M${x},${y-r} L${x+r},${y+r*.8} L${x-r},${y+r*.8}Z"/>`,
+ star:(x,y,r)=>{let d='';for(let i=0;i<10;i++){const a=-Math.PI/2+i*Math.PI/5,q=i%2?r*.45:r;d+=(i?'L':'M')+(x+Math.cos(a)*q).toFixed(1)+','+(y+Math.sin(a)*q).toFixed(1)}return `<path d="${d}Z"/>`},
+ heart:(x,y,r)=>`<path d="M${x},${y+r*.85} C${x-r*1.4},${y-r*.1} ${x-r*.7},${y-r*1.2} ${x},${y-r*.4} C${x+r*.7},${y-r*1.2} ${x+r*1.4},${y-r*.1} ${x},${y+r*.85}Z"/>`,
+ flower:(x,y,r)=>[0,72,144,216,288].map(a=>`<ellipse cx="${x}" cy="${y-r*.55}" rx="${r*.32}" ry="${r*.5}" transform="rotate(${a} ${x} ${y})"/>`).join('')+`<circle cx="${x}" cy="${y}" r="${r*.28}"/>`,
+ house:(x,y,r)=>`<path d="M${x-r*.8},${y+r} L${x-r*.8},${y-r*.1} L${x},${y-r} L${x+r*.8},${y-r*.1} L${x+r*.8},${y+r}Z"/><rect x="${x-r*.22}" y="${y+r*.3}" width="${r*.44}" height="${r*.7}"/>`,
+ tree:(x,y,r)=>`<rect x="${x-r*.15}" y="${y+r*.3}" width="${r*.3}" height="${r*.7}"/><circle cx="${x}" cy="${y-r*.15}" r="${r*.6}"/>`,
+ fish:(x,y,r)=>`<path d="M${x-r},${y} Q${x-r*.2},${y-r*.7} ${x+r*.5},${y} Q${x-r*.2},${y+r*.7} ${x-r},${y}Z M${x+r*.45},${y} L${x+r},${y-r*.5} L${x+r},${y+r*.5}Z"/><circle cx="${x-r*.55}" cy="${y-r*.08}" r="${r*.08}" fill="#111"/>`,
+ moon:(x,y,r)=>`<path d="M${x+r*.3},${y-r} A${r},${r} 0 1 0 ${x+r*.3},${y+r} A${r*.75},${r*.75} 0 1 1 ${x+r*.3},${y-r}Z"/>`,
+ cloud:(x,y,r)=>`<path d="M${x-r},${y+r*.4} a${r*.4},${r*.4} 0 0 1 ${r*.2},-${r*.75} a${r*.5},${r*.5} 0 0 1 ${r*.9},-${r*.2} a${r*.45},${r*.45} 0 0 1 ${r*.8},${r*.45} a${r*.35},${r*.35} 0 0 1 ${r*.1},${r*.5}Z"/>`,
+ kite:(x,y,r)=>`<path d="M${x},${y-r} L${x+r*.6},${y} L${x},${y+r} L${x-r*.6},${y}Z M${x},${y-r} L${x},${y+r} M${x-r*.6},${y} L${x+r*.6},${y}"/>`};
+const SHK=Object.keys(SH);
+function sdSVG(lvl,seed,sol){const R=rng('sd'+lvl+seed),n=lvl==='hard'?24:16,nd=lvl==='hard'?8:5,pw=700,ph=380,X0=58,Y1=140,Y2=Y1+ph+40;const objs=[];const cols=lvl==='hard'?6:4,rows=Math.ceil(n/cols);
+ for(let i=0;i<n;i++){const c=i%cols,r=Math.floor(i/cols),cw=pw/cols,ch=ph/rows;objs.push({k:SHK[Math.floor(R()*SHK.length)],x:c*cw+cw/2+(R()-.5)*cw*.3,y:r*ch+ch/2+(R()-.5)*ch*.25,s:Math.min(cw,ch)*.3*(.8+R()*.35),dot:R()<.3})}
+ const B=objs.map(o=>({...o})),diffs=shuf([...Array(n).keys()],R).slice(0,nd);diffs.forEach(i=>{const t=Math.floor(R()*4),o=B[i];if(t===0)o.k=SHK[(SHK.indexOf(o.k)+1+Math.floor(R()*(SHK.length-1)))%SHK.length];else if(t===1)o.gone=true;else if(t===2)o.s*=o.s>30?.62:1.5;else o.dot=!o.dot});
+ const draw=(L,ox,oy)=>`<g transform="translate(${ox} ${oy})"><rect width="${pw}" height="${ph}" rx="16" fill="#fff" stroke="#111" stroke-width="3"/><g fill="#fff" stroke="#111" stroke-width="2.4" stroke-linejoin="round">${L.filter(o=>!o.gone).map(o=>SH[o.k](+o.x.toFixed(1),+o.y.toFixed(1),+o.s.toFixed(1))+(o.dot?`<circle cx="${(o.x+o.s*.9).toFixed(1)}" cy="${(o.y-o.s*.9).toFixed(1)}" r="${(o.s*.18).toFixed(1)}" fill="#111"/>`:'')).join('')}</g></g>`;
+ let s=head(lvl==='hard'?'Spot the Difference (Hard)':'Spot the Difference',`Find the ${nd} differences between the two pictures, then color them both in.`)+draw(objs,X0,Y1)+draw(B,X0,Y2);
+ if(sol)diffs.forEach(i=>{const o=objs[i];s+=`<circle cx="${X0+o.x}" cy="${Y2+o.y}" r="${o.s*1.55}" fill="none" stroke="${AC}" stroke-width="5"/>`});
+ s+=`<text x="408" y="${Y2+ph+40}" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#444">Found: ${'☐ '.repeat(nd)}</text>`;return page(s+FOOT)}
+
+/* SIGNS & POSTERS */
+const SG={
+ table:['Phone-free','table','Plates up, phones down.','phone'],parking:['Phone','Parking','Park it here. Pick it up later.','park'],
+ water:['Drink','water.','Your future self says thanks.','drop'],bedtime:['Screens off','at bedtime','Charge here. Sleep there.','moon'],
+ bestill:['Be still,','and know that I am God.','PSALM 46:10 · KJV','verse']};
+function sgIcon(k,x,y){if(k==='phone')return `<g transform="translate(${x} ${y})" fill="none" stroke="${AC}" stroke-width="14"><rect x="-70" y="-120" width="140" height="240" rx="26"/><circle r="150"/><line x1="-106" y1="-106" x2="106" y2="106"/></g>`;
+ if(k==='park')return `<g transform="translate(${x} ${y})"><rect x="-150" y="-150" width="300" height="300" rx="40" fill="${AC}"/><text y="95" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="270" fill="#fff">P</text></g>`;
+ if(k==='drop')return `<g transform="translate(${x} ${y})"><path d="M0,-170 C-70,-60 -130,20 -130,70 A130,130 0 0 0 130,70 C130,20 70,-60 0,-170Z" fill="${AC}"/><path d="M-70,70 Q-66,130 -20,150" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round"/></g>`;
+ if(k==='moon')return `<g transform="translate(${x} ${y})"><defs><mask id="mm"><rect x="-200" y="-200" width="400" height="400" fill="#fff"/><circle cx="60" cy="-50" r="120" fill="#000"/></mask></defs><circle r="150" fill="${AC}" mask="url(#mm)"/><circle cx="110" cy="70" r="8" fill="${AC}"/><circle cx="150" cy="-140" r="6" fill="${AC}"/></g>`;
+ return `<g transform="translate(${x} ${y})" fill="none" stroke="${AC}" stroke-width="5">${[0,60,120,180,240,300].map(a=>`<ellipse cx="0" cy="-60" rx="26" ry="60" transform="rotate(${a})"/>`).join('')}<circle r="22" fill="${AC}"/></g>`}
+function sgSVG(key,style){const[a,b,c,ic]=SG[key],dark=style===1,bg=dark?AC:'#fff',fg=dark?'#fff':'#111';let s=`<rect width="816" height="1056" fill="${bg}"/><rect x="34" y="34" width="748" height="988" rx="30" fill="none" stroke="${dark?'#fff':AC}" stroke-width="10"/>`;
+ const icon=sgIcon(ic,408,330);s+=dark?icon.replace(new RegExp(AC,'g'),'#fff').replace(/fill="#fff">P/,`fill="${AC}">P`).replace('stroke="#fff" stroke-width="16"',`stroke="${AC}" stroke-width="16"`):icon;
+ if(key==='bestill'){s+=`<text x="408" y="640" text-anchor="middle" font-family="Georgia,serif" font-weight="700" font-size="96" fill="${fg}">${a}</text>`+tl(wrap(b,24),408,740,64,`text-anchor="middle" font-family="Georgia,serif" font-size="54" fill="${fg}"`)+`<text x="408" y="930" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" letter-spacing="6" font-size="24" fill="${dark?'#fff':AC}">${c}</text>`}
+ else s+=`<text x="408" y="640" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="${a.length>9?96:118}" fill="${fg}">${esc(a)}</text><text x="408" y="770" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="${b.length>9?96:118}" fill="${dark?'#fff':AC}">${esc(b)}</text><text x="408" y="880" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="38" fill="${fg}">${esc(c)}</text>`;
+ return page(s)}
+
+/* RENDER round 5 */
+if(K==='rt'){const f=document.createElement('div');f.className='cp-names no-print rt-edit';f.innerHTML=`<label>Title <input id="rtt" value="${RT[A][0]}"></label><label style="flex:1 1 100%">Steps (one per line — start with an emoji if you like)<textarea id="rts" rows="5" style="width:100%;font:inherit;padding:8px;border:1px solid #ccc;border-radius:10px">${RT[A][1].split('|').join('\n')}</textarea></label>`;S.before(f);const g=()=>rtSVG(A,document.getElementById('rtt').value,document.getElementById('rts').value.split('\n').join('|'));const draw=()=>S.innerHTML=g();f.querySelectorAll('input,textarea').forEach(i=>i.oninput=draw);draw();bar.append(btn('Download PNG',()=>png(g(),1632,2112,`${A}-routine-chart.png`,'#fff')))}
+if(K==='sc'){let seed=1,sol=false;const draw=()=>S.innerHTML=scSVG(A,seed,sol);draw();const b=btn('Show answers',()=>{sol=!sol;b.textContent=sol?'Hide answers':'Show answers';draw()});bar.append(btn('New set',()=>{seed=Math.floor(Math.random()*1e6);sol=false;b.textContent='Show answers';draw()}),b,btn('Download PNG',()=>png(scSVG(A,seed,sol),1632,2112,`${A}-word-scramble.png`,'#fff')))}
+if(K==='sd'){let seed=1,sol=false;const draw=()=>S.innerHTML=sdSVG(A,seed,sol);draw();const b=btn('Show answers',()=>{sol=!sol;b.textContent=sol?'Hide answers':'Show answers';draw()});bar.append(btn('New puzzle',()=>{seed=Math.floor(Math.random()*1e6);sol=false;b.textContent='Show answers';draw()}),b,btn('Download PNG',()=>png(sdSVG(A,seed,sol),1632,2112,`spot-the-difference-${A}.png`,'#fff')))}
+if(K==='sg'){let st=0;const draw=()=>S.innerHTML=sgSVG(A,st);draw();bar.append(btn('Switch style',()=>{st=1-st;draw()}),btn('Download PNG',()=>png(sgSVG(A,st),1632,2112,`${A}-sign.png`)))}
+
 })();
