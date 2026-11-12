@@ -1,0 +1,94 @@
+id,puzzle,answer
+1,"A bat and a ball cost $1.10 together. The bat costs $1.00 more than the ball. How much is the ball?
+
+Give it 60 seconds before you look.",Answer: 5 cents. (Bat $1.05 + ball $0.05 = $1.10.)
+2,"What comes next: 2, 6, 12, 20, 30, ?
+
+Give it 60 seconds before you look.","Answer: 42. The gaps go 4, 6, 8, 10, 12."
+3,"If 5 machines make 5 widgets in 5 minutes, how long do 100 machines take to make 100 widgets?
+
+Give it 60 seconds before you look.",Answer: 5 minutes. Each machine makes one widget in 5 minutes.
+4,"I'm an odd number. Take away one letter and I become even. What number am I?
+
+Give it 60 seconds before you look.",Answer: Seven. Remove the S and you get 'even'.
+5,"A lily patch doubles every day and covers the lake on day 48. When did it cover half?
+
+Give it 60 seconds before you look.",Answer: Day 47.
+6,"Which is heavier: a kilogram of feathers or a kilogram of steel?
+
+Give it 60 seconds before you look.",Answer: Neither. Both weigh one kilogram.
+7,"Mary's father has five daughters: Nana, Nene, Nini, Nono. What's the fifth called?
+
+Give it 60 seconds before you look.",Answer: Mary.
+8,"What comes next: 1, 1, 2, 3, 5, 8, ?
+
+Give it 60 seconds before you look.",Answer: 13. Each number is the sum of the previous two (Fibonacci).
+9,"How many times can you subtract 10 from 100?
+
+Give it 60 seconds before you look.",Answer: Once. After that you're subtracting from 90.
+10,"A clock shows 3:15. What's the angle between the hands?
+
+Give it 60 seconds before you look.",Answer: 7.5°. The hour hand has moved a quarter of the way from 3 to 4.
+11,"You're in a race and pass the person in 2nd place. What place are you in?
+
+Give it 60 seconds before you look.",Answer: 2nd.
+12,"What 5-letter word becomes shorter when you add two letters?
+
+Give it 60 seconds before you look.","Answer: Short, which becomes 'shorter'."
+13,"Rearrange the letters of LISTEN to make another word.
+
+Give it 60 seconds before you look.","Answer: SILENT (also ENLIST, TINSEL, INLETS)."
+14,"Next in the series: J, F, M, A, M, J, J, ?
+
+Give it 60 seconds before you look.","Answer: A, for August. They're the first letters of the months."
+15,"A farmer has 17 sheep. All but 9 run away. How many are left?
+
+Give it 60 seconds before you look.",Answer: 9.
+16,"What is half of 2 + 2?
+
+Give it 60 seconds before you look.","Answer: 3. Half of 2 is 1, then add 2 (order of operations)."
+17,"Three boxes are labelled Apples, Oranges and Mixed, and every label is wrong. You may pick one fruit from one box. Which box?
+
+Give it 60 seconds before you look.","Answer: Pick from 'Mixed'. It must hold only one kind, which tells you how to relabel all three."
+18,"Next: 3, 9, 27, 81, ?
+
+Give it 60 seconds before you look.",Answer: 243. Multiply by 3 each time.
+19,"A word with three double letters in a row?
+
+Give it 60 seconds before you look.",Answer: Bookkeeper (oo-kk-ee).
+20,"If you have me, you want to share me. If you share me, you don't have me. What am I?
+
+Give it 60 seconds before you look.",Answer: A secret.
+21,"Next: 1, 4, 9, 16, 25, ?
+
+Give it 60 seconds before you look.",Answer: 36. They're square numbers.
+22,"How many months have 28 days?
+
+Give it 60 seconds before you look.",Answer: All twelve.
+23,"Two fathers and two sons go fishing and catch three fish, one each. How?
+
+Give it 60 seconds before you look.","Answer: There are only three people: grandfather, father and son."
+24,"Next: Z, X, V, T, R, ?
+
+Give it 60 seconds before you look.","Answer: P. Go backwards, skipping one letter each time."
+25,"What can you hold in your right hand but never in your left?
+
+Give it 60 seconds before you look.",Answer: Your left hand (or left elbow).
+26,"If today is Wednesday, what day is 100 days from now?
+
+Give it 60 seconds before you look.",Answer: Friday. 100 = 14 weeks + 2 days.
+27,"A brick weighs 1 kg plus half a brick. How much does a brick weigh?
+
+Give it 60 seconds before you look.",Answer: 2 kg.
+28,"What word is spelled wrong in every dictionary?
+
+Give it 60 seconds before you look.","Answer: ""Wrong."""
+29,"Next: 2, 3, 5, 7, 11, 13, ?
+
+Give it 60 seconds before you look.",Answer: 17. They're prime numbers.
+30,"A doctor gives you 3 pills, one every half hour. How long until they're gone?
+
+Give it 60 seconds before you look.","Answer: 1 hour. Now, 30 minutes and 60 minutes."
+31,"What has keys but can't open locks?
+
+Give it 60 seconds before you look.",Answer: A piano (or a keyboard).

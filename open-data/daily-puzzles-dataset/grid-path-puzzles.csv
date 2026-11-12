@@ -1,0 +1,187 @@
+id,puzzle,solution
+1,"8  9  8  8
+9  4  3  9
+8  3  2  8
+5  3  2  9
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 59.",Answer: → → → ↓ ↓ ↓
+2,"7  8  3  1
+9  2  1  1
+4  4  1  8
+6  8  4  9
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 32.",Answer: → ↓ → ↓ ↓ →
+3,"5  8  1  2
+8  5  7  9
+2  5  6  4
+9  5  1  2
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 36.",Answer: → → ↓ → ↓ ↓
+4,"2  7  2  5
+7  2  1  1
+4  4  1  8
+7  7  7  2
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 36.",Answer: ↓ ↓ ↓ → → →
+5,"4  5  6  2
+5  6  1  7
+2  3  4  2
+1  1  8  8
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 31.",Answer: ↓ ↓ → ↓ → →
+6,"9  4  8  9
+4  3  7  7
+2  7  7  4
+1  5  5  1
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 33.",Answer: ↓ ↓ → ↓ → →
+7,"3  7  2  1
+3  4  8  5
+1  6  5  7
+2  2  2  4
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 27.",Answer: ↓ → ↓ → ↓ →
+8,"4  1  6  6
+8  3  8  3
+7  3  3  5
+4  4  4  3
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 21.",Answer: → ↓ ↓ → ↓ →
+9,"9  4  7  8
+2  7  1  2
+2  1  9  5
+4  7  5  7
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 36.",Answer: ↓ ↓ ↓ → → →
+10,"5  9  3  2
+3  4  8  9
+2  5  4  4
+1  2  5  7
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 45.",Answer: → → ↓ → ↓ ↓
+11,"4  1  1  3
+5  6  9  3
+2  6  3  8
+6  9  3  1
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 21.",Answer: → → → ↓ ↓ ↓
+12,"8  6  5  1
+1  2  8  2
+5  6  3  2
+2  8  9  6
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 43.",Answer: ↓ ↓ → ↓ → →
+13,"3  6  6  2
+8  2  7  1
+8  1  7  7
+1  2  2  2
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 20.",Answer: ↓ → ↓ ↓ → →
+14,"5  7  6  7
+8  8  8  9
+2  9  9  1
+5  2  8  1
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 42.",Answer: ↓ ↓ → → ↓ →
+15,"2  8  8  5
+1  6  5  3
+4  9  3  6
+8  8  4  6
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 27.",Answer: ↓ → → ↓ ↓ →
+16,"5  4  7  4
+4  7  4  6
+4  3  3  8
+6  1  2  5
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 24.",Answer: ↓ ↓ → ↓ → →
+17,"2  8  8  5
+4  7  7  9
+8  6  8  6
+2  1  5  1
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 37.",Answer: → ↓ ↓ → ↓ →
+18,"6  5  1  3
+7  8  4  1
+5  4  3  1
+2  8  2  9
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 30.",Answer: → → ↓ ↓ ↓ →
+19,"2  4  4  8
+5  3  1  8
+9  1  3  4
+5  6  9  9
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 33.",Answer: ↓ ↓ → → → ↓
+20,"3  7  4  2
+7  7  3  8
+8  4  1  7
+9  9  6  8
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 38.",Answer: ↓ ↓ → → → ↓
+21,"4  2  2  4
+4  7  2  5
+9  6  5  1
+6  9  2  1
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 26.",Answer: → ↓ ↓ → → ↓
+22,"6  9  7  5
+8  1  4  2
+7  1  3  9
+6  3  8  3
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 32.",Answer: → ↓ ↓ → → ↓
+23,"9  8  8  2
+4  8  9  9
+5  9  3  9
+9  9  5  5
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 44.",Answer: ↓ ↓ → → → ↓
+24,"4  5  3  9
+9  5  8  4
+7  9  2  9
+1  7  1  9
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 41.",Answer: ↓ ↓ → → ↓ →
+25,"9  7  9  2
+8  2  3  2
+9  8  7  7
+5  4  8  8
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 57.",Answer: ↓ ↓ → → ↓ →
+26,"6  7  8  9
+6  2  4  7
+1  5  3  1
+1  4  3  4
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 42.",Answer: → → → ↓ ↓ ↓
+27,"5  6  6  4
+8  2  8  2
+9  5  4  9
+7  1  7  7
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 40.",Answer: ↓ → ↓ → → ↓
+28,"9  3  9  4
+9  4  9  4
+9  3  4  6
+3  6  6  4
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 41.",Answer: ↓ → ↓ ↓ → →
+29,"4  2  3  4
+3  2  5  7
+2  7  7  9
+3  4  7  1
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 27.",Answer: → ↓ ↓ ↓ → →
+30,"4  6  6  2
+9  6  9  4
+2  8  2  1
+1  9  9  8
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 53.",Answer: ↓ → ↓ ↓ → →
+31,"4  3  2  4
+3  3  5  2
+1  3  8  2
+2  6  7  8
+
+Start top-left, finish bottom-right, moving only right or down. Add every number you step on, including both ends. Exactly one path adds to 26.",Answer: → → ↓ → ↓ ↓

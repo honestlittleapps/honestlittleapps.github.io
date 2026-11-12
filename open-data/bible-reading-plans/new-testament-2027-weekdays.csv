@@ -1,0 +1,262 @@
+date,reading
+2027-01-01,Matthew 1
+2027-01-04,Matthew 2
+2027-01-05,Matthew 3
+2027-01-06,Matthew 4
+2027-01-07,Matthew 5
+2027-01-08,Matthew 6
+2027-01-11,Matthew 7
+2027-01-12,Matthew 8
+2027-01-13,Matthew 9
+2027-01-14,Matthew 10
+2027-01-15,Matthew 11
+2027-01-18,Matthew 12
+2027-01-19,Matthew 13
+2027-01-20,Matthew 14
+2027-01-21,Matthew 15
+2027-01-22,Matthew 16
+2027-01-25,Matthew 17
+2027-01-26,Matthew 18
+2027-01-27,Matthew 19
+2027-01-28,Matthew 20
+2027-01-29,Matthew 21
+2027-02-01,Matthew 22
+2027-02-02,Matthew 23
+2027-02-03,Matthew 24
+2027-02-04,Matthew 25
+2027-02-05,Matthew 26
+2027-02-08,Matthew 27
+2027-02-09,Matthew 28
+2027-02-10,Mark 1
+2027-02-11,Mark 2
+2027-02-12,Mark 3
+2027-02-15,Mark 4
+2027-02-16,Mark 5
+2027-02-17,Mark 6
+2027-02-18,Mark 7
+2027-02-19,Mark 8
+2027-02-22,Mark 9
+2027-02-23,Mark 10
+2027-02-24,Mark 11
+2027-02-25,Mark 12
+2027-02-26,Mark 13
+2027-03-01,Mark 14
+2027-03-02,Mark 15
+2027-03-03,Mark 16
+2027-03-04,Luke 1
+2027-03-05,Luke 2
+2027-03-08,Luke 3
+2027-03-09,Luke 4
+2027-03-10,Luke 5
+2027-03-11,Luke 6
+2027-03-12,Luke 7
+2027-03-15,Luke 8
+2027-03-16,Luke 9
+2027-03-17,Luke 10
+2027-03-18,Luke 11
+2027-03-19,Luke 12
+2027-03-22,Luke 13
+2027-03-23,Luke 14
+2027-03-24,Luke 15
+2027-03-25,Luke 16
+2027-03-26,Luke 17
+2027-03-29,Luke 18
+2027-03-30,Luke 19
+2027-03-31,Luke 20
+2027-04-01,Luke 21
+2027-04-02,Luke 22
+2027-04-05,Luke 23
+2027-04-06,Luke 24
+2027-04-07,John 1
+2027-04-08,John 2
+2027-04-09,John 3
+2027-04-12,John 4
+2027-04-13,John 5
+2027-04-14,John 6
+2027-04-15,John 7
+2027-04-16,John 8
+2027-04-19,John 9
+2027-04-20,John 10
+2027-04-21,John 11
+2027-04-22,John 12
+2027-04-23,John 13
+2027-04-26,John 14
+2027-04-27,John 15
+2027-04-28,John 16
+2027-04-29,John 17
+2027-04-30,John 18
+2027-05-03,John 19
+2027-05-04,John 20
+2027-05-05,John 21
+2027-05-06,Acts 1
+2027-05-07,Acts 2
+2027-05-10,Acts 3
+2027-05-11,Acts 4
+2027-05-12,Acts 5
+2027-05-13,Acts 6
+2027-05-14,Acts 7
+2027-05-17,Acts 8
+2027-05-18,Acts 9
+2027-05-19,Acts 10
+2027-05-20,Acts 11
+2027-05-21,Acts 12
+2027-05-24,Acts 13
+2027-05-25,Acts 14
+2027-05-26,Acts 15
+2027-05-27,Acts 16
+2027-05-28,Acts 17
+2027-05-31,Acts 18
+2027-06-01,Acts 19
+2027-06-02,Acts 20
+2027-06-03,Acts 21
+2027-06-04,Acts 22
+2027-06-07,Acts 23
+2027-06-08,Acts 24
+2027-06-09,Acts 25
+2027-06-10,Acts 26
+2027-06-11,Acts 27
+2027-06-14,Acts 28
+2027-06-15,Romans 1
+2027-06-16,Romans 2
+2027-06-17,Romans 3
+2027-06-18,Romans 4
+2027-06-21,Romans 5
+2027-06-22,Romans 6
+2027-06-23,Romans 7
+2027-06-24,Romans 8
+2027-06-25,Romans 9
+2027-06-28,Romans 10
+2027-06-29,Romans 11
+2027-06-30,Romans 12
+2027-07-01,Romans 13
+2027-07-02,Romans 14
+2027-07-05,Romans 15
+2027-07-06,Romans 16
+2027-07-07,1 Corinthians 1
+2027-07-08,1 Corinthians 2
+2027-07-09,1 Corinthians 3
+2027-07-12,1 Corinthians 4
+2027-07-13,1 Corinthians 5
+2027-07-14,1 Corinthians 6
+2027-07-15,1 Corinthians 7
+2027-07-16,1 Corinthians 8
+2027-07-19,1 Corinthians 9
+2027-07-20,1 Corinthians 10
+2027-07-21,1 Corinthians 11
+2027-07-22,1 Corinthians 12
+2027-07-23,1 Corinthians 13
+2027-07-26,1 Corinthians 14
+2027-07-27,1 Corinthians 15
+2027-07-28,1 Corinthians 16
+2027-07-29,2 Corinthians 1
+2027-07-30,2 Corinthians 2
+2027-08-02,2 Corinthians 3
+2027-08-03,2 Corinthians 4
+2027-08-04,2 Corinthians 5
+2027-08-05,2 Corinthians 6
+2027-08-06,2 Corinthians 7
+2027-08-09,2 Corinthians 8
+2027-08-10,2 Corinthians 9
+2027-08-11,2 Corinthians 10
+2027-08-12,2 Corinthians 11
+2027-08-13,2 Corinthians 12
+2027-08-16,2 Corinthians 13
+2027-08-17,Galatians 1
+2027-08-18,Galatians 2
+2027-08-19,Galatians 3
+2027-08-20,Galatians 4
+2027-08-23,Galatians 5
+2027-08-24,Galatians 6
+2027-08-25,Ephesians 1
+2027-08-26,Ephesians 2
+2027-08-27,Ephesians 3
+2027-08-30,Ephesians 4
+2027-08-31,Ephesians 5
+2027-09-01,Ephesians 6
+2027-09-02,Philippians 1
+2027-09-03,Philippians 2
+2027-09-06,Philippians 3
+2027-09-07,Philippians 4
+2027-09-08,Colossians 1
+2027-09-09,Colossians 2
+2027-09-10,Colossians 3
+2027-09-13,Colossians 4
+2027-09-14,1 Thessalonians 1
+2027-09-15,1 Thessalonians 2
+2027-09-16,1 Thessalonians 3
+2027-09-17,1 Thessalonians 4
+2027-09-20,1 Thessalonians 5
+2027-09-21,2 Thessalonians 1
+2027-09-22,2 Thessalonians 2
+2027-09-23,2 Thessalonians 3
+2027-09-24,1 Timothy 1
+2027-09-27,1 Timothy 2
+2027-09-28,1 Timothy 3
+2027-09-29,1 Timothy 4
+2027-09-30,1 Timothy 5
+2027-10-01,1 Timothy 6
+2027-10-04,2 Timothy 1
+2027-10-05,2 Timothy 2
+2027-10-06,2 Timothy 3
+2027-10-07,2 Timothy 4
+2027-10-08,Titus 1
+2027-10-11,Titus 2
+2027-10-12,Titus 3
+2027-10-13,Philemon 1
+2027-10-14,Hebrews 1
+2027-10-15,Hebrews 2
+2027-10-18,Hebrews 3
+2027-10-19,Hebrews 4
+2027-10-20,Hebrews 5
+2027-10-21,Hebrews 6
+2027-10-22,Hebrews 7
+2027-10-25,Hebrews 8
+2027-10-26,Hebrews 9
+2027-10-27,Hebrews 10
+2027-10-28,Hebrews 11
+2027-10-29,Hebrews 12
+2027-11-01,Hebrews 13
+2027-11-02,James 1
+2027-11-03,James 2
+2027-11-04,James 3
+2027-11-05,James 4
+2027-11-08,James 5
+2027-11-09,1 Peter 1
+2027-11-10,1 Peter 2
+2027-11-11,1 Peter 3
+2027-11-12,1 Peter 4
+2027-11-15,1 Peter 5
+2027-11-16,2 Peter 1
+2027-11-17,2 Peter 2
+2027-11-18,2 Peter 3
+2027-11-19,1 John 1
+2027-11-22,1 John 2
+2027-11-23,1 John 3
+2027-11-24,1 John 4
+2027-11-25,1 John 5
+2027-11-26,2 John 1
+2027-11-29,3 John 1
+2027-11-30,Jude 1
+2027-12-01,Revelation 1
+2027-12-02,Revelation 2
+2027-12-03,Revelation 3
+2027-12-06,Revelation 4
+2027-12-07,Revelation 5
+2027-12-08,Revelation 6
+2027-12-09,Revelation 7
+2027-12-10,Revelation 8
+2027-12-13,Revelation 9
+2027-12-14,Revelation 10
+2027-12-15,Revelation 11
+2027-12-16,Revelation 12
+2027-12-17,Revelation 13
+2027-12-20,Revelation 14
+2027-12-21,Revelation 15
+2027-12-22,Revelation 16
+2027-12-23,Revelation 17
+2027-12-24,Revelation 18
+2027-12-27,Revelation 19
+2027-12-28,Revelation 20
+2027-12-29,Revelation 21
+2027-12-30,Revelation 22
+2027-12-31,New Testament: catch-up day

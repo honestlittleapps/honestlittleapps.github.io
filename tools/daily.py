@@ -55,7 +55,7 @@ def build():
         st = store(d["appName"], d["app"], ct)
         page = f"{BASE}/today/{key}/"
         webcal = d["ics"].replace("https://", "webcal://")
-        title = f"{name} for Today, {today.strftime('%B %-d, %Y')}"
+        title = f"{name}: Today, {today.strftime('%B %-d, %Y')}"
         desc = f"Today's entry from the free {name} calendar: {cur[0]['t'] if cur else name}. Updated every morning; subscribe on iPhone in one tap."
         cards = "".join(f"<div class='card'><div class='kick'>{h(i['d'] if i['d']!=ds else 'Today')}{(' · ' + h(i['tm'])) if i['tm'] else ''}</div><h1>{h(i['t'])}</h1>{body_html(i['b'])}</div>" for i in cur[:3])
         upcoming = "".join(f"<li><b>{h(i['t'])}</b><span>{h(dt.date.fromisoformat(i['d']).strftime('%a %b %-d'))}{(' · ' + h(i['tm'])) if i['tm'] else ''}</span></li>" for i in nxt)
