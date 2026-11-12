@@ -287,3 +287,30 @@
 - [Nature Walk Scavenger Hunt](https://honestlittleapps.github.io/scavenger-hunts/nature-walk-scavenger-hunt/)
 - [Indoor Rainy-Day Scavenger Hunt (Learning Edition)](https://honestlittleapps.github.io/scavenger-hunts/indoor-rainy-day-scavenger-hunt/)
 - [Bible Scavenger Hunt for Kids](https://honestlittleapps.github.io/scavenger-hunts/bible-scavenger-hunt-for-kids/)
+
+## Free activities: cross-stitch patterns, scavenger hunts, charades & Pictionary
+
+- ["Thy Word Is a Lamp" Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/thy-word-is-a-lamp-cross-stitch-pattern): A free KJV Psalm 119:105 cross-stitch chart in black with a gold border. Beginner friendly: full stitches only.
+- ["Watch Ye, Stand Fast" Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/stand-fast-cross-stitch-pattern): A bold KJV 1 Corinthians 16:13 cross-stitch chart for a man's office, garage or study. Full stitches only.
+- ["Drink Your Water" Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/drink-your-water-cross-stitch-pattern): A cheerful little reminder for the kitchen or desk, with a border of water drops. Two colours, full stitches only.
+- ["Love Joy Peace" Fruit of the Spirit Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/love-joy-peace-cross-stitch-pattern): The first three of the fruit of the Spirit (Galatians 5:22) framed by a green vine with red berries. Full stitches only.
+- ["Chase the Golden Hour" Cross-Stitch Pattern](https://honestlittleapps.github.io/activities/golden-hour-cross-stitch-pattern): A sunset-striped cross-stitch chart for anyone who stops to watch the sky. Four colours, full stitches only.
+- [Sunset & Sky Scavenger Hunt](https://honestlittleapps.github.io/activities/sunset-sky-scavenger-hunt): 15 things to spot in the evening sky, from the first star to the Earth's shadow.
+- [Backyard Creature Scavenger Hunt](https://honestlittleapps.github.io/activities/backyard-creature-scavenger-hunt): 15 small creatures and clues to find outside, no special gear needed.
+- [Home Safety Scavenger Hunt](https://honestlittleapps.github.io/activities/home-safety-scavenger-hunt): 15 safety things to find (or notice are missing) in 20 minutes, room by room.
+- [Bible Verse Scavenger Hunt](https://honestlittleapps.github.io/activities/bible-verse-scavenger-hunt): 15 famous verses to find with a Bible, with an answer key for leaders.
+- [Grocery Store Math Scavenger Hunt](https://honestlittleapps.github.io/activities/grocery-store-math-scavenger-hunt): 15 math and reading missions to do on a normal shopping trip.
+- [Bible Charades](https://honestlittleapps.github.io/activities/bible-charades): 40 Bible stories and people to act out, with a built-in timer and score.
+- [Date Night Charades for Couples](https://honestlittleapps.github.io/activities/date-night-charades): 40 date-night moments to act out for each other, from slow dancing to a burnt dinner.
+- [Family Game Night Pictionary Words](https://honestlittleapps.github.io/activities/family-game-night-pictionary-words): 40 draw-it words from easy to tricky, with a random picker and a 60-second timer.
+
+## Free colour palettes (hex codes + Procreate .swatches, Adobe .ase, GIMP/Inkscape/Krita .gpl, CSS/Tailwind) — CC0
+
+- [Golden Hour colour palette](https://honestlittleapps.github.io/palettes/golden-hour-color-palette): Seven warm tones from the last light before sunset: butter-soft highlights to the dusky plum of the first shadows. Hex: #FFF1C1, #FFD27A, #FFB347, #F28C38, #D9603B, #8C3B3B, #3D2C4E.
+- [Blue Hour colour palette](https://honestlittleapps.github.io/palettes/blue-hour-color-palette): The quiet blues and lilacs of the twilight just after the Sun goes down, from a pale glow to deep night. Hex: #F2E9F7, #C9B6E4, #8E9AD9, #4F6BB3, #2B3F7A, #18224A, #0B1128.
+- [Desert Sunset colour palette](https://honestlittleapps.github.io/palettes/desert-sunset-color-palette): Sandstone, clay and wine tones from a desert evening. Earthy, warm and easy to pair. Hex: #F7E3C3, #EFBF8A, #E2895C, #C8553D, #8F3E3E, #5B2A3C, #2E1F2C.
+- [Glacier Water colour palette](https://honestlittleapps.github.io/palettes/glacier-water-color-palette): Clear, fresh water blues from the shallows to the deep end. Crisp for wellness, kitchen and clean-living designs. Hex: #F0FBFF, #CDEFFB, #93D9F2, #4DB8E5, #1E88E5, #135EA8, #0B3A6B.
+- [Grove Pastels colour palette](https://honestlittleapps.github.io/palettes/grove-pastels-color-palette): Soft, friendly pastels for cute characters, stickers and kids' designs, grounded by a mossy green. Hex: #FFF6E5, #FFD6E0, #E2C2FF, #B8E0D2, #95D5B2, #FFE49E, #6C8E7B.
+- [Lamplight & Parchment colour palette](https://honestlittleapps.github.io/palettes/lamplight-parchment-color-palette): Old paper, lamplight and walnut ink. Warm neutrals for journals, Bible study notes and vintage designs. Hex: #FBF5E9, #EADBC0, #D4B483, #B07A1E, #8A5A2B, #5A3A22, #2E2118.
+- [Midnight Wind-Down colour palette](https://honestlittleapps.github.io/palettes/midnight-wind-down-color-palette): Calm indigos for night-time designs and dark-mode screens, from soft lavender to near-black. Hex: #E8E6F7, #B9B4E6, #7F79C9, #4338CA, #2C2A7A, #1A1946, #0D0C24.
+- [Fruit of the Spirit colour palette](https://honestlittleapps.github.io/palettes/fruit-of-the-spirit-color-palette): Nine bright colours, one for each fruit of the Spirit in Galatians 5:22–23. Made for kids' church, bulletin boards and bookmarks. Hex: #C2255C, #F59F00, #4DABF7, #69DB7C, #F783AC, #FFD43B, #5C7CFA, #E599F7, #20C997.
