@@ -1,0 +1,345 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//December//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kindness Advent for kids (Honest Little Apps)
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-01@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261201T080000
+DTEND:20261201T081500
+SUMMARY:Kindness door 1
+DESCRIPTION:Make a card for someone who lives on your street.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 1
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-02@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261202T080000
+DTEND:20261202T081500
+SUMMARY:Kindness door 2
+DESCRIPTION:Help set the table without being asked.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 2
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-03@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261203T080000
+DTEND:20261203T081500
+SUMMARY:Kindness door 3
+DESCRIPTION:Tell a grown-up one thing you're thankful for about them.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 3
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-04@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261204T080000
+DTEND:20261204T081500
+SUMMARY:Kindness door 4
+DESCRIPTION:Pick up five pieces of litter (with gloves!).
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 4
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-05@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261205T080000
+DTEND:20261205T081500
+SUMMARY:Kindness door 5
+DESCRIPTION:Share a toy or a snack with a brother\, sister or friend.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 5
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-06@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261206T080000
+DTEND:20261206T081500
+SUMMARY:Kindness door 6
+DESCRIPTION:Draw a picture for a grandparent and mail it.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-6
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 6
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-07@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261207T080000
+DTEND:20261207T081500
+SUMMARY:Kindness door 7
+DESCRIPTION:Say thank you to a bus driver\, teacher or cashier.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 7
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-08@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261208T080000
+DTEND:20261208T081500
+SUMMARY:Kindness door 8
+DESCRIPTION:Make your bed and someone else's too.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 8
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-09@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261209T080000
+DTEND:20261209T081500
+SUMMARY:Kindness door 9
+DESCRIPTION:Fill a bird feeder or put out seeds for winter birds.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-9
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 9
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-10@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261210T080000
+DTEND:20261210T081500
+SUMMARY:Kindness door 10
+DESCRIPTION:Give three compliments today.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 10
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-11@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261211T080000
+DTEND:20261211T081500
+SUMMARY:Kindness door 11
+DESCRIPTION:Read a story to someone younger than you.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 11
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-12@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261212T080000
+DTEND:20261212T081500
+SUMMARY:Kindness door 12
+DESCRIPTION:Choose one toy you don't play with to give away.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 12
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-13@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261213T080000
+DTEND:20261213T081500
+SUMMARY:Kindness door 13
+DESCRIPTION:Leave a kind sticky note somewhere surprising.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 13
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-14@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261214T080000
+DTEND:20261214T081500
+SUMMARY:Kindness door 14
+DESCRIPTION:Help carry in the groceries.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 14
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-15@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261215T080000
+DTEND:20261215T081500
+SUMMARY:Kindness door 15
+DESCRIPTION:Call or video-call a relative just to say hi.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 15
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-16@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261216T080000
+DTEND:20261216T081500
+SUMMARY:Kindness door 16
+DESCRIPTION:Hold the door open for people all day.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 16
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-17@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261217T080000
+DTEND:20261217T081500
+SUMMARY:Kindness door 17
+DESCRIPTION:Make a 'thank you' sign for the mail carrier.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 17
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-18@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261218T080000
+DTEND:20261218T081500
+SUMMARY:Kindness door 18
+DESCRIPTION:Tidy up a space you share with your family.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 18
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-19@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261219T080000
+DTEND:20261219T081500
+SUMMARY:Kindness door 19
+DESCRIPTION:Teach someone a game you know.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 19
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-20@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261220T080000
+DTEND:20261220T081500
+SUMMARY:Kindness door 20
+DESCRIPTION:Ask someone\, "How was your day?" and really listen.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-20
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 20
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-21@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261221T080000
+DTEND:20261221T081500
+SUMMARY:Kindness door 21
+DESCRIPTION:Bake or help make a treat to share.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-21
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 21
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-22@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261222T080000
+DTEND:20261222T081500
+SUMMARY:Kindness door 22
+DESCRIPTION:Make a paper snowflake for someone who's feeling sad.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 22
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-23@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261223T080000
+DTEND:20261223T081500
+SUMMARY:Kindness door 23
+DESCRIPTION:Sing a song for your family.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-23
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 23
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kindness-for-kids-2026-12-24@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261224T080000
+DTEND:20261224T081500
+SUMMARY:Kindness door 24
+DESCRIPTION:Tell everyone at dinner one kind thing you saw this month.
+URL:https://honestlittleapps.github.io/advent/kindness-for-kids/#door-24
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kindness door 24
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
