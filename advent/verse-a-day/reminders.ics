@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//December//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Advent verse a day (Honest Little Apps)
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-01@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261201T080000
+DTEND:20261201T081500
+SUMMARY:Advent door 1: Isaiah 9:2
+DESCRIPTION:The people who walked in darkness have seen a great light. The
+  light has shined on those who lived in the land of the shadow of death.\
+ nToday: Name one dark corner of your week. Today\, let a little light in:
+  tell one person about it.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 1: Isaiah 9:2
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-02@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261202T080000
+DTEND:20261202T081500
+SUMMARY:Advent door 2: Isaiah 40:1
+DESCRIPTION:“Comfort\, comfort my people\,” says your God.\nToday: Who
+  needs comfort from you this week? Send them one sentence today.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 2: Isaiah 40:1
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-03@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261203T080000
+DTEND:20261203T081500
+SUMMARY:Advent door 3: Isaiah 40:31
+DESCRIPTION:but those who wait for Yahweh will renew their strength. They 
+ will mount up with wings like eagles. They will run\, and not be weary. T
+ hey will walk\, and not faint.\nToday: Waiting on something? Write down w
+ hat you're waiting for\, then do one small thing while you wait.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 3: Isaiah 40:31
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-04@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261204T080000
+DTEND:20261204T081500
+SUMMARY:Advent door 4: Isaiah 7:14
+DESCRIPTION:Therefore the Lord himself will give you a sign. Behold\, the 
+ virgin will conceive\, and bear a son\, and shall call his name Immanuel.
+ \nToday: Immanuel means God with us. Where would you like that to be true
+  by Friday?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 4: Isaiah 7:14
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-05@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261205T080000
+DTEND:20261205T081500
+SUMMARY:Advent door 5: Micah 5:2
+DESCRIPTION:But you\, Bethlehem Ephrathah\, being small among the clans of
+  Judah\, out of you one will come out to me that is to be ruler in Israel
+ \; whose goings out are from of old\, from ancient times.\nToday: Bethleh
+ em was small. What small\, unnoticed job could you do well today?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-5
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 5: Micah 5:2
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-06@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261206T080000
+DTEND:20261206T081500
+SUMMARY:Advent door 6: Isaiah 11:1-2
+DESCRIPTION:A shoot will come out of the stock of Jesse\, and a branch out
+  of his roots will bear fruit. Yahweh’s Spirit will rest on him: the sp
+ irit of wisdom and understanding\, the spirit of counsel and might\, the 
+ spirit of knowledge and of the fear of Yahweh.\nToday: A shoot from a stu
+ mp: something new from what looked finished. What deserves a second try?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-6
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 6: Isaiah 11:1-2
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-07@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261207T080000
+DTEND:20261207T081500
+SUMMARY:Advent door 7: Isaiah 9:6
+DESCRIPTION:For a child is born to us. A son is given to us\; and the gove
+ rnment will be on his shoulders. His name will be called Wonderful Counse
+ lor\, Mighty God\, Everlasting Father\, Prince of Peace.\nToday: Pick one
+  of the four names. Which one do you need most this December?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 7: Isaiah 9:6
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-08@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261208T080000
+DTEND:20261208T081500
+SUMMARY:Advent door 8: John 1:5
+DESCRIPTION:The light shines in the darkness\, and the darkness hasn’t o
+ vercome it.\nToday: Read it out loud once. Then turn off one screen for t
+ en minutes and sit with it.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 8: John 1:5
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-09@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261209T080000
+DTEND:20261209T081500
+SUMMARY:Advent door 9: Luke 1:30-31
+DESCRIPTION:The angel said to her\, “Don’t be afraid\, Mary\, for you 
+ have found favor with God. Behold\, you will conceive in your womb and gi
+ ve birth to a son\, and shall name him ‘Jesus.’”\nToday: "Don't be 
+ afraid" is the first thing the angel says. What's the fear you'd hand ove
+ r today?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-9
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 9: Luke 1:30-31
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-10@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261210T080000
+DTEND:20261210T081500
+SUMMARY:Advent door 10: Luke 1:37
+DESCRIPTION:For nothing spoken by God is impossible.”\nToday: Write the 
+ one thing you've quietly decided can't change. Pray about it once\, hones
+ tly.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-10
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 10: Luke 1:37
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-11@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261211T080000
+DTEND:20261211T081500
+SUMMARY:Advent door 11: Luke 1:38
+DESCRIPTION:Mary said\, “Behold\, the servant of the Lord\; let it be do
+ ne to me according to your word.” The angel departed from her.\nToday: 
+ Mary said yes before she had the details. What's one yes you've been post
+ poning?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-11
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 11: Luke 1:38
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-12@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261212T080000
+DTEND:20261212T081500
+SUMMARY:Advent door 12: Luke 1:46-47
+DESCRIPTION:Mary said\, “My soul magnifies the Lord. My spirit has rejoi
+ ced in God my Savior…\nToday: List three things from this year you didn
+ 't earn but got anyway.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-12
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 12: Luke 1:46-47
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-13@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261213T080000
+DTEND:20261213T081500
+SUMMARY:Advent door 13: Luke 1:78-79
+DESCRIPTION:because of the tender mercy of our God\, by which the dawn fro
+ m on high will visit us\, to shine on those who sit in darkness and the s
+ hadow of death\; to guide our feet into the way of peace.”\nToday: "The
+  way of peace." Is there one conversation you could make more peaceful th
+ is week?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-13
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 13: Luke 1:78-79
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-14@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261214T080000
+DTEND:20261214T081500
+SUMMARY:Advent door 14: Matthew 1:21
+DESCRIPTION:She shall give birth to a son. You shall name him Jesus\, for 
+ it is he who shall save his people from their sins.”\nToday: A name wit
+ h a job in it. If your week had a name\, what would it be?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 14: Matthew 1:21
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-15@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261215T080000
+DTEND:20261215T081500
+SUMMARY:Advent door 15: Matthew 1:23
+DESCRIPTION:“Behold\, the virgin shall be with child\, and shall give bi
+ rth to a son. They shall call his name Immanuel\;” which is\, being int
+ erpreted\, “God with us.”\nToday: God with us\, not just near us. Who
+  could use you being with them\, not just texting them?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-15
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 15: Matthew 1:23
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-16@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261216T080000
+DTEND:20261216T081500
+SUMMARY:Advent door 16: John 1:14
+DESCRIPTION:The Word became flesh\, and lived among us. We saw his glory\,
+  such glory as of the one and only Son of the Father\, full of grace and 
+ truth.\nToday: Full of grace and truth: not one or the other. Where are y
+ ou leaning too far one way?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-16
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 16: John 1:14
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-17@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261217T080000
+DTEND:20261217T081500
+SUMMARY:Advent door 17: Isaiah 60:1
+DESCRIPTION:“Arise\, shine\; for your light has come\, and Yahweh’s gl
+ ory has risen on you.”\nToday: Arise\, shine. Do one thing today that y
+ ou'd normally wait to be asked to do.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-17
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 17: Isaiah 60:1
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-18@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261218T080000
+DTEND:20261218T081500
+SUMMARY:Advent door 18: Matthew 2:10-11
+DESCRIPTION:When they saw the star\, they rejoiced with exceedingly great 
+ joy. They came into the house and saw the young child with Mary\, his mot
+ her\, and they fell down and worshiped him. Opening their treasures\, the
+ y offered to him gifts: gold\, frankincense\, and myrrh.\nToday: The wise
+  men brought their best. What's one gift that costs time\, not money?
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-18
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 18: Matthew 2:10-11
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-19@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261219T080000
+DTEND:20261219T081500
+SUMMARY:Advent door 19: Luke 2:7
+DESCRIPTION:She gave birth to her firstborn son. She wrapped him in bands 
+ of cloth\, and laid him in a feeding trough\, because there was no room f
+ or them in the inn.\nToday: No room in the inn. Who might feel left out t
+ his Christmas? Make room for one of them.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-19
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 19: Luke 2:7
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-20@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261220T080000
+DTEND:20261220T081500
+SUMMARY:Advent door 20: Luke 2:10
+DESCRIPTION:The angel said to them\, “Don’t be afraid\, for behold\, I
+  bring you good news of great joy which will be to all the people.\nToday
+ : Good news for all the people. Share one piece of good news today\, howe
+ ver small.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-20
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 20: Luke 2:10
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-21@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261221T080000
+DTEND:20261221T081500
+SUMMARY:Advent door 21: Luke 2:14
+DESCRIPTION:“Glory to God in the highest\, on earth peace\, good will to
+ ward men.”\nToday: Peace on earth starts at your table. Choose one topi
+ c you'll leave alone this Christmas.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-21
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 21: Luke 2:14
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-22@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261222T080000
+DTEND:20261222T081500
+SUMMARY:Advent door 22: Luke 2:19
+DESCRIPTION:But Mary kept all these sayings\, pondering them in her heart.
+ \nToday: Mary pondered. Take five quiet minutes today with no phone and n
+ o list.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-22
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 22: Luke 2:19
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-23@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261223T080000
+DTEND:20261223T081500
+SUMMARY:Advent door 23: Luke 2:20
+DESCRIPTION:The shepherds returned\, glorifying and praising God for all t
+ he things that they had heard and seen\, just as it was told them.\nToday
+ : The shepherds went back to work praising. Thank one person for somethin
+ g ordinary.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-23
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 23: Luke 2:20
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:verse-a-day-2026-12-24@honestlittleapps.github.io
+DTSTAMP:20261112T120000Z
+DTSTART:20261224T080000
+DTEND:20261224T081500
+SUMMARY:Advent door 24: Luke 2:11
+DESCRIPTION:For there is born to you today\, in David’s city\, a Savior\
+ , who is Christ the Lord.\nToday: Born to you\, today. Read Luke 2:1-20 w
+ ith someone tonight.
+URL:https://honestlittleapps.github.io/advent/verse-a-day/#door-24
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Advent door 24: Luke 2:11
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
