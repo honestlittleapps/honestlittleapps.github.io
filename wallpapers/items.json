@@ -1,0 +1,275 @@
+[
+ {
+  "slug": "iron-sharpens-iron",
+  "app": 6794772046,
+  "text": "Iron sharpens iron.",
+  "sub": "Proverbs 27:17",
+  "style": "quote"
+ },
+ {
+  "slug": "guard-your-heart-for-everything-flows-from-it",
+  "app": 6794772046,
+  "text": "Guard your heart, for everything flows from it.",
+  "sub": "Proverbs 4:23",
+  "style": "quote"
+ },
+ {
+  "slug": "your-word-is-a-lamp-to-my-feet",
+  "app": 6820775927,
+  "text": "Your word is a lamp to my feet.",
+  "sub": "Psalm 119:105",
+  "style": "quote"
+ },
+ {
+  "slug": "be-still-and-know-that-i-am-god",
+  "app": 6820775927,
+  "text": "Be still, and know that I am God.",
+  "sub": "Psalm 46:10",
+  "style": "quoteL"
+ },
+ {
+  "slug": "in-the-beginning-was-the-word",
+  "app": 6820304462,
+  "text": "In the beginning was the Word.",
+  "sub": "John 1:1",
+  "style": "quoteL"
+ },
+ {
+  "slug": "love-joy-peace-patience-kindness-goodness-faithf",
+  "app": 6820778195,
+  "text": "Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.",
+  "sub": "Galatians 5:22\u201323",
+  "style": "quote"
+ },
+ {
+  "slug": "let-the-word-of-christ-dwell-in-you-richly",
+  "app": 6821770165,
+  "text": "Let the word of Christ dwell in you richly.",
+  "sub": "Colossians 3:16",
+  "style": "quote"
+ },
+ {
+  "slug": "sip-breathe-keep-going",
+  "app": 6806471522,
+  "text": "Sip. Breathe. Keep going.",
+  "sub": "Dropkin \u00b7 water reminder",
+  "style": "water"
+ },
+ {
+  "slug": "stronger-every-session",
+  "app": 6800233450,
+  "text": "Stronger every session.",
+  "sub": "Sturdy \u00b7 strength on GLP-1",
+  "style": "aurora"
+ },
+ {
+  "slug": "notice-write-it-down-ask-for-what-you-need",
+  "app": 6814637835,
+  "text": "Notice. Write it down. Ask for what you need.",
+  "sub": "My Midlife Story",
+  "style": "quoteL"
+ },
+ {
+  "slug": "every-dose-on-time",
+  "app": 6796910918,
+  "text": "Every dose, on time.",
+  "sub": "DoseBeacon \u00b7 pill reminder",
+  "style": "aurora"
+ },
+ {
+  "slug": "the-craving-passes-you-stay",
+  "app": 6787461078,
+  "text": "The craving passes. You stay.",
+  "sub": "CraveBreaker \u00b7 quit vaping",
+  "style": "aurora"
+ },
+ {
+  "slug": "your-heart-beats-about-100-000-times-a-day",
+  "app": 6819135509,
+  "text": "Your heart beats about 100,000 times a day.",
+  "sub": "Body Unpacked",
+  "style": "aurora"
+ },
+ {
+  "slug": "lights-low-screens-down-breathe-out",
+  "app": 6796299594,
+  "text": "Lights low. Screens down. Breathe out.",
+  "sub": "Sleepward \u00b7 bedtime routine",
+  "style": "moon"
+ },
+ {
+  "slug": "phone-down-life-up",
+  "app": 6795610975,
+  "text": "Phone down. Life up.",
+  "sub": "FocusPass \u00b7 app blocker",
+  "style": "grid0"
+ },
+ {
+  "slug": "spend-minutes-like-money",
+  "app": 6792393696,
+  "text": "Spend minutes like money.",
+  "sub": "Time Debt \u00b7 screen time",
+  "style": "grid0"
+ },
+ {
+  "slug": "start-with-ten-minutes",
+  "app": 6794488304,
+  "text": "Start with ten minutes.",
+  "sub": "Now \u00b7 task starter",
+  "style": "aurora"
+ },
+ {
+  "slug": "attention-is-a-muscle",
+  "app": 6795311726,
+  "text": "Attention is a muscle.",
+  "sub": "Attention Age \u00b7 focus test",
+  "style": "grid0"
+ },
+ {
+  "slug": "four-minutes-sharper-all-day",
+  "app": 6795713307,
+  "text": "Four minutes. Sharper all day.",
+  "sub": "SkillArena \u00b7 focus training",
+  "style": "grid0"
+ },
+ {
+  "slug": "five-puzzles-a-day",
+  "app": 6808798253,
+  "text": "Five puzzles a day.",
+  "sub": "Cognilo \u00b7 brain games",
+  "style": "grid"
+ },
+ {
+  "slug": "every-island-has-its-sum",
+  "app": 6829238551,
+  "text": "Every island has its sum.",
+  "sub": "Sumbriska \u00b7 number puzzles",
+  "style": "grid"
+ },
+ {
+  "slug": "one-path-every-tile",
+  "app": 6829816144,
+  "text": "One path. Every tile.",
+  "sub": "Sumthread",
+  "style": "grid"
+ },
+ {
+  "slug": "make-ten-carry-the-rest",
+  "app": 6817125699,
+  "text": "Make ten, carry the rest.",
+  "sub": "Number Beasts",
+  "style": "grid"
+ },
+ {
+  "slug": "flip-the-world-keep-running",
+  "app": 6787641780,
+  "text": "Flip the world. Keep running.",
+  "sub": "Fluxo \u00b7 gravity runner",
+  "style": "aurora"
+ },
+ {
+  "slug": "change-the-weather-clear-the-path",
+  "app": 6819697945,
+  "text": "Change the weather. Clear the path.",
+  "sub": "RushOrb \u00b7 storm atlas",
+  "style": "sunset"
+ },
+ {
+  "slug": "small-taps-big-empire",
+  "app": 6787609925,
+  "text": "Small taps. Big empire.",
+  "sub": "Cash Empire Clicker",
+  "style": "grid"
+ },
+ {
+  "slug": "who-wrote-it-when-and-why",
+  "app": 6818795908,
+  "text": "Who wrote it, when, and why?",
+  "sub": "PastRush \u00b7 history detective",
+  "style": "quoteL"
+ },
+ {
+  "slug": "tend-your-grove-under-every-moon",
+  "app": 6823566932,
+  "text": "Tend your grove under every moon.",
+  "sub": "Puffgrove",
+  "style": "moon"
+ },
+ {
+  "slug": "check-every-paycheck",
+  "app": 6798048163,
+  "text": "Check every paycheck.",
+  "sub": "EarnCheck \u00b7 shift & pay",
+  "style": "grid0"
+ },
+ {
+  "slug": "cancel-what-you-don-t-use",
+  "app": 6787559121,
+  "text": "Cancel what you don't use.",
+  "sub": "MoneyShield \u00b7 sub tracker",
+  "style": "grid0"
+ },
+ {
+  "slug": "quote-it-before-you-leave-the-driveway",
+  "app": 6796729890,
+  "text": "Quote it before you leave the driveway.",
+  "sub": "ScopeBid",
+  "style": "grid0"
+ },
+ {
+  "slug": "booked-confirmed-done",
+  "app": 6800187784,
+  "text": "Booked, confirmed, done.",
+  "sub": "BookingSolved",
+  "style": "grid0"
+ },
+ {
+  "slug": "ready-is-a-gift-you-give-your-family",
+  "app": 6792019825,
+  "text": "Ready is a gift you give your family.",
+  "sub": "Family Ready",
+  "style": "quoteL"
+ },
+ {
+  "slug": "small-fixes-keep-a-home-safe",
+  "app": 6820106548,
+  "text": "Small fixes keep a home safe.",
+  "sub": "RoomMend",
+  "style": "quoteL"
+ },
+ {
+  "slug": "little-minds-big-sums",
+  "app": 6788619891,
+  "text": "Little minds, big sums.",
+  "sub": "Brainy Bucks",
+  "style": "grid"
+ },
+ {
+  "slug": "pause-find-the-words-come-back-together",
+  "app": 6794421070,
+  "text": "Pause. Find the words. Come back together.",
+  "sub": "UnFight",
+  "style": "quote"
+ },
+ {
+  "slug": "say-yes-to-a-second-date",
+  "app": 6806461390,
+  "text": "Say yes to a second date.",
+  "sub": "SecondYes",
+  "style": "sunset"
+ },
+ {
+  "slug": "dear-you-you-re-doing-better-than-you-think",
+  "app": 6792827344,
+  "text": "Dear you, you're doing better than you think.",
+  "sub": "Dear You \u00b7 daily letters",
+  "style": "quoteL"
+ },
+ {
+  "slug": "tonight-s-golden-hour-is-worth-the-walk",
+  "app": 6806044403,
+  "text": "Tonight's golden hour is worth the walk.",
+  "sub": "Asterfold \u00b7 sunset planner",
+  "style": "sunset"
+ }
+]
