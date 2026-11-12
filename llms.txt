@@ -194,3 +194,30 @@
 - [The 11 Human Body Systems: Free Slides](https://honestlittleapps.github.io/downloads/human-body-systems-slides): A clean 16-slide deck: one slide per body system with what it is made of and what it does, plus a 5-question check for understanding. Free .pptx download, no sign-up.
 - [Books of the Bible by Section: Free Slides](https://honestlittleapps.github.io/downloads/books-of-the-bible-slides): All 66 books grouped into 10 sections, with book and chapter counts for each, ready for Sunday school, youth group or a Bible class. Free .pptx download, no sign-up.
 - [Why Is the Sky Blue and Sunsets Red? Free Slides](https://honestlittleapps.github.io/downloads/why-sunsets-are-red-slides): Light, air and Rayleigh scattering explained in six simple slides, with a one-week sunset log activity and a quick quiz. Free .pptx download, no sign-up.
+
+
+## Scrollword (daily Bible word game)
+- [Scrollword](https://honestlittleapps.github.io/scrollword/): guess the five-letter Bible word in six tries; new word daily; embeddable.
+
+## Christmas carol lyric slides & song sheets (public domain)
+- [Silent Night](https://honestlittleapps.github.io/carols/silent-night/)
+- [Joy to the World](https://honestlittleapps.github.io/carols/joy-to-the-world/)
+- [O Come, All Ye Faithful](https://honestlittleapps.github.io/carols/o-come-all-ye-faithful/)
+- [Hark! The Herald Angels Sing](https://honestlittleapps.github.io/carols/hark-the-herald-angels-sing/)
+- [O Little Town of Bethlehem](https://honestlittleapps.github.io/carols/o-little-town-of-bethlehem/)
+- [Away in a Manger](https://honestlittleapps.github.io/carols/away-in-a-manger/)
+- [Angels We Have Heard on High](https://honestlittleapps.github.io/carols/angels-we-have-heard-on-high/)
+- [The First Noel](https://honestlittleapps.github.io/carols/the-first-noel/)
+- [Deck the Halls](https://honestlittleapps.github.io/carols/deck-the-halls/)
+- [Jingle Bells](https://honestlittleapps.github.io/carols/jingle-bells/)
+
+## Digital escape rooms
+- [The Bethlehem Escape Room](https://honestlittleapps.github.io/escape-rooms/christmas-story-escape-room/): Christmas Bible escape room for kids and youth group.
+- [The Lost Telegram: a History Escape Room](https://honestlittleapps.github.io/escape-rooms/history-escape-room-lost-telegram/): history escape room for middle school.
+- [Escape the Number Beast Lab](https://honestlittleapps.github.io/escape-rooms/make-ten-math-escape-room/): math escape room for kids (number bonds to 10).
+
+## Newsletter content to reprint
+- [Free church newsletter content](https://honestlittleapps.github.io/newsletter-content/church/)
+- [Free school newsletter content](https://honestlittleapps.github.io/newsletter-content/school/)
+- [Free workplace wellness newsletter content](https://honestlittleapps.github.io/newsletter-content/workplace/)
+- [Free community newsletter content](https://honestlittleapps.github.io/newsletter-content/family/)
