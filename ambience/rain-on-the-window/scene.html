@@ -1,0 +1,60 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Rain on the Window — ambient scene</title>
+<link rel="canonical" href="https://honestlittleapps.github.io/ambience/rain-on-the-window/"><meta name="robots" content="noindex"><style>html,body{margin:0;height:100%;background:#000;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,sans-serif}
+canvas{display:block;width:100vw;height:100vh}#ui{position:fixed;left:0;right:0;bottom:0;padding:18px 22px;display:flex;gap:10px;align-items:center;color:#fff;background:linear-gradient(transparent,rgba(0,0,0,.55));transition:opacity .8s}
+#ui.hide{opacity:0}#ui button,#ui select{font:600 14px -apple-system,sans-serif;border:0;border-radius:10px;padding:9px 13px;background:rgba(255,255,255,.9);color:#111;cursor:pointer}
+#ui .cr{margin-left:auto;font-size:13px;opacity:.85;text-align:right}#ui a{color:#fff}#tap{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font:600 22px -apple-system,sans-serif;background:rgba(0,0,0,.35);cursor:pointer}</style></head>
+<body><canvas id="c"></canvas><div id="tap">▶ Tap to start sound</div>
+<div id="ui"><button id="snd">🔊 Sound on</button><select id="tmr" aria-label="Sleep timer"><option value="0">No timer</option><option value="30">Stop sound in 30 min</option><option value="60">Stop sound in 60 min</option><option value="120">Stop sound in 2 h</option></select><button id="fs">⛶ Full screen</button>
+<div class="cr">Rain on the Window · free from <a href="https://honestlittleapps.github.io/ambience/" target="_top">Honest Little Apps</a><br><a href="https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129123876&ct=amb-rain-on-the-window&mt=8" target="_blank" rel="noopener">FocusPass: App Blocker</a> · free on iPhone</div></div>
+<script>
+const KIND="rain";const c=document.getElementById('c'),x=c.getContext('2d');let W,H;function rs(){W=c.width=innerWidth*devicePixelRatio;H=c.height=innerHeight*devicePixelRatio}rs();addEventListener('resize',rs);
+const R=Math.random;let t0=performance.now();
+// ---------- visuals ----------
+const P=[];function fire(t){x.fillStyle='#0b0503';x.fillRect(0,0,W,H);const g=x.createRadialGradient(W/2,H*.78,10,W/2,H*.78,H*.9);g.addColorStop(0,'rgba(255,120,40,.35)');g.addColorStop(1,'rgba(0,0,0,0)');x.fillStyle=g;x.fillRect(0,0,W,H);
+x.fillStyle='#2a160c';x.beginPath();x.ellipse(W/2-W*.08,H*.86,W*.16,H*.035,-.12,0,7);x.fill();x.beginPath();x.ellipse(W/2+W*.08,H*.86,W*.16,H*.035,.12,0,7);x.fill();
+for(let i=0;i<14;i++)P.push({x:W/2+(R()-.5)*W*.28,y:H*.84,vx:(R()-.5)*.6,vy:-(1.5+R()*2.5)*H/700,l:1,s:(20+R()*45)*H/700});x.globalCompositeOperation='lighter';
+for(let i=P.length-1;i>=0;i--){const p=P[i];p.x+=p.vx+(R()-.5)*1.5;p.y+=p.vy;p.l-=.013;p.s*=.985;if(p.l<=0){P.splice(i,1);continue}const r=x.createRadialGradient(p.x,p.y,0,p.x,p.y,p.s);
+r.addColorStop(0,`rgba(255,${180+60*p.l|0},${80*p.l|0},${.55*p.l})`);r.addColorStop(1,'rgba(255,60,0,0)');x.fillStyle=r;x.beginPath();x.arc(p.x,p.y,p.s,0,7);x.fill()}x.globalCompositeOperation='source-over'}
+const F=[];for(let i=0;i<260;i++)F.push({x:R(),y:R(),r:R()*2+.6,v:R()*.4+.2,d:R()*6});
+function snow(t){const g=x.createLinearGradient(0,0,0,H);g.addColorStop(0,'#0b1430');g.addColorStop(1,'#26365e');x.fillStyle=g;x.fillRect(0,0,W,H);
+x.fillStyle='#0a0f22';for(let i=0;i<14;i++){const bw=W/14,bh=H*(.12+.12*Math.abs(Math.sin(i*7.3)));x.fillRect(i*bw,H*.78-bh,bw*.92,bh+H*.22);x.fillStyle='rgba(255,210,120,.75)';if(i%3!==1)x.fillRect(i*bw+bw*.35,H*.78-bh*.6,bw*.14,bh*.12);x.fillStyle='#0a0f22'}
+x.fillStyle='#eef3ff';F.forEach(f=>{f.y+=f.v*.0016;f.x+=Math.sin(t/2000+f.d)*.0004;if(f.y>1){f.y=-.02;f.x=R()}x.beginPath();x.arc(f.x*W,f.y*H,f.r*devicePixelRatio,0,7);x.fill()});
+x.strokeStyle='#1a1009';x.lineWidth=W*.025;x.strokeRect(0,0,W,H);x.lineWidth=W*.012;x.beginPath();x.moveTo(W/2,0);x.lineTo(W/2,H);x.moveTo(0,H/2);x.lineTo(W,H/2);x.stroke()}
+const D=[];for(let i=0;i<160;i++)D.push({x:R(),y:R(),r:R()*3+1,v:R()*.006});
+function rain(t){const g=x.createLinearGradient(0,0,0,H);g.addColorStop(0,'#1e2a33');g.addColorStop(1,'#3b4a52');x.fillStyle=g;x.fillRect(0,0,W,H);
+for(let i=0;i<5;i++){x.fillStyle=`rgba(255,220,160,${.05+.03*i})`;x.beginPath();x.arc(W*(.15+.17*i),H*(.55+.05*Math.sin(i)),H*.06,0,7);x.fill()}
+x.fillStyle='rgba(220,235,245,.55)';D.forEach(d=>{if(R()<.004)d.v=.004+R()*.01;d.y+=d.v*.3;if(d.y>1){d.y=-.02;d.x=R();d.v=R()*.004}x.beginPath();x.ellipse(d.x*W,d.y*H,d.r*devicePixelRatio,d.r*1.4*devicePixelRatio,0,0,7);x.fill();
+if(d.v>.004){x.fillRect(d.x*W-1,(d.y-.04)*H,2,.04*H)}});x.fillStyle='rgba(180,200,215,.18)';for(let i=0;i<40;i++){x.fillRect(R()*W,R()*H,1.2,H*.05)}}
+const L=[];for(let i=0;i<70;i++)L.push({x:R(),y:.45+R()*.5,p:R()*6,s:R()*.0004+.0001});
+function flies(t){const g=x.createLinearGradient(0,0,0,H);g.addColorStop(0,'#071222');g.addColorStop(1,'#0e2a26');x.fillStyle=g;x.fillRect(0,0,W,H);
+x.fillStyle='#f3edd7';x.beginPath();x.arc(W*.8,H*.18,H*.06,0,7);x.fill();x.fillStyle='#04100d';for(let i=0;i<22;i++){const tx=i/21*W,th=H*(.35+.2*Math.abs(Math.sin(i*3.1)));x.beginPath();x.moveTo(tx,H*.95-th);x.lineTo(tx-W*.035,H);x.lineTo(tx+W*.035,H);x.fill()}
+L.forEach(l=>{l.x+=Math.sin(t/3000+l.p)*l.s;l.y+=Math.cos(t/2600+l.p)*l.s;const a=.5+.5*Math.sin(t/700+l.p*3);const r=x.createRadialGradient(l.x*W,l.y*H,0,l.x*W,l.y*H,10*devicePixelRatio);
+r.addColorStop(0,`rgba(230,255,140,${a})`);r.addColorStop(1,'rgba(230,255,140,0)');x.fillStyle=r;x.beginPath();x.arc(l.x*W,l.y*H,10*devicePixelRatio,0,7);x.fill()})}
+function ocean(t){const g=x.createLinearGradient(0,0,0,H);g.addColorStop(0,'#081325');g.addColorStop(.55,'#1b2f52');g.addColorStop(1,'#0a1a2c');x.fillStyle=g;x.fillRect(0,0,W,H);
+x.fillStyle='#f5f0dc';x.beginPath();x.arc(W*.7,H*.22,H*.05,0,7);x.fill();const ph=t/9000*2*Math.PI;
+for(let k=0;k<6;k++){const y0=H*(.55+k*.08)+Math.sin(ph+k*.6)*H*.012;x.fillStyle=`rgba(${20+k*6},${45+k*10},${80+k*10},.9)`;x.beginPath();x.moveTo(0,H);
+for(let i=0;i<=40;i++){const xx=i/40*W;x.lineTo(xx,y0+Math.sin(i/3+ph*1.4+k)*H*.01)}x.lineTo(W,H);x.fill();x.fillStyle='rgba(245,240,220,.10)';x.fillRect(W*.68,y0,W*.04,H*.008)}}
+function sunset(t){const k=(Math.sin(t/60000*2*Math.PI)+1)/2;const top=[`rgb(${20+40*k|0},${30+70*k|0},${70+60*k|0})`];const g=x.createLinearGradient(0,0,0,H);
+g.addColorStop(0,`rgb(${30+60*k|0},${30+50*k|0},${80+40*k|0})`);g.addColorStop(.6,`rgb(${200+50*k|0},${90+70*k|0},${80+20*k|0})`);g.addColorStop(1,`rgb(${255},${190+40*k|0},${120+30*k|0})`);x.fillStyle=g;x.fillRect(0,0,W,H);
+x.fillStyle=`rgba(255,230,170,.95)`;x.beginPath();x.arc(W/2,H*(.62+.12*(1-k)),H*.08,0,7);x.fill();x.fillStyle='#1d1530';x.beginPath();x.moveTo(0,H);for(let i=0;i<=30;i++)x.lineTo(i/30*W,H*.78+Math.sin(i*1.7)*H*.03+Math.sin(i*.6)*H*.04);x.lineTo(W,H);x.fill()}
+const DRAW={fire,snow,rain,flies,ocean,sunset}[KIND];function loop(n){DRAW(n-t0);requestAnimationFrame(loop)}requestAnimationFrame(loop);
+// ---------- audio ----------
+let ac=null,master=null,on=false;function noise(sec,type){const n=ac.sampleRate*sec,b=ac.createBuffer(1,n,ac.sampleRate),d=b.getChannelData(0);let l=0;for(let i=0;i<n;i++){const w=Math.random()*2-1;if(type==='brown'){l=(l+.02*w)/1.02;d[i]=l*3.5}else d[i]=w}return b}
+function src(buf){const s=ac.createBufferSource();s.buffer=buf;s.loop=true;s.start();return s}
+function filt(type,f,q){const b=ac.createBiquadFilter();b.type=type;b.frequency.value=f;b.Q.value=q||.7;return b}
+function lfo(param,rate,depth,base){const o=ac.createOscillator(),gg=ac.createGain();o.frequency.value=rate;gg.gain.value=depth;param.value=base;o.connect(gg).connect(param);o.start()}
+function startAudio(){ac=new (window.AudioContext||window.webkitAudioContext)();master=ac.createGain();master.gain.value=.7;master.connect(ac.destination);const br=noise(6,'brown'),wh=noise(4,'white');
+if(KIND==='fire'){src(br).connect(filt('lowpass',500)).connect(master);setInterval(()=>{if(!on)return;const s=ac.createBufferSource();s.buffer=wh;const g=ac.createGain();g.gain.setValueAtTime(.0001,ac.currentTime);
+g.gain.exponentialRampToValueAtTime(.25+Math.random()*.4,ac.currentTime+.005);g.gain.exponentialRampToValueAtTime(.0001,ac.currentTime+.04+Math.random()*.08);s.connect(filt('highpass',1500)).connect(g).connect(master);s.start(ac.currentTime,Math.random()*3,.2)},90+Math.random()*120)}
+if(KIND==='rain'){src(wh).connect(filt('bandpass',2500,.4)).connect(master);src(br).connect(filt('lowpass',300)).connect(master)}
+if(KIND==='snow'){const g=ac.createGain();src(br).connect(filt('lowpass',700)).connect(g).connect(master);lfo(g.gain,.07,.25,.45)}
+if(KIND==='ocean'){const g=ac.createGain();src(wh).connect(filt('lowpass',900)).connect(g).connect(master);lfo(g.gain,1/9,.4,.45);src(br).connect(filt('lowpass',200)).connect(master)}
+if(KIND==='flies'){src(br).connect(filt('lowpass',400)).connect(master);const o=ac.createOscillator();o.frequency.value=4300;const g=ac.createGain();g.gain.value=0;o.connect(g).connect(master);o.start();
+setInterval(()=>{if(!on)return;const t=ac.currentTime;for(let k=0;k<3;k++){g.gain.setValueAtTime(.012,t+k*.09);g.gain.setValueAtTime(0,t+k*.09+.05)}},1300)}
+if(KIND==='sunset'){const g=ac.createGain();src(br).connect(filt('lowpass',600)).connect(g).connect(master);lfo(g.gain,.05,.2,.5);[220,277,330].forEach(f=>{const o=ac.createOscillator(),og=ac.createGain();o.frequency.value=f;og.gain.value=.012;o.connect(og).connect(master);o.start()})}
+on=true}
+const tap=document.getElementById('tap'),snd=document.getElementById('snd');function toggle(){if(!ac){startAudio();tap.remove();snd.textContent='🔇 Sound off';return}on=!on;master.gain.value=on?.7:0;snd.textContent=on?'🔇 Sound off':'🔊 Sound on'}
+tap.onclick=toggle;snd.onclick=toggle;document.getElementById('fs').onclick=()=>document.documentElement.requestFullscreen&&document.documentElement.requestFullscreen();
+let tm=null;document.getElementById('tmr').onchange=e=>{clearTimeout(tm);const m=+e.target.value;if(m)tm=setTimeout(()=>{if(on)toggle()},m*60000)};
+const ui=document.getElementById('ui');let hid=null;function wake(){ui.classList.remove('hide');clearTimeout(hid);hid=setTimeout(()=>ui.classList.add('hide'),4000)}addEventListener('mousemove',wake);addEventListener('touchstart',wake);wake();
+</script></body></html>
