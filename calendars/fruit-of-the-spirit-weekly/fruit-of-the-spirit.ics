@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fruit of the Spirit — weekly
+X-WR-CALDESC:A free weekly calendar that walks through the nine fruits of t
+ he Spirit (Galatians 5:22-23)\, one per week\, with a key verse and three 
+ practical steps. https://honestlittleapps.github.io/calendars/fruit-of-the
+ -spirit-weekly/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#3a2470
+X-APPLE-CALENDAR-COLOR:#3a2470
+BEGIN:VEVENT
+UID:51e5f3bf247288d3572d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=9
+SUMMARY:Fruit of the week: Love
+DESCRIPTION:This week's fruit: Love (Greek: agapē). Galatians 5:22–23 li
+ sts nine fruits of the Spirit. This week\, focus on one. Key verse: 1 Cori
+ nthians 13:4–7.\n\nPick one step a day:\n• Do one helpful thing for so
+ meone who can't repay you.\n• Listen to someone for five minutes without
+  checking your phone.\n• Read 1 Corinthians 13:4–7 and put your own na
+ me in place of 'love'. Where does it stop being true?\n\nAt the end of the
+  week\, ask yourself where you saw this fruit grow\, and where it didn't.\
+ n\n—\nFrom Ninefruit: Fruit of the Spirit\, free on the App Store: https
+ ://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id6820778195?pt=129
+ 123876&ct=cal-fruit-of-the-spirit-weekly&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/fruit-of-the-spirit-weekly/
+URL:https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077819
+ 5?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5faf4a393389c3c4a5ff@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=9
+SUMMARY:Fruit of the week: Joy
+DESCRIPTION:This week's fruit: Joy (Greek: chara). Galatians 5:22–23 list
+ s nine fruits of the Spirit. This week\, focus on one. Key verse: Philippi
+ ans 4:4.\n\nPick one step a day:\n• Write down three good things before 
+ bed.\n• Thank God out loud for one ordinary thing.\n• Share good news 
+ about someone else's win.\n\nAt the end of the week\, ask yourself where y
+ ou saw this fruit grow\, and where it didn't.\n\n—\nFrom Ninefruit: Frui
+ t of the Spirit\, free on the App Store: https://apps.apple.com/us/app/nin
+ efruit-fruit-of-the-spirit/id6820778195?pt=129123876&ct=cal-fruit-of-the-s
+ pirit-weekly&mt=8\nAbout this calendar: https://honestlittleapps.github.io
+ /calendars/fruit-of-the-spirit-weekly/
+URL:https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077819
+ 5?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:77ae438d3d4617beb416@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=9
+SUMMARY:Fruit of the week: Peace
+DESCRIPTION:This week's fruit: Peace (Greek: eirēnē). Galatians 5:22–23
+  lists nine fruits of the Spirit. This week\, focus on one. Key verse: Phi
+ lippians 4:6–7.\n\nPick one step a day:\n• Turn one worry into a writt
+ en prayer.\n• Make peace with one person you've been avoiding.\n• Take
+  a quiet ten-minute walk with no audio.\n\nAt the end of the week\, ask yo
+ urself where you saw this fruit grow\, and where it didn't.\n\n—\nFrom N
+ inefruit: Fruit of the Spirit\, free on the App Store: https://apps.apple.
+ com/us/app/ninefruit-fruit-of-the-spirit/id6820778195?pt=129123876&ct=cal-
+ fruit-of-the-spirit-weekly&mt=8\nAbout this calendar: https://honestlittle
+ apps.github.io/calendars/fruit-of-the-spirit-weekly/
+URL:https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077819
+ 5?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b7744f520a6fb24751@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=9
+SUMMARY:Fruit of the week: Patience
+DESCRIPTION:This week's fruit: Patience (Greek: makrothumia). Galatians 5:2
+ 2–23 lists nine fruits of the Spirit. This week\, focus on one. Key vers
+ e: James 1:19.\n\nPick one step a day:\n• Let the other person finish ta
+ lking every time today.\n• Pick the longest checkout line on purpose.\n
+ • Wait 24 hours before replying to something that annoyed you.\n\nAt the
+  end of the week\, ask yourself where you saw this fruit grow\, and where 
+ it didn't.\n\n—\nFrom Ninefruit: Fruit of the Spirit\, free on the App S
+ tore: https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077
+ 8195?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/fruit-of-the-spirit-week
+ ly/
+URL:https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077819
+ 5?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f45a63406aa2322a360a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=9
+SUMMARY:Fruit of the week: Kindness
+DESCRIPTION:This week's fruit: Kindness (Greek: chrēstotēs). Galatians 5:
+ 22–23 lists nine fruits of the Spirit. This week\, focus on one. Key ver
+ se: Ephesians 4:32.\n\nPick one step a day:\n• Send someone an encouragi
+ ng message.\n• Learn the name of someone who serves you regularly.\n• 
+ Do one chore that's usually someone else's.\n\nAt the end of the week\, as
+ k yourself where you saw this fruit grow\, and where it didn't.\n\n—\nFr
+ om Ninefruit: Fruit of the Spirit\, free on the App Store: https://apps.ap
+ ple.com/us/app/ninefruit-fruit-of-the-spirit/id6820778195?pt=129123876&ct=
+ cal-fruit-of-the-spirit-weekly&mt=8\nAbout this calendar: https://honestli
+ ttleapps.github.io/calendars/fruit-of-the-spirit-weekly/
+URL:https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077819
+ 5?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ed1a958e517224254db3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261228
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=9
+SUMMARY:Fruit of the week: Goodness
+DESCRIPTION:This week's fruit: Goodness (Greek: agathōsunē). Galatians 5:
+ 22–23 lists nine fruits of the Spirit. This week\, focus on one. Key ver
+ se: Galatians 6:9–10.\n\nPick one step a day:\n• Fix one small wrong y
+ ou've been tolerating.\n• Give generously to one need you hear about thi
+ s week.\n• Tell the truth in one moment where a white lie would be easie
+ r.\n\nAt the end of the week\, ask yourself where you saw this fruit grow\
+ , and where it didn't.\n\n—\nFrom Ninefruit: Fruit of the Spirit\, free 
+ on the App Store: https://apps.apple.com/us/app/ninefruit-fruit-of-the-spi
+ rit/id6820778195?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/fruit-of-the
+ -spirit-weekly/
+URL:https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077819
+ 5?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ac7666de7cbb6049dee7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=9
+SUMMARY:Fruit of the week: Faithfulness
+DESCRIPTION:This week's fruit: Faithfulness (Greek: pistis). Galatians 5:22
+ –23 lists nine fruits of the Spirit. This week\, focus on one. Key verse
+ : Luke 16:10.\n\nPick one step a day:\n• Keep one small promise exactly 
+ as you said it.\n• Show up early for one commitment.\n• Finish one tas
+ k you started and abandoned.\n\nAt the end of the week\, ask yourself wher
+ e you saw this fruit grow\, and where it didn't.\n\n—\nFrom Ninefruit: F
+ ruit of the Spirit\, free on the App Store: https://apps.apple.com/us/app/
+ ninefruit-fruit-of-the-spirit/id6820778195?pt=129123876&ct=cal-fruit-of-th
+ e-spirit-weekly&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/fruit-of-the-spirit-weekly/
+URL:https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077819
+ 5?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:64f706c8fda891b1c29a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=9
+SUMMARY:Fruit of the week: Gentleness
+DESCRIPTION:This week's fruit: Gentleness (Greek: prautēs). Galatians 5:22
+ –23 lists nine fruits of the Spirit. This week\, focus on one. Key verse
+ : Proverbs 15:1.\n\nPick one step a day:\n• Lower your voice in your nex
+ t disagreement.\n• Correct someone privately instead of in public.\n• 
+ Ask a question before you assume.\n\nAt the end of the week\, ask yourself
+  where you saw this fruit grow\, and where it didn't.\n\n—\nFrom Ninefru
+ it: Fruit of the Spirit\, free on the App Store: https://apps.apple.com/us
+ /app/ninefruit-fruit-of-the-spirit/id6820778195?pt=129123876&ct=cal-fruit-
+ of-the-spirit-weekly&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/fruit-of-the-spirit-weekly/
+URL:https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077819
+ 5?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:877d8b3aec15b8398466@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=9
+SUMMARY:Fruit of the week: Self-control
+DESCRIPTION:This week's fruit: Self-control (Greek: enkrateia). Galatians 5
+ :22–23 lists nine fruits of the Spirit. This week\, focus on one. Key ve
+ rse: 1 Corinthians 9:25.\n\nPick one step a day:\n• Say no to one cravin
+ g today\, just once.\n• Put your phone in another room for an hour.\n•
+  Stop one task at the time you set\, not later.\n\nAt the end of the week\
+ , ask yourself where you saw this fruit grow\, and where it didn't.\n\n—
+ \nFrom Ninefruit: Fruit of the Spirit\, free on the App Store: https://app
+ s.apple.com/us/app/ninefruit-fruit-of-the-spirit/id6820778195?pt=129123876
+ &ct=cal-fruit-of-the-spirit-weekly&mt=8\nAbout this calendar: https://hone
+ stlittleapps.github.io/calendars/fruit-of-the-spirit-weekly/
+URL:https://apps.apple.com/us/app/ninefruit-fruit-of-the-spirit/id682077819
+ 5?pt=129123876&ct=cal-fruit-of-the-spirit-weekly&mt=8
+END:VEVENT
+END:VCALENDAR

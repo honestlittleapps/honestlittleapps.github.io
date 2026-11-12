@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekly screen-time review
+X-WR-CALDESC:A free Sunday-evening calendar prompt to review your iPhone Sc
+ reen Time report\, with a rotating question and a monthly screen-time budg
+ et reset. https://honestlittleapps.github.io/calendars/weekly-screen-time-
+ review-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#5a3fc0
+X-APPLE-CALENDAR-COLOR:#5a3fc0
+BEGIN:VEVENT
+UID:174d9eb2496885df8392@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261122T193000
+DTEND:20261122T193500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=4
+SUMMARY:Weekly screen-time review (5 min)
+DESCRIPTION:Open Settings › Screen Time › See All App & Website Activit
+ y › Week.\n\nThis week's question: What was your daily average this week
+ \, and was it up or down?\n\nPick one number to beat next week.\n\n—\nFr
+ om Time Debt: Screen Time\, free on the App Store: https://apps.apple.com/
+ us/app/time-debt-screen-time/id6792393696?pt=129123876&ct=cal-weekly-scree
+ n-time-review-cale&mt=8\nAbout this calendar: https://honestlittleapps.git
+ hub.io/calendars/weekly-screen-time-review-calendar/
+URL:https://apps.apple.com/us/app/time-debt-screen-time/id6792393696?pt=129
+ 123876&ct=cal-weekly-screen-time-review-cale&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ee2437855661a823ce1b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261129T193000
+DTEND:20261129T193500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=4
+SUMMARY:Weekly screen-time review (5 min)
+DESCRIPTION:Open Settings › Screen Time › See All App & Website Activit
+ y › Week.\n\nThis week's question: Which app got the most pickups? Was t
+ hat on purpose?\n\nPick one number to beat next week.\n\n—\nFrom Time De
+ bt: Screen Time\, free on the App Store: https://apps.apple.com/us/app/tim
+ e-debt-screen-time/id6792393696?pt=129123876&ct=cal-weekly-screen-time-rev
+ iew-cale&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/weekly-screen-time-review-calendar/
+URL:https://apps.apple.com/us/app/time-debt-screen-time/id6792393696?pt=129
+ 123876&ct=cal-weekly-screen-time-review-cale&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7af6e5fd499a6ca6f739@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261206T193000
+DTEND:20261206T193500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=4
+SUMMARY:Weekly screen-time review (5 min)
+DESCRIPTION:Open Settings › Screen Time › See All App & Website Activit
+ y › Week.\n\nThis week's question: When in the day did you lose the most
+  time?\n\nPick one number to beat next week.\n\n—\nFrom Time Debt: Scree
+ n Time\, free on the App Store: https://apps.apple.com/us/app/time-debt-sc
+ reen-time/id6792393696?pt=129123876&ct=cal-weekly-screen-time-review-cale&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/we
+ ekly-screen-time-review-calendar/
+URL:https://apps.apple.com/us/app/time-debt-screen-time/id6792393696?pt=129
+ 123876&ct=cal-weekly-screen-time-review-cale&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9dfa99176a43833acc87@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261213T193000
+DTEND:20261213T193500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=4
+SUMMARY:Weekly screen-time review (5 min)
+DESCRIPTION:Open Settings › Screen Time › See All App & Website Activit
+ y › Week.\n\nThis week's question: What did you not do this week because
+  the minutes went elsewhere?\n\nPick one number to beat next week.\n\n—\
+ nFrom Time Debt: Screen Time\, free on the App Store: https://apps.apple.c
+ om/us/app/time-debt-screen-time/id6792393696?pt=129123876&ct=cal-weekly-sc
+ reen-time-review-cale&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/weekly-screen-time-review-calendar/
+URL:https://apps.apple.com/us/app/time-debt-screen-time/id6792393696?pt=129
+ 123876&ct=cal-weekly-screen-time-review-cale&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cadf38147c3dc4f42b78@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:New month: set your screen-time budget
+DESCRIPTION:Decide your daily budget for the month (for example\, 2 hours o
+ f social and video). Write it somewhere visible. If last month went over\,
+  cut 15 minutes\, not 2 hours. Small cuts stick.\n\n—\nFrom Time Debt: S
+ creen Time\, free on the App Store: https://apps.apple.com/us/app/time-deb
+ t-screen-time/id6792393696?pt=129123876&ct=cal-weekly-screen-time-review-c
+ ale&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/weekly-screen-time-review-calendar/
+URL:https://apps.apple.com/us/app/time-debt-screen-time/id6792393696?pt=129
+ 123876&ct=cal-weekly-screen-time-review-cale&mt=8
+END:VEVENT
+END:VCALENDAR

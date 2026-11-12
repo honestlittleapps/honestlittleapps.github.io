@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Couples check-in
+X-WR-CALDESC:A free 15-minute Sunday couples check-in calendar with a diffe
+ rent question each week (13 rotating questions) and a simple listen-first 
+ format. Share it with your partner. https://honestlittleapps.github.io/cal
+ endars/weekly-couples-check-in-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#6b2a5e
+X-APPLE-CALENDAR-COLOR:#6b2a5e
+BEGIN:VEVENT
+UID:6b52be413076d0f256b7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261122T193000
+DTEND:20261122T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: What's one thing I did this week t
+ hat you appreciated?\n\nEnd with one thing you'll each do this week.\n\n
+ —\nFrom UnFight: Couples & Marriage\, free on the App Store: https://app
+ s.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=129123876&ct=c
+ al-weekly-couples-check-in-calend&mt=8\nAbout this calendar: https://hones
+ tlittleapps.github.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cfc20d606b43a57c8c5c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261129T193000
+DTEND:20261129T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: Is there anything you've been hold
+ ing back from saying?\n\nEnd with one thing you'll each do this week.\n\n
+ —\nFrom UnFight: Couples & Marriage\, free on the App Store: https://app
+ s.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=129123876&ct=c
+ al-weekly-couples-check-in-calend&mt=8\nAbout this calendar: https://hones
+ tlittleapps.github.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2074b5f6d33cfb7626b7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261206T193000
+DTEND:20261206T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: What's coming up next week that we
+  should plan together?\n\nEnd with one thing you'll each do this week.\n\n
+ —\nFrom UnFight: Couples & Marriage\, free on the App Store: https://app
+ s.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=129123876&ct=c
+ al-weekly-couples-check-in-calend&mt=8\nAbout this calendar: https://hones
+ tlittleapps.github.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9cc80165a333f906ec73@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261213T193000
+DTEND:20261213T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: When did you feel most connected t
+ o me this week?\n\nEnd with one thing you'll each do this week.\n\n—\nFr
+ om UnFight: Couples & Marriage\, free on the App Store: https://apps.apple
+ .com/us/app/unfight-couples-marriage/id6794421070?pt=129123876&ct=cal-week
+ ly-couples-check-in-calend&mt=8\nAbout this calendar: https://honestlittle
+ apps.github.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ce2701cac9b276ebbe88@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261220T193000
+DTEND:20261220T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: Is there a small argument we never
+  finished? Let's finish it calmly.\n\nEnd with one thing you'll each do th
+ is week.\n\n—\nFrom UnFight: Couples & Marriage\, free on the App Store:
+  https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=12
+ 9123876&ct=cal-weekly-couples-check-in-calend&mt=8\nAbout this calendar: h
+ ttps://honestlittleapps.github.io/calendars/weekly-couples-check-in-calend
+ ar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:36f8ee6a85ba00f8f75d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261227T193000
+DTEND:20261227T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: What's one way I can make your wee
+ k easier?\n\nEnd with one thing you'll each do this week.\n\n—\nFrom UnF
+ ight: Couples & Marriage\, free on the App Store: https://apps.apple.com/u
+ s/app/unfight-couples-marriage/id6794421070?pt=129123876&ct=cal-weekly-cou
+ ples-check-in-calend&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:694e242fded196a62555@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270103T193000
+DTEND:20270103T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: What are we looking forward to tog
+ ether this month?\n\nEnd with one thing you'll each do this week.\n\n—\n
+ From UnFight: Couples & Marriage\, free on the App Store: https://apps.app
+ le.com/us/app/unfight-couples-marriage/id6794421070?pt=129123876&ct=cal-we
+ ekly-couples-check-in-calend&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bbfe05adacf2d39c5370@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270110T193000
+DTEND:20270110T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: How are we doing with money\, and 
+ is there anything to talk about?\n\nEnd with one thing you'll each do this
+  week.\n\n—\nFrom UnFight: Couples & Marriage\, free on the App Store: h
+ ttps://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=1291
+ 23876&ct=cal-weekly-couples-check-in-calend&mt=8\nAbout this calendar: htt
+ ps://honestlittleapps.github.io/calendars/weekly-couples-check-in-calendar
+ /
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d011949f9adeacd8f7ab@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270117T193000
+DTEND:20270117T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: What's something new we could try 
+ together?\n\nEnd with one thing you'll each do this week.\n\n—\nFrom UnF
+ ight: Couples & Marriage\, free on the App Store: https://apps.apple.com/u
+ s/app/unfight-couples-marriage/id6794421070?pt=129123876&ct=cal-weekly-cou
+ ples-check-in-calend&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a111f035d309d38336c6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270124T193000
+DTEND:20270124T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: Did either of us feel unheard this
+  week?\n\nEnd with one thing you'll each do this week.\n\n—\nFrom UnFigh
+ t: Couples & Marriage\, free on the App Store: https://apps.apple.com/us/a
+ pp/unfight-couples-marriage/id6794421070?pt=129123876&ct=cal-weekly-couple
+ s-check-in-calend&mt=8\nAbout this calendar: https://honestlittleapps.gith
+ ub.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:979daf430c8dc75850b9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270131T193000
+DTEND:20270131T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: What's a habit of mine that's quie
+ tly helping us?\n\nEnd with one thing you'll each do this week.\n\n—\nFr
+ om UnFight: Couples & Marriage\, free on the App Store: https://apps.apple
+ .com/us/app/unfight-couples-marriage/id6794421070?pt=129123876&ct=cal-week
+ ly-couples-check-in-calend&mt=8\nAbout this calendar: https://honestlittle
+ apps.github.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fc152975558d1ae0fa4e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270207T193000
+DTEND:20270207T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: How's your stress level\, 1 to 10?
+  What would lower it by one?\n\nEnd with one thing you'll each do this wee
+ k.\n\n—\nFrom UnFight: Couples & Marriage\, free on the App Store: https
+ ://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=12912387
+ 6&ct=cal-weekly-couples-check-in-calend&mt=8\nAbout this calendar: https:/
+ /honestlittleapps.github.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5a379efd4f218817e158@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270214T193000
+DTEND:20270214T194500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;INTERVAL=13
+SUMMARY:Couples check-in (15 min)
+DESCRIPTION:Phones down. Each person answers\, and the other just listens. 
+ No fixing yet.\n\nThis week's question: What's one memory from this year y
+ ou want to keep?\n\nEnd with one thing you'll each do this week.\n\n—\nF
+ rom UnFight: Couples & Marriage\, free on the App Store: https://apps.appl
+ e.com/us/app/unfight-couples-marriage/id6794421070?pt=129123876&ct=cal-wee
+ kly-couples-check-in-calend&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/weekly-couples-check-in-calendar/
+URL:https://apps.apple.com/us/app/unfight-couples-marriage/id6794421070?pt=
+ 129123876&ct=cal-weekly-couples-check-in-calend&mt=8
+END:VEVENT
+END:VCALENDAR

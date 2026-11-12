@@ -1,0 +1,673 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:On this day in history
+X-WR-CALDESC:A free yearly calendar of 37 famous anniversaries\, from Magna
+  Carta to the Moon landing\, each with a 'history detective' question abou
+ t the evidence. Great for classes. https://honestlittleapps.github.io/cale
+ ndars/on-this-day-in-history-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#7a4a1a
+X-APPLE-CALENDAR-COLOR:#7a4a1a
+BEGIN:VEVENT
+UID:802733017f4ea395584a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:2007: Steve Jobs unveils the first iPhone in San Francisco
+DESCRIPTION:2007: Steve Jobs unveils the first iPhone in San Francisco.\n\n
+ Detective question: What did people use for maps and music on the go befor
+ e 2007?\n\n—\nFrom PastRush: History Detective\, free on the App Store: 
+ https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?pt=1
+ 29123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/on-this-day-in-history-calend
+ ar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd2fc0f0e5966c76817@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1759: The British Museum opens to the public in London
+DESCRIPTION:1759: The British Museum opens to the public in London.\n\nDete
+ ctive question: Who was allowed in at first\, and how would you find out?\
+ n\n—\nFrom PastRush: History Detective\, free on the App Store: https://
+ apps.apple.com/us/app/pastrush-history-detective/id6818795908?pt=129123876
+ &ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar: https://
+ honestlittleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:581152c3979e68d11692@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1809: Abraham Lincoln and Charles Darwin are born on the same day
+DESCRIPTION:1809: Abraham Lincoln and Charles Darwin are born on the same d
+ ay.\n\nDetective question: What sources would confirm a birth date from 18
+ 09?\n\n—\nFrom PastRush: History Detective\, free on the App Store: http
+ s://apps.apple.com/us/app/pastrush-history-detective/id6818795908?pt=12912
+ 3876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dd240cf05b7cb48dd412@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1876: Alexander Graham Bell makes the first telephone call: "Mr
+DESCRIPTION:1876: Alexander Graham Bell makes the first telephone call: "Mr
+ . Watson\, come here."\n\nDetective question: The famous line comes from B
+ ell's notebook. How reliable is a source written by the person who made th
+ e call?\n\n—\nFrom PastRush: History Detective\, free on the App Store: 
+ https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?pt=1
+ 29123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/on-this-day-in-history-calend
+ ar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:881030dba9c0ed5b51e9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:44 BC: Julius Caesar is assassinated in Rome on the Ides of March
+ …
+DESCRIPTION:44 BC: Julius Caesar is assassinated in Rome on the Ides of Mar
+ ch (Roman calendar).\n\nDetective question: Most accounts were written dec
+ ades later. What does that mean for the details?\n\n—\nFrom PastRush: Hi
+ story Detective\, free on the App Store: https://apps.apple.com/us/app/pas
+ trush-history-detective/id6818795908?pt=129123876&ct=cal-on-this-day-in-hi
+ story-calenda&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:792de76315642132cce7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1889: The Eiffel Tower is inaugurated in Paris
+DESCRIPTION:1889: The Eiffel Tower is inaugurated in Paris.\n\nDetective qu
+ estion: It was built for a world's fair. Was it meant to be permanent?\n\n
+ —\nFrom PastRush: History Detective\, free on the App Store: https://app
+ s.apple.com/us/app/pastrush-history-detective/id6818795908?pt=129123876&ct
+ =cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1b29fba440dfb5a4f013@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1961: Yuri Gagarin becomes the first human in space
+DESCRIPTION:1961: Yuri Gagarin becomes the first human in space.\n\nDetecti
+ ve question: What did the Soviet announcement leave out at first?\n\n—\n
+ From PastRush: History Detective\, free on the App Store: https://apps.app
+ le.com/us/app/pastrush-history-detective/id6818795908?pt=129123876&ct=cal-
+ on-this-day-in-history-calenda&mt=8\nAbout this calendar: https://honestli
+ ttleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:73c54e04d99bd9f3b0a5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1912: The Titanic sinks in the North Atlantic
+DESCRIPTION:1912: The Titanic sinks in the North Atlantic.\n\nDetective que
+ stion: Survivors' accounts disagree about whether it broke in two. Which e
+ vidence settled it?\n\n—\nFrom PastRush: History Detective\, free on the
+  App Store: https://apps.apple.com/us/app/pastrush-history-detective/id681
+ 8795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/on-this-day-in-hi
+ story-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:40305e4a96ec6270310a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1906: An earthquake and fires devastate San Francisco
+DESCRIPTION:1906: An earthquake and fires devastate San Francisco.\n\nDetec
+ tive question: Why are early death-toll estimates now thought to be far to
+ o low?\n\n—\nFrom PastRush: History Detective\, free on the App Store: h
+ ttps://apps.apple.com/us/app/pastrush-history-detective/id6818795908?pt=12
+ 9123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar: h
+ ttps://honestlittleapps.github.io/calendars/on-this-day-in-history-calenda
+ r/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:731121e905ddb0ec083b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1954: Roger Bannister runs the first sub-four-minute mile
+DESCRIPTION:1954: Roger Bannister runs the first sub-four-minute mile.\n\nD
+ etective question: How was the time recorded\, and by whom?\n\n—\nFrom P
+ astRush: History Detective\, free on the App Store: https://apps.apple.com
+ /us/app/pastrush-history-detective/id6818795908?pt=129123876&ct=cal-on-thi
+ s-day-in-history-calenda&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e992e309419ff45ed812@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1869: The golden spike completes the first US transcontinental…
+DESCRIPTION:1869: The golden spike completes the first US transcontinental 
+ railroad.\n\nDetective question: Whose labor built it\, and who appears in
+  the famous photo?\n\n—\nFrom PastRush: History Detective\, free on the 
+ App Store: https://apps.apple.com/us/app/pastrush-history-detective/id6818
+ 795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/on-this-day-in-his
+ tory-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1622120938ff403933@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1953: Edmund Hillary and Tenzing Norgay reach the summit of Everest
+DESCRIPTION:1953: Edmund Hillary and Tenzing Norgay reach the summit of Eve
+ rest.\n\nDetective question: Both refused for years to say who stepped up 
+ first. Why might that matter?\n\n—\nFrom PastRush: History Detective\, f
+ ree on the App Store: https://apps.apple.com/us/app/pastrush-history-detec
+ tive/id6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/on-this
+ -day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4112ed2e1c7472234f61@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1944: D-Day: Allied forces land in Normandy
+DESCRIPTION:1944: D-Day: Allied forces land in Normandy.\n\nDetective quest
+ ion: Why was the date kept secret\, and how was it nearly delayed?\n\n—\
+ nFrom PastRush: History Detective\, free on the App Store: https://apps.ap
+ ple.com/us/app/pastrush-history-detective/id6818795908?pt=129123876&ct=cal
+ -on-this-day-in-history-calenda&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:996b5db7623b408c4a38@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1215: King John seals Magna Carta at Runnymede
+DESCRIPTION:1215: King John seals Magna Carta at Runnymede.\n\nDetective qu
+ estion: Most of its clauses were later dropped. Why is it still famous?\n\
+ n—\nFrom PastRush: History Detective\, free on the App Store: https://ap
+ ps.apple.com/us/app/pastrush-history-detective/id6818795908?pt=129123876&c
+ t=cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:557885e8a0c81be1038f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1815: The Battle of Waterloo ends Napoleon's rule
+DESCRIPTION:1815: The Battle of Waterloo ends Napoleon's rule.\n\nDetective
+  question: What do British and French accounts each stress?\n\n—\nFrom P
+ astRush: History Detective\, free on the App Store: https://apps.apple.com
+ /us/app/pastrush-history-detective/id6818795908?pt=129123876&ct=cal-on-thi
+ s-day-in-history-calenda&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:70c727923b4ffffe9dfb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1914: Archduke Franz Ferdinand is assassinated in Sarajevo
+DESCRIPTION:1914: Archduke Franz Ferdinand is assassinated in Sarajevo.\n\n
+ Detective question: Did one event cause the First World War\, or did it tr
+ igger one already waiting?\n\n—\nFrom PastRush: History Detective\, free
+  on the App Store: https://apps.apple.com/us/app/pastrush-history-detectiv
+ e/id6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAb
+ out this calendar: https://honestlittleapps.github.io/calendars/on-this-da
+ y-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7fe51bbdb744c980c5ef@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1867: Canadian Confederation creates the Dominion of Canada
+DESCRIPTION:1867: Canadian Confederation creates the Dominion of Canada.\n\
+ nDetective question: Which provinces joined first?\n\n—\nFrom PastRush: 
+ History Detective\, free on the App Store: https://apps.apple.com/us/app/p
+ astrush-history-detective/id6818795908?pt=129123876&ct=cal-on-this-day-in-
+ history-calenda&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ffea6a5ec3086f7dc8fb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1776: The Continental Congress adopts the Declaration of Independen
+ ce
+DESCRIPTION:1776: The Continental Congress adopts the Declaration of Indepe
+ ndence.\n\nDetective question: Most delegates signed on August 2\, not Jul
+ y 4. Why do we celebrate the 4th?\n\n—\nFrom PastRush: History Detective
+ \, free on the App Store: https://apps.apple.com/us/app/pastrush-history-d
+ etective/id6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/on-
+ this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:87f2abba36ecbeb97055@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1789: Crowds storm the Bastille in Paris
+DESCRIPTION:1789: Crowds storm the Bastille in Paris.\n\nDetective question
+ : Only seven prisoners were inside. Why did it become the symbol of the Re
+ volution?\n\n—\nFrom PastRush: History Detective\, free on the App Store
+ : https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?pt
+ =129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/on-this-day-in-history-cale
+ ndar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:67a3f81696d12f3230f2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1969: Apollo 11 lands on the Moon
+DESCRIPTION:1969: Apollo 11 lands on the Moon. Neil Armstrong steps out hou
+ rs later.\n\nDetective question: What evidence do we have that it happened
+ \, and who could check it independently?\n\n—\nFrom PastRush: History De
+ tective\, free on the App Store: https://apps.apple.com/us/app/pastrush-hi
+ story-detective/id6818795908?pt=129123876&ct=cal-on-this-day-in-history-ca
+ lenda&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0b2fb9960aae26e1ea15@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:AD 79: The traditional date of Mount Vesuvius' eruption\, which…
+DESCRIPTION:AD 79: The traditional date of Mount Vesuvius' eruption\, which
+  buried Pompeii.\n\nDetective question: An inscription found in 2018 sugge
+ sts October instead. How do historians weigh a new clue against an old let
+ ter?\n\n—\nFrom PastRush: History Detective\, free on the App Store: htt
+ ps://apps.apple.com/us/app/pastrush-history-detective/id6818795908?pt=1291
+ 23876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar: htt
+ ps://honestlittleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:04b6ff299704ae2389dd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1963: Martin Luther King Jr
+DESCRIPTION:1963: Martin Luther King Jr. gives the "I Have a Dream" speech 
+ in Washington.\n\nDetective question: The most famous part wasn't in his p
+ repared text. How do we know?\n\n—\nFrom PastRush: History Detective\, f
+ ree on the App Store: https://apps.apple.com/us/app/pastrush-history-detec
+ tive/id6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/on-this
+ -day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a1efa701d04f9936341b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1939: Germany invades Poland and the Second World War begins in Eur
+ ope
+DESCRIPTION:1939: Germany invades Poland and the Second World War begins in
+  Europe.\n\nDetective question: Why do different countries give different 
+ start dates for the war?\n\n—\nFrom PastRush: History Detective\, free o
+ n the App Store: https://apps.apple.com/us/app/pastrush-history-detective/
+ id6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/on-this-day-
+ in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:12f327da3a7f7d6e202b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1666: The Great Fire of London begins in a bakery on Pudding Lane
+DESCRIPTION:1666: The Great Fire of London begins in a bakery on Pudding La
+ ne.\n\nDetective question: Official records list very few deaths. Why are 
+ historians suspicious?\n\n—\nFrom PastRush: History Detective\, free on 
+ the App Store: https://apps.apple.com/us/app/pastrush-history-detective/id
+ 6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout 
+ this calendar: https://honestlittleapps.github.io/calendars/on-this-day-in
+ -history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e3d638214e4714c80483@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1787: The US Constitution is signed in Philadelphia
+DESCRIPTION:1787: The US Constitution is signed in Philadelphia.\n\nDetecti
+ ve question: Which delegates refused to sign\, and why?\n\n—\nFrom PastR
+ ush: History Detective\, free on the App Store: https://apps.apple.com/us/
+ app/pastrush-history-detective/id6818795908?pt=129123876&ct=cal-on-this-da
+ y-in-history-calenda&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd4cf57b544129faacb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1928: Alexander Fleming notices mould killing bacteria\, the start
+ …
+DESCRIPTION:1928: Alexander Fleming notices mould killing bacteria\, the st
+ art of penicillin.\n\nDetective question: Fleming's account was written la
+ ter. Which details might have been tidied up?\n\n—\nFrom PastRush: Histo
+ ry Detective\, free on the App Store: https://apps.apple.com/us/app/pastru
+ sh-history-detective/id6818795908?pt=129123876&ct=cal-on-this-day-in-histo
+ ry-calenda&mt=8\nAbout this calendar: https://honestlittleapps.github.io/c
+ alendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b8592339ccc8fddcdef3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1957: The Soviet Union launches Sputnik 1\, the first artificial…
+DESCRIPTION:1957: The Soviet Union launches Sputnik 1\, the first artificia
+ l satellite.\n\nDetective question: How could ordinary people on the groun
+ d confirm it was up there?\n\n—\nFrom PastRush: History Detective\, free
+  on the App Store: https://apps.apple.com/us/app/pastrush-history-detectiv
+ e/id6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAb
+ out this calendar: https://honestlittleapps.github.io/calendars/on-this-da
+ y-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fbef968beb40769e2e72@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1492: Columbus's expedition makes landfall in the Caribbean
+DESCRIPTION:1492: Columbus's expedition makes landfall in the Caribbean.\n\
+ nDetective question: Whose accounts of the landing survive\, and whose don
+ 't?\n\n—\nFrom PastRush: History Detective\, free on the App Store: http
+ s://apps.apple.com/us/app/pastrush-history-detective/id6818795908?pt=12912
+ 3876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:aae3a3685a3e6d552180@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1066: The Battle of Hastings
+DESCRIPTION:1066: The Battle of Hastings. William of Normandy defeats Harol
+ d II.\n\nDetective question: The Bayeux Tapestry was made for the winners.
+  What might it leave out?\n\n—\nFrom PastRush: History Detective\, free 
+ on the App Store: https://apps.apple.com/us/app/pastrush-history-detective
+ /id6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbo
+ ut this calendar: https://honestlittleapps.github.io/calendars/on-this-day
+ -in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:27d462963ba9a98e1aa9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1517: Martin Luther's 95 Theses (traditional date for the start of
+ …
+DESCRIPTION:1517: Martin Luther's 95 Theses (traditional date for the start
+  of the Reformation).\n\nDetective question: Did he really nail them to a 
+ church door? What's the evidence?\n\n—\nFrom PastRush: History Detective
+ \, free on the App Store: https://apps.apple.com/us/app/pastrush-history-d
+ etective/id6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/on-
+ this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8b1e69228dfe97cec3eb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1922: Howard Carter finds the steps to Tutankhamun's tomb
+DESCRIPTION:1922: Howard Carter finds the steps to Tutankhamun's tomb.\n\nD
+ etective question: Who else was digging\, and who got the credit?\n\n—\n
+ From PastRush: History Detective\, free on the App Store: https://apps.app
+ le.com/us/app/pastrush-history-detective/id6818795908?pt=129123876&ct=cal-
+ on-this-day-in-history-calenda&mt=8\nAbout this calendar: https://honestli
+ ttleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3235d02faa158fd2d5f8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1989: The Berlin Wall opens after a garbled press announcement
+DESCRIPTION:1989: The Berlin Wall opens after a garbled press announcement.
+ \n\nDetective question: How did one mistaken answer at a news conference c
+ hange history?\n\n—\nFrom PastRush: History Detective\, free on the App 
+ Store: https://apps.apple.com/us/app/pastrush-history-detective/id68187959
+ 08?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/on-this-day-in-history
+ -calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5a54940be144cc84dc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1918: The Armistice ends fighting in the First World War at 11am
+DESCRIPTION:1918: The Armistice ends fighting in the First World War at 11a
+ m.\n\nDetective question: Why did soldiers still die that morning?\n\n—\
+ nFrom PastRush: History Detective\, free on the App Store: https://apps.ap
+ ple.com/us/app/pastrush-history-detective/id6818795908?pt=129123876&ct=cal
+ -on-this-day-in-history-calenda&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:312b37124ccb6b36d74a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1863: Abraham Lincoln delivers the Gettysburg Address
+DESCRIPTION:1863: Abraham Lincoln delivers the Gettysburg Address.\n\nDetec
+ tive question: Five handwritten copies exist\, and they differ. Which is '
+ the' speech?\n\n—\nFrom PastRush: History Detective\, free on the App St
+ ore: https://apps.apple.com/us/app/pastrush-history-detective/id6818795908
+ ?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/on-this-day-in-history-c
+ alendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6d7dc79d02454c955cc3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1901: The first Nobel Prizes are awarded
+DESCRIPTION:1901: The first Nobel Prizes are awarded.\n\nDetective question
+ : Why December 10? Check Alfred Nobel's life.\n\n—\nFrom PastRush: Histo
+ ry Detective\, free on the App Store: https://apps.apple.com/us/app/pastru
+ sh-history-detective/id6818795908?pt=129123876&ct=cal-on-this-day-in-histo
+ ry-calenda&mt=8\nAbout this calendar: https://honestlittleapps.github.io/c
+ alendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ff0dd7dd3ffe19e390fa@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1773: The Boston Tea Party
+DESCRIPTION:1773: The Boston Tea Party.\n\nDetective question: Who were the
+  participants\, and why did they disguise themselves?\n\n—\nFrom PastRus
+ h: History Detective\, free on the App Store: https://apps.apple.com/us/ap
+ p/pastrush-history-detective/id6818795908?pt=129123876&ct=cal-on-this-day-
+ in-history-calenda&mt=8\nAbout this calendar: https://honestlittleapps.git
+ hub.io/calendars/on-this-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8e92cd1dbcc22e017f56@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:1903: The Wright brothers make the first powered\, controlled fligh
+ t…
+DESCRIPTION:1903: The Wright brothers make the first powered\, controlled f
+ light at Kitty Hawk.\n\nDetective question: How long was the first flight\
+ , and who took the famous photo?\n\n—\nFrom PastRush: History Detective\
+ , free on the App Store: https://apps.apple.com/us/app/pastrush-history-de
+ tective/id6818795908?pt=129123876&ct=cal-on-this-day-in-history-calenda&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/on-t
+ his-day-in-history-calendar/
+URL:https://apps.apple.com/us/app/pastrush-history-detective/id6818795908?p
+ t=129123876&ct=cal-on-this-day-in-history-calenda&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Date night ideas
+X-WR-CALDESC:A free calendar with one seasonal date night idea on the first
+  Friday of every month\, plus a Valentine's booking reminder. Plan better 
+ dates without the guesswork. https://honestlittleapps.github.io/calendars/
+ monthly-date-night-ideas-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#7a1f8a
+X-APPLE-CALENDAR-COLOR:#7a1f8a
+BEGIN:VEVENT
+UID:e738192071fc830099e9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Cook something neither of you has made befor
+ e.\n\nPlan it this week: pick a date\, send one clear invitation\, and han
+ dle the details yourself.\n\n—\nFrom SecondYes: Second Date Planner\, fr
+ ee on the App Store: https://apps.apple.com/us/app/secondyes-second-date-p
+ lanner/id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/month
+ ly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:655e3d9e2ee6751b28bb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=2;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Sunset walk and takeaway somewhere with a vi
+ ew.\n\nPlan it this week: pick a date\, send one clear invitation\, and ha
+ ndle the details yourself.\n\n—\nFrom SecondYes: Second Date Planner\, f
+ ree on the App Store: https://apps.apple.com/us/app/secondyes-second-date-
+ planner/id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/mont
+ hly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e088584c950f9aa7f3a1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Board games or cards\, with a small bet (los
+ er makes breakfast).\n\nPlan it this week: pick a date\, send one clear in
+ vitation\, and handle the details yourself.\n\n—\nFrom SecondYes: Second
+  Date Planner\, free on the App Store: https://apps.apple.com/us/app/secon
+ dyes-second-date-planner/id6806461390?pt=129123876&ct=cal-monthly-date-nig
+ ht-ideas-calen&mt=8\nAbout this calendar: https://honestlittleapps.github.
+ io/calendars/monthly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:41d1eca51d94ea585f45@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Visit a free museum or gallery evening.\n\nP
+ lan it this week: pick a date\, send one clear invitation\, and handle the
+  details yourself.\n\n—\nFrom SecondYes: Second Date Planner\, free on t
+ he App Store: https://apps.apple.com/us/app/secondyes-second-date-planner/
+ id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/monthly-date
+ -night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:78a9406bdc4dd17f352c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Picnic in a park\, even if it's just sandwic
+ hes.\n\nPlan it this week: pick a date\, send one clear invitation\, and h
+ andle the details yourself.\n\n—\nFrom SecondYes: Second Date Planner\, 
+ free on the App Store: https://apps.apple.com/us/app/secondyes-second-date
+ -planner/id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/mon
+ thly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9a5ed092c109112d3e89@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=6;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Try a class together: pottery\, climbing\, d
+ ancing.\n\nPlan it this week: pick a date\, send one clear invitation\, an
+ d handle the details yourself.\n\n—\nFrom SecondYes: Second Date Planner
+ \, free on the App Store: https://apps.apple.com/us/app/secondyes-second-d
+ ate-planner/id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-cale
+ n&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ monthly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d47afcc8b0d6d83af7c0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=7;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Outdoor movie or a film at home under blanke
+ ts in the garden.\n\nPlan it this week: pick a date\, send one clear invit
+ ation\, and handle the details yourself.\n\n—\nFrom SecondYes: Second Da
+ te Planner\, free on the App Store: https://apps.apple.com/us/app/secondye
+ s-second-date-planner/id6806461390?pt=129123876&ct=cal-monthly-date-night-
+ ideas-calen&mt=8\nAbout this calendar: https://honestlittleapps.github.io/
+ calendars/monthly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b71e89c430449dd43c36@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=8;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Farmers' market morning and cook what you bu
+ y.\n\nPlan it this week: pick a date\, send one clear invitation\, and han
+ dle the details yourself.\n\n—\nFrom SecondYes: Second Date Planner\, fr
+ ee on the App Store: https://apps.apple.com/us/app/secondyes-second-date-p
+ lanner/id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/month
+ ly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:14975b58501e3e8e6413@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Go back to the place of your first date.\n\n
+ Plan it this week: pick a date\, send one clear invitation\, and handle th
+ e details yourself.\n\n—\nFrom SecondYes: Second Date Planner\, free on 
+ the App Store: https://apps.apple.com/us/app/secondyes-second-date-planner
+ /id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8\nAbo
+ ut this calendar: https://honestlittleapps.github.io/calendars/monthly-dat
+ e-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b4b0829d3d8ca89603@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Apple picking\, a pumpkin patch or a fall dr
+ ive.\n\nPlan it this week: pick a date\, send one clear invitation\, and h
+ andle the details yourself.\n\n—\nFrom SecondYes: Second Date Planner\, 
+ free on the App Store: https://apps.apple.com/us/app/secondyes-second-date
+ -planner/id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/mon
+ thly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:12d4be26c7ccb1e3de6c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Make a playlist for each other and swap.\n\n
+ Plan it this week: pick a date\, send one clear invitation\, and handle th
+ e details yourself.\n\n—\nFrom SecondYes: Second Date Planner\, free on 
+ the App Store: https://apps.apple.com/us/app/secondyes-second-date-planner
+ /id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8\nAbo
+ ut this calendar: https://honestlittleapps.github.io/calendars/monthly-dat
+ e-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7fd8d2b7ab5cf8c2e3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=12;BYDAY=1FR
+SUMMARY:Date night idea
+DESCRIPTION:This month's idea: Walk around the holiday lights with a hot dr
+ ink.\n\nPlan it this week: pick a date\, send one clear invitation\, and h
+ andle the details yourself.\n\n—\nFrom SecondYes: Second Date Planner\, 
+ free on the App Store: https://apps.apple.com/us/app/secondyes-second-date
+ -planner/id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/mon
+ thly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bbef3d3ff2fed3386d7a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:Valentine's Day is in 2 weeks: book now
+DESCRIPTION:Restaurants fill up fast. Book now\, or plan something at home 
+ that's genuinely thoughtful.\n\n—\nFrom SecondYes: Second Date Planner\,
+  free on the App Store: https://apps.apple.com/us/app/secondyes-second-dat
+ e-planner/id6806461390?pt=129123876&ct=cal-monthly-date-night-ideas-calen&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/mo
+ nthly-date-night-ideas-calendar/
+URL:https://apps.apple.com/us/app/secondyes-second-date-planner/id680646139
+ 0?pt=129123876&ct=cal-monthly-date-night-ideas-calen&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,604 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kids' daily warm-up
+X-WR-CALDESC:A free daily breakfast warm-up for kids: quick sums for little
+  ones\, harder sums and times tables for bigger kids\, plus a rhyming word
+  game. Answers included. https://honestlittleapps.github.io/calendars/kids
+ -daily-math-reading-warm-up-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#5b2a9e
+X-APPLE-CALENDAR-COLOR:#5b2a9e
+BEGIN:VEVENT
+UID:a5c2a911227187e68321@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 6 + 7 = ?\nBigge
+ r kids: 70 + 19 = ?   and   6 × 7 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'cat'? Real words only!\n\n\n\nAnswers: 13 · 89 ·
+  42\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0491e0b3884d706ad378@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 2 + 9 = ?\nBigge
+ r kids: 69 + 10 = ?   and   2 × 9 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'hop'? Real words only!\n\n\n\nAnswers: 11 · 79 ·
+  18\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6f53778896b751d066cf@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 2 + 4 = ?\nBigge
+ r kids: 27 + 14 = ?   and   2 × 4 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'bed'? Real words only!\n\n\n\nAnswers: 6 · 41 · 
+ 8\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: https
+ ://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=1291238
+ 76&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-cal
+ endar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e056d439d24d587416e0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 9 + 5 = ?\nBigge
+ r kids: 44 + 6 = ?   and   9 × 5 = ?\n\nWord game: how many words can you
+  make that rhyme with 'pin'? Real words only!\n\n\n\nAnswers: 14 · 50 · 
+ 45\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: http
+ s://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129123
+ 876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-ca
+ lendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:990e8bc6aaee427a355f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 5 + 2 = ?\nBigge
+ r kids: 66 + 9 = ?   and   5 × 2 = ?\n\nWord game: how many words can you
+  make that rhyme with 'sun'? Real words only!\n\n\n\nAnswers: 7 · 75 · 1
+ 0\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: https
+ ://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=1291238
+ 76&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-cal
+ endar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d56a95dc699990fae4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 8 + 6 = ?\nBigge
+ r kids: 31 + 15 = ?   and   8 × 6 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'cake'? Real words only!\n\n\n\nAnswers: 14 · 46 
+ · 48\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: h
+ ttps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129
+ 123876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up
+ -calendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c671c265c67176ead556@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 4 + 3 = ?\nBigge
+ r kids: 28 + 17 = ?   and   4 × 3 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'rain'? Real words only!\n\n\n\nAnswers: 7 · 45 ·
+  12\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:108f3fd0f98a060a0d0c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 4 + 4 = ?\nBigge
+ r kids: 20 + 3 = ?   and   4 × 4 = ?\n\nWord game: how many words can you
+  make that rhyme with 'light'? Real words only!\n\n\n\nAnswers: 8 · 23 ·
+  16\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ea446304079d87add04a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 5 + 5 = ?\nBigge
+ r kids: 30 + 8 = ?   and   5 × 5 = ?\n\nWord game: how many words can you
+  make that rhyme with 'ball'? Real words only!\n\n\n\nAnswers: 10 · 38 ·
+  25\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6646d6a9e5ac4b34e470@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 6 + 7 = ?\nBigge
+ r kids: 32 + 9 = ?   and   6 × 7 = ?\n\nWord game: how many words can you
+  make that rhyme with 'fish'? Real words only!\n\n\n\nAnswers: 13 · 41 ·
+  42\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c39ad535ddd4c8b08b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 4 + 5 = ?\nBigge
+ r kids: 77 + 15 = ?   and   4 × 5 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'ring'? Real words only!\n\n\n\nAnswers: 9 · 92 ·
+  20\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5b9c3cf1ae8cb7cc7c01@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 6 + 2 = ?\nBigge
+ r kids: 43 + 16 = ?   and   6 × 2 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'boat'? Real words only!\n\n\n\nAnswers: 8 · 59 ·
+  12\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cbcea914c3da5cdea78f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 4 + 4 = ?\nBigge
+ r kids: 36 + 5 = ?   and   4 × 4 = ?\n\nWord game: how many words can you
+  make that rhyme with 'shop'? Real words only!\n\n\n\nAnswers: 8 · 41 · 
+ 16\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: http
+ s://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129123
+ 876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-ca
+ lendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9bcdf363aec171255420@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 7 + 6 = ?\nBigge
+ r kids: 72 + 3 = ?   and   7 × 6 = ?\n\nWord game: how many words can you
+  make that rhyme with 'clap'? Real words only!\n\n\n\nAnswers: 13 · 75 ·
+  42\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:aecf7614e4367de07588@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 7 + 3 = ?\nBigge
+ r kids: 39 + 14 = ?   and   7 × 3 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'drum'? Real words only!\n\n\n\nAnswers: 10 · 53 
+ · 21\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: h
+ ttps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129
+ 123876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up
+ -calendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cebeceb1c5b5ea14876d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 6 + 9 = ?\nBigge
+ r kids: 64 + 13 = ?   and   6 × 9 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'frog'? Real words only!\n\n\n\nAnswers: 15 · 77 
+ · 54\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: h
+ ttps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129
+ 123876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up
+ -calendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2f735b52cf27e48ecb42@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 4 + 9 = ?\nBigge
+ r kids: 50 + 8 = ?   and   4 × 9 = ?\n\nWord game: how many words can you
+  make that rhyme with 'snow'? Real words only!\n\n\n\nAnswers: 13 · 58 ·
+  36\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8f01ae24f7604b0e8753@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 2 + 6 = ?\nBigge
+ r kids: 80 + 3 = ?   and   2 × 6 = ?\n\nWord game: how many words can you
+  make that rhyme with 'tree'? Real words only!\n\n\n\nAnswers: 8 · 83 · 
+ 12\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: http
+ s://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129123
+ 876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-ca
+ lendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:74b9e702756fcae30331@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 7 + 8 = ?\nBigge
+ r kids: 21 + 16 = ?   and   7 × 8 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'star'? Real words only!\n\n\n\nAnswers: 15 · 37 
+ · 56\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: h
+ ttps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129
+ 123876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up
+ -calendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c25f30e150bcf3439303@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 7 + 8 = ?\nBigge
+ r kids: 57 + 3 = ?   and   7 × 8 = ?\n\nWord game: how many words can you
+  make that rhyme with 'chip'? Real words only!\n\n\n\nAnswers: 15 · 60 ·
+  56\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:62d56ac52f9a0f17dc35@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 9 + 2 = ?\nBigge
+ r kids: 65 + 8 = ?   and   9 × 2 = ?\n\nWord game: how many words can you
+  make that rhyme with 'duck'? Real words only!\n\n\n\nAnswers: 11 · 73 ·
+  18\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:048f724810612130d6f0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 5 + 3 = ?\nBigge
+ r kids: 68 + 10 = ?   and   5 × 3 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'play'? Real words only!\n\n\n\nAnswers: 8 · 78 ·
+  15\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:53ecda8bd5b11ff58654@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 9 + 7 = ?\nBigge
+ r kids: 52 + 14 = ?   and   9 × 7 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'seed'? Real words only!\n\n\n\nAnswers: 16 · 66 
+ · 63\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: h
+ ttps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129
+ 123876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up
+ -calendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cf0ccf47590480e69dbe@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 6 + 9 = ?\nBigge
+ r kids: 26 + 14 = ?   and   6 × 9 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'nest'? Real words only!\n\n\n\nAnswers: 15 · 40 
+ · 54\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: h
+ ttps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129
+ 123876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up
+ -calendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:730c54ab278033ed6faa@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 6 + 2 = ?\nBigge
+ r kids: 47 + 5 = ?   and   6 × 2 = ?\n\nWord game: how many words can you
+  make that rhyme with 'moon'? Real words only!\n\n\n\nAnswers: 8 · 52 · 
+ 12\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: http
+ s://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129123
+ 876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-ca
+ lendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1439f19b650d30cb23b7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 5 + 7 = ?\nBigge
+ r kids: 52 + 14 = ?   and   5 × 7 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'jump'? Real words only!\n\n\n\nAnswers: 12 · 66 
+ · 35\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: h
+ ttps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129
+ 123876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up
+ -calendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:93f8032ac56ac4192ff3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 4 + 7 = ?\nBigge
+ r kids: 37 + 5 = ?   and   4 × 7 = ?\n\nWord game: how many words can you
+  make that rhyme with 'kite'? Real words only!\n\n\n\nAnswers: 11 · 42 ·
+  28\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0d5ceba8dd378dbb85aa@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 6 + 7 = ?\nBigge
+ r kids: 39 + 8 = ?   and   6 × 7 = ?\n\nWord game: how many words can you
+  make that rhyme with 'lamp'? Real words only!\n\n\n\nAnswers: 13 · 47 ·
+  42\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:adacf832dfe69ebe0d54@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 3 + 4 = ?\nBigge
+ r kids: 66 + 12 = ?   and   3 × 4 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'milk'? Real words only!\n\n\n\nAnswers: 7 · 78 ·
+  12\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7567fafb3bbe49350834@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 9 + 4 = ?\nBigge
+ r kids: 66 + 4 = ?   and   9 × 4 = ?\n\nWord game: how many words can you
+  make that rhyme with 'book'? Real words only!\n\n\n\nAnswers: 13 · 70 ·
+  36\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: htt
+ ps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=12912
+ 3876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up-c
+ alendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ef6037f50f360c1bc163@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Kids' warm-up: 3 sums + a rhyme
+DESCRIPTION:Breakfast warm-up (2 minutes):\n\nLittle ones: 3 + 8 = ?\nBigge
+ r kids: 22 + 10 = ?   and   3 × 8 = ?\n\nWord game: how many words can yo
+ u make that rhyme with 'sock'? Real words only!\n\n\n\nAnswers: 11 · 32 
+ · 24\n\n—\nFrom Brainy Bucks: Math & Reading\, free on the App Store: h
+ ttps://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt=129
+ 123876&ct=cal-kids-daily-math-reading-warm-u&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/kids-daily-math-reading-warm-up
+ -calendar/
+URL:https://apps.apple.com/us/app/brainy-bucks-math-reading/id6788619891?pt
+ =129123876&ct=cal-kids-daily-math-reading-warm-u&mt=8
+END:VEVENT
+END:VCALENDAR

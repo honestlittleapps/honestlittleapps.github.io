@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Subscription audit
+X-WR-CALDESC:Free calendar reminder to audit your subscriptions on the 1st 
+ of every month\, with iPhone steps\, plus Black Friday free-trial and Janu
+ ary annual-renewal checks. https://honestlittleapps.github.io/calendars/su
+ bscription-audit-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#1f6b4a
+X-APPLE-CALENDAR-COLOR:#1f6b4a
+BEGIN:VEVENT
+UID:e1917e7528fefadd48ce@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Subscription audit (10 minutes)
+DESCRIPTION:Monthly check:\n• iPhone: Settings › [your name] › Subscr
+ iptions. Cancel anything you didn't use last month.\n• Scan your card st
+ atement for small recurring charges.\n• Note any free trials and their c
+ ancel-by dates.\n\nA $9.99 charge you've forgotten is about $120 a year.\n
+ \n—\nFrom MoneyShield: Sub Tracker\, free on the App Store: https://apps
+ .apple.com/us/app/moneyshield-sub-tracker/id6787559121?pt=129123876&ct=cal
+ -subscription-audit-calendar&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/subscription-audit-calendar/
+URL:https://apps.apple.com/us/app/moneyshield-sub-tracker/id6787559121?pt=1
+ 29123876&ct=cal-subscription-audit-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5aa132556279a2ea501d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Black Friday: trial sign-up season
+DESCRIPTION:Holiday deals often start a free trial that becomes paid. For e
+ very trial you start this weekend\, write the cancel-by date down today.\n
+ \n—\nFrom MoneyShield: Sub Tracker\, free on the App Store: https://apps
+ .apple.com/us/app/moneyshield-sub-tracker/id6787559121?pt=129123876&ct=cal
+ -subscription-audit-calendar&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/subscription-audit-calendar/
+URL:https://apps.apple.com/us/app/moneyshield-sub-tracker/id6787559121?pt=1
+ 29123876&ct=cal-subscription-audit-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d364c51c072e4adcea35@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+TRANSP:TRANSPARENT
+SUMMARY:Black Friday: trial sign-up season
+DESCRIPTION:Holiday deals often start a free trial that becomes paid. For e
+ very trial you start this weekend\, write the cancel-by date down today.\n
+ \n—\nFrom MoneyShield: Sub Tracker\, free on the App Store: https://apps
+ .apple.com/us/app/moneyshield-sub-tracker/id6787559121?pt=129123876&ct=cal
+ -subscription-audit-calendar&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/subscription-audit-calendar/
+URL:https://apps.apple.com/us/app/moneyshield-sub-tracker/id6787559121?pt=1
+ 29123876&ct=cal-subscription-audit-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7253de4df593ac03810a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:New year: annual subscription renewals check
+DESCRIPTION:Annual plans renew quietly. Search your email for 'renewal' and
+  'receipt' from last January and decide which to keep before they charge a
+ gain.\n\n—\nFrom MoneyShield: Sub Tracker\, free on the App Store: https
+ ://apps.apple.com/us/app/moneyshield-sub-tracker/id6787559121?pt=129123876
+ &ct=cal-subscription-audit-calendar&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/subscription-audit-calendar/
+URL:https://apps.apple.com/us/app/moneyshield-sub-tracker/id6787559121?pt=1
+ 29123876&ct=cal-subscription-audit-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

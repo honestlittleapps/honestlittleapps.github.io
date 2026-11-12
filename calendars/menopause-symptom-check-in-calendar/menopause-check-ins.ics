@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Menopause check-ins
+X-WR-CALDESC:Free perimenopause and menopause calendar: a 2-minute weekly s
+ ymptom log\, a monthly check-in list and an appointment-prep reminder. Pri
+ vate\; nothing to sign up for. https://honestlittleapps.github.io/calendar
+ s/menopause-symptom-check-in-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#145e56
+X-APPLE-CALENDAR-COLOR:#145e56
+BEGIN:VEVENT
+UID:4c1490f1f2c4992ad015@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Monthly menopause check-in
+DESCRIPTION:Five minutes\, once a month:\n• How many hot flushes or night
+  sweats this month\, roughly?\n• Sleep: better\, same or worse?\n• Per
+ iods: dates\, flow\, any gaps or unusual bleeding?\n• Mood\, brain fog\,
+  joint aches\, anything new?\n\nWrite it down while it's fresh. Unusual bl
+ eeding\, especially after periods have stopped\, is worth raising with a c
+ linician promptly.\n\n—\nFrom My Midlife Story: Menopause\, free on the 
+ App Store: https://apps.apple.com/us/app/my-midlife-story-menopause/id6814
+ 637835?pt=129123876&ct=cal-menopause-symptom-check-in-cal&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/menopause-symptom-
+ check-in-calendar/
+URL:https://apps.apple.com/us/app/my-midlife-story-menopause/id6814637835?p
+ t=129123876&ct=cal-menopause-symptom-check-in-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b113a1242c3523a17720@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261122T200000
+DTEND:20261122T200500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:2-minute symptom log
+DESCRIPTION:Quick log for the week: sleep\, hot flushes\, mood\, energy\, c
+ ycle. Patterns are much easier to spot (and to explain at an appointment) 
+ when they're written down weekly instead of remembered.\n\n—\nFrom My Mi
+ dlife Story: Menopause\, free on the App Store: https://apps.apple.com/us/
+ app/my-midlife-story-menopause/id6814637835?pt=129123876&ct=cal-menopause-
+ symptom-check-in-cal&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/menopause-symptom-check-in-calendar/
+URL:https://apps.apple.com/us/app/my-midlife-story-menopause/id6814637835?p
+ t=129123876&ct=cal-menopause-symptom-check-in-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:113c0b8e4c25299140de@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Menopause Day
+DESCRIPTION:October 18 is World Menopause Day\, promoted by the Internation
+ al Menopause Society. A good day to book the check-up you've been putting 
+ off\, or to share what you've learned with a friend.\n\n—\nFrom My Midli
+ fe Story: Menopause\, free on the App Store: https://apps.apple.com/us/app
+ /my-midlife-story-menopause/id6814637835?pt=129123876&ct=cal-menopause-sym
+ ptom-check-in-cal&mt=8\nAbout this calendar: https://honestlittleapps.gith
+ ub.io/calendars/menopause-symptom-check-in-calendar/
+URL:https://apps.apple.com/us/app/my-midlife-story-menopause/id6814637835?p
+ t=129123876&ct=cal-menopause-symptom-check-in-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2c171f9f29c8a2a509c1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:Before your appointment: prepare your summary
+DESCRIPTION:New year\, new appointment? Bring a one-page summary: symptoms 
+ with rough frequency\, cycle dates\, sleep\, medications and supplements\,
+  and your top 3 questions. It makes a 10-minute appointment far more usefu
+ l.\n\n—\nFrom My Midlife Story: Menopause\, free on the App Store: https
+ ://apps.apple.com/us/app/my-midlife-story-menopause/id6814637835?pt=129123
+ 876&ct=cal-menopause-symptom-check-in-cal&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/menopause-symptom-check-in-calenda
+ r/
+URL:https://apps.apple.com/us/app/my-midlife-story-menopause/id6814637835?p
+ t=129123876&ct=cal-menopause-symptom-check-in-cal&mt=8
+END:VEVENT
+END:VCALENDAR

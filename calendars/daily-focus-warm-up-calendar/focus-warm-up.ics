@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Daily focus warm-up
+X-WR-CALDESC:A free daily 12:30pm calendar event with a different 4-minute 
+ focus and memory drill each day of the week. No app or equipment needed. h
+ ttps://honestlittleapps.github.io/calendars/daily-focus-warm-up-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#1d5fbf
+X-APPLE-CALENDAR-COLOR:#1d5fbf
+BEGIN:VEVENT
+UID:1b829b3978a9b44ffa35@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261116T123000
+DTEND:20261116T123400
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:4-minute focus warm-up
+DESCRIPTION:Before the afternoon\, a short warm-up:\n\nCount backwards from
+  200 by 7s for 60 seconds.\n\nThen one minute of nothing: no phone\, just 
+ look out a window.\n\n—\nFrom SkillArena: Focus Training\, free on the A
+ pp Store: https://apps.apple.com/us/app/skillarena-focus-training/id679571
+ 3307?pt=129123876&ct=cal-daily-focus-warm-up-calendar&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/daily-focus-warm-up-ca
+ lendar/
+URL:https://apps.apple.com/us/app/skillarena-focus-training/id6795713307?pt
+ =129123876&ct=cal-daily-focus-warm-up-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3ebd56b4c07d8183844b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261117T123000
+DTEND:20261117T123400
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:4-minute focus warm-up
+DESCRIPTION:Before the afternoon\, a short warm-up:\n\nLook at a room for 2
+ 0 seconds\, close your eyes and list 10 objects.\n\nThen one minute of not
+ hing: no phone\, just look out a window.\n\n—\nFrom SkillArena: Focus Tr
+ aining\, free on the App Store: https://apps.apple.com/us/app/skillarena-f
+ ocus-training/id6795713307?pt=129123876&ct=cal-daily-focus-warm-up-calenda
+ r&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ daily-focus-warm-up-calendar/
+URL:https://apps.apple.com/us/app/skillarena-focus-training/id6795713307?pt
+ =129123876&ct=cal-daily-focus-warm-up-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:811e49807048faeb9e62@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261118T123000
+DTEND:20261118T123400
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:4-minute focus warm-up
+DESCRIPTION:Before the afternoon\, a short warm-up:\n\nSay the months of th
+ e year backwards\, then the alphabet backwards from M.\n\nThen one minute 
+ of nothing: no phone\, just look out a window.\n\n—\nFrom SkillArena: Fo
+ cus Training\, free on the App Store: https://apps.apple.com/us/app/skilla
+ rena-focus-training/id6795713307?pt=129123876&ct=cal-daily-focus-warm-up-c
+ alendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/daily-focus-warm-up-calendar/
+URL:https://apps.apple.com/us/app/skillarena-focus-training/id6795713307?pt
+ =129123876&ct=cal-daily-focus-warm-up-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:90e7543a330e2fdb4099@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261119T123000
+DTEND:20261119T123400
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:4-minute focus warm-up
+DESCRIPTION:Before the afternoon\, a short warm-up:\n\nRead one paragraph\,
+  look away and summarise it in one sentence.\n\nThen one minute of nothing
+ : no phone\, just look out a window.\n\n—\nFrom SkillArena: Focus Traini
+ ng\, free on the App Store: https://apps.apple.com/us/app/skillarena-focus
+ -training/id6795713307?pt=129123876&ct=cal-daily-focus-warm-up-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-focus-warm-up-calendar/
+URL:https://apps.apple.com/us/app/skillarena-focus-training/id6795713307?pt
+ =129123876&ct=cal-daily-focus-warm-up-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b45e5061161a6bcf7207@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261120T123000
+DTEND:20261120T123400
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:4-minute focus warm-up
+DESCRIPTION:Before the afternoon\, a short warm-up:\n\nHold a single breath
+  count for 2 minutes: in 4\, out 6\, and restart at 1 if your mind wanders
+ .\n\nThen one minute of nothing: no phone\, just look out a window.\n\n—
+ \nFrom SkillArena: Focus Training\, free on the App Store: https://apps.ap
+ ple.com/us/app/skillarena-focus-training/id6795713307?pt=129123876&ct=cal-
+ daily-focus-warm-up-calendar&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/daily-focus-warm-up-calendar/
+URL:https://apps.apple.com/us/app/skillarena-focus-training/id6795713307?pt
+ =129123876&ct=cal-daily-focus-warm-up-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ff581e5c690bd470d840@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261121T123000
+DTEND:20261121T123400
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:4-minute focus warm-up
+DESCRIPTION:Before the afternoon\, a short warm-up:\n\nSpell five long word
+ s backwards in your head.\n\nThen one minute of nothing: no phone\, just l
+ ook out a window.\n\n—\nFrom SkillArena: Focus Training\, free on the Ap
+ p Store: https://apps.apple.com/us/app/skillarena-focus-training/id6795713
+ 307?pt=129123876&ct=cal-daily-focus-warm-up-calendar&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/daily-focus-warm-up-cal
+ endar/
+URL:https://apps.apple.com/us/app/skillarena-focus-training/id6795713307?pt
+ =129123876&ct=cal-daily-focus-warm-up-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:67d5ad6bb5a29640a08e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261122T123000
+DTEND:20261122T123400
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:4-minute focus warm-up
+DESCRIPTION:Before the afternoon\, a short warm-up:\n\nPick one sound aroun
+ d you and track it for a full minute without switching.\n\nThen one minute
+  of nothing: no phone\, just look out a window.\n\n—\nFrom SkillArena: F
+ ocus Training\, free on the App Store: https://apps.apple.com/us/app/skill
+ arena-focus-training/id6795713307?pt=129123876&ct=cal-daily-focus-warm-up-
+ calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/daily-focus-warm-up-calendar/
+URL:https://apps.apple.com/us/app/skillarena-focus-training/id6795713307?pt
+ =129123876&ct=cal-daily-focus-warm-up-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

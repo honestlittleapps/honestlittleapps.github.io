@@ -1,0 +1,569 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gravity fact of the day
+X-WR-CALDESC:A free daily calendar of 31 accurate gravity and space facts\,
+  from the Apollo 15 hammer-and-feather drop to gravitational waves. Great 
+ for curious kids and adults. https://honestlittleapps.github.io/calendars/
+ gravity-fact-of-the-day-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#6a1fbf
+X-APPLE-CALENDAR-COLOR:#6a1fbf
+BEGIN:VEVENT
+UID:8afa9d0f1fbb116cc49f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Gravity fact of the day
+DESCRIPTION:The Moon's surface gravity is about 1.62 m/s²\, roughly one-si
+ xth of Earth's 9.81 m/s².\n\nNow flip it: one quick run in a gravity game
+  makes a good 60-second break.\n\n—\nFrom Fluxo: Gravity Runner\, free o
+ n the App Store: https://apps.apple.com/us/app/fluxo-gravity-runner/id6787
+ 641780?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/gravity-fact-of-th
+ e-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2e75be04139da0827873@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Mars pulls at about 3.71 m/s²\, around 38% of Earth's gravity.
+ \n\nNow flip it: one quick run in a gravity game makes a good 60-second br
+ eak.\n\n—\nFrom Fluxo: Gravity Runner\, free on the App Store: https://a
+ pps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal
+ -gravity-fact-of-the-day-calend&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:837e79388ed673bc8480@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Jupiter's gravity at its cloud tops is about 24.8 m/s²\, rough
+ ly 2.5 times Earth's.\n\nNow flip it: one quick run in a gravity game make
+ s a good 60-second break.\n\n—\nFrom Fluxo: Gravity Runner\, free on the
+  App Store: https://apps.apple.com/us/app/fluxo-gravity-runner/id678764178
+ 0?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/gravity-fact-of-the-day
+ -calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:37a84d3a92b2123b4104@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Gravity fact of the day
+DESCRIPTION:In 1971\, Apollo 15's David Scott dropped a hammer and a feathe
+ r on the Moon. With no air\, they hit the ground together.\n\nNow flip it:
+  one quick run in a gravity game makes a good 60-second break.\n\n—\nFro
+ m Fluxo: Gravity Runner\, free on the App Store: https://apps.apple.com/us
+ /app/fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-gravity-fact-of
+ -the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3f6d2b3aa6e3c7f7e881@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Newton published his law of universal gravitation in the Princi
+ pia in 1687.\n\nNow flip it: one quick run in a gravity game makes a good 
+ 60-second break.\n\n—\nFrom Fluxo: Gravity Runner\, free on the App Stor
+ e: https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this calendar: htt
+ ps://honestlittleapps.github.io/calendars/gravity-fact-of-the-day-calendar
+ /
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d9fd08fe2f2cc1337d93@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Gravity fact of the day
+DESCRIPTION:To escape Earth's gravity without further thrust\, you'd need a
+ bout 11.2 km per second.\n\nNow flip it: one quick run in a gravity game m
+ akes a good 60-second break.\n\n—\nFrom Fluxo: Gravity Runner\, free on 
+ the App Store: https://apps.apple.com/us/app/fluxo-gravity-runner/id678764
+ 1780?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/gravity-fact-of-the-
+ day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:967cd1cf2ec4add8cf84@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Astronauts on the ISS float because they're in constant free fa
+ ll. Gravity up there is still about 90% of what it is on the ground.\n\nNo
+ w flip it: one quick run in a gravity game makes a good 60-second break.\n
+ \n—\nFrom Fluxo: Gravity Runner\, free on the App Store: https://apps.ap
+ ple.com/us/app/fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-gravi
+ ty-fact-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittlea
+ pps.github.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:247b6a36542be5920fea@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Einstein's general relativity (1915) describes gravity as the c
+ urving of space and time by mass.\n\nNow flip it: one quick run in a gravi
+ ty game makes a good 60-second break.\n\n—\nFrom Fluxo: Gravity Runner\,
+  free on the App Store: https://apps.apple.com/us/app/fluxo-gravity-runner
+ /id6787641780?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbo
+ ut this calendar: https://honestlittleapps.github.io/calendars/gravity-fac
+ t-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8d29b5ece47b4ba6c580@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Gravity fact of the day
+DESCRIPTION:LIGO first detected gravitational waves on September 14\, 2015\
+ , from two black holes merging over a billion light-years away.\n\nNow fli
+ p it: one quick run in a gravity game makes a good 60-second break.\n\n—
+ \nFrom Fluxo: Gravity Runner\, free on the App Store: https://apps.apple.c
+ om/us/app/fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-gravity-fa
+ ct-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6d1cff6421aef4ca517d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Ocean tides come mostly from the Moon's gravity. The Sun's tida
+ l effect is a little under half as strong.\n\nNow flip it: one quick run i
+ n a gravity game makes a good 60-second break.\n\n—\nFrom Fluxo: Gravity
+  Runner\, free on the App Store: https://apps.apple.com/us/app/fluxo-gravi
+ ty-runner/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/gr
+ avity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ca8abc1c4a4403dd43e7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Gravity fact of the day
+DESCRIPTION:A neutron star's surface gravity is on the order of a hundred b
+ illion times Earth's.\n\nNow flip it: one quick run in a gravity game make
+ s a good 60-second break.\n\n—\nFrom Fluxo: Gravity Runner\, free on the
+  App Store: https://apps.apple.com/us/app/fluxo-gravity-runner/id678764178
+ 0?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/gravity-fact-of-the-day
+ -calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6a29236a2df6287a8794@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Pluto's surface gravity is about 0.62 m/s²\, around 6% of Eart
+ h's.\n\nNow flip it: one quick run in a gravity game makes a good 60-secon
+ d break.\n\n—\nFrom Fluxo: Gravity Runner\, free on the App Store: https
+ ://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=129123876&ct
+ =cal-gravity-fact-of-the-day-calend&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1885d5f0a1fd462b7e3c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Gravity fact of the day
+DESCRIPTION:A belly-down skydiver reaches a terminal speed of roughly 200 k
+ m/h (about 120 mph).\n\nNow flip it: one quick run in a gravity game makes
+  a good 60-second break.\n\n—\nFrom Fluxo: Gravity Runner\, free on the 
+ App Store: https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780
+ ?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/gravity-fact-of-the-day-
+ calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:377ee607948a6ba5cbb4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Gravity fact of the day
+DESCRIPTION:GPS satellite clocks gain about 38 microseconds a day relative 
+ to the ground\, mainly because gravity is weaker up there. The system corr
+ ects for it.\n\nNow flip it: one quick run in a gravity game makes a good 
+ 60-second break.\n\n—\nFrom Fluxo: Gravity Runner\, free on the App Stor
+ e: https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this calendar: htt
+ ps://honestlittleapps.github.io/calendars/gravity-fact-of-the-day-calendar
+ /
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1eb2348126cba331fabc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Gravity is a little weaker at the equator (about 9.78 m/s²) th
+ an at the poles (about 9.83 m/s²).\n\nNow flip it: one quick run in a gra
+ vity game makes a good 60-second break.\n\n—\nFrom Fluxo: Gravity Runner
+ \, free on the App Store: https://apps.apple.com/us/app/fluxo-gravity-runn
+ er/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nA
+ bout this calendar: https://honestlittleapps.github.io/calendars/gravity-f
+ act-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:827a1d09f142562f5999@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Gravity fact of the day
+DESCRIPTION:The Sun holds about 99.8% of all the mass in the solar system.\
+ n\nNow flip it: one quick run in a gravity game makes a good 60-second bre
+ ak.\n\n—\nFrom Fluxo: Gravity Runner\, free on the App Store: https://ap
+ ps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-
+ gravity-fact-of-the-day-calend&mt=8\nAbout this calendar: https://honestli
+ ttleapps.github.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f63e06af7c4a5b0cfab4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Changes in gravity travel at the speed of light. If the Sun van
+ ished\, Earth would keep orbiting for about 8 minutes.\n\nNow flip it: one
+  quick run in a gravity game makes a good 60-second break.\n\n—\nFrom Fl
+ uxo: Gravity Runner\, free on the App Store: https://apps.apple.com/us/app
+ /fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the
+ -day-calend&mt=8\nAbout this calendar: https://honestlittleapps.github.io/
+ calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:61082b1fa08cd9238b26@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Gravity fact of the day
+DESCRIPTION:The Moon drifts about 3.8 cm farther from Earth every year. Las
+ er reflectors left by Apollo measure it.\n\nNow flip it: one quick run in 
+ a gravity game makes a good 60-second break.\n\n—\nFrom Fluxo: Gravity R
+ unner\, free on the App Store: https://apps.apple.com/us/app/fluxo-gravity
+ -runner/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/grav
+ ity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c613cef927d03bcec255@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Tidal friction is slowly lengthening Earth's day\, by roughly 2
+  milliseconds per century.\n\nNow flip it: one quick run in a gravity game
+  makes a good 60-second break.\n\n—\nFrom Fluxo: Gravity Runner\, free o
+ n the App Store: https://apps.apple.com/us/app/fluxo-gravity-runner/id6787
+ 641780?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/gravity-fact-of-th
+ e-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1f7767a5c135ebe166a3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Gravity fact of the day
+DESCRIPTION:In April 2019 the Event Horizon Telescope released the first im
+ age of a black hole's shadow\, in galaxy M87.\n\nNow flip it: one quick ru
+ n in a gravity game makes a good 60-second break.\n\n—\nFrom Fluxo: Grav
+ ity Runner\, free on the App Store: https://apps.apple.com/us/app/fluxo-gr
+ avity-runner/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the-day-cale
+ nd&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars
+ /gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:934986dc09594dd69048@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Gravity is by far the weakest of the four fundamental forces. B
+ etween two protons it's about 10³⁶ times weaker than electromagnetism.\
+ n\nNow flip it: one quick run in a gravity game makes a good 60-second bre
+ ak.\n\n—\nFrom Fluxo: Gravity Runner\, free on the App Store: https://ap
+ ps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-
+ gravity-fact-of-the-day-calend&mt=8\nAbout this calendar: https://honestli
+ ttleapps.github.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:61024e1d633110b60df0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Gravity fact of the day
+DESCRIPTION:NASA reports that astronauts can lose around 1–1.5% of bone m
+ ass per month in microgravity without countermeasures.\n\nNow flip it: one
+  quick run in a gravity game makes a good 60-second break.\n\n—\nFrom Fl
+ uxo: Gravity Runner\, free on the App Store: https://apps.apple.com/us/app
+ /fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the
+ -day-calend&mt=8\nAbout this calendar: https://honestlittleapps.github.io/
+ calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e89305053f7f7ed995@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Venus's surface gravity is about 8.87 m/s²\, around 90% of Ear
+ th's.\n\nNow flip it: one quick run in a gravity game makes a good 60-seco
+ nd break.\n\n—\nFrom Fluxo: Gravity Runner\, free on the App Store: http
+ s://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=129123876&c
+ t=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5b35be205c356f32b6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Saturn is huge but not dense\, so gravity at its cloud tops (ab
+ out 10.4 m/s²) is close to Earth's.\n\nNow flip it: one quick run in a gr
+ avity game makes a good 60-second break.\n\n—\nFrom Fluxo: Gravity Runne
+ r\, free on the App Store: https://apps.apple.com/us/app/fluxo-gravity-run
+ ner/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt=8\n
+ About this calendar: https://honestlittleapps.github.io/calendars/gravity-
+ fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ba02b98557d523c2e096@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Gravity fact of the day
+DESCRIPTION:The James Webb Space Telescope orbits near L2\, a gravitational
+  balance point about 1.5 million km from Earth.\n\nNow flip it: one quick 
+ run in a gravity game makes a good 60-second break.\n\n—\nFrom Fluxo: Gr
+ avity Runner\, free on the App Store: https://apps.apple.com/us/app/fluxo-
+ gravity-runner/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the-day-ca
+ lend&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:759e2bd656bbb88fdeed@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Voyager 2 used gravity assists from Jupiter\, Saturn\, Uranus a
+ nd Neptune. It's still the only spacecraft to visit the last two.\n\nNow f
+ lip it: one quick run in a gravity game makes a good 60-second break.\n\n
+ —\nFrom Fluxo: Gravity Runner\, free on the App Store: https://apps.appl
+ e.com/us/app/fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-gravity
+ -fact-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapp
+ s.github.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0d2d20825788ee848705@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Gravity fact of the day
+DESCRIPTION:In 1798 Henry Cavendish measured the tiny gravitational pull be
+ tween lead spheres\, which effectively 'weighed' the Earth.\n\nNow flip it
+ : one quick run in a gravity game makes a good 60-second break.\n\n—\nFr
+ om Fluxo: Gravity Runner\, free on the App Store: https://apps.apple.com/u
+ s/app/fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-gravity-fact-o
+ f-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.githu
+ b.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7f6abd08371c021af01b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Gravity fact of the day
+DESCRIPTION:A scale that reads 70 kg on Earth would read about 11.6 kg on t
+ he Moon.\n\nNow flip it: one quick run in a gravity game makes a good 60-s
+ econd break.\n\n—\nFrom Fluxo: Gravity Runner\, free on the App Store: h
+ ttps://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=12912387
+ 6&ct=cal-gravity-fact-of-the-day-calend&mt=8\nAbout this calendar: https:/
+ /honestlittleapps.github.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9d28aaeed2c3da82ee1f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Fighter pilots with g-suits can tolerate around 9 g\, nine time
+ s their body weight\, for short periods.\n\nNow flip it: one quick run in 
+ a gravity game makes a good 60-second break.\n\n—\nFrom Fluxo: Gravity R
+ unner\, free on the App Store: https://apps.apple.com/us/app/fluxo-gravity
+ -runner/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the-day-calend&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/grav
+ ity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:934c73419d4b77c66b65@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Gravity fact of the day
+DESCRIPTION:The falling-apple story comes from Newton himself\, recounted b
+ y his friend William Stukeley. No\, it didn't hit his head.\n\nNow flip it
+ : one quick run in a gravity game makes a good 60-second break.\n\n—\nFr
+ om Fluxo: Gravity Runner\, free on the App Store: https://apps.apple.com/u
+ s/app/fluxo-gravity-runner/id6787641780?pt=129123876&ct=cal-gravity-fact-o
+ f-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.githu
+ b.io/calendars/gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4ed7883b53698d75d151@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Gravity fact of the day
+DESCRIPTION:Black holes don't 'suck'. From far away\, a black hole pulls ju
+ st like any other object with the same mass.\n\nNow flip it: one quick run
+  in a gravity game makes a good 60-second break.\n\n—\nFrom Fluxo: Gravi
+ ty Runner\, free on the App Store: https://apps.apple.com/us/app/fluxo-gra
+ vity-runner/id6787641780?pt=129123876&ct=cal-gravity-fact-of-the-day-calen
+ d&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ gravity-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/fluxo-gravity-runner/id6787641780?pt=1291
+ 23876&ct=cal-gravity-fact-of-the-day-calend&mt=8
+END:VEVENT
+END:VCALENDAR

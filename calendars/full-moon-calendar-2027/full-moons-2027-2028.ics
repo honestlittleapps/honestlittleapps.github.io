@@ -1,0 +1,618 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Full moons & seasons
+X-WR-CALDESC:Free full moon calendar for 2027-2028 with exact peak times in
+  your own time zone\, traditional moon names (Wolf\, Pink\, Harvest...) an
+ d every equinox and solstice. https://honestlittleapps.github.io/calendars
+ /full-moon-calendar-2027/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#3f7a2a
+X-APPLE-CALENDAR-COLOR:#3f7a2a
+BEGIN:VEVENT
+UID:9c89bf55b5e65cc95b17@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261124T145300Z
+DTEND:20261124T152300Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Beaver Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Beaver Moon is a traditional folk name used in North American almanacs.
+ \n\nGrove idea: step outside for two minutes tonight and look up.\n\n—\n
+ From Puffgrove: Grove Creatures\, free on the App Store: https://apps.appl
+ e.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-fu
+ ll-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ba8d98db50bf983e2d7d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261224T012800Z
+DTEND:20261224T015800Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Cold Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Cold Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:52f263917003a3d6e65a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270122T121700Z
+DTEND:20270122T124700Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Wolf Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Wolf Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:481589cb27ab72f359a9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270220T232300Z
+DTEND:20270220T235300Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Snow Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Snow Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:93988d63e7a7ee608f16@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270322T104300Z
+DTEND:20270322T111300Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Worm Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Worm Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:42c1730da980764e2936@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270420T222700Z
+DTEND:20270420T225700Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Pink Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Pink Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:70e0900edabd9569d228@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270520T105800Z
+DTEND:20270520T112800Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Flower Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Flower Moon is a traditional folk name used in North American almanacs.
+ \n\nGrove idea: step outside for two minutes tonight and look up.\n\n—\n
+ From Puffgrove: Grove Creatures\, free on the App Store: https://apps.appl
+ e.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-fu
+ ll-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8879e7ac2b162f894efe@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270619T004400Z
+DTEND:20270619T011400Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Strawberry Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Strawberry Moon is a traditional folk name used in North American alman
+ acs.\n\nGrove idea: step outside for two minutes tonight and look up.\n\n
+ —\nFrom Puffgrove: Grove Creatures\, free on the App Store: https://apps
+ .apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=c
+ al-full-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittle
+ apps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:020f12342d54755b300e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270718T154400Z
+DTEND:20270718T161400Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Buck Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Buck Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9809f1b0a3d61d3efc66@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270817T072800Z
+DTEND:20270817T075800Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Sturgeon Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Sturgeon Moon is a traditional folk name used in North American almanac
+ s.\n\nGrove idea: step outside for two minutes tonight and look up.\n\n—
+ \nFrom Puffgrove: Grove Creatures\, free on the App Store: https://apps.ap
+ ple.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-
+ full-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapp
+ s.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3eee85de67b02a3550@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270915T230300Z
+DTEND:20270915T233300Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Corn Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Corn Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d44184921b66645583de@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20271015T134600Z
+DTEND:20271015T141600Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Hunter's Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Hunter's Moon is a traditional folk name used in North American almanac
+ s.\n\nGrove idea: step outside for two minutes tonight and look up.\n\n—
+ \nFrom Puffgrove: Grove Creatures\, free on the App Store: https://apps.ap
+ ple.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-
+ full-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapp
+ s.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:83e7bee8e190c68c770b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20271114T032500Z
+DTEND:20271114T035500Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Beaver Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Beaver Moon is a traditional folk name used in North American almanacs.
+ \n\nGrove idea: step outside for two minutes tonight and look up.\n\n—\n
+ From Puffgrove: Grove Creatures\, free on the App Store: https://apps.appl
+ e.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-fu
+ ll-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bbc60078d3039eeec4e7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20271213T160800Z
+DTEND:20271213T163800Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Cold Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Cold Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:09457308a3b1b592585b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280112T040200Z
+DTEND:20280112T043200Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Wolf Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Wolf Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e0d3793e4e622c34c2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280210T150300Z
+DTEND:20280210T153300Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Snow Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Snow Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab4b6e75f6524dc9802@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280311T010500Z
+DTEND:20280311T013500Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Worm Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Worm Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f9307ef4851b575c7088@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280409T102600Z
+DTEND:20280409T105600Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Pink Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Pink Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:113829da3387dcfccc2d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280508T194800Z
+DTEND:20280508T201800Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Flower Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Flower Moon is a traditional folk name used in North American almanacs.
+ \n\nGrove idea: step outside for two minutes tonight and look up.\n\n—\n
+ From Puffgrove: Grove Creatures\, free on the App Store: https://apps.appl
+ e.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-fu
+ ll-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:651dc8e7ca9ae00871f0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280607T060800Z
+DTEND:20280607T063800Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Strawberry Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Strawberry Moon is a traditional folk name used in North American alman
+ acs.\n\nGrove idea: step outside for two minutes tonight and look up.\n\n
+ —\nFrom Puffgrove: Grove Creatures\, free on the App Store: https://apps
+ .apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=c
+ al-full-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittle
+ apps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:98a53857562dd7fd88df@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280706T181000Z
+DTEND:20280706T184000Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Buck Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Buck Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:666c11134cd5323203d3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280805T080900Z
+DTEND:20280805T083900Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Sturgeon Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Sturgeon Moon is a traditional folk name used in North American almanac
+ s.\n\nGrove idea: step outside for two minutes tonight and look up.\n\n—
+ \nFrom Puffgrove: Grove Creatures\, free on the App Store: https://apps.ap
+ ple.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-
+ full-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapp
+ s.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2ddc2dd5de1746dd5b2f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280903T234700Z
+DTEND:20280904T001700Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Corn Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Corn Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:580bd9f2771652d77d88@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20281003T162400Z
+DTEND:20281003T165400Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Hunter's Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Hunter's Moon is a traditional folk name used in North American almanac
+ s.\n\nGrove idea: step outside for two minutes tonight and look up.\n\n—
+ \nFrom Puffgrove: Grove Creatures\, free on the App Store: https://apps.ap
+ ple.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-
+ full-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapp
+ s.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7d523b8d6b26c3ba11f2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20281102T091700Z
+DTEND:20281102T094700Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Beaver Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Beaver Moon is a traditional folk name used in North American almanacs.
+ \n\nGrove idea: step outside for two minutes tonight and look up.\n\n—\n
+ From Puffgrove: Grove Creatures\, free on the App Store: https://apps.appl
+ e.com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-fu
+ ll-moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3fda115349697bad3721@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20281202T014000Z
+DTEND:20281202T021000Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Cold Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Cold Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:232e89150e164b529fe9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20281231T164800Z
+DTEND:20281231T171800Z
+TRANSP:TRANSPARENT
+SUMMARY:Full moon: Cold Moon
+DESCRIPTION:The full moon peaks at this moment (shown in your time zone). T
+ he Cold Moon is a traditional folk name used in North American almanacs.\n
+ \nGrove idea: step outside for two minutes tonight and look up.\n\n—\nFr
+ om Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.
+ com/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full
+ -moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f757a9f28e9886561bd6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270320T202400Z
+DTEND:20270320T205400Z
+TRANSP:TRANSPARENT
+SUMMARY:March equinox
+DESCRIPTION:The March equinox happens at this moment (shown in your time zo
+ ne). In the Northern Hemisphere it marks the start of spring on the astron
+ omical calendar.\n\n—\nFrom Puffgrove: Grove Creatures\, free on the App
+  Store: https://apps.apple.com/us/app/puffgrove-grove-creatures/id68235669
+ 32?pt=129123876&ct=cal-full-moon-calendar-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:82fcca986f5035c26c7b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270621T141000Z
+DTEND:20270621T144000Z
+TRANSP:TRANSPARENT
+SUMMARY:June solstice
+DESCRIPTION:The June solstice happens at this moment (shown in your time zo
+ ne). In the Northern Hemisphere it marks the start of summer on the astron
+ omical calendar.\n\n—\nFrom Puffgrove: Grove Creatures\, free on the App
+  Store: https://apps.apple.com/us/app/puffgrove-grove-creatures/id68235669
+ 32?pt=129123876&ct=cal-full-moon-calendar-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3c02fbfeb906d0236d89@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20270923T060100Z
+DTEND:20270923T063100Z
+TRANSP:TRANSPARENT
+SUMMARY:September equinox
+DESCRIPTION:The September equinox happens at this moment (shown in your tim
+ e zone). In the Northern Hemisphere it marks the start of autumn on the as
+ tronomical calendar.\n\n—\nFrom Puffgrove: Grove Creatures\, free on the
+  App Store: https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823
+ 566932?pt=129123876&ct=cal-full-moon-calendar-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:327ead2332c75bc7c1f2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20271222T024100Z
+DTEND:20271222T031100Z
+TRANSP:TRANSPARENT
+SUMMARY:December solstice
+DESCRIPTION:The December solstice happens at this moment (shown in your tim
+ e zone). In the Northern Hemisphere it marks the start of winter on the as
+ tronomical calendar.\n\n—\nFrom Puffgrove: Grove Creatures\, free on the
+  App Store: https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823
+ 566932?pt=129123876&ct=cal-full-moon-calendar-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f64bacd7bb74472054cc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280320T021600Z
+DTEND:20280320T024600Z
+TRANSP:TRANSPARENT
+SUMMARY:March equinox
+DESCRIPTION:The March equinox happens at this moment (shown in your time zo
+ ne). In the Northern Hemisphere it marks the start of spring on the astron
+ omical calendar.\n\n—\nFrom Puffgrove: Grove Creatures\, free on the App
+  Store: https://apps.apple.com/us/app/puffgrove-grove-creatures/id68235669
+ 32?pt=129123876&ct=cal-full-moon-calendar-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3feafd75d33ae5e8226e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280620T200200Z
+DTEND:20280620T203200Z
+TRANSP:TRANSPARENT
+SUMMARY:June solstice
+DESCRIPTION:The June solstice happens at this moment (shown in your time zo
+ ne). In the Northern Hemisphere it marks the start of summer on the astron
+ omical calendar.\n\n—\nFrom Puffgrove: Grove Creatures\, free on the App
+  Store: https://apps.apple.com/us/app/puffgrove-grove-creatures/id68235669
+ 32?pt=129123876&ct=cal-full-moon-calendar-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b9199ef39cd4efbea32a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20280922T114500Z
+DTEND:20280922T121500Z
+TRANSP:TRANSPARENT
+SUMMARY:September equinox
+DESCRIPTION:The September equinox happens at this moment (shown in your tim
+ e zone). In the Northern Hemisphere it marks the start of autumn on the as
+ tronomical calendar.\n\n—\nFrom Puffgrove: Grove Creatures\, free on the
+  App Store: https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823
+ 566932?pt=129123876&ct=cal-full-moon-calendar-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:82b3b6565577e73d2214@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20281221T081900Z
+DTEND:20281221T084900Z
+TRANSP:TRANSPARENT
+SUMMARY:December solstice
+DESCRIPTION:The December solstice happens at this moment (shown in your tim
+ e zone). In the Northern Hemisphere it marks the start of winter on the as
+ tronomical calendar.\n\n—\nFrom Puffgrove: Grove Creatures\, free on the
+  App Store: https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823
+ 566932?pt=129123876&ct=cal-full-moon-calendar-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d656ae6f07e10e9f6e51@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261221T204900Z
+DTEND:20261221T211900Z
+TRANSP:TRANSPARENT
+SUMMARY:December solstice
+DESCRIPTION:The December solstice happens at this moment (shown in your tim
+ e zone). Longest night of the year in the Northern Hemisphere.\n\n—\nFro
+ m Puffgrove: Grove Creatures\, free on the App Store: https://apps.apple.c
+ om/us/app/puffgrove-grove-creatures/id6823566932?pt=129123876&ct=cal-full-
+ moon-calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.git
+ hub.io/calendars/full-moon-calendar-2027/
+URL:https://apps.apple.com/us/app/puffgrove-grove-creatures/id6823566932?pt
+ =129123876&ct=cal-full-moon-calendar-2027&mt=8
+END:VEVENT
+END:VCALENDAR

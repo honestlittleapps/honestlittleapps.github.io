@@ -1,0 +1,323 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Health awareness days
+X-WR-CALDESC:Free calendar of 18 global health awareness days (World Health
+  Day\, World Heart Day\, World Diabetes Day and more)\, each with a short\
+ , sourced fact. Repeats every year. https://honestlittleapps.github.io/cal
+ endars/health-awareness-days-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#8f1d24
+X-APPLE-CALENDAR-COLOR:#8f1d24
+BEGIN:VEVENT
+UID:accfbe9810fa51f2a432@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Cancer Day
+DESCRIPTION:World Cancer Day.\n\nLed by the Union for International Cancer 
+ Control. Many cancers are linked to tobacco\, alcohol\, inactivity and UV 
+ exposure\, all things you can change.\n\n—\nFrom Body Unpacked: Health A
+ tlas\, free on the App Store: https://apps.apple.com/us/app/body-unpacked-
+ health-atlas/id6819135509?pt=129123876&ct=cal-health-awareness-days-calend
+ ar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars
+ /health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:db82e10a10f053ca6194@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Hearing Day
+DESCRIPTION:World Hearing Day.\n\nWHO campaign. Keep headphone volume moder
+ ate and take breaks\; noise-induced hearing loss is permanent but preventa
+ ble.\n\n—\nFrom Body Unpacked: Health Atlas\, free on the App Store: htt
+ ps://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?pt=1291
+ 23876&ct=cal-health-awareness-days-calendar&mt=8\nAbout this calendar: htt
+ ps://honestlittleapps.github.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f33d4796b86354b63ab6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Water Day
+DESCRIPTION:World Water Day.\n\nUN observance about access to safe water. Y
+ our body is roughly 50–60% water by weight in adults.\n\n—\nFrom Body 
+ Unpacked: Health Atlas\, free on the App Store: https://apps.apple.com/us/
+ app/body-unpacked-health-atlas/id6819135509?pt=129123876&ct=cal-health-awa
+ reness-days-calendar&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3fe596dd71af9451a7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Tuberculosis Day
+DESCRIPTION:World Tuberculosis Day.\n\nMarks the day in 1882 Robert Koch an
+ nounced the cause of TB. TB is preventable and curable.\n\n—\nFrom Body 
+ Unpacked: Health Atlas\, free on the App Store: https://apps.apple.com/us/
+ app/body-unpacked-health-atlas/id6819135509?pt=129123876&ct=cal-health-awa
+ reness-days-calendar&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:748083d471a574d56a6c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Health Day
+DESCRIPTION:World Health Day.\n\nWHO's founding day (1948). Each year has a
+  different health theme.\n\n—\nFrom Body Unpacked: Health Atlas\, free o
+ n the App Store: https://apps.apple.com/us/app/body-unpacked-health-atlas/
+ id6819135509?pt=129123876&ct=cal-health-awareness-days-calendar&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/health-aware
+ ness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0567369eeb0872771bc6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Malaria Day
+DESCRIPTION:World Malaria Day.\n\nMalaria is spread by the bite of infected
+  Anopheles mosquitoes and is preventable and treatable.\n\n—\nFrom Body 
+ Unpacked: Health Atlas\, free on the App Store: https://apps.apple.com/us/
+ app/body-unpacked-health-atlas/id6819135509?pt=129123876&ct=cal-health-awa
+ reness-days-calendar&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:703c78c6af0694bd894c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Hand Hygiene Day
+DESCRIPTION:World Hand Hygiene Day.\n\nWHO's 'SAVE LIVES: Clean Your Hands'
+  day. Twenty seconds with soap removes many germs that sanitiser misses.\n
+ \n—\nFrom Body Unpacked: Health Atlas\, free on the App Store: https://a
+ pps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?pt=129123876&
+ ct=cal-health-awareness-days-calendar&mt=8\nAbout this calendar: https://h
+ onestlittleapps.github.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:86ffe63cd6d59e7dcd33@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World No Tobacco Day
+DESCRIPTION:World No Tobacco Day.\n\nWHO campaign. Within weeks to months o
+ f quitting\, circulation and lung function begin to improve.\n\n—\nFrom 
+ Body Unpacked: Health Atlas\, free on the App Store: https://apps.apple.co
+ m/us/app/body-unpacked-health-atlas/id6819135509?pt=129123876&ct=cal-healt
+ h-awareness-days-calendar&mt=8\nAbout this calendar: https://honestlittlea
+ pps.github.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6bef713ff032e39d1cc9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Blood Donor Day
+DESCRIPTION:World Blood Donor Day.\n\nThanks voluntary donors. One donation
+  is split into components that can help more than one patient.\n\n—\nFro
+ m Body Unpacked: Health Atlas\, free on the App Store: https://apps.apple.
+ com/us/app/body-unpacked-health-atlas/id6819135509?pt=129123876&ct=cal-hea
+ lth-awareness-days-calendar&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:404bb50f280da9a68d65@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Hepatitis Day
+DESCRIPTION:World Hepatitis Day.\n\nHepatitis B can be prevented by vaccine
+ \, and hepatitis C is curable with treatment.\n\n—\nFrom Body Unpacked: 
+ Health Atlas\, free on the App Store: https://apps.apple.com/us/app/body-u
+ npacked-health-atlas/id6819135509?pt=129123876&ct=cal-health-awareness-day
+ s-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/c
+ alendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:97deb99b6aca827b0067@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Alzheimer's Day
+DESCRIPTION:World Alzheimer's Day.\n\nAlzheimer's is the most common cause 
+ of dementia. Regular activity\, blood-pressure control and hearing care ar
+ e among the factors studied for risk reduction.\n\n—\nFrom Body Unpacked
+ : Health Atlas\, free on the App Store: https://apps.apple.com/us/app/body
+ -unpacked-health-atlas/id6819135509?pt=129123876&ct=cal-health-awareness-d
+ ays-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io
+ /calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6ccc9009c5d767c14937@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Heart Day
+DESCRIPTION:World Heart Day.\n\nWorld Heart Federation. Your heart beats ab
+ out 100\,000 times a day.\n\n—\nFrom Body Unpacked: Health Atlas\, free 
+ on the App Store: https://apps.apple.com/us/app/body-unpacked-health-atlas
+ /id6819135509?pt=129123876&ct=cal-health-awareness-days-calendar&mt=8\nAbo
+ ut this calendar: https://honestlittleapps.github.io/calendars/health-awar
+ eness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9f67ee46a767241c96b2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Mental Health Day
+DESCRIPTION:World Mental Health Day.\n\nWorld Federation for Mental Health.
+  In the U.S.\, you can call or text 988 to reach the Suicide & Crisis Life
+ line.\n\n—\nFrom Body Unpacked: Health Atlas\, free on the App Store: ht
+ tps://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?pt=129
+ 123876&ct=cal-health-awareness-days-calendar&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5087a09f698481e5f0db@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Food Day
+DESCRIPTION:World Food Day.\n\nFAO's founding day. Fibre from beans\, whole
+  grains\, fruit and vegetables feeds your gut bacteria.\n\n—\nFrom Body 
+ Unpacked: Health Atlas\, free on the App Store: https://apps.apple.com/us/
+ app/body-unpacked-health-atlas/id6819135509?pt=129123876&ct=cal-health-awa
+ reness-days-calendar&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd29caea89d8663966e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Osteoporosis Day
+DESCRIPTION:World Osteoporosis Day.\n\nBone density peaks in early adulthoo
+ d. Weight-bearing exercise\, calcium and vitamin D help maintain it.\n\n
+ —\nFrom Body Unpacked: Health Atlas\, free on the App Store: https://app
+ s.apple.com/us/app/body-unpacked-health-atlas/id6819135509?pt=129123876&ct
+ =cal-health-awareness-days-calendar&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7be9dd5ba3164ad58eb1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Stroke Day
+DESCRIPTION:World Stroke Day.\n\nLearn BE FAST: Balance\, Eyes\, Face\, Arm
+ s\, Speech\, Time to call emergency services.\n\n—\nFrom Body Unpacked: 
+ Health Atlas\, free on the App Store: https://apps.apple.com/us/app/body-u
+ npacked-health-atlas/id6819135509?pt=129123876&ct=cal-health-awareness-day
+ s-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/c
+ alendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9308848bd137b225e0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World Diabetes Day
+DESCRIPTION:World Diabetes Day.\n\nMarks the birthday of Frederick Banting\
+ , co-discoverer of insulin.\n\n—\nFrom Body Unpacked: Health Atlas\, fre
+ e on the App Store: https://apps.apple.com/us/app/body-unpacked-health-atl
+ as/id6819135509?pt=129123876&ct=cal-health-awareness-days-calendar&mt=8\nA
+ bout this calendar: https://honestlittleapps.github.io/calendars/health-aw
+ areness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:023485c9903e5940e095@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:World AIDS Day
+DESCRIPTION:World AIDS Day.\n\nFirst held in 1988. HIV treatment can reduce
+  the virus to undetectable levels\, which prevents sexual transmission.\n\
+ n—\nFrom Body Unpacked: Health Atlas\, free on the App Store: https://ap
+ ps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?pt=129123876&c
+ t=cal-health-awareness-days-calendar&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/health-awareness-days-calendar/
+URL:https://apps.apple.com/us/app/body-unpacked-health-atlas/id6819135509?p
+ t=129123876&ct=cal-health-awareness-days-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

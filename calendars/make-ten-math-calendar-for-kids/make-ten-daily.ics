@@ -1,0 +1,573 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Make ten — daily
+X-WR-CALDESC:A free daily calendar of three quick 'make ten' number-bond qu
+ estions for kids (ages 5-8): bonds to 10\, bridging through ten\, and subt
+ racting to 10. Answers included. https://honestlittleapps.github.io/calend
+ ars/make-ten-math-calendar-for-kids/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#6a2bc4
+X-APPLE-CALENDAR-COLOR:#6a2bc4
+BEGIN:VEVENT
+UID:215cd6e8b8554825d40a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 4 + ? = 10\n2) 7 + 6 = 10 + ?\n3) 18 − 
+ ? = 10\n\nTip for 2: give 3 from the 6 to the 7 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 6  2) 3 (so 7 + 6 = 13)  3) 8\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d0d27cd546bfaf88d5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 2 + ? = 10\n2) 6 + 8 = 10 + ?\n3) 15 − 
+ ? = 10\n\nTip for 2: give 4 from the 8 to the 6 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 8  2) 4 (so 6 + 8 = 14)  3) 5\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:99d7c1be60abb40528fd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 9 + ? = 10\n2) 7 + 5 = 10 + ?\n3) 18 − 
+ ? = 10\n\nTip for 2: give 3 from the 5 to the 7 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 1  2) 2 (so 7 + 5 = 12)  3) 8\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6f28653593d8c5843d6c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 9 + ? = 10\n2) 9 + 8 = 10 + ?\n3) 13 − 
+ ? = 10\n\nTip for 2: give 1 from the 8 to the 9 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 1  2) 7 (so 9 + 8 = 17)  3) 3\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a3cb251a54edbe38a4b8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 4 + ? = 10\n2) 7 + 8 = 10 + ?\n3) 17 − 
+ ? = 10\n\nTip for 2: give 3 from the 8 to the 7 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 6  2) 5 (so 7 + 8 = 15)  3) 7\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc99f4f59036b0f13f2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 1 + ? = 10\n2) 6 + 6 = 10 + ?\n3) 11 − 
+ ? = 10\n\nTip for 2: give 4 from the 6 to the 6 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 9  2) 2 (so 6 + 6 = 12)  3) 1\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:29513895c10019284eb8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 5 + ? = 10\n2) 6 + 7 = 10 + ?\n3) 18 − 
+ ? = 10\n\nTip for 2: give 4 from the 7 to the 6 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 5  2) 3 (so 6 + 7 = 13)  3) 8\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:77a4010faa934a0d4674@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 7 + ? = 10\n2) 9 + 8 = 10 + ?\n3) 18 − 
+ ? = 10\n\nTip for 2: give 1 from the 8 to the 9 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 3  2) 7 (so 9 + 8 = 17)  3) 8\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4784074ee4a4db240d20@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 3 + ? = 10\n2) 8 + 3 = 10 + ?\n3) 11 − 
+ ? = 10\n\nTip for 2: give 2 from the 3 to the 8 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 7  2) 1 (so 8 + 3 = 11)  3) 1\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ec664880bef781628ee7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 3 + ? = 10\n2) 9 + 5 = 10 + ?\n3) 15 − 
+ ? = 10\n\nTip for 2: give 1 from the 5 to the 9 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 7  2) 4 (so 9 + 5 = 14)  3) 5\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:86720032da8067f7dd3c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 7 + ? = 10\n2) 8 + 6 = 10 + ?\n3) 19 − 
+ ? = 10\n\nTip for 2: give 2 from the 6 to the 8 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 3  2) 4 (so 8 + 6 = 14)  3) 9\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:953a513a59cfd0918221@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 7 + ? = 10\n2) 8 + 7 = 10 + ?\n3) 17 − 
+ ? = 10\n\nTip for 2: give 2 from the 7 to the 8 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 3  2) 5 (so 8 + 7 = 15)  3) 7\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4d561c4560ddcc3bfc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 4 + ? = 10\n2) 8 + 8 = 10 + ?\n3) 11 − 
+ ? = 10\n\nTip for 2: give 2 from the 8 to the 8 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 6  2) 6 (so 8 + 8 = 16)  3) 1\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5173da108c3af27736@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 5 + ? = 10\n2) 7 + 9 = 10 + ?\n3) 16 − 
+ ? = 10\n\nTip for 2: give 3 from the 9 to the 7 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 5  2) 6 (so 7 + 9 = 16)  3) 6\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:92b50e2230d2a6cf8abe@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 9 + ? = 10\n2) 6 + 6 = 10 + ?\n3) 15 − 
+ ? = 10\n\nTip for 2: give 4 from the 6 to the 6 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 1  2) 2 (so 6 + 6 = 12)  3) 5\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:af35d9041ed5fee16e6a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 5 + ? = 10\n2) 6 + 5 = 10 + ?\n3) 18 − 
+ ? = 10\n\nTip for 2: give 4 from the 5 to the 6 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 5  2) 1 (so 6 + 5 = 11)  3) 8\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd4a2bfea7436fd3653@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 8 + ? = 10\n2) 6 + 7 = 10 + ?\n3) 12 − 
+ ? = 10\n\nTip for 2: give 4 from the 7 to the 6 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 2  2) 3 (so 6 + 7 = 13)  3) 2\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ca6d8d0eb22eabc7513c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 7 + ? = 10\n2) 7 + 4 = 10 + ?\n3) 15 − 
+ ? = 10\n\nTip for 2: give 3 from the 4 to the 7 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 3  2) 1 (so 7 + 4 = 11)  3) 5\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7fbe72cbd2a564a0fcd8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 7 + ? = 10\n2) 9 + 3 = 10 + ?\n3) 11 − 
+ ? = 10\n\nTip for 2: give 1 from the 3 to the 9 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 3  2) 2 (so 9 + 3 = 12)  3) 1\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0d6524f849a64526e4f0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 1 + ? = 10\n2) 9 + 7 = 10 + ?\n3) 19 − 
+ ? = 10\n\nTip for 2: give 1 from the 7 to the 9 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 9  2) 6 (so 9 + 7 = 16)  3) 9\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:263000ad5cd1a6e5869d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 5 + ? = 10\n2) 7 + 4 = 10 + ?\n3) 15 − 
+ ? = 10\n\nTip for 2: give 3 from the 4 to the 7 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 5  2) 1 (so 7 + 4 = 11)  3) 5\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2b288dc10ea4639cd408@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 1 + ? = 10\n2) 6 + 5 = 10 + ?\n3) 19 − 
+ ? = 10\n\nTip for 2: give 4 from the 5 to the 6 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 9  2) 1 (so 6 + 5 = 11)  3) 9\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7bfb82bdb349a91b3568@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 1 + ? = 10\n2) 7 + 7 = 10 + ?\n3) 15 − 
+ ? = 10\n\nTip for 2: give 3 from the 7 to the 7 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 9  2) 4 (so 7 + 7 = 14)  3) 5\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:424f7932f544197a98f1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 5 + ? = 10\n2) 7 + 9 = 10 + ?\n3) 11 − 
+ ? = 10\n\nTip for 2: give 3 from the 9 to the 7 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 5  2) 6 (so 7 + 9 = 16)  3) 1\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ccebad67ac482e3974@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 6 + ? = 10\n2) 8 + 5 = 10 + ?\n3) 13 − 
+ ? = 10\n\nTip for 2: give 2 from the 5 to the 8 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 4  2) 3 (so 8 + 5 = 13)  3) 3\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:04fb514febace9ca9a63@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 7 + ? = 10\n2) 9 + 9 = 10 + ?\n3) 19 − 
+ ? = 10\n\nTip for 2: give 1 from the 9 to the 9 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 3  2) 8 (so 9 + 9 = 18)  3) 9\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6f97f261c3c569c7c986@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 7 + ? = 10\n2) 6 + 9 = 10 + ?\n3) 19 − 
+ ? = 10\n\nTip for 2: give 4 from the 9 to the 6 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 3  2) 5 (so 6 + 9 = 15)  3) 9\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7a448a31b44b0b86ee7f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 5 + ? = 10\n2) 9 + 5 = 10 + ?\n3) 15 − 
+ ? = 10\n\nTip for 2: give 1 from the 5 to the 9 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 5  2) 4 (so 9 + 5 = 14)  3) 5\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bdd7b7ef88804283011d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 7 + ? = 10\n2) 8 + 7 = 10 + ?\n3) 15 − 
+ ? = 10\n\nTip for 2: give 2 from the 7 to the 8 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 3  2) 5 (so 8 + 7 = 15)  3) 5\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0ae0de10802b8553b9b5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 9 + ? = 10\n2) 8 + 3 = 10 + ?\n3) 17 − 
+ ? = 10\n\nTip for 2: give 2 from the 3 to the 8 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 1  2) 1 (so 8 + 3 = 11)  3) 7\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c259ca23e0b06427b81d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Make ten: today's three
+DESCRIPTION:Three quick ones:\n1) 6 + ? = 10\n2) 6 + 8 = 10 + ?\n3) 13 − 
+ ? = 10\n\nTip for 2: give 4 from the 8 to the 6 to make 10\, and see what'
+ s left.\n\n\n\nAnswers: 1) 4  2) 4 (so 6 + 8 = 14)  3) 3\n\n—\nFrom Numb
+ er Beasts: Bond Lab\, free on the App Store: https://apps.apple.com/us/app
+ /number-beasts-bond-lab/id6817125699?pt=129123876&ct=cal-make-ten-math-cal
+ endar-for-kid&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/make-ten-math-calendar-for-kids/
+URL:https://apps.apple.com/us/app/number-beasts-bond-lab/id6817125699?pt=12
+ 9123876&ct=cal-make-ten-math-calendar-for-kid&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Medication housekeeping
+X-WR-CALDESC:Free calendar for medication housekeeping: monthly refill chec
+ k\, quarterly caregiver list update\, twice-yearly cabinet clear-out and a
+ n annual pharmacist review. https://honestlittleapps.github.io/calendars/m
+ edication-refill-reminder-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#b5560c
+X-APPLE-CALENDAR-COLOR:#b5560c
+BEGIN:VEVENT
+UID:c9bb8c5fd8c53a9cf529@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Refill check: medications and pill organizer
+DESCRIPTION:• Count what's left of each medication\, and request refills 
+ for anything under 10 days.\n• Refill the weekly pill organizer for the 
+ week ahead.\n• Any new prescription\, dose change or stopped medicine th
+ is month? Update the written list.\n\n—\nFrom DoseBeacon: Pill Reminder\
+ , free on the App Store: https://apps.apple.com/us/app/dosebeacon-pill-rem
+ inder/id6796910918?pt=129123876&ct=cal-medication-refill-reminder-cal&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/medica
+ tion-refill-reminder-calendar/
+URL:https://apps.apple.com/us/app/dosebeacon-pill-reminder/id6796910918?pt=
+ 129123876&ct=cal-medication-refill-reminder-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce195c103dafc39c8bc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;INTERVAL=6
+SUMMARY:Medicine cabinet clear-out
+DESCRIPTION:Twice a year: check expiry dates\, and remove medicines you no 
+ longer take. The FDA lists safe disposal options\, including drug take-bac
+ k locations (many pharmacies have kiosks) and\, for some medicines\, house
+ hold-trash or flush instructions on the label.\n\n—\nFrom DoseBeacon: Pi
+ ll Reminder\, free on the App Store: https://apps.apple.com/us/app/dosebea
+ con-pill-reminder/id6796910918?pt=129123876&ct=cal-medication-refill-remin
+ der-cal&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/medication-refill-reminder-calendar/
+URL:https://apps.apple.com/us/app/dosebeacon-pill-reminder/id6796910918?pt=
+ 129123876&ct=cal-medication-refill-reminder-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5e021bbc0a9efca94bcd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;INTERVAL=3
+SUMMARY:Update the medication list for family and caregivers
+DESCRIPTION:Every three months: make sure a current medication list (name\,
+  dose\, time\, prescriber\, allergies) is somewhere family can find it\, l
+ ike your phone's Medical ID\, the fridge door or a shared note.\n\n—\nFr
+ om DoseBeacon: Pill Reminder\, free on the App Store: https://apps.apple.c
+ om/us/app/dosebeacon-pill-reminder/id6796910918?pt=129123876&ct=cal-medica
+ tion-refill-reminder-cal&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/medication-refill-reminder-calendar/
+URL:https://apps.apple.com/us/app/dosebeacon-pill-reminder/id6796910918?pt=
+ 129123876&ct=cal-medication-refill-reminder-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:96343acf4bf27c1946f9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:Ask the pharmacist: a medication review
+DESCRIPTION:Once a year\, ask your pharmacist or doctor to review everythin
+ g you take together\, including vitamins and over-the-counter items. Inter
+ actions and duplicates are easy to miss when several prescribers are invol
+ ved.\n\n—\nFrom DoseBeacon: Pill Reminder\, free on the App Store: https
+ ://apps.apple.com/us/app/dosebeacon-pill-reminder/id6796910918?pt=12912387
+ 6&ct=cal-medication-refill-reminder-cal&mt=8\nAbout this calendar: https:/
+ /honestlittleapps.github.io/calendars/medication-refill-reminder-calendar/
+URL:https://apps.apple.com/us/app/dosebeacon-pill-reminder/id6796910918?pt=
+ 129123876&ct=cal-medication-refill-reminder-cal&mt=8
+END:VEVENT
+END:VCALENDAR

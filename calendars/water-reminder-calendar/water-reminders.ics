@@ -1,0 +1,372 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Water check-ins
+X-WR-CALDESC:Free subscribable calendar with three gentle water check-ins a
+  day (10am\, 1pm\, 4pm) and a short\, evidence-based hydration tip in each
+ . Works in Apple Calendar. https://honestlittleapps.github.io/calendars/wa
+ ter-reminder-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#2b7fae
+X-APPLE-CALENDAR-COLOR:#2b7fae
+BEGIN:VEVENT
+UID:176e5ae838146de44f19@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261116T100000
+DTEND:20261116T100500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 10am
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nF
+ ill the bottle you actually carry and put it where your hand lands.\n\n—
+ \nFrom Dropkin: Water Reminder\, free on the App Store: https://apps.apple
+ .com/us/app/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-
+ reminder-calendar&mt=8\nAbout this calendar: https://honestlittleapps.gith
+ ub.io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a72ed7c30b582db2e961@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261117T100000
+DTEND:20261117T100500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 10am
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nD
+ rink a glass with your mid-morning coffee or tea\; it counts too.\n\n—\n
+ From Dropkin: Water Reminder\, free on the App Store: https://apps.apple.c
+ om/us/app/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-re
+ minder-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cfd9490e69b6c3d7616f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261118T100000
+DTEND:20261118T100500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 10am
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nD
+ ark-yellow urine is a common sign to drink more\; pale straw is the usual 
+ target.\n\n—\nFrom Dropkin: Water Reminder\, free on the App Store: http
+ s://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=129123876
+ &ct=cal-water-reminder-calendar&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ef185c613a3edf25ad@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261119T100000
+DTEND:20261119T100500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 10am
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nF
+ ill the bottle you actually carry and put it where your hand lands.\n\n—
+ \nFrom Dropkin: Water Reminder\, free on the App Store: https://apps.apple
+ .com/us/app/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-
+ reminder-calendar&mt=8\nAbout this calendar: https://honestlittleapps.gith
+ ub.io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3f07495758e81b079847@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261120T100000
+DTEND:20261120T100500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 10am
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nD
+ rink a glass with your mid-morning coffee or tea\; it counts too.\n\n—\n
+ From Dropkin: Water Reminder\, free on the App Store: https://apps.apple.c
+ om/us/app/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-re
+ minder-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe70ea5ece12d4ccabf@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261121T100000
+DTEND:20261121T100500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 10am
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nD
+ ark-yellow urine is a common sign to drink more\; pale straw is the usual 
+ target.\n\n—\nFrom Dropkin: Water Reminder\, free on the App Store: http
+ s://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=129123876
+ &ct=cal-water-reminder-calendar&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d10ae359f5639d4a8f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261122T100000
+DTEND:20261122T100500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 10am
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nF
+ ill the bottle you actually carry and put it where your hand lands.\n\n—
+ \nFrom Dropkin: Water Reminder\, free on the App Store: https://apps.apple
+ .com/us/app/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-
+ reminder-calendar&mt=8\nAbout this calendar: https://honestlittleapps.gith
+ ub.io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9f99151c58f687879ba4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261116T130000
+DTEND:20261116T130500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 1pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nH
+ ave a glass of water with lunch before the first bite.\n\n—\nFrom Dropki
+ n: Water Reminder\, free on the App Store: https://apps.apple.com/us/app/d
+ ropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-reminder-cale
+ ndar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3bbbb0e9ab7445c16bba@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261117T130000
+DTEND:20261117T130500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 1pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nF
+ ood supplies roughly a fifth of the water most people take in. Soups\, fru
+ it and vegetables all help.\n\n—\nFrom Dropkin: Water Reminder\, free on
+  the App Store: https://apps.apple.com/us/app/dropkin-water-reminder/id680
+ 6471522?pt=129123876&ct=cal-water-reminder-calendar&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3e6e78ed3371c8e972ae@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261118T130000
+DTEND:20261118T130500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 1pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nH
+ ot day or a workout? You'll need more than usual.\n\n—\nFrom Dropkin: Wa
+ ter Reminder\, free on the App Store: https://apps.apple.com/us/app/dropki
+ n-water-reminder/id6806471522?pt=129123876&ct=cal-water-reminder-calendar&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/wa
+ ter-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5d9f4f3daea84764c7b7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261119T130000
+DTEND:20261119T130500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 1pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nH
+ ave a glass of water with lunch before the first bite.\n\n—\nFrom Dropki
+ n: Water Reminder\, free on the App Store: https://apps.apple.com/us/app/d
+ ropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-reminder-cale
+ ndar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:97a3ced342a4594755ae@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261120T130000
+DTEND:20261120T130500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 1pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nF
+ ood supplies roughly a fifth of the water most people take in. Soups\, fru
+ it and vegetables all help.\n\n—\nFrom Dropkin: Water Reminder\, free on
+  the App Store: https://apps.apple.com/us/app/dropkin-water-reminder/id680
+ 6471522?pt=129123876&ct=cal-water-reminder-calendar&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d39185c02f8bf7788d45@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261121T130000
+DTEND:20261121T130500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 1pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nH
+ ot day or a workout? You'll need more than usual.\n\n—\nFrom Dropkin: Wa
+ ter Reminder\, free on the App Store: https://apps.apple.com/us/app/dropki
+ n-water-reminder/id6806471522?pt=129123876&ct=cal-water-reminder-calendar&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/wa
+ ter-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b79fb91c53fb5ff0d7b2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261122T130000
+DTEND:20261122T130500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 1pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nH
+ ave a glass of water with lunch before the first bite.\n\n—\nFrom Dropki
+ n: Water Reminder\, free on the App Store: https://apps.apple.com/us/app/d
+ ropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-reminder-cale
+ ndar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9ebd10a4f61be9e05abd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261116T160000
+DTEND:20261116T160500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 4pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nT
+ he afternoon slump is sometimes thirst. Try water before a snack.\n\n—\n
+ From Dropkin: Water Reminder\, free on the App Store: https://apps.apple.c
+ om/us/app/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-re
+ minder-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2fa6d3c466aafbedd78c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261117T160000
+DTEND:20261117T160500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 4pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nR
+ efill now so the bottle's ready for the drive home.\n\n—\nFrom Dropkin: 
+ Water Reminder\, free on the App Store: https://apps.apple.com/us/app/drop
+ kin-water-reminder/id6806471522?pt=129123876&ct=cal-water-reminder-calenda
+ r&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:96c1fb3c60b5ead6b4b9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261118T160000
+DTEND:20261118T160500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 4pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nL
+ ast big drink before evening\, so you're not up all night.\n\n—\nFrom Dr
+ opkin: Water Reminder\, free on the App Store: https://apps.apple.com/us/a
+ pp/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-reminder-
+ calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b3517981b58e1c32bf46@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261119T160000
+DTEND:20261119T160500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 4pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nT
+ he afternoon slump is sometimes thirst. Try water before a snack.\n\n—\n
+ From Dropkin: Water Reminder\, free on the App Store: https://apps.apple.c
+ om/us/app/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-re
+ minder-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:53f34e2c13745d5172a7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261120T160000
+DTEND:20261120T160500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 4pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nR
+ efill now so the bottle's ready for the drive home.\n\n—\nFrom Dropkin: 
+ Water Reminder\, free on the App Store: https://apps.apple.com/us/app/drop
+ kin-water-reminder/id6806471522?pt=129123876&ct=cal-water-reminder-calenda
+ r&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7966955c17c4a9b1585d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261121T160000
+DTEND:20261121T160500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 4pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nL
+ ast big drink before evening\, so you're not up all night.\n\n—\nFrom Dr
+ opkin: Water Reminder\, free on the App Store: https://apps.apple.com/us/a
+ pp/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-reminder-
+ calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:43642f523164f029a4c8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261122T160000
+DTEND:20261122T160500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Water check-in · 4pm
+DESCRIPTION:Quick check: have you had a drink since the last reminder?\n\nT
+ he afternoon slump is sometimes thirst. Try water before a snack.\n\n—\n
+ From Dropkin: Water Reminder\, free on the App Store: https://apps.apple.c
+ om/us/app/dropkin-water-reminder/id6806471522?pt=129123876&ct=cal-water-re
+ minder-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/water-reminder-calendar/
+URL:https://apps.apple.com/us/app/dropkin-water-reminder/id6806471522?pt=12
+ 9123876&ct=cal-water-reminder-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,525 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Money fact of the day
+X-WR-CALDESC:A free calendar with one money fact per day of the month: comp
+ ound interest\, the Rule of 72\, banknote history and budgeting basics. Fu
+ n for teens and adults. https://honestlittleapps.github.io/calendars/money
+ -fact-of-the-day-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#1f7a3a
+X-APPLE-CALENDAR-COLOR:#1f7a3a
+BEGIN:VEVENT
+UID:0e610102afd77a514a42@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Money fact of the day
+DESCRIPTION:Rule of 72: divide 72 by an annual growth rate to estimate how 
+ many years it takes to double. At 8%\, about 9 years.\n\n—\nFrom Cash Em
+ pire Clicker\, free on the App Store: https://apps.apple.com/us/app/cash-e
+ mpire-clicker/id6787609925?pt=129123876&ct=cal-money-fact-of-the-day-calen
+ dar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fd8efd5d38bed49ef076@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Money fact of the day
+DESCRIPTION:$1\,000 growing at 7% a year becomes about $7\,600 after 30 yea
+ rs. That's compounding.\n\n—\nFrom Cash Empire Clicker\, free on the App
+  Store: https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=
+ 129123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/money-fact-of-the-day-calend
+ ar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:36bdbcfd8ba12bb69e1c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Money fact of the day
+DESCRIPTION:The Federal Reserve estimates a US $1 bill lasts about 6.6 year
+ s in circulation.\n\n—\nFrom Cash Empire Clicker\, free on the App Store
+ : https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=129123
+ 876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d722ae97859878f3bbec@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Money fact of the day
+DESCRIPTION:US paper money is 75% cotton and 25% linen\, which is why it su
+ rvives the wash.\n\n—\nFrom Cash Empire Clicker\, free on the App Store:
+  https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=1291238
+ 76&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e54f300e81bb948836db@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Money fact of the day
+DESCRIPTION:Some of the first coins were struck in Lydia (modern Turkey) ar
+ ound 2\,600 years ago.\n\n—\nFrom Cash Empire Clicker\, free on the App 
+ Store: https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=1
+ 29123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/money-fact-of-the-day-calenda
+ r/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:708c8ff21341811fe9ec@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Money fact of the day
+DESCRIPTION:Paper money took off in China under the Song dynasty\, around 1
+ \,000 years ago.\n\n—\nFrom Cash Empire Clicker\, free on the App Store:
+  https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=1291238
+ 76&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2c1c194bdb246b590d45@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Money fact of the day
+DESCRIPTION:A common guideline is an emergency fund covering 3–6 months o
+ f essential expenses.\n\n—\nFrom Cash Empire Clicker\, free on the App S
+ tore: https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12
+ 9123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: h
+ ttps://honestlittleapps.github.io/calendars/money-fact-of-the-day-calendar
+ /
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff05c3f1c7e137338e9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Money fact of the day
+DESCRIPTION:At 3% inflation\, prices roughly double in 24 years (72 ÷ 3).\
+ n\n—\nFrom Cash Empire Clicker\, free on the App Store: https://apps.app
+ le.com/us/app/cash-empire-clicker/id6787609925?pt=129123876&ct=cal-money-f
+ act-of-the-day-calendar&mt=8\nAbout this calendar: https://honestlittleapp
+ s.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3f37ef81824686b7e281@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Money fact of the day
+DESCRIPTION:Paying only the minimum on a credit card can stretch a small ba
+ lance out over years of interest.\n\n—\nFrom Cash Empire Clicker\, free 
+ on the App Store: https://apps.apple.com/us/app/cash-empire-clicker/id6787
+ 609925?pt=129123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/money-fact-of-the-
+ day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:335b4af708e6b364804c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Money fact of the day
+DESCRIPTION:$5 a day is about $1\,825 a year. Small daily amounts add up fa
+ st.\n\n—\nFrom Cash Empire Clicker\, free on the App Store: https://apps
+ .apple.com/us/app/cash-empire-clicker/id6787609925?pt=129123876&ct=cal-mon
+ ey-fact-of-the-day-calendar&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9e16b8c2aee54eeafb43@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Money fact of the day
+DESCRIPTION:There are more $100 bills in circulation than $1 bills (Federal
+  Reserve data).\n\n—\nFrom Cash Empire Clicker\, free on the App Store: 
+ https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912387
+ 6&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https:/
+ /honestlittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f5a0f448df090812c24f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Money fact of the day
+DESCRIPTION:The Monopoly board's street names come from Atlantic City\, New
+  Jersey.\n\n—\nFrom Cash Empire Clicker\, free on the App Store: https:/
+ /apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=129123876&ct=ca
+ l-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https://honest
+ littleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4578edafa3d101dedf0a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Money fact of the day
+DESCRIPTION:For years\, the US penny cost more than one cent to make.\n\n
+ —\nFrom Cash Empire Clicker\, free on the App Store: https://apps.apple.
+ com/us/app/cash-empire-clicker/id6787609925?pt=129123876&ct=cal-money-fact
+ -of-the-day-calendar&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d86d755d37c59a07a4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Money fact of the day
+DESCRIPTION:Idle and clicker games run on exponential growth: each upgrade 
+ multiplies\, it doesn't just add.\n\n—\nFrom Cash Empire Clicker\, free 
+ on the App Store: https://apps.apple.com/us/app/cash-empire-clicker/id6787
+ 609925?pt=129123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/money-fact-of-the-
+ day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2421999a29329f57458f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Money fact of the day
+DESCRIPTION:Warren Buffett has said he bought his first stock at age 11.\n\
+ n—\nFrom Cash Empire Clicker\, free on the App Store: https://apps.apple
+ .com/us/app/cash-empire-clicker/id6787609925?pt=129123876&ct=cal-money-fac
+ t-of-the-day-calendar&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0cafe75a48f6274d51ec@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Money fact of the day
+DESCRIPTION:The word 'salary' is often linked to the Latin for salt\, sal\,
+  though historians debate the story.\n\n—\nFrom Cash Empire Clicker\, fr
+ ee on the App Store: https://apps.apple.com/us/app/cash-empire-clicker/id6
+ 787609925?pt=129123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout t
+ his calendar: https://honestlittleapps.github.io/calendars/money-fact-of-t
+ he-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ad01b10efef88cac14c9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Money fact of the day
+DESCRIPTION:One popular theory traces the $ sign to a handwritten abbreviat
+ ion for the Spanish peso.\n\n—\nFrom Cash Empire Clicker\, free on the A
+ pp Store: https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?p
+ t=129123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/money-fact-of-the-day-cale
+ ndar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:38b829b03bf711264640@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Money fact of the day
+DESCRIPTION:The 50/30/20 budget (needs\, wants\, savings) was popularised b
+ y Elizabeth Warren and Amelia Warren Tyagi.\n\n—\nFrom Cash Empire Click
+ er\, free on the App Store: https://apps.apple.com/us/app/cash-empire-clic
+ ker/id6787609925?pt=129123876&ct=cal-money-fact-of-the-day-calendar&mt=8\n
+ About this calendar: https://honestlittleapps.github.io/calendars/money-fa
+ ct-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:83615cb4174f57361381@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Money fact of the day
+DESCRIPTION:Opportunity cost: the real price of something includes the best
+  thing you gave up to get it.\n\n—\nFrom Cash Empire Clicker\, free on t
+ he App Store: https://apps.apple.com/us/app/cash-empire-clicker/id67876099
+ 25?pt=129123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/money-fact-of-the-day-
+ calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:05450b4799acd03b4621@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Money fact of the day
+DESCRIPTION:Sunk cost fallacy: money already spent shouldn't decide what yo
+ u do next.\n\n—\nFrom Cash Empire Clicker\, free on the App Store: https
+ ://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=129123876&ct=
+ cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https://hone
+ stlittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:501eb4aa9f7ddc78869c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Money fact of the day
+DESCRIPTION:'Pay yourself first' means moving savings out on payday\, befor
+ e you spend.\n\n—\nFrom Cash Empire Clicker\, free on the App Store: htt
+ ps://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=129123876&c
+ t=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9ed07eb6bc186053a97d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Money fact of the day
+DESCRIPTION:Diversification means owning many investments\, so one bad one 
+ can't sink you.\n\n—\nFrom Cash Empire Clicker\, free on the App Store: 
+ https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912387
+ 6&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https:/
+ /honestlittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:51b40637ffe08252e343@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Money fact of the day
+DESCRIPTION:Check the unit price on the shelf label. The bigger pack isn't 
+ always cheaper per ounce.\n\n—\nFrom Cash Empire Clicker\, free on the A
+ pp Store: https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?p
+ t=129123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/money-fact-of-the-day-cale
+ ndar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cc743c86a508c0f9bbde@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Money fact of the day
+DESCRIPTION:Subscription creep: small monthly charges you forget about. Rev
+ iew them every month.\n\n—\nFrom Cash Empire Clicker\, free on the App S
+ tore: https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12
+ 9123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: h
+ ttps://honestlittleapps.github.io/calendars/money-fact-of-the-day-calendar
+ /
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ef24c8dba6eb16ec8a2b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Money fact of the day
+DESCRIPTION:Vanguard launched the first index fund for everyday investors i
+ n 1976.\n\n—\nFrom Cash Empire Clicker\, free on the App Store: https://
+ apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=129123876&ct=cal
+ -money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5aa6ed368a0d3f280700@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Money fact of the day
+DESCRIPTION:The New York Stock Exchange traces its roots to the Buttonwood 
+ Agreement of 1792.\n\n—\nFrom Cash Empire Clicker\, free on the App Stor
+ e: https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc1c3c133e2718c7977@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Money fact of the day
+DESCRIPTION:The Bitcoin white paper was published in 2008.\n\n—\nFrom Cas
+ h Empire Clicker\, free on the App Store: https://apps.apple.com/us/app/ca
+ sh-empire-clicker/id6787609925?pt=129123876&ct=cal-money-fact-of-the-day-c
+ alendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d080342de2b84643ad53@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Money fact of the day
+DESCRIPTION:Hungary in 1946 had the worst hyperinflation on record. Prices 
+ doubled roughly every 15 hours.\n\n—\nFrom Cash Empire Clicker\, free on
+  the App Store: https://apps.apple.com/us/app/cash-empire-clicker/id678760
+ 9925?pt=129123876&ct=cal-money-fact-of-the-day-calendar&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/money-fact-of-the-da
+ y-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:89b58801d6302f97e3d5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Money fact of the day
+DESCRIPTION:Zimbabwe issued a 100-trillion-dollar banknote in 2009.\n\n—\
+ nFrom Cash Empire Clicker\, free on the App Store: https://apps.apple.com/
+ us/app/cash-empire-clicker/id6787609925?pt=129123876&ct=cal-money-fact-of-
+ the-day-calendar&mt=8\nAbout this calendar: https://honestlittleapps.githu
+ b.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a9cb8fcdc7925bdec6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Money fact of the day
+DESCRIPTION:All the gold ever mined would fit in a cube roughly 22 metres o
+ n each side.\n\n—\nFrom Cash Empire Clicker\, free on the App Store: htt
+ ps://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=129123876&c
+ t=cal-money-fact-of-the-day-calendar&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5e14bc9dd77cb5378aa7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Money fact of the day
+DESCRIPTION:In clicker games growth is guaranteed. Real investments go up a
+ nd down\, and past returns don't promise future ones.\n\n—\nFrom Cash Em
+ pire Clicker\, free on the App Store: https://apps.apple.com/us/app/cash-e
+ mpire-clicker/id6787609925?pt=129123876&ct=cal-money-fact-of-the-day-calen
+ dar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/money-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cash-empire-clicker/id6787609925?pt=12912
+ 3876&ct=cal-money-fact-of-the-day-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

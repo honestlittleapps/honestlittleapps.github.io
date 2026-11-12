@@ -1,0 +1,573 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Daily number puzzle
+X-WR-CALDESC:A free calendar with one calm number puzzle per day: five numb
+ ers\, one target\, plus and minus only. Answer included. Repeats monthly\;
+  great for adults and teens. https://honestlittleapps.github.io/calendars/
+ daily-number-puzzle-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#23406e
+X-APPLE-CALENDAR-COLOR:#23406e
+BEGIN:VEVENT
+UID:b75bd8986a9b4178962d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Number puzzle: make 30
+DESCRIPTION:Numbers: 11\, 5\, 13\, 2\, 16\nTarget: 30\n\nUse exactly four o
+ f the five numbers\, each once\, with + and − only (work left to right).
+ \n\n\n\nOne answer: 11 + 5 - 2 + 16 = 30\n\n—\nFrom Number Puzzles: Sumb
+ riska\, free on the App Store: https://apps.apple.com/us/app/number-puzzle
+ s-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/da
+ ily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1f3ebff0eeb827d92aff@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Number puzzle: make 7
+DESCRIPTION:Numbers: 4\, 12\, 2\, 7\, 1\nTarget: 7\n\nUse exactly four of t
+ he five numbers\, each once\, with + and − only (work left to right).\n\
+ n\n\nOne answer: 4 + 12 - 2 - 7 = 7\n\n—\nFrom Number Puzzles: Sumbriska
+ \, free on the App Store: https://apps.apple.com/us/app/number-puzzles-sum
+ briska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/daily-n
+ umber-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:87786f2a0a8237411145@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Number puzzle: make 17
+DESCRIPTION:Numbers: 14\, 19\, 3\, 8\, 2\nTarget: 17\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 14 - 3 + 8 - 2 = 17\n\n—\nFrom Number Puzzles: Sumbri
+ ska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-
+ sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b52651dcf6757fd97e86@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Number puzzle: make 7
+DESCRIPTION:Numbers: 14\, 2\, 4\, 8\, 11\nTarget: 7\n\nUse exactly four of 
+ the five numbers\, each once\, with + and − only (work left to right).\n
+ \n\n\nOne answer: 14 - 4 + 8 - 11 = 7\n\n—\nFrom Number Puzzles: Sumbris
+ ka\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-s
+ umbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/daily
+ -number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c819ee3f6f739f606add@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Number puzzle: make 26
+DESCRIPTION:Numbers: 19\, 13\, 2\, 8\, 1\nTarget: 26\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 19 + 13 + 2 - 8 = 26\n\n—\nFrom Number Puzzles: Sumbr
+ iska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles
+ -sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dai
+ ly-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3a868e600d05ac4c0029@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Number puzzle: make 9
+DESCRIPTION:Numbers: 5\, 10\, 14\, 19\, 9\nTarget: 9\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 5 + 14 - 19 + 9 = 9\n\n—\nFrom Number Puzzles: Sumbri
+ ska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-
+ sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cba2ac6e51712eca3757@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Number puzzle: make 13
+DESCRIPTION:Numbers: 19\, 10\, 6\, 4\, 18\nTarget: 13\n\nUse exactly four o
+ f the five numbers\, each once\, with + and − only (work left to right).
+ \n\n\n\nOne answer: 10 - 19 + 4 + 18 = 13\n\n—\nFrom Number Puzzles: Sum
+ briska\, free on the App Store: https://apps.apple.com/us/app/number-puzzl
+ es-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/d
+ aily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:101f98db44b89deae3b2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Number puzzle: make 15
+DESCRIPTION:Numbers: 12\, 4\, 3\, 2\, 10\nTarget: 15\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 12 + 4 - 3 + 2 = 15\n\n—\nFrom Number Puzzles: Sumbri
+ ska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-
+ sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6fc3ae109ffb3ece6888@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Number puzzle: make 28
+DESCRIPTION:Numbers: 16\, 18\, 14\, 11\, 8\nTarget: 28\n\nUse exactly four 
+ of the five numbers\, each once\, with + and − only (work left to right)
+ .\n\n\n\nOne answer: 16 + 18 - 14 + 8 = 28\n\n—\nFrom Number Puzzles: Su
+ mbriska\, free on the App Store: https://apps.apple.com/us/app/number-puzz
+ les-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calenda
+ r&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ daily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:50e749c2e698bf004f5a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Number puzzle: make 15
+DESCRIPTION:Numbers: 12\, 10\, 8\, 6\, 19\nTarget: 15\n\nUse exactly four o
+ f the five numbers\, each once\, with + and − only (work left to right).
+ \n\n\n\nOne answer: 12 - 10 - 6 + 19 = 15\n\n—\nFrom Number Puzzles: Sum
+ briska\, free on the App Store: https://apps.apple.com/us/app/number-puzzl
+ es-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/d
+ aily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:055a42a7020a1372d35a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Number puzzle: make 18
+DESCRIPTION:Numbers: 3\, 10\, 17\, 16\, 15\nTarget: 18\n\nUse exactly four 
+ of the five numbers\, each once\, with + and − only (work left to right)
+ .\n\n\n\nOne answer: 16 - 3 - 10 + 15 = 18\n\n—\nFrom Number Puzzles: Su
+ mbriska\, free on the App Store: https://apps.apple.com/us/app/number-puzz
+ les-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calenda
+ r&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ daily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:70b6df9a23b8e666c628@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Number puzzle: make 24
+DESCRIPTION:Numbers: 15\, 10\, 3\, 4\, 9\nTarget: 24\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 15 + 10 + 3 - 4 = 24\n\n—\nFrom Number Puzzles: Sumbr
+ iska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles
+ -sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dai
+ ly-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:84d89ce36934fba9fca3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Number puzzle: make 6
+DESCRIPTION:Numbers: 6\, 11\, 5\, 16\, 7\nTarget: 6\n\nUse exactly four of 
+ the five numbers\, each once\, with + and − only (work left to right).\n
+ \n\n\nOne answer: 6 + 11 + 5 - 16 = 6\n\n—\nFrom Number Puzzles: Sumbris
+ ka\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-s
+ umbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/daily
+ -number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bebbc73b896d7b410f49@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Number puzzle: make 21
+DESCRIPTION:Numbers: 3\, 18\, 11\, 17\, 12\nTarget: 21\n\nUse exactly four 
+ of the five numbers\, each once\, with + and − only (work left to right)
+ .\n\n\n\nOne answer: 3 - 11 + 17 + 12 = 21\n\n—\nFrom Number Puzzles: Su
+ mbriska\, free on the App Store: https://apps.apple.com/us/app/number-puzz
+ les-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calenda
+ r&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ daily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d62ab7f9b65c05f8cf@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Number puzzle: make 17
+DESCRIPTION:Numbers: 16\, 15\, 3\, 17\, 5\nTarget: 17\n\nUse exactly four o
+ f the five numbers\, each once\, with + and − only (work left to right).
+ \n\n\n\nOne answer: 16 + 15 + 3 - 17 = 17\n\n—\nFrom Number Puzzles: Sum
+ briska\, free on the App Store: https://apps.apple.com/us/app/number-puzzl
+ es-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/d
+ aily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:72d02cd8e3f51bfa43d1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Number puzzle: make 27
+DESCRIPTION:Numbers: 3\, 2\, 10\, 15\, 5\nTarget: 27\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 10 - 3 + 15 + 5 = 27\n\n—\nFrom Number Puzzles: Sumbr
+ iska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles
+ -sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dai
+ ly-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dc7b0d2dcc58d4b09048@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Number puzzle: make 10
+DESCRIPTION:Numbers: 13\, 12\, 1\, 15\, 6\nTarget: 10\n\nUse exactly four o
+ f the five numbers\, each once\, with + and − only (work left to right).
+ \n\n\n\nOne answer: 13 - 12 + 15 - 6 = 10\n\n—\nFrom Number Puzzles: Sum
+ briska\, free on the App Store: https://apps.apple.com/us/app/number-puzzl
+ es-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/d
+ aily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b71912d254b5310a198d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Number puzzle: make 17
+DESCRIPTION:Numbers: 4\, 16\, 2\, 7\, 13\nTarget: 17\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 16 - 4 - 2 + 7 = 17\n\n—\nFrom Number Puzzles: Sumbri
+ ska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-
+ sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4861e22c5da0bceed24d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Number puzzle: make 27
+DESCRIPTION:Numbers: 5\, 8\, 13\, 17\, 15\nTarget: 27\n\nUse exactly four o
+ f the five numbers\, each once\, with + and − only (work left to right).
+ \n\n\n\nOne answer: 5 - 8 + 13 + 17 = 27\n\n—\nFrom Number Puzzles: Sumb
+ riska\, free on the App Store: https://apps.apple.com/us/app/number-puzzle
+ s-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/da
+ ily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0df10102e602193de7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Number puzzle: make 15
+DESCRIPTION:Numbers: 3\, 6\, 15\, 13\, 9\nTarget: 15\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 3 + 6 + 15 - 9 = 15\n\n—\nFrom Number Puzzles: Sumbri
+ ska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-
+ sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c98b119c1106fb48c9ae@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Number puzzle: make 20
+DESCRIPTION:Numbers: 5\, 14\, 9\, 18\, 6\nTarget: 20\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 5 - 9 + 18 + 6 = 20\n\n—\nFrom Number Puzzles: Sumbri
+ ska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-
+ sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a9af71c2184fbdbd5a65@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Number puzzle: make 13
+DESCRIPTION:Numbers: 8\, 5\, 3\, 6\, 17\nTarget: 13\n\nUse exactly four of 
+ the five numbers\, each once\, with + and − only (work left to right).\n
+ \n\n\nOne answer: 5 - 3 - 6 + 17 = 13\n\n—\nFrom Number Puzzles: Sumbris
+ ka\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-s
+ umbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/daily
+ -number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:db8eaa82722d76a3c294@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Number puzzle: make 16
+DESCRIPTION:Numbers: 8\, 1\, 16\, 6\, 5\nTarget: 16\n\nUse exactly four of 
+ the five numbers\, each once\, with + and − only (work left to right).\n
+ \n\n\nOne answer: 1 + 16 - 6 + 5 = 16\n\n—\nFrom Number Puzzles: Sumbris
+ ka\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-s
+ umbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/daily
+ -number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c939db8a3feecb03d308@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Number puzzle: make 18
+DESCRIPTION:Numbers: 1\, 5\, 14\, 12\, 10\nTarget: 18\n\nUse exactly four o
+ f the five numbers\, each once\, with + and − only (work left to right).
+ \n\n\n\nOne answer: 1 - 5 + 12 + 10 = 18\n\n—\nFrom Number Puzzles: Sumb
+ riska\, free on the App Store: https://apps.apple.com/us/app/number-puzzle
+ s-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/da
+ ily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4f0f921d2c3e48989a99@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Number puzzle: make 28
+DESCRIPTION:Numbers: 5\, 17\, 2\, 15\, 16\nTarget: 28\n\nUse exactly four o
+ f the five numbers\, each once\, with + and − only (work left to right).
+ \n\n\n\nOne answer: 2 - 5 + 15 + 16 = 28\n\n—\nFrom Number Puzzles: Sumb
+ riska\, free on the App Store: https://apps.apple.com/us/app/number-puzzle
+ s-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/da
+ ily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb3d903de95cc60a3dc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Number puzzle: make 26
+DESCRIPTION:Numbers: 13\, 19\, 18\, 17\, 2\nTarget: 26\n\nUse exactly four 
+ of the five numbers\, each once\, with + and − only (work left to right)
+ .\n\n\n\nOne answer: 19 - 13 + 18 + 2 = 26\n\n—\nFrom Number Puzzles: Su
+ mbriska\, free on the App Store: https://apps.apple.com/us/app/number-puzz
+ les-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calenda
+ r&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ daily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ec08db1eb1a642767834@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Number puzzle: make 22
+DESCRIPTION:Numbers: 13\, 2\, 7\, 3\, 4\nTarget: 22\n\nUse exactly four of 
+ the five numbers\, each once\, with + and − only (work left to right).\n
+ \n\n\nOne answer: 13 - 2 + 7 + 4 = 22\n\n—\nFrom Number Puzzles: Sumbris
+ ka\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-s
+ umbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/daily
+ -number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5fec741ecbbbf6ac24cd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Number puzzle: make 5
+DESCRIPTION:Numbers: 6\, 4\, 11\, 2\, 16\nTarget: 5\n\nUse exactly four of 
+ the five numbers\, each once\, with + and − only (work left to right).\n
+ \n\n\nOne answer: 6 + 4 + 11 - 16 = 5\n\n—\nFrom Number Puzzles: Sumbris
+ ka\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-s
+ umbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/daily
+ -number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d1b61d94d05512769509@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Number puzzle: make 6
+DESCRIPTION:Numbers: 19\, 5\, 4\, 12\, 10\nTarget: 6\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 19 - 5 + 4 - 12 = 6\n\n—\nFrom Number Puzzles: Sumbri
+ ska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-
+ sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5a9dc682e851755d8540@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Number puzzle: make 14
+DESCRIPTION:Numbers: 3\, 7\, 13\, 5\, 11\nTarget: 14\n\nUse exactly four of
+  the five numbers\, each once\, with + and − only (work left to right).\
+ n\n\n\nOne answer: 3 - 7 + 13 + 5 = 14\n\n—\nFrom Number Puzzles: Sumbri
+ ska\, free on the App Store: https://apps.apple.com/us/app/number-puzzles-
+ sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4b732c082a07340f6b08@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Number puzzle: make 30
+DESCRIPTION:Numbers: 12\, 19\, 16\, 4\, 2\nTarget: 30\n\nUse exactly four o
+ f the five numbers\, each once\, with + and − only (work left to right).
+ \n\n\n\nOne answer: 12 + 16 + 4 - 2 = 30\n\n—\nFrom Number Puzzles: Sumb
+ riska\, free on the App Store: https://apps.apple.com/us/app/number-puzzle
+ s-sumbriska/id6829238551?pt=129123876&ct=cal-daily-number-puzzle-calendar&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/da
+ ily-number-puzzle-calendar/
+URL:https://apps.apple.com/us/app/number-puzzles-sumbriska/id6829238551?pt=
+ 129123876&ct=cal-daily-number-puzzle-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

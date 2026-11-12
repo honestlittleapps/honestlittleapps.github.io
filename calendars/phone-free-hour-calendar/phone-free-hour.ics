@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Phone-free hour
+X-WR-CALDESC:A free calendar that blocks out 9-10pm every night as a phone-
+ free hour\, with a different practical idea each evening and a Sunday app 
+ check. Subscribe in one tap. https://honestlittleapps.github.io/calendars/
+ phone-free-hour-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#0d7a4f
+X-APPLE-CALENDAR-COLOR:#0d7a4f
+BEGIN:VEVENT
+UID:b583a9ade30c51c10b59@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261116T210000
+DTEND:20261116T220000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Phone-free hour (9–10pm)
+DESCRIPTION:For the next hour\, the phone stays out of reach.\n\nTonight's 
+ idea: Charge your phone outside the bedroom tonight.\n\n—\nFrom FocusPas
+ s: App Blocker\, free on the App Store: https://apps.apple.com/us/app/focu
+ spass-app-blocker/id6795610975?pt=129123876&ct=cal-phone-free-hour-calenda
+ r&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ phone-free-hour-calendar/
+URL:https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129
+ 123876&ct=cal-phone-free-hour-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c081f8cf58d45e1195d1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261117T210000
+DTEND:20261117T220000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Phone-free hour (9–10pm)
+DESCRIPTION:For the next hour\, the phone stays out of reach.\n\nTonight's 
+ idea: Put the phone face-down in another room\, not just on silent.\n\n—
+ \nFrom FocusPass: App Blocker\, free on the App Store: https://apps.apple.
+ com/us/app/focuspass-app-blocker/id6795610975?pt=129123876&ct=cal-phone-fr
+ ee-hour-calendar&mt=8\nAbout this calendar: https://honestlittleapps.githu
+ b.io/calendars/phone-free-hour-calendar/
+URL:https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129
+ 123876&ct=cal-phone-free-hour-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ab2fbcb09eac09b37135@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261118T210000
+DTEND:20261118T220000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Phone-free hour (9–10pm)
+DESCRIPTION:For the next hour\, the phone stays out of reach.\n\nTonight's 
+ idea: Swap one scroll for a paper book or a walk.\n\n—\nFrom FocusPass: 
+ App Blocker\, free on the App Store: https://apps.apple.com/us/app/focuspa
+ ss-app-blocker/id6795610975?pt=129123876&ct=cal-phone-free-hour-calendar&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/pho
+ ne-free-hour-calendar/
+URL:https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129
+ 123876&ct=cal-phone-free-hour-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9e2c8981e8f81f7cef57@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261119T210000
+DTEND:20261119T220000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Phone-free hour (9–10pm)
+DESCRIPTION:For the next hour\, the phone stays out of reach.\n\nTonight's 
+ idea: Tell your household it's phone-free hour so nobody waits on a reply.
+ \n\n—\nFrom FocusPass: App Blocker\, free on the App Store: https://apps
+ .apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129123876&ct=cal-p
+ hone-free-hour-calendar&mt=8\nAbout this calendar: https://honestlittleapp
+ s.github.io/calendars/phone-free-hour-calendar/
+URL:https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129
+ 123876&ct=cal-phone-free-hour-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a4a134ef66a6888685ff@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261120T210000
+DTEND:20261120T220000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Phone-free hour (9–10pm)
+DESCRIPTION:For the next hour\, the phone stays out of reach.\n\nTonight's 
+ idea: Turn on a Focus mode now so notifications stay quiet.\n\n—\nFrom F
+ ocusPass: App Blocker\, free on the App Store: https://apps.apple.com/us/a
+ pp/focuspass-app-blocker/id6795610975?pt=129123876&ct=cal-phone-free-hour-
+ calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/phone-free-hour-calendar/
+URL:https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129
+ 123876&ct=cal-phone-free-hour-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:429828cbbd95ef2e5979@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261121T210000
+DTEND:20261121T220000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Phone-free hour (9–10pm)
+DESCRIPTION:For the next hour\, the phone stays out of reach.\n\nTonight's 
+ idea: Plan tomorrow's first task on paper before the hour ends.\n\n—\nFr
+ om FocusPass: App Blocker\, free on the App Store: https://apps.apple.com/
+ us/app/focuspass-app-blocker/id6795610975?pt=129123876&ct=cal-phone-free-h
+ our-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io
+ /calendars/phone-free-hour-calendar/
+URL:https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129
+ 123876&ct=cal-phone-free-hour-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4544ea5e332774d11208@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261122T210000
+DTEND:20261122T220000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Phone-free hour (9–10pm)
+DESCRIPTION:For the next hour\, the phone stays out of reach.\n\nTonight's 
+ idea: Notice the urge to check. Name it\, then let it pass. It usually fad
+ es in a minute or two.\n\n—\nFrom FocusPass: App Blocker\, free on the A
+ pp Store: https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975
+ ?pt=129123876&ct=cal-phone-free-hour-calendar&mt=8\nAbout this calendar: h
+ ttps://honestlittleapps.github.io/calendars/phone-free-hour-calendar/
+URL:https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129
+ 123876&ct=cal-phone-free-hour-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:717343578362d47953af@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261122T190000
+DTEND:20261122T191000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Pick next week's distraction apps
+DESCRIPTION:Sunday check: which two apps cost you the most time this week? 
+ Screen Time (Settings › Screen Time › See All App & Website Activity) 
+ will tell you. Decide now which ones get limited next week.\n\n—\nFrom F
+ ocusPass: App Blocker\, free on the App Store: https://apps.apple.com/us/a
+ pp/focuspass-app-blocker/id6795610975?pt=129123876&ct=cal-phone-free-hour-
+ calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/phone-free-hour-calendar/
+URL:https://apps.apple.com/us/app/focuspass-app-blocker/id6795610975?pt=129
+ 123876&ct=cal-phone-free-hour-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

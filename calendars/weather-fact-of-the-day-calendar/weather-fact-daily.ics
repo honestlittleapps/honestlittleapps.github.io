@@ -1,0 +1,569 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weather fact of the day
+X-WR-CALDESC:A free daily calendar of 31 accurate weather facts on lightnin
+ g\, hurricanes\, tornadoes\, hail and records\, plus Atlantic hurricane se
+ ason dates. For curious kids and adults. https://honestlittleapps.github.i
+ o/calendars/weather-fact-of-the-day-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#2f6fa6
+X-APPLE-CALENDAR-COLOR:#2f6fa6
+BEGIN:VEVENT
+UID:113ea8591ad0869bffb7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Weather fact of the day
+DESCRIPTION:A lightning bolt can heat the air to around 30\,000 K\, about f
+ ive times hotter than the Sun's surface (NOAA).\n\n—\nFrom RushOrb: Stor
+ m Atlas\, free on the App Store: https://apps.apple.com/us/app/rushorb-sto
+ rm-atlas/id6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/wea
+ ther-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fbf2881f36aa5d1b575b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Weather fact of the day
+DESCRIPTION:Count the seconds between flash and thunder. Divide by 5 for mi
+ les\, or by 3 for kilometres.\n\n—\nFrom RushOrb: Storm Atlas\, free on 
+ the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697
+ 945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/weather-fact-of-the-d
+ ay-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a4773181881c570ec503@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Weather fact of the day
+DESCRIPTION:'When thunder roars\, go indoors' is the National Weather Servi
+ ce's rule. If you can hear thunder\, you're close enough to be struck.\n\n
+ —\nFrom RushOrb: Storm Atlas\, free on the App Store: https://apps.apple
+ .com/us/app/rushorb-storm-atlas/id6819697945?pt=129123876&ct=cal-weather-f
+ act-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:06d5972a20a727d7fd48@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Weather fact of the day
+DESCRIPTION:A tropical storm becomes a hurricane when sustained winds reach
+  74 mph (119 km/h).\n\n—\nFrom RushOrb: Storm Atlas\, free on the App St
+ ore: https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=129
+ 123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/weather-fact-of-the-day-calenda
+ r/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:725d235463ec8ada827b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Weather fact of the day
+DESCRIPTION:The Atlantic hurricane season officially runs from June 1 to No
+ vember 30.\n\n—\nFrom RushOrb: Storm Atlas\, free on the App Store: http
+ s://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=129123876&ct
+ =cal-weather-fact-of-the-day-calend&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4ebc5fab4dff9f22c9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Weather fact of the day
+DESCRIPTION:To see a rainbow\, the Sun has to be behind you and rain in fro
+ nt of you.\n\n—\nFrom RushOrb: Storm Atlas\, free on the App Store: http
+ s://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=129123876&ct
+ =cal-weather-fact-of-the-day-calend&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:56d75c313b0cb9105f39@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Weather fact of the day
+DESCRIPTION:The highest wind gust on record not linked to a tornado was 408
+  km/h\, at Barrow Island\, Australia\, during Cyclone Olivia in 1996 (WMO)
+ .\n\n—\nFrom RushOrb: Storm Atlas\, free on the App Store: https://apps.
+ apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=129123876&ct=cal-weat
+ her-fact-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittle
+ apps.github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4e736c22afd49698ae15@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Weather fact of the day
+DESCRIPTION:The WMO lists 56.7°C (134°F)\, Death Valley\, 1913\, as the h
+ ottest air temperature on record. Some researchers dispute it.\n\n—\nFro
+ m RushOrb: Storm Atlas\, free on the App Store: https://apps.apple.com/us/
+ app/rushorb-storm-atlas/id6819697945?pt=129123876&ct=cal-weather-fact-of-t
+ he-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d02882b295f96f8ad4bb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Weather fact of the day
+DESCRIPTION:The coldest air temperature ever measured was −89.2°C\, at V
+ ostok Station\, Antarctica\, in 1983.\n\n—\nFrom RushOrb: Storm Atlas\, 
+ free on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/i
+ d6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/weather-fact-
+ of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:afb90264f605a1008bf7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Weather fact of the day
+DESCRIPTION:Snowflakes are almost always six-sided because ice crystals for
+ m in a hexagonal pattern.\n\n—\nFrom RushOrb: Storm Atlas\, free on the 
+ App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?
+ pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/weather-fact-of-the-day-c
+ alendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:52cb9b58d5b2ff419fe2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Weather fact of the day
+DESCRIPTION:Fog is simply a cloud touching the ground.\n\n—\nFrom RushOrb
+ : Storm Atlas\, free on the App Store: https://apps.apple.com/us/app/rusho
+ rb-storm-atlas/id6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-ca
+ lend&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:da1a7a46e76fd2d7ed05@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Weather fact of the day
+DESCRIPTION:When air cools to its dew point\, water vapour condenses. That'
+ s how dew\, fog and clouds form.\n\n—\nFrom RushOrb: Storm Atlas\, free 
+ on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/id6819
+ 697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/weather-fact-of-th
+ e-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:44f19627dcfb7887ba30@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Weather fact of the day
+DESCRIPTION:Since 2007 the US has rated tornadoes on the Enhanced Fujita sc
+ ale\, from EF0 to EF5\, based on damage.\n\n—\nFrom RushOrb: Storm Atlas
+ \, free on the App Store: https://apps.apple.com/us/app/rushorb-storm-atla
+ s/id6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAb
+ out this calendar: https://honestlittleapps.github.io/calendars/weather-fa
+ ct-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9ecfa4751fb281a26e60@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Weather fact of the day
+DESCRIPTION:The United States records more tornadoes than any other country
+ \, typically more than 1\,000 a year.\n\n—\nFrom RushOrb: Storm Atlas\, 
+ free on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/i
+ d6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/weather-fact-
+ of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:eb99d6eaa4eb5d05e921@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Weather fact of the day
+DESCRIPTION:Jet streams are rivers of fast wind about 9–12 km up\, often 
+ blowing at over 100 mph.\n\n—\nFrom RushOrb: Storm Atlas\, free on the A
+ pp Store: https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?p
+ t=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/weather-fact-of-the-day-ca
+ lendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:644d125222c3a0fecffa@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Weather fact of the day
+DESCRIPTION:Thunderstorm clouds (cumulonimbus) can tower more than 12 km in
+ to the sky.\n\n—\nFrom RushOrb: Storm Atlas\, free on the App Store: htt
+ ps://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=129123876&c
+ t=cal-weather-fact-of-the-day-calend&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d79db8c46fe32ea3c30e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Weather fact of the day
+DESCRIPTION:The largest US hailstone on record fell in Vivian\, South Dakot
+ a\, in 2010. It was 8 inches across.\n\n—\nFrom RushOrb: Storm Atlas\, f
+ ree on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/id
+ 6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout 
+ this calendar: https://honestlittleapps.github.io/calendars/weather-fact-o
+ f-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d93517f7e824402c2747@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Weather fact of the day
+DESCRIPTION:El Niño is a warming of the tropical Pacific that shifts rainf
+ all and temperatures around the world.\n\n—\nFrom RushOrb: Storm Atlas\,
+  free on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/
+ id6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/weather-fact
+ -of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f7de5a32f5c781077fa0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Weather fact of the day
+DESCRIPTION:Because of the Coriolis effect\, hurricanes spin counterclockwi
+ se in the Northern Hemisphere and clockwise in the Southern.\n\n—\nFrom 
+ RushOrb: Storm Atlas\, free on the App Store: https://apps.apple.com/us/ap
+ p/rushorb-storm-atlas/id6819697945?pt=129123876&ct=cal-weather-fact-of-the
+ -day-calend&mt=8\nAbout this calendar: https://honestlittleapps.github.io/
+ calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:64d21e6248a345a375e4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Weather fact of the day
+DESCRIPTION:A hurricane's eye is often calm and clear\, and typically 20–
+ 40 miles across.\n\n—\nFrom RushOrb: Storm Atlas\, free on the App Store
+ : https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=129123
+ 876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d872f7b4d651f21978@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Weather fact of the day
+DESCRIPTION:A watch means conditions are right for severe weather. A warnin
+ g means it's happening or about to. Act on warnings.\n\n—\nFrom RushOrb:
+  Storm Atlas\, free on the App Store: https://apps.apple.com/us/app/rushor
+ b-storm-atlas/id6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-cal
+ end&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:74551feb7528d637427e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Weather fact of the day
+DESCRIPTION:The heat index combines temperature and humidity: humid air slo
+ ws sweat evaporation\, so it feels hotter.\n\n—\nFrom RushOrb: Storm Atl
+ as\, free on the App Store: https://apps.apple.com/us/app/rushorb-storm-at
+ las/id6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\n
+ About this calendar: https://honestlittleapps.github.io/calendars/weather-
+ fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2be77dc4ce0ade4d163a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Weather fact of the day
+DESCRIPTION:Wind chill is how cold it feels on skin when wind strips heat a
+ way. The thermometer doesn't change.\n\n—\nFrom RushOrb: Storm Atlas\, f
+ ree on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/id
+ 6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout 
+ this calendar: https://honestlittleapps.github.io/calendars/weather-fact-o
+ f-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:97c6e2a88d53e9958100@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Weather fact of the day
+DESCRIPTION:Steadily falling air pressure usually means unsettled weather i
+ s on the way.\n\n—\nFrom RushOrb: Storm Atlas\, free on the App Store: h
+ ttps://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=129123876
+ &ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout this calendar: https://
+ honestlittleapps.github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8711e5a2be00e9127b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Weather fact of the day
+DESCRIPTION:Clouds look white because their droplets scatter all colours of
+  light equally. Thick clouds look grey because less light gets through.\n\
+ n—\nFrom RushOrb: Storm Atlas\, free on the App Store: https://apps.appl
+ e.com/us/app/rushorb-storm-atlas/id6819697945?pt=129123876&ct=cal-weather-
+ fact-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps
+ .github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd2d1b46dfb7233942d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Weather fact of the day
+DESCRIPTION:Falling raindrops aren't teardrop-shaped. Small ones are round\
+ , and bigger ones flatten like a burger bun.\n\n—\nFrom RushOrb: Storm A
+ tlas\, free on the App Store: https://apps.apple.com/us/app/rushorb-storm-
+ atlas/id6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/weathe
+ r-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b940f4891fbc80a080d1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Weather fact of the day
+DESCRIPTION:Mawsynram and Cherrapunji in northeast India are among the wett
+ est places on Earth\, averaging around 11–12 metres of rain a year.\n\n
+ —\nFrom RushOrb: Storm Atlas\, free on the App Store: https://apps.apple
+ .com/us/app/rushorb-storm-atlas/id6819697945?pt=129123876&ct=cal-weather-f
+ act-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a85339d50e3c520e44e1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Weather fact of the day
+DESCRIPTION:Parts of Chile's Atacama Desert are so dry that some weather st
+ ations have never recorded rain.\n\n—\nFrom RushOrb: Storm Atlas\, free 
+ on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/id6819
+ 697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/weather-fact-of-th
+ e-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0bf3e43037aa5f3062a3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Weather fact of the day
+DESCRIPTION:Lightning strikes Earth about 44 times every second\, roughly 1
+ .4 billion flashes a year (NOAA).\n\n—\nFrom RushOrb: Storm Atlas\, free
+  on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/id681
+ 9697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/weather-fact-of-t
+ he-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f54996042d53db8a55a8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Weather fact of the day
+DESCRIPTION:Ball lightning has been reported for centuries but is still poo
+ rly understood.\n\n—\nFrom RushOrb: Storm Atlas\, free on the App Store:
+  https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=1291238
+ 76&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/weather-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fa1d2221e3317f07ee15@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Weather fact of the day
+DESCRIPTION:The WMO retires a hurricane's name when the storm was especiall
+ y deadly or costly\, so it's never used again.\n\n—\nFrom RushOrb: Storm
+  Atlas\, free on the App Store: https://apps.apple.com/us/app/rushorb-stor
+ m-atlas/id6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/weat
+ her-fact-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8cf8089bb1a44a0b0d2e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:Atlantic hurricane season begins
+DESCRIPTION:Atlantic hurricane season runs June 1 – November 30. Check yo
+ ur local emergency plan and supplies.\n\n—\nFrom RushOrb: Storm Atlas\, 
+ free on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/i
+ d6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/weather-fact-
+ of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3d009e754cba7144bda6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY
+SUMMARY:Atlantic hurricane season ends
+DESCRIPTION:The official Atlantic hurricane season ends today\, although st
+ orms can occasionally form outside it.\n\n—\nFrom RushOrb: Storm Atlas\,
+  free on the App Store: https://apps.apple.com/us/app/rushorb-storm-atlas/
+ id6819697945?pt=129123876&ct=cal-weather-fact-of-the-day-calend&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/weather-fact
+ -of-the-day-calendar/
+URL:https://apps.apple.com/us/app/rushorb-storm-atlas/id6819697945?pt=12912
+ 3876&ct=cal-weather-fact-of-the-day-calend&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,494 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Quit vaping — January 2027
+X-WR-CALDESC:A free 30-day quit vaping plan that runs January 1-30\, 2027: 
+ prep days\, quit day\, craving tactics and daily check-ins delivered to yo
+ ur iPhone calendar. https://honestlittleapps.github.io/calendars/quit-vapi
+ ng-30-day-calendar-2027/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#127a6a
+X-APPLE-CALENDAR-COLOR:#127a6a
+BEGIN:VEVENT
+UID:d2367f4248abd9fbc7ce@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 1
+DESCRIPTION:Day 1 of 30.\n\nPick your reasons. Write 3 reasons you're quitt
+ ing and put them in your phone's notes.\n\n—\nFrom CraveBreaker: Quit Va
+ ping\, free on the App Store: https://apps.apple.com/us/app/cravebreaker-q
+ uit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/q
+ uit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e274bd4bf9c07b8eb698@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 2
+DESCRIPTION:Day 2 of 30.\n\nSpot your triggers. Each time you vape today\, 
+ note what you were doing just before.\n\n—\nFrom CraveBreaker: Quit Vapi
+ ng\, free on the App Store: https://apps.apple.com/us/app/cravebreaker-qui
+ t-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/qui
+ t-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b633b28940935fb41f16@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 3
+DESCRIPTION:Day 3 of 30.\n\nTell one person. Quitting with someone in the l
+ oop is easier than quitting in secret.\n\n—\nFrom CraveBreaker: Quit Vap
+ ing\, free on the App Store: https://apps.apple.com/us/app/cravebreaker-qu
+ it-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/qu
+ it-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5349751eb85612ccb620@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 4
+DESCRIPTION:Day 4 of 30.\n\nPlan a replacement for your #1 trigger: gum\, a
+  walk\, cold water or a different route home.\n\n—\nFrom CraveBreaker: Q
+ uit Vaping\, free on the App Store: https://apps.apple.com/us/app/cravebre
+ aker-quit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calen
+ dar-20&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:56eb6c9220b5e0cdb3e5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 5
+DESCRIPTION:Day 5 of 30.\n\nClear the house. Remove spare pods and devices 
+ from your bag\, car and drawers.\n\n—\nFrom CraveBreaker: Quit Vaping\, 
+ free on the App Store: https://apps.apple.com/us/app/cravebreaker-quit-vap
+ ing/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\n
+ About this calendar: https://honestlittleapps.github.io/calendars/quit-vap
+ ing-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0a102c05ab0a832bd0e2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 6
+DESCRIPTION:Day 6 of 30.\n\nQuit day. Cravings typically peak and pass with
+ in a few minutes. Ride them out with a 5-minute task.\n\n—\nFrom CraveBr
+ eaker: Quit Vaping\, free on the App Store: https://apps.apple.com/us/app/
+ cravebreaker-quit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-d
+ ay-calendar-20&mt=8\nAbout this calendar: https://honestlittleapps.github.
+ io/calendars/quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:027553cbed61019db5f6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 7
+DESCRIPTION:Day 7 of 30.\n\nExpect irritability. It's withdrawal\, not your
+  personality\, and it tends to ease over the next couple of weeks.\n\n—\
+ nFrom CraveBreaker: Quit Vaping\, free on the App Store: https://apps.appl
+ e.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=129123876&ct=cal-qui
+ t-vaping-30-day-calendar-20&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d7b8c56e4a4e55d310c8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 8
+DESCRIPTION:Day 8 of 30.\n\nDrink water and move. A short walk is one of th
+ e best-studied ways to blunt a craving.\n\n—\nFrom CraveBreaker: Quit Va
+ ping\, free on the App Store: https://apps.apple.com/us/app/cravebreaker-q
+ uit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/q
+ uit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bd0f34716da5c9c7bddb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 9
+DESCRIPTION:Day 9 of 30.\n\nChange one routine that's tied to vaping (where
+  you take breaks\, what you do after meals).\n\n—\nFrom CraveBreaker: Qu
+ it Vaping\, free on the App Store: https://apps.apple.com/us/app/cravebrea
+ ker-quit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calend
+ ar-20&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7dbf11472b94119f827c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 10
+DESCRIPTION:Day 10 of 30.\n\nSleep may be off for a few days. Keep a regula
+ r bedtime and go easy on caffeine late in the day.\n\n—\nFrom CraveBreak
+ er: Quit Vaping\, free on the App Store: https://apps.apple.com/us/app/cra
+ vebreaker-quit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-
+ calendar-20&mt=8\nAbout this calendar: https://honestlittleapps.github.io/
+ calendars/quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b6cb0d6bf2219d4cb4d4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 11
+DESCRIPTION:Day 11 of 30.\n\nCount the money you haven't spent so far. Put 
+ it somewhere you can see it.\n\n—\nFrom CraveBreaker: Quit Vaping\, free
+  on the App Store: https://apps.apple.com/us/app/cravebreaker-quit-vaping/
+ id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/quit-vaping-
+ 30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9c289ec2a3993e04de6d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 12
+DESCRIPTION:Day 12 of 30.\n\nFeeling a slip coming? Delay 10 minutes\, then
+  decide. Usually the urge has moved on.\n\n—\nFrom CraveBreaker: Quit Va
+ ping\, free on the App Store: https://apps.apple.com/us/app/cravebreaker-q
+ uit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/q
+ uit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:239eeb559e510ba38791@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 13
+DESCRIPTION:Day 13 of 30.\n\nIf you slip\, it's one slip\, not a relapse. N
+ ote the trigger and carry on with the plan.\n\n—\nFrom CraveBreaker: Qui
+ t Vaping\, free on the App Store: https://apps.apple.com/us/app/cravebreak
+ er-quit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calenda
+ r-20&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4660b3ebf18063379a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 14
+DESCRIPTION:Day 14 of 30.\n\nHalfway through week two. Notice anything bett
+ er: taste\, breath\, sleep\, money?\n\n—\nFrom CraveBreaker: Quit Vaping
+ \, free on the App Store: https://apps.apple.com/us/app/cravebreaker-quit-
+ vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/quit-
+ vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:679f0ce1b2bd62888e83@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 15
+DESCRIPTION:Day 15 of 30.\n\nSay no out loud to an offer today. Practise th
+ e line: 'No thanks\, I've quit.'\n\n—\nFrom CraveBreaker: Quit Vaping\, 
+ free on the App Store: https://apps.apple.com/us/app/cravebreaker-quit-vap
+ ing/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\n
+ About this calendar: https://honestlittleapps.github.io/calendars/quit-vap
+ ing-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:73cbeb268aa67d041fde@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 16
+DESCRIPTION:Day 16 of 30.\n\nLook at your trigger list. Which ones are alre
+ ady weaker?\n\n—\nFrom CraveBreaker: Quit Vaping\, free on the App Store
+ : https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=1
+ 29123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/quit-vaping-30-day-calendar-2
+ 027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:63ce832a07d90f9526b8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 17
+DESCRIPTION:Day 17 of 30.\n\nPlan for your next stressful event. What will 
+ you do instead?\n\n—\nFrom CraveBreaker: Quit Vaping\, free on the App S
+ tore: https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?
+ pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/quit-vaping-30-day-calend
+ ar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cd68906e57532d1949f3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 18
+DESCRIPTION:Day 18 of 30.\n\nReward yourself with something you've been sav
+ ing for.\n\n—\nFrom CraveBreaker: Quit Vaping\, free on the App Store: h
+ ttps://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=1291
+ 23876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbout this calendar: htt
+ ps://honestlittleapps.github.io/calendars/quit-vaping-30-day-calendar-2027
+ /
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e9148c22c894102b4340@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 19
+DESCRIPTION:Day 19 of 30.\n\nFree support exists. In the U.S.\, 1-800-QUIT-
+ NOW connects you to your state quitline\, and smokefree.gov has text progr
+ ams for young people and adults.\n\n—\nFrom CraveBreaker: Quit Vaping\, 
+ free on the App Store: https://apps.apple.com/us/app/cravebreaker-quit-vap
+ ing/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\n
+ About this calendar: https://honestlittleapps.github.io/calendars/quit-vap
+ ing-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5368fea6e84700a291b9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 20
+DESCRIPTION:Day 20 of 30.\n\nThree weeks in. Write a note to yourself on da
+ y 1 describing how today feels.\n\n—\nFrom CraveBreaker: Quit Vaping\, f
+ ree on the App Store: https://apps.apple.com/us/app/cravebreaker-quit-vapi
+ ng/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nA
+ bout this calendar: https://honestlittleapps.github.io/calendars/quit-vapi
+ ng-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b44f7a95a6204e3e06c9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 21
+DESCRIPTION:Day 21 of 30.\n\nReview your 3 reasons. Add one you've discover
+ ed since quitting.\n\n—\nFrom CraveBreaker: Quit Vaping\, free on the Ap
+ p Store: https://apps.apple.com/us/app/cravebreaker-quit-vaping/id67874610
+ 78?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/quit-vaping-30-day-cal
+ endar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:be72b928551568fa97e1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 22
+DESCRIPTION:Day 22 of 30.\n\nSocial situations: plan an exit line and somet
+ hing to do with your hands.\n\n—\nFrom CraveBreaker: Quit Vaping\, free 
+ on the App Store: https://apps.apple.com/us/app/cravebreaker-quit-vaping/i
+ d6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/quit-vaping-3
+ 0-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa71cf1de31f4a2bb72@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 23
+DESCRIPTION:Day 23 of 30.\n\nCheck in on sleep\, mood and appetite. Most pe
+ ople find they settle by now.\n\n—\nFrom CraveBreaker: Quit Vaping\, fre
+ e on the App Store: https://apps.apple.com/us/app/cravebreaker-quit-vaping
+ /id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbo
+ ut this calendar: https://honestlittleapps.github.io/calendars/quit-vaping
+ -30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ba3f0c9f1629bec833@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 24
+DESCRIPTION:Day 24 of 30.\n\nClean your space: car\, bag\, room. Remove the
+  last cues.\n\n—\nFrom CraveBreaker: Quit Vaping\, free on the App Store
+ : https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=1
+ 29123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/quit-vaping-30-day-calendar-2
+ 027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:64998933b42d764184be@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 25
+DESCRIPTION:Day 25 of 30.\n\nIf cravings are still strong\, ask a pharmacis
+ t or doctor about evidence-based support.\n\n—\nFrom CraveBreaker: Quit 
+ Vaping\, free on the App Store: https://apps.apple.com/us/app/cravebreaker
+ -quit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-
+ 20&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars
+ /quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c0bb884a19edd725c614@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 26
+DESCRIPTION:Day 26 of 30.\n\nThink about who could use your help quitting n
+ ext.\n\n—\nFrom CraveBreaker: Quit Vaping\, free on the App Store: https
+ ://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=12912387
+ 6&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbout this calendar: https:/
+ /honestlittleapps.github.io/calendars/quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:06582c87177fda7ec4ec@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 27
+DESCRIPTION:Day 27 of 30.\n\nPlan the next 30 days. Which triggers still ne
+ ed a plan?\n\n—\nFrom CraveBreaker: Quit Vaping\, free on the App Store:
+  https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=12
+ 9123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbout this calendar: h
+ ttps://honestlittleapps.github.io/calendars/quit-vaping-30-day-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c89983eeaaf8a73365@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 28
+DESCRIPTION:Day 28 of 30.\n\nCelebrate four weeks with someone who supporte
+ d you.\n\n—\nFrom CraveBreaker: Quit Vaping\, free on the App Store: htt
+ ps://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=129123
+ 876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:636ca211ac92a43dbd13@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 29
+DESCRIPTION:Day 29 of 30.\n\nWrite your relapse plan: what you'll do if a c
+ raving catches you off guard.\n\n—\nFrom CraveBreaker: Quit Vaping\, fre
+ e on the App Store: https://apps.apple.com/us/app/cravebreaker-quit-vaping
+ /id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8\nAbo
+ ut this calendar: https://honestlittleapps.github.io/calendars/quit-vaping
+ -30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:85ff01b6acb5f77e2386@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:Quit vaping · Day 30
+DESCRIPTION:Day 30 of 30.\n\nDay 30. You've done the hardest part. Keep the
+  reasons list for the days you'll need it.\n\n—\nFrom CraveBreaker: Quit
+  Vaping\, free on the App Store: https://apps.apple.com/us/app/cravebreake
+ r-quit-vaping/id6787461078?pt=129123876&ct=cal-quit-vaping-30-day-calendar
+ -20&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/quit-vaping-30-day-calendar-2027/
+URL:https://apps.apple.com/us/app/cravebreaker-quit-vaping/id6787461078?pt=
+ 129123876&ct=cal-quit-vaping-30-day-calendar-20&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weekly focus check
+X-WR-CALDESC:A free Saturday calendar slot for a 5-minute weekly focus chec
+ k\, plus a mid-month attention experiment to test what actually improves y
+ our concentration. https://honestlittleapps.github.io/calendars/weekly-foc
+ us-check-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#0e7490
+X-APPLE-CALENDAR-COLOR:#0e7490
+BEGIN:VEVENT
+UID:c4b37631358f28b04386@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261121T100000
+DTEND:20261121T100500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Weekly focus check (5 min)
+DESCRIPTION:Same time\, same quiet place\, once a week. Take your focus tes
+ t or baseline now. Comparing like with like week to week matters more than
+  any single score.\n\nNote anything that might affect it: sleep last night
+ \, caffeine\, stress.\n\n—\nFrom Attention Age: Focus Test\, free on the
+  App Store: https://apps.apple.com/us/app/attention-age-focus-test/id67953
+ 11726?pt=129123876&ct=cal-weekly-focus-check-calendar&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/weekly-focus-check-cal
+ endar/
+URL:https://apps.apple.com/us/app/attention-age-focus-test/id6795311726?pt=
+ 129123876&ct=cal-weekly-focus-check-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a5377cba1af06ffcfe8e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Mid-month: one attention experiment
+DESCRIPTION:Pick one experiment for the next two weeks and compare your wee
+ kly focus scores:\n• no phone for the first 30 minutes after waking\n•
+  a 10-minute walk before deep work\n• notifications off for work hours\n
+ \nChange one thing at a time so you can tell what helped.\n\n—\nFrom Att
+ ention Age: Focus Test\, free on the App Store: https://apps.apple.com/us/
+ app/attention-age-focus-test/id6795311726?pt=129123876&ct=cal-weekly-focus
+ -check-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/weekly-focus-check-calendar/
+URL:https://apps.apple.com/us/app/attention-age-focus-test/id6795311726?pt=
+ 129123876&ct=cal-weekly-focus-check-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,603 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Psalms in a Month
+X-WR-CALDESC:Read all 150 Psalms every month: five a day\, matched to the d
+ ate\, with a real-life moment for each day. Free calendar for iPhone\, Mac
+  and Google. https://honestlittleapps.github.io/calendars/psalms-in-a-mont
+ h/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#23356e
+X-APPLE-CALENDAR-COLOR:#23356e
+BEGIN:VEVENT
+UID:a1d5853d297d4e792e18@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Psalms in a Month: day 1 (Choosing who you listen to)
+DESCRIPTION:Today's five: Psalm 1\, Psalm 31\, Psalm 61\, Psalm 91\, Psalm 
+ 121.\n\nStart with Psalm 1. It fits a moment like this one: choosing who y
+ ou listen to. If you only have two minutes\, read Psalm 1 slowly and stop 
+ on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible 
+ for Real Life\, free on the App Store: https://apps.apple.com/us/app/lamps
+ tep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/p
+ salms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9351e76d876cec6e4494@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Psalms in a Month: day 2 (When the news feels out of control)
+DESCRIPTION:Today's five: Psalm 2\, Psalm 32\, Psalm 62\, Psalm 92\, Psalm 
+ 122.\n\nStart with Psalm 2. It fits a moment like this one: when the news 
+ feels out of control. If you only have two minutes\, read Psalm 2 slowly a
+ nd stop on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep
+ : Bible for Real Life\, free on the App Store: https://apps.apple.com/us/a
+ pp/lampstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in
+ -a-month&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e6676935ee7771eeb62d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Psalms in a Month: day 3 (When people are against you)
+DESCRIPTION:Today's five: Psalm 3\, Psalm 33\, Psalm 63\, Psalm 93\, Psalm 
+ 123.\n\nStart with Psalm 3. It fits a moment like this one: when people ar
+ e against you. If you only have two minutes\, read Psalm 3 slowly and stop
+  on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible
+  for Real Life\, free on the App Store: https://apps.apple.com/us/app/lamp
+ step-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-mont
+ h&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:599570a81863bbc4396b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Psalms in a Month: day 4 (Can't switch off at night)
+DESCRIPTION:Today's five: Psalm 4\, Psalm 34\, Psalm 64\, Psalm 94\, Psalm 
+ 124.\n\nStart with Psalm 4. It fits a moment like this one: can't switch o
+ ff at night. If you only have two minutes\, read Psalm 4 slowly and stop o
+ n the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible f
+ or Real Life\, free on the App Store: https://apps.apple.com/us/app/lampst
+ ep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/ps
+ alms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c6280d7b96cf4633eab0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Psalms in a Month: day 5 (Starting the workday)
+DESCRIPTION:Today's five: Psalm 5\, Psalm 35\, Psalm 65\, Psalm 95\, Psalm 
+ 125.\n\nStart with Psalm 5. It fits a moment like this one: starting the w
+ orkday. If you only have two minutes\, read Psalm 5 slowly and stop on the
+  line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for Re
+ al Life\, free on the App Store: https://apps.apple.com/us/app/lampstep-bi
+ ble-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/psalms-
+ in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a8eb04c4fb98ac7cdb94@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Psalms in a Month: day 6 (Worn out and in tears)
+DESCRIPTION:Today's five: Psalm 6\, Psalm 36\, Psalm 66\, Psalm 96\, Psalm 
+ 126.\n\nStart with Psalm 6. It fits a moment like this one: worn out and i
+ n tears. If you only have two minutes\, read Psalm 6 slowly and stop on th
+ e line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for R
+ eal Life\, free on the App Store: https://apps.apple.com/us/app/lampstep-b
+ ible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/psalms
+ -in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:342bfac74f1ea5f8049c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Psalms in a Month: day 7 (Falsely accused)
+DESCRIPTION:Today's five: Psalm 7\, Psalm 37\, Psalm 67\, Psalm 97\, Psalm 
+ 127.\n\nStart with Psalm 7. It fits a moment like this one: falsely accuse
+ d. If you only have two minutes\, read Psalm 7 slowly and stop on the line
+  you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for Real Li
+ fe\, free on the App Store: https://apps.apple.com/us/app/lampstep-bible-f
+ or-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/psalms-in-a-
+ month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7932f90309916dae85ed@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Psalms in a Month: day 8 (Feeling small under a big sky)
+DESCRIPTION:Today's five: Psalm 8\, Psalm 38\, Psalm 68\, Psalm 98\, Psalm 
+ 128.\n\nStart with Psalm 8. It fits a moment like this one: feeling small 
+ under a big sky. If you only have two minutes\, read Psalm 8 slowly and st
+ op on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bib
+ le for Real Life\, free on the App Store: https://apps.apple.com/us/app/la
+ mpstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-mo
+ nth&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3ffac033c70da1aca54e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Psalms in a Month: day 9 (Remembering what God has done)
+DESCRIPTION:Today's five: Psalm 9\, Psalm 39\, Psalm 69\, Psalm 99\, Psalm 
+ 129.\n\nStart with Psalm 9. It fits a moment like this one: remembering wh
+ at god has done. If you only have two minutes\, read Psalm 9 slowly and st
+ op on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bib
+ le for Real Life\, free on the App Store: https://apps.apple.com/us/app/la
+ mpstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-mo
+ nth&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c44e56f6feb7ca0196@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Psalms in a Month: day 10 (When it seems like the bad guys win)
+DESCRIPTION:Today's five: Psalm 10\, Psalm 40\, Psalm 70\, Psalm 100\, Psal
+ m 130.\n\nStart with Psalm 10. It fits a moment like this one: when it see
+ ms like the bad guys win. If you only have two minutes\, read Psalm 10 slo
+ wly and stop on the line you'd want to remember at lunch.\n\n—\nFrom Lam
+ pstep: Bible for Real Life\, free on the App Store: https://apps.apple.com
+ /us/app/lampstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psal
+ ms-in-a-month&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0ab109a8d94c7035a82a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Psalms in a Month: day 11 (When the foundations shake)
+DESCRIPTION:Today's five: Psalm 11\, Psalm 41\, Psalm 71\, Psalm 101\, Psal
+ m 131.\n\nStart with Psalm 11. It fits a moment like this one: when the fo
+ undations shake. If you only have two minutes\, read Psalm 11 slowly and s
+ top on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bi
+ ble for Real Life\, free on the App Store: https://apps.apple.com/us/app/l
+ ampstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-m
+ onth&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3b825101945bf44590c8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Psalms in a Month: day 12 (Tired of empty talk)
+DESCRIPTION:Today's five: Psalm 12\, Psalm 42\, Psalm 72\, Psalm 102\, Psal
+ m 132.\n\nStart with Psalm 12. It fits a moment like this one: tired of em
+ pty talk. If you only have two minutes\, read Psalm 12 slowly and stop on 
+ the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for
+  Real Life\, free on the App Store: https://apps.apple.com/us/app/lampstep
+ -bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/psal
+ ms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:49cf2a5684f738abde0a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Psalms in a Month: day 13 (How long\, Lord?)
+DESCRIPTION:Today's five: Psalm 13\, Psalm 43\, Psalm 73\, Psalm 103\, Psal
+ m 133.\n\nStart with Psalm 13. It fits a moment like this one: how long\, 
+ lord?. If you only have two minutes\, read Psalm 13 slowly and stop on the
+  line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for Re
+ al Life\, free on the App Store: https://apps.apple.com/us/app/lampstep-bi
+ ble-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/psalms-
+ in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fc22009627f4775db83d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Psalms in a Month: day 14 (When nobody seems to care about God)
+DESCRIPTION:Today's five: Psalm 14\, Psalm 44\, Psalm 74\, Psalm 104\, Psal
+ m 134.\n\nStart with Psalm 14. It fits a moment like this one: when nobody
+  seems to care about god. If you only have two minutes\, read Psalm 14 slo
+ wly and stop on the line you'd want to remember at lunch.\n\n—\nFrom Lam
+ pstep: Bible for Real Life\, free on the App Store: https://apps.apple.com
+ /us/app/lampstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psal
+ ms-in-a-month&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d193298939062c8817ef@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Psalms in a Month: day 15 (Who can stand before God?)
+DESCRIPTION:Today's five: Psalm 15\, Psalm 45\, Psalm 75\, Psalm 105\, Psal
+ m 135.\n\nStart with Psalm 15. It fits a moment like this one: who can sta
+ nd before god?. If you only have two minutes\, read Psalm 15 slowly and st
+ op on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bib
+ le for Real Life\, free on the App Store: https://apps.apple.com/us/app/la
+ mpstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-mo
+ nth&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f7068691699105c6caca@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Psalms in a Month: day 16 (When you need to feel secure)
+DESCRIPTION:Today's five: Psalm 16\, Psalm 46\, Psalm 76\, Psalm 106\, Psal
+ m 136.\n\nStart with Psalm 16. It fits a moment like this one: when you ne
+ ed to feel secure. If you only have two minutes\, read Psalm 16 slowly and
+  stop on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: 
+ Bible for Real Life\, free on the App Store: https://apps.apple.com/us/app
+ /lampstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a
+ -month&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba7b30d32705084021b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Psalms in a Month: day 17 (When you're misjudged)
+DESCRIPTION:Today's five: Psalm 17\, Psalm 47\, Psalm 77\, Psalm 107\, Psal
+ m 137.\n\nStart with Psalm 17. It fits a moment like this one: when you're
+  misjudged. If you only have two minutes\, read Psalm 17 slowly and stop o
+ n the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible f
+ or Real Life\, free on the App Store: https://apps.apple.com/us/app/lampst
+ ep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/ps
+ alms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:128b355e4372a2f58a0a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Psalms in a Month: day 18 (After a narrow escape)
+DESCRIPTION:Today's five: Psalm 18\, Psalm 48\, Psalm 78\, Psalm 108\, Psal
+ m 138.\n\nStart with Psalm 18. It fits a moment like this one: after a nar
+ row escape. If you only have two minutes\, read Psalm 18 slowly and stop o
+ n the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible f
+ or Real Life\, free on the App Store: https://apps.apple.com/us/app/lampst
+ ep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/ps
+ alms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dca63e0ef6b7c8823f4c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Psalms in a Month: day 19 (Watching a sunrise)
+DESCRIPTION:Today's five: Psalm 19\, Psalm 49\, Psalm 79\, Psalm 109\, Psal
+ m 139.\n\nStart with Psalm 19. It fits a moment like this one: watching a 
+ sunrise. If you only have two minutes\, read Psalm 19 slowly and stop on t
+ he line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for 
+ Real Life\, free on the App Store: https://apps.apple.com/us/app/lampstep-
+ bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/psalm
+ s-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:25cba6397b5d69990f43@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Psalms in a Month: day 20 (Before a big day)
+DESCRIPTION:Today's five: Psalm 20\, Psalm 50\, Psalm 80\, Psalm 110\, Psal
+ m 140.\n\nStart with Psalm 20. It fits a moment like this one: before a bi
+ g day. If you only have two minutes\, read Psalm 20 slowly and stop on the
+  line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for Re
+ al Life\, free on the App Store: https://apps.apple.com/us/app/lampstep-bi
+ ble-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/psalms-
+ in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:66f4b23c1eef88378ae9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Psalms in a Month: day 21 (After a win)
+DESCRIPTION:Today's five: Psalm 21\, Psalm 51\, Psalm 81\, Psalm 111\, Psal
+ m 141.\n\nStart with Psalm 21. It fits a moment like this one: after a win
+ . If you only have two minutes\, read Psalm 21 slowly and stop on the line
+  you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for Real Li
+ fe\, free on the App Store: https://apps.apple.com/us/app/lampstep-bible-f
+ or-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/psalms-in-a-
+ month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:efa278aa67efc964092b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Psalms in a Month: day 22 (Feeling forsaken)
+DESCRIPTION:Today's five: Psalm 22\, Psalm 52\, Psalm 82\, Psalm 112\, Psal
+ m 142.\n\nStart with Psalm 22. It fits a moment like this one: feeling for
+ saken. If you only have two minutes\, read Psalm 22 slowly and stop on the
+  line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for Re
+ al Life\, free on the App Store: https://apps.apple.com/us/app/lampstep-bi
+ ble-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/psalms-
+ in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c1bd7a1956e04b155ec5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Psalms in a Month: day 23 (When you need a shepherd)
+DESCRIPTION:Today's five: Psalm 23\, Psalm 53\, Psalm 83\, Psalm 113\, Psal
+ m 143.\n\nStart with Psalm 23. It fits a moment like this one: when you ne
+ ed a shepherd. If you only have two minutes\, read Psalm 23 slowly and sto
+ p on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bibl
+ e for Real Life\, free on the App Store: https://apps.apple.com/us/app/lam
+ pstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-mon
+ th&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars
+ /psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ded2a2f2cef293c1e09d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Psalms in a Month: day 24 (Who owns everything)
+DESCRIPTION:Today's five: Psalm 24\, Psalm 54\, Psalm 84\, Psalm 114\, Psal
+ m 144.\n\nStart with Psalm 24. It fits a moment like this one: who owns ev
+ erything. If you only have two minutes\, read Psalm 24 slowly and stop on 
+ the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for
+  Real Life\, free on the App Store: https://apps.apple.com/us/app/lampstep
+ -bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/psal
+ ms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c04eaf6589a341249003@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Psalms in a Month: day 25 (When you're asking for direction)
+DESCRIPTION:Today's five: Psalm 25\, Psalm 55\, Psalm 85\, Psalm 115\, Psal
+ m 145.\n\nStart with Psalm 25. It fits a moment like this one: when you're
+  asking for direction. If you only have two minutes\, read Psalm 25 slowly
+  and stop on the line you'd want to remember at lunch.\n\n—\nFrom Lampst
+ ep: Bible for Real Life\, free on the App Store: https://apps.apple.com/us
+ /app/lampstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-
+ in-a-month&mt=8\nAbout this calendar: https://honestlittleapps.github.io/c
+ alendars/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c8f722c367ffd09e9c0f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Psalms in a Month: day 26 (Checking your integrity)
+DESCRIPTION:Today's five: Psalm 26\, Psalm 56\, Psalm 86\, Psalm 116\, Psal
+ m 146.\n\nStart with Psalm 26. It fits a moment like this one: checking yo
+ ur integrity. If you only have two minutes\, read Psalm 26 slowly and stop
+  on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible
+  for Real Life\, free on the App Store: https://apps.apple.com/us/app/lamp
+ step-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-mont
+ h&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4dbde3db7406aea4944f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Psalms in a Month: day 27 (Facing fear)
+DESCRIPTION:Today's five: Psalm 27\, Psalm 57\, Psalm 87\, Psalm 117\, Psal
+ m 147.\n\nStart with Psalm 27. It fits a moment like this one: facing fear
+ . If you only have two minutes\, read Psalm 27 slowly and stop on the line
+  you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for Real Li
+ fe\, free on the App Store: https://apps.apple.com/us/app/lampstep-bible-f
+ or-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/psalms-in-a-
+ month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d34f942dd77e9d360366@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Psalms in a Month: day 28 (When God seems silent)
+DESCRIPTION:Today's five: Psalm 28\, Psalm 58\, Psalm 88\, Psalm 118\, Psal
+ m 148.\n\nStart with Psalm 28. It fits a moment like this one: when god se
+ ems silent. If you only have two minutes\, read Psalm 28 slowly and stop o
+ n the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible f
+ or Real Life\, free on the App Store: https://apps.apple.com/us/app/lampst
+ ep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/ps
+ alms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c3cfa6c8798f9d226308@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Psalms in a Month: day 29 (During a storm)
+DESCRIPTION:Today's five: Psalm 29\, Psalm 59\, Psalm 89\, Psalm 119\, Psal
+ m 149.\n\nStart with Psalm 29. It fits a moment like this one: during a st
+ orm. If you only have two minutes\, read Psalm 29 slowly and stop on the l
+ ine you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bible for Real
+  Life\, free on the App Store: https://apps.apple.com/us/app/lampstep-bibl
+ e-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-month&mt=8\nA
+ bout this calendar: https://honestlittleapps.github.io/calendars/psalms-in
+ -a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e39c4464df4d3dfa1b22@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Psalms in a Month: day 30 (When mourning turns to joy)
+DESCRIPTION:Today's five: Psalm 30\, Psalm 60\, Psalm 90\, Psalm 120\, Psal
+ m 150.\n\nStart with Psalm 30. It fits a moment like this one: when mourni
+ ng turns to joy. If you only have two minutes\, read Psalm 30 slowly and s
+ top on the line you'd want to remember at lunch.\n\n—\nFrom Lampstep: Bi
+ ble for Real Life\, free on the App Store: https://apps.apple.com/us/app/l
+ ampstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-a-m
+ onth&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:461ab683dfb671a4c9f5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Psalms in a Month: day 31 (Psalm 119)
+DESCRIPTION:Day 31: Psalm 119\, the longest chapter in the Bible. It has 22
+  sections of 8 verses\, one for each letter of the Hebrew alphabet. Read o
+ ne or two sections today and come back to the rest.\n\n—\nFrom Lampstep:
+  Bible for Real Life\, free on the App Store: https://apps.apple.com/us/ap
+ p/lampstep-bible-for-real-life/id6820775927?pt=129123876&ct=cal-psalms-in-
+ a-month&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/psalms-in-a-month/
+URL:https://apps.apple.com/us/app/lampstep-bible-for-real-life/id6820775927
+ ?pt=129123876&ct=cal-psalms-in-a-month&mt=8
+END:VEVENT
+END:VCALENDAR

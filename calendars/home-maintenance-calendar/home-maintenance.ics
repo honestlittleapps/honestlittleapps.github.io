@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Home maintenance
+X-WR-CALDESC:A free seasonal home maintenance calendar: three jobs on the f
+ irst Saturday of every month (filters\, gutters\, GFCI tests\, dryer vents
+ \, safety checks). Subscribe in one tap. https://honestlittleapps.github.i
+ o/calendars/home-maintenance-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#1d6a62
+X-APPLE-CALENDAR-COLOR:#1d6a62
+BEGIN:VEVENT
+UID:d6d90711c2167f910a3f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SA
+SUMMARY:Home maintenance: January checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Replace 
+ or check the HVAC filter.\n• Test the sump pump if you have one.\n• Ch
+ eck for drafts around doors and windows.\n\nHelping a parent? Do the safet
+ y items (rails\, lights\, mats\, trip hazards) at their place too.\n\n—\
+ nFrom RoomMend: Safer Home Plans\, free on the App Store: https://apps.app
+ le.com/us/app/roommend-safer-home-plans/id6820106548?pt=129123876&ct=cal-h
+ ome-maintenance-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:79066c54badbdb095ae1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=2;BYDAY=1SA
+SUMMARY:Home maintenance: February checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Clean th
+ e range hood filter.\n• Check grout and caulk around tubs and showers.\n
+ • Vacuum fridge coils.\n\nHelping a parent? Do the safety items (rails\,
+  lights\, mats\, trip hazards) at their place too.\n\n—\nFrom RoomMend: 
+ Safer Home Plans\, free on the App Store: https://apps.apple.com/us/app/ro
+ ommend-safer-home-plans/id6820106548?pt=129123876&ct=cal-home-maintenance-
+ calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:76d9ba84bd3bf60e8e8b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=1SA
+SUMMARY:Home maintenance: March checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Check th
+ e roof and gutters after winter storms.\n• Book an A/C service before th
+ e spring rush.\n• Flip or rotate mattresses.\n\nHelping a parent? Do the
+  safety items (rails\, lights\, mats\, trip hazards) at their place too.\n
+ \n—\nFrom RoomMend: Safer Home Plans\, free on the App Store: https://ap
+ ps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt=129123876&ct
+ =cal-home-maintenance-calendar&mt=8\nAbout this calendar: https://honestli
+ ttleapps.github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:066b49b34456dec6e3e1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SA
+SUMMARY:Home maintenance: April checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Clean gu
+ tters and downspouts.\n• Check outdoor faucets and hoses for freeze dama
+ ge.\n• Inspect deck and steps for loose boards.\n\nHelping a parent? Do 
+ the safety items (rails\, lights\, mats\, trip hazards) at their place too
+ .\n\n—\nFrom RoomMend: Safer Home Plans\, free on the App Store: https:/
+ /apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt=129123876
+ &ct=cal-home-maintenance-calendar&mt=8\nAbout this calendar: https://hones
+ tlittleapps.github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cfdee707ea739ca2a654@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=1SA
+SUMMARY:Home maintenance: May checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Clean wi
+ ndow screens and check for tears.\n• Test GFCI outlets (press TEST\, the
+ n RESET).\n• Clear dryer vent lint from the outside duct.\n\nHelping a p
+ arent? Do the safety items (rails\, lights\, mats\, trip hazards) at their
+  place too.\n\n—\nFrom RoomMend: Safer Home Plans\, free on the App Stor
+ e: https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8\nAbout this calendar: htt
+ ps://honestlittleapps.github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b04b99ae414536726296@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=6;BYDAY=1SA
+SUMMARY:Home maintenance: June checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Check gr
+ ab bars and stair rails are solid.\n• Trim plants back from the house an
+ d A/C unit.\n• Clean the dishwasher filter.\n\nHelping a parent? Do the 
+ safety items (rails\, lights\, mats\, trip hazards) at their place too.\n\
+ n—\nFrom RoomMend: Safer Home Plans\, free on the App Store: https://app
+ s.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt=129123876&ct=
+ cal-home-maintenance-calendar&mt=8\nAbout this calendar: https://honestlit
+ tleapps.github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:febd4a2201f665a283c9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=7;BYDAY=1SA
+SUMMARY:Home maintenance: July checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Check th
+ e water heater area for leaks.\n• Re-caulk any gaps around windows.\n•
+  Inspect the garage door's auto-reverse.\n\nHelping a parent? Do the safet
+ y items (rails\, lights\, mats\, trip hazards) at their place too.\n\n—\
+ nFrom RoomMend: Safer Home Plans\, free on the App Store: https://apps.app
+ le.com/us/app/roommend-safer-home-plans/id6820106548?pt=129123876&ct=cal-h
+ ome-maintenance-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1c096f8577db04d395ea@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=8;BYDAY=1SA
+SUMMARY:Home maintenance: August checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Check wa
+ lkways and steps for trip hazards.\n• Deep-clean the fridge and check th
+ e door seal.\n• Inspect attic for leaks or pests.\n\nHelping a parent? D
+ o the safety items (rails\, lights\, mats\, trip hazards) at their place t
+ oo.\n\n—\nFrom RoomMend: Safer Home Plans\, free on the App Store: https
+ ://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt=1291238
+ 76&ct=cal-home-maintenance-calendar&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bcfe02a921ef33f185c4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SA
+SUMMARY:Home maintenance: September checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Book a f
+ urnace or heat-pump service.\n• Clean gutters again as leaves fall.\n•
+  Check weatherstripping on doors.\n\nHelping a parent? Do the safety items
+  (rails\, lights\, mats\, trip hazards) at their place too.\n\n—\nFrom R
+ oomMend: Safer Home Plans\, free on the App Store: https://apps.apple.com/
+ us/app/roommend-safer-home-plans/id6820106548?pt=129123876&ct=cal-home-mai
+ ntenance-calendar&mt=8\nAbout this calendar: https://honestlittleapps.gith
+ ub.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f11296c170a98c032a80@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SA
+SUMMARY:Home maintenance: October checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Drain an
+ d disconnect outdoor hoses before frost.\n• Check night lights along hal
+ lways and stairs.\n• Have the chimney inspected if you use it.\n\nHelpin
+ g a parent? Do the safety items (rails\, lights\, mats\, trip hazards) at 
+ their place too.\n\n—\nFrom RoomMend: Safer Home Plans\, free on the App
+  Store: https://apps.apple.com/us/app/roommend-safer-home-plans/id68201065
+ 48?pt=129123876&ct=cal-home-maintenance-calendar&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5c2c11e53948f3c81792@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SA
+SUMMARY:Home maintenance: November checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Replace 
+ the HVAC filter for heating season.\n• Check smoke and CO alarms.\n• P
+ ut non-slip mats where floors get wet.\n\nHelping a parent? Do the safety 
+ items (rails\, lights\, mats\, trip hazards) at their place too.\n\n—\nF
+ rom RoomMend: Safer Home Plans\, free on the App Store: https://apps.apple
+ .com/us/app/roommend-safer-home-plans/id6820106548?pt=129123876&ct=cal-hom
+ e-maintenance-calendar&mt=8\nAbout this calendar: https://honestlittleapps
+ .github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:122886c6a4165b389a30@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+RRULE:FREQ=YEARLY;BYMONTH=12;BYDAY=1SA
+SUMMARY:Home maintenance: December checklist
+DESCRIPTION:This month's three jobs (about an hour in total):\n• Check ho
+ liday light cords for damage.\n• Know where the main water shut-off is a
+ nd label it.\n• Clear snow and ice paths\; stock ice melt.\n\nHelping a 
+ parent? Do the safety items (rails\, lights\, mats\, trip hazards) at thei
+ r place too.\n\n—\nFrom RoomMend: Safer Home Plans\, free on the App Sto
+ re: https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?p
+ t=129123876&ct=cal-home-maintenance-calendar&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/home-maintenance-calendar/
+URL:https://apps.apple.com/us/app/roommend-safer-home-plans/id6820106548?pt
+ =129123876&ct=cal-home-maintenance-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

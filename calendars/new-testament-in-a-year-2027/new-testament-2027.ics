@@ -1,0 +1,4220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Testament in a Year 2027
+X-WR-CALDESC:Read all 260 New Testament chapters in 2027\, one chapter per 
+ weekday\, weekends free. Book introductions and a study question each day.
+  Free iPhone calendar. https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#8a6a2e
+X-APPLE-CALENDAR-COLOR:#8a6a2e
+BEGIN:VEVENT
+UID:b2d16ac52da8b70caf5d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 1
+DESCRIPTION:New book: Matthew. Written for readers steeped in the Hebrew Sc
+ riptures. Watch for 'to fulfil what was spoken'. Matthew keeps showing Jes
+ us as the promised King.\n\nRead Matthew 1.\n\nQuestion: What does this ch
+ apter show you about God?\n\n—\nFrom Wayfold: Understand the Bible\, fre
+ e on the App Store: https://apps.apple.com/us/app/wayfold-understand-the-b
+ ible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nA
+ bout this calendar: https://honestlittleapps.github.io/calendars/new-testa
+ ment-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5bda4ef5d9856a06c7cc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 2
+DESCRIPTION:Read Matthew 2.\n\nQuestion: What did the first readers most ne
+ ed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4ca588817f3c810ca888@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 3
+DESCRIPTION:Read Matthew 3.\n\nQuestion: Which single verse would you under
+ line\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:198fc3517ad4aa4bafc8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 4
+DESCRIPTION:Read Matthew 4.\n\nQuestion: Is there a command to obey\, an ex
+ ample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand t
+ he Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-un
+ derstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-yea
+ r-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b4afacdf698c8baf2114@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 5
+DESCRIPTION:Read Matthew 5.\n\nQuestion: How would you explain this chapter
+  to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\
+ , free on the App Store: https://apps.apple.com/us/app/wayfold-understand-
+ the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new-
+ testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:46e3d10b30d87732de10@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 6
+DESCRIPTION:Read Matthew 6.\n\nQuestion: What does this chapter show you ab
+ out God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Stor
+ e: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-20
+ 27/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fa25200d69d99d8fe37d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 7
+DESCRIPTION:Read Matthew 7.\n\nQuestion: What did the first readers most ne
+ ed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:abaf212d86b7c49f1725@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 8
+DESCRIPTION:Read Matthew 8.\n\nQuestion: Which single verse would you under
+ line\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:203fb689a34e8d86d4fb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 9
+DESCRIPTION:Read Matthew 9.\n\nQuestion: Is there a command to obey\, an ex
+ ample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand t
+ he Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-un
+ derstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-yea
+ r-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:44d734c78587c0c3e11b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 10
+DESCRIPTION:Read Matthew 10.\n\nQuestion: How would you explain this chapte
+ r to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible
+ \, free on the App Store: https://apps.apple.com/us/app/wayfold-understand
+ -the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new
+ -testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0312d8b5bb4be828ffb0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 11
+DESCRIPTION:Read Matthew 11.\n\nQuestion: What does this chapter show you a
+ bout God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Sto
+ re: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030446
+ 2?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2
+ 027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:75faa8f7642cec66adf7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 12
+DESCRIPTION:Read Matthew 12.\n\nQuestion: What did the first readers most n
+ eed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the
+  App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6
+ 820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/new-testament-in-
+ a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c3155caf314143bc1383@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 13
+DESCRIPTION:Read Matthew 13.\n\nQuestion: Which single verse would you unde
+ rline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:76fe5756297c7e751e82@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 14
+DESCRIPTION:Read Matthew 14.\n\nQuestion: Is there a command to obey\, an e
+ xample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand 
+ the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-u
+ nderstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-ye
+ ar-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f8a079bfaec0f93e1807@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 15
+DESCRIPTION:Read Matthew 15.\n\nQuestion: How would you explain this chapte
+ r to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible
+ \, free on the App Store: https://apps.apple.com/us/app/wayfold-understand
+ -the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new
+ -testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6b236687c086867c046d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 16
+DESCRIPTION:Read Matthew 16.\n\nQuestion: What does this chapter show you a
+ bout God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Sto
+ re: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030446
+ 2?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2
+ 027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3622b67c5ab3ee566a47@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 17
+DESCRIPTION:Read Matthew 17.\n\nQuestion: What did the first readers most n
+ eed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the
+  App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6
+ 820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/new-testament-in-
+ a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1e005be27a3a8623ec1a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 18
+DESCRIPTION:Read Matthew 18.\n\nQuestion: Which single verse would you unde
+ rline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d62e3c1a2402dfcd2972@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 19
+DESCRIPTION:Read Matthew 19.\n\nQuestion: Is there a command to obey\, an e
+ xample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand 
+ the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-u
+ nderstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-ye
+ ar-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ebe0b9167d3f336800e4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 20
+DESCRIPTION:Read Matthew 20.\n\nQuestion: How would you explain this chapte
+ r to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible
+ \, free on the App Store: https://apps.apple.com/us/app/wayfold-understand
+ -the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new
+ -testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:84ca3f6fd3f4cc3ff768@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 21
+DESCRIPTION:Read Matthew 21.\n\nQuestion: What does this chapter show you a
+ bout God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Sto
+ re: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030446
+ 2?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2
+ 027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:677a690f307f5ac909c1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 22
+DESCRIPTION:Read Matthew 22.\n\nQuestion: What did the first readers most n
+ eed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the
+  App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6
+ 820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/new-testament-in-
+ a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a4c0d0c06e7fecdc79c9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 23
+DESCRIPTION:Read Matthew 23.\n\nQuestion: Which single verse would you unde
+ rline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:80d6c34de9772c968ed8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 24
+DESCRIPTION:Read Matthew 24.\n\nQuestion: Is there a command to obey\, an e
+ xample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand 
+ the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-u
+ nderstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-ye
+ ar-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5dbdc343c42dbba87a68@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 25
+DESCRIPTION:Read Matthew 25.\n\nQuestion: How would you explain this chapte
+ r to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible
+ \, free on the App Store: https://apps.apple.com/us/app/wayfold-understand
+ -the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new
+ -testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e8776098d68aa183ce23@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 26
+DESCRIPTION:Read Matthew 26.\n\nQuestion: What does this chapter show you a
+ bout God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Sto
+ re: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030446
+ 2?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2
+ 027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:96b82959918464b8bfc4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 27
+DESCRIPTION:Read Matthew 27.\n\nQuestion: What did the first readers most n
+ eed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the
+  App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6
+ 820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/new-testament-in-
+ a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:54fc63991a4776326a55@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+TRANSP:TRANSPARENT
+SUMMARY:Matthew 28
+DESCRIPTION:Read Matthew 28.\n\nQuestion: Which single verse would you unde
+ rline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:764ba15ad2dd70d565ef@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+TRANSP:TRANSPARENT
+SUMMARY:Mark 1
+DESCRIPTION:New book: Mark. The shortest Gospel\, fast-paced. Notice how of
+ ten it says 'immediately'\, and how the disciples keep missing who Jesus i
+ s.\n\nRead Mark 1.\n\nQuestion: Is there a command to obey\, an example to
+  follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the Bible
+ \, free on the App Store: https://apps.apple.com/us/app/wayfold-understand
+ -the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new
+ -testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:60744e4d8b1e2bdfcca3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+TRANSP:TRANSPARENT
+SUMMARY:Mark 2
+DESCRIPTION:Read Mark 2.\n\nQuestion: How would you explain this chapter to
+  a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, f
+ ree on the App Store: https://apps.apple.com/us/app/wayfold-understand-the
+ -bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/new-tes
+ tament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:22e5d98819d46ccacd91@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+TRANSP:TRANSPARENT
+SUMMARY:Mark 3
+DESCRIPTION:Read Mark 3.\n\nQuestion: What does this chapter show you about
+  God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: 
+ https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt
+ =129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:61c9944ca10cc9361317@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+TRANSP:TRANSPARENT
+SUMMARY:Mark 4
+DESCRIPTION:Read Mark 4.\n\nQuestion: What did the first readers most need 
+ to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:484b5e12829469fbaf96@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+TRANSP:TRANSPARENT
+SUMMARY:Mark 5
+DESCRIPTION:Read Mark 5.\n\nQuestion: Which single verse would you underlin
+ e\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App 
+ Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030
+ 4462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/new-testament-in-a-yea
+ r-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1ae6dbe30e4c6b33f5ff@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+TRANSP:TRANSPARENT
+SUMMARY:Mark 6
+DESCRIPTION:Read Mark 6.\n\nQuestion: Is there a command to obey\, an examp
+ le to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the 
+ Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-under
+ stand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2
+ 027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9d032e7571214ba16c6e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+TRANSP:TRANSPARENT
+SUMMARY:Mark 7
+DESCRIPTION:Read Mark 7.\n\nQuestion: How would you explain this chapter to
+  a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, f
+ ree on the App Store: https://apps.apple.com/us/app/wayfold-understand-the
+ -bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/new-tes
+ tament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3622f015377f0bed71@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+TRANSP:TRANSPARENT
+SUMMARY:Mark 8
+DESCRIPTION:Read Mark 8.\n\nQuestion: What does this chapter show you about
+  God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: 
+ https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt
+ =129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:985b0e4909f5e945a767@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+TRANSP:TRANSPARENT
+SUMMARY:Mark 9
+DESCRIPTION:Read Mark 9.\n\nQuestion: What did the first readers most need 
+ to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:83ec9c4c4b6a04ebfe67@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+TRANSP:TRANSPARENT
+SUMMARY:Mark 10
+DESCRIPTION:Read Mark 10.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:33c7b7cc1a282c90eeb2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+TRANSP:TRANSPARENT
+SUMMARY:Mark 11
+DESCRIPTION:Read Mark 11.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:02eea13b8306e9745ded@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+TRANSP:TRANSPARENT
+SUMMARY:Mark 12
+DESCRIPTION:Read Mark 12.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:caa81175a0d5d49d0f44@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+TRANSP:TRANSPARENT
+SUMMARY:Mark 13
+DESCRIPTION:Read Mark 13.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dbc6598ba8360fd0110b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+TRANSP:TRANSPARENT
+SUMMARY:Mark 14
+DESCRIPTION:Read Mark 14.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d2250b8886ad4a9a4750@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+TRANSP:TRANSPARENT
+SUMMARY:Mark 15
+DESCRIPTION:Read Mark 15.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:95a7ecbdbd71f6dbb9a0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+TRANSP:TRANSPARENT
+SUMMARY:Mark 16
+DESCRIPTION:Read Mark 16.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5384be9ad8f9f2ab93f6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+TRANSP:TRANSPARENT
+SUMMARY:Luke 1
+DESCRIPTION:New book: Luke. An orderly account written for Theophilus (1:1
+ –4). Luke notices outsiders: women\, the poor\, Samaritans and tax colle
+ ctors.\n\nRead Luke 1.\n\nQuestion: How would you explain this chapter to 
+ a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, fr
+ ee on the App Store: https://apps.apple.com/us/app/wayfold-understand-the-
+ bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\n
+ About this calendar: https://honestlittleapps.github.io/calendars/new-test
+ ament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ac2de4f84c2de676b7a8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+TRANSP:TRANSPARENT
+SUMMARY:Luke 2
+DESCRIPTION:Read Luke 2.\n\nQuestion: What does this chapter show you about
+  God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: 
+ https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt
+ =129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d9bf9e135d9664ebbce7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+TRANSP:TRANSPARENT
+SUMMARY:Luke 3
+DESCRIPTION:Read Luke 3.\n\nQuestion: What did the first readers most need 
+ to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f30e4170161158724559@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+TRANSP:TRANSPARENT
+SUMMARY:Luke 4
+DESCRIPTION:Read Luke 4.\n\nQuestion: Which single verse would you underlin
+ e\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App 
+ Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030
+ 4462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/new-testament-in-a-yea
+ r-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1371d387437e1ee9ef03@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+TRANSP:TRANSPARENT
+SUMMARY:Luke 5
+DESCRIPTION:Read Luke 5.\n\nQuestion: Is there a command to obey\, an examp
+ le to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the 
+ Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-under
+ stand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2
+ 027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:119b51d18175bce608f2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+TRANSP:TRANSPARENT
+SUMMARY:Luke 6
+DESCRIPTION:Read Luke 6.\n\nQuestion: How would you explain this chapter to
+  a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, f
+ ree on the App Store: https://apps.apple.com/us/app/wayfold-understand-the
+ -bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/new-tes
+ tament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3a62802e7a1e283d34bd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+TRANSP:TRANSPARENT
+SUMMARY:Luke 7
+DESCRIPTION:Read Luke 7.\n\nQuestion: What does this chapter show you about
+  God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: 
+ https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt
+ =129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:052a94e631d528959341@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+TRANSP:TRANSPARENT
+SUMMARY:Luke 8
+DESCRIPTION:Read Luke 8.\n\nQuestion: What did the first readers most need 
+ to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:44c2c595426c58af6f5f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+TRANSP:TRANSPARENT
+SUMMARY:Luke 9
+DESCRIPTION:Read Luke 9.\n\nQuestion: Which single verse would you underlin
+ e\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App 
+ Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030
+ 4462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/new-testament-in-a-yea
+ r-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e9a00c2c751035b4d202@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+TRANSP:TRANSPARENT
+SUMMARY:Luke 10
+DESCRIPTION:Read Luke 10.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:63f97bfe4d160ee1f4f8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+TRANSP:TRANSPARENT
+SUMMARY:Luke 11
+DESCRIPTION:Read Luke 11.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1aba7e796116928f795e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+TRANSP:TRANSPARENT
+SUMMARY:Luke 12
+DESCRIPTION:Read Luke 12.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:651007b8d8c81fe6852b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+TRANSP:TRANSPARENT
+SUMMARY:Luke 13
+DESCRIPTION:Read Luke 13.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0c21b7971c291acdd19c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+TRANSP:TRANSPARENT
+SUMMARY:Luke 14
+DESCRIPTION:Read Luke 14.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e58c8a23fd6a7a57a7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+TRANSP:TRANSPARENT
+SUMMARY:Luke 15
+DESCRIPTION:Read Luke 15.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4e67daeb8a8311bfd4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+TRANSP:TRANSPARENT
+SUMMARY:Luke 16
+DESCRIPTION:Read Luke 16.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ff4ac2436085b252e13f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+TRANSP:TRANSPARENT
+SUMMARY:Luke 17
+DESCRIPTION:Read Luke 17.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:00572c23632413d56afe@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+TRANSP:TRANSPARENT
+SUMMARY:Luke 18
+DESCRIPTION:Read Luke 18.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:eca32bb0cf2dad7a91bf@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+TRANSP:TRANSPARENT
+SUMMARY:Luke 19
+DESCRIPTION:Read Luke 19.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1ab76811837b4dae8bbc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+TRANSP:TRANSPARENT
+SUMMARY:Luke 20
+DESCRIPTION:Read Luke 20.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b18d2ff483d0c7723b12@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+TRANSP:TRANSPARENT
+SUMMARY:Luke 21
+DESCRIPTION:Read Luke 21.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7acaf3c5b43198b91d08@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+TRANSP:TRANSPARENT
+SUMMARY:Luke 22
+DESCRIPTION:Read Luke 22.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ba559e221eeb807c82dd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+TRANSP:TRANSPARENT
+SUMMARY:Luke 23
+DESCRIPTION:Read Luke 23.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbba247245269366032@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+TRANSP:TRANSPARENT
+SUMMARY:Luke 24
+DESCRIPTION:Read Luke 24.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9e515bd344a885bad1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+TRANSP:TRANSPARENT
+SUMMARY:John 1
+DESCRIPTION:New book: John. Written 'so that you may believe' (20:31). Trac
+ k the seven signs and the 'I am' sayings.\n\nRead John 1.\n\nQuestion: Is 
+ there a command to obey\, an example to follow\, or a warning to heed?\n\n
+ —\nFrom Wayfold: Understand the Bible\, free on the App Store: https://a
+ pps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt=12912387
+ 6&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: https://h
+ onestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9e23e44e943b21ce3181@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+TRANSP:TRANSPARENT
+SUMMARY:John 2
+DESCRIPTION:Read John 2.\n\nQuestion: How would you explain this chapter to
+  a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, f
+ ree on the App Store: https://apps.apple.com/us/app/wayfold-understand-the
+ -bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/new-tes
+ tament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:16e8578cd8bd2a4bd44f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+TRANSP:TRANSPARENT
+SUMMARY:John 3
+DESCRIPTION:Read John 3.\n\nQuestion: What does this chapter show you about
+  God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: 
+ https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt
+ =129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a5c46ff36dfdba6070@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+TRANSP:TRANSPARENT
+SUMMARY:John 4
+DESCRIPTION:Read John 4.\n\nQuestion: What did the first readers most need 
+ to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:51a60ea3b4f79097c8b6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+TRANSP:TRANSPARENT
+SUMMARY:John 5
+DESCRIPTION:Read John 5.\n\nQuestion: Which single verse would you underlin
+ e\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App 
+ Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030
+ 4462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/new-testament-in-a-yea
+ r-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:561186143f171b8b387e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+TRANSP:TRANSPARENT
+SUMMARY:John 6
+DESCRIPTION:Read John 6.\n\nQuestion: Is there a command to obey\, an examp
+ le to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the 
+ Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-under
+ stand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2
+ 027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9b3fd783c59a3243477c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+TRANSP:TRANSPARENT
+SUMMARY:John 7
+DESCRIPTION:Read John 7.\n\nQuestion: How would you explain this chapter to
+  a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, f
+ ree on the App Store: https://apps.apple.com/us/app/wayfold-understand-the
+ -bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/new-tes
+ tament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a6b475e868fdc94fd63e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+TRANSP:TRANSPARENT
+SUMMARY:John 8
+DESCRIPTION:Read John 8.\n\nQuestion: What does this chapter show you about
+  God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: 
+ https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt
+ =129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7eeb7a2e2715d6b9611e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+TRANSP:TRANSPARENT
+SUMMARY:John 9
+DESCRIPTION:Read John 9.\n\nQuestion: What did the first readers most need 
+ to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5c98ffef79aabfa303ed@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+TRANSP:TRANSPARENT
+SUMMARY:John 10
+DESCRIPTION:Read John 10.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f21e0f0873c36ae2b206@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+TRANSP:TRANSPARENT
+SUMMARY:John 11
+DESCRIPTION:Read John 11.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1dbc2336967ed9a0fece@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+TRANSP:TRANSPARENT
+SUMMARY:John 12
+DESCRIPTION:Read John 12.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d1c51c13fda8d5c38d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+TRANSP:TRANSPARENT
+SUMMARY:John 13
+DESCRIPTION:Read John 13.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1b174a05f9e5dac23478@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+TRANSP:TRANSPARENT
+SUMMARY:John 14
+DESCRIPTION:Read John 14.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f280cca193e3b178de7f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+TRANSP:TRANSPARENT
+SUMMARY:John 15
+DESCRIPTION:Read John 15.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ea84bf20f75bdca8a363@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+TRANSP:TRANSPARENT
+SUMMARY:John 16
+DESCRIPTION:Read John 16.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d760f8c2d7a905f7651b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+TRANSP:TRANSPARENT
+SUMMARY:John 17
+DESCRIPTION:Read John 17.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f107d3d62d966b21cb9e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+TRANSP:TRANSPARENT
+SUMMARY:John 18
+DESCRIPTION:Read John 18.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3ebacbc332e57ac63cdd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+TRANSP:TRANSPARENT
+SUMMARY:John 19
+DESCRIPTION:Read John 19.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5eeccb08cc666d9112e8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+TRANSP:TRANSPARENT
+SUMMARY:John 20
+DESCRIPTION:Read John 20.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:eca0c131508f1ead4066@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+TRANSP:TRANSPARENT
+SUMMARY:John 21
+DESCRIPTION:Read John 21.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2fbbd38fae2f1544beb5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+TRANSP:TRANSPARENT
+SUMMARY:Acts 1
+DESCRIPTION:New book: Acts. Luke's second volume. The gospel moves outward 
+ from Jerusalem\, to Judea and Samaria\, and to the ends of the earth (1:8)
+ .\n\nRead Acts 1.\n\nQuestion: How would you explain this chapter to a fri
+ end in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, free on
+  the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible
+ /id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/new-testament
+ -in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dab8aed7b5b5ea8a13cd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+TRANSP:TRANSPARENT
+SUMMARY:Acts 2
+DESCRIPTION:Read Acts 2.\n\nQuestion: What does this chapter show you about
+  God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: 
+ https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt
+ =129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8c37447bfa93a4bdf3f1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+TRANSP:TRANSPARENT
+SUMMARY:Acts 3
+DESCRIPTION:Read Acts 3.\n\nQuestion: What did the first readers most need 
+ to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9a5ac630566ed1977780@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+TRANSP:TRANSPARENT
+SUMMARY:Acts 4
+DESCRIPTION:Read Acts 4.\n\nQuestion: Which single verse would you underlin
+ e\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App 
+ Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030
+ 4462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/new-testament-in-a-yea
+ r-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5f256f3c881c3f1cc2c4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+TRANSP:TRANSPARENT
+SUMMARY:Acts 5
+DESCRIPTION:Read Acts 5.\n\nQuestion: Is there a command to obey\, an examp
+ le to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the 
+ Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-under
+ stand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2
+ 027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:200a4f48b582d677ca61@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+TRANSP:TRANSPARENT
+SUMMARY:Acts 6
+DESCRIPTION:Read Acts 6.\n\nQuestion: How would you explain this chapter to
+  a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, f
+ ree on the App Store: https://apps.apple.com/us/app/wayfold-understand-the
+ -bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/new-tes
+ tament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb34f8193dac9af9aae@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+TRANSP:TRANSPARENT
+SUMMARY:Acts 7
+DESCRIPTION:Read Acts 7.\n\nQuestion: What does this chapter show you about
+  God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: 
+ https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt
+ =129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2069a71115ca859cd5d4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+TRANSP:TRANSPARENT
+SUMMARY:Acts 8
+DESCRIPTION:Read Acts 8.\n\nQuestion: What did the first readers most need 
+ to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:920387cf1bd4b1af9afd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+TRANSP:TRANSPARENT
+SUMMARY:Acts 9
+DESCRIPTION:Read Acts 9.\n\nQuestion: Which single verse would you underlin
+ e\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App 
+ Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030
+ 4462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/new-testament-in-a-yea
+ r-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:61d4145d7dfa9b0564ff@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+TRANSP:TRANSPARENT
+SUMMARY:Acts 10
+DESCRIPTION:Read Acts 10.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:74ee0278aa4b0f488037@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+TRANSP:TRANSPARENT
+SUMMARY:Acts 11
+DESCRIPTION:Read Acts 11.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:84c8a17350028fc2a71d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+TRANSP:TRANSPARENT
+SUMMARY:Acts 12
+DESCRIPTION:Read Acts 12.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:17642d0e80b112aea80d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+TRANSP:TRANSPARENT
+SUMMARY:Acts 13
+DESCRIPTION:Read Acts 13.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6096170a83c75721061f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+TRANSP:TRANSPARENT
+SUMMARY:Acts 14
+DESCRIPTION:Read Acts 14.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bdbaeb0d711313dd4e25@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+TRANSP:TRANSPARENT
+SUMMARY:Acts 15
+DESCRIPTION:Read Acts 15.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a010d5c0090c6056ed37@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+TRANSP:TRANSPARENT
+SUMMARY:Acts 16
+DESCRIPTION:Read Acts 16.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:67a81189c8646cdbe6c7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+TRANSP:TRANSPARENT
+SUMMARY:Acts 17
+DESCRIPTION:Read Acts 17.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dad37e270172f8b0fd73@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+TRANSP:TRANSPARENT
+SUMMARY:Acts 18
+DESCRIPTION:Read Acts 18.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2e583b3458f8d086dd9e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+TRANSP:TRANSPARENT
+SUMMARY:Acts 19
+DESCRIPTION:Read Acts 19.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f2bc35b1bf6f498afca1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+TRANSP:TRANSPARENT
+SUMMARY:Acts 20
+DESCRIPTION:Read Acts 20.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0a8b231429f2bf3ab5de@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+TRANSP:TRANSPARENT
+SUMMARY:Acts 21
+DESCRIPTION:Read Acts 21.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:927dfe62c8862e401b0e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+TRANSP:TRANSPARENT
+SUMMARY:Acts 22
+DESCRIPTION:Read Acts 22.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1897e0412a35b94e09ba@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+TRANSP:TRANSPARENT
+SUMMARY:Acts 23
+DESCRIPTION:Read Acts 23.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:89fb4b17c7980b059e2b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+TRANSP:TRANSPARENT
+SUMMARY:Acts 24
+DESCRIPTION:Read Acts 24.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6c620e8df5b4c3cc0b51@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+TRANSP:TRANSPARENT
+SUMMARY:Acts 25
+DESCRIPTION:Read Acts 25.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:eb9fedb06194d40ededa@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+TRANSP:TRANSPARENT
+SUMMARY:Acts 26
+DESCRIPTION:Read Acts 26.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9128c67b8bd46eae4fe9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+TRANSP:TRANSPARENT
+SUMMARY:Acts 27
+DESCRIPTION:Read Acts 27.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:23b21e2841169b6f7149@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+TRANSP:TRANSPARENT
+SUMMARY:Acts 28
+DESCRIPTION:Read Acts 28.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ef92c378ba9532fd185f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+TRANSP:TRANSPARENT
+SUMMARY:Romans 1
+DESCRIPTION:New book: Romans. Paul's fullest explanation of the gospel\, wr
+ itten to a church he hadn't yet visited. Chapters 1–8 are the argument\,
+  9–11 Israel\, 12–16 life together.\n\nRead Romans 1.\n\nQuestion: Whi
+ ch single verse would you underline\, and why?\n\n—\nFrom Wayfold: Under
+ stand the Bible\, free on the App Store: https://apps.apple.com/us/app/way
+ fold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-i
+ n-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:23aa63302e6ee53cd765@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+TRANSP:TRANSPARENT
+SUMMARY:Romans 2
+DESCRIPTION:Read Romans 2.\n\nQuestion: Is there a command to obey\, an exa
+ mple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand th
+ e Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-und
+ erstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year
+ -2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ecece8155bac72c443c0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+TRANSP:TRANSPARENT
+SUMMARY:Romans 3
+DESCRIPTION:Read Romans 3.\n\nQuestion: How would you explain this chapter 
+ to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\,
+  free on the App Store: https://apps.apple.com/us/app/wayfold-understand-t
+ he-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new-t
+ estament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc910027b713a40e8bf@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+TRANSP:TRANSPARENT
+SUMMARY:Romans 4
+DESCRIPTION:Read Romans 4.\n\nQuestion: What does this chapter show you abo
+ ut God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store
+ : https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?
+ pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/new-testament-in-a-year-202
+ 7/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:35cbba91c938774fdec5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+TRANSP:TRANSPARENT
+SUMMARY:Romans 5
+DESCRIPTION:Read Romans 5.\n\nQuestion: What did the first readers most nee
+ d to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:909a47813b9636e1c224@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+TRANSP:TRANSPARENT
+SUMMARY:Romans 6
+DESCRIPTION:Read Romans 6.\n\nQuestion: Which single verse would you underl
+ ine\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7e75aefb3b85017728e1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+TRANSP:TRANSPARENT
+SUMMARY:Romans 7
+DESCRIPTION:Read Romans 7.\n\nQuestion: Is there a command to obey\, an exa
+ mple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand th
+ e Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-und
+ erstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year
+ -2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:93cea226315da0bd48dc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+TRANSP:TRANSPARENT
+SUMMARY:Romans 8
+DESCRIPTION:Read Romans 8.\n\nQuestion: How would you explain this chapter 
+ to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\,
+  free on the App Store: https://apps.apple.com/us/app/wayfold-understand-t
+ he-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new-t
+ estament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:67a22af99cb8a6399874@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+TRANSP:TRANSPARENT
+SUMMARY:Romans 9
+DESCRIPTION:Read Romans 9.\n\nQuestion: What does this chapter show you abo
+ ut God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store
+ : https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?
+ pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/new-testament-in-a-year-202
+ 7/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e044e6bc65d17673873c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+TRANSP:TRANSPARENT
+SUMMARY:Romans 10
+DESCRIPTION:Read Romans 10.\n\nQuestion: What did the first readers most ne
+ ed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4f6864e1a97009e32da2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+TRANSP:TRANSPARENT
+SUMMARY:Romans 11
+DESCRIPTION:Read Romans 11.\n\nQuestion: Which single verse would you under
+ line\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:516f8662fa3fa4444fcb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+TRANSP:TRANSPARENT
+SUMMARY:Romans 12
+DESCRIPTION:Read Romans 12.\n\nQuestion: Is there a command to obey\, an ex
+ ample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand t
+ he Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-un
+ derstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-yea
+ r-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:71672b9786fb8c500172@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+TRANSP:TRANSPARENT
+SUMMARY:Romans 13
+DESCRIPTION:Read Romans 13.\n\nQuestion: How would you explain this chapter
+  to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\
+ , free on the App Store: https://apps.apple.com/us/app/wayfold-understand-
+ the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new-
+ testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:477e8ad1f4c500514075@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+TRANSP:TRANSPARENT
+SUMMARY:Romans 14
+DESCRIPTION:Read Romans 14.\n\nQuestion: What does this chapter show you ab
+ out God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Stor
+ e: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-20
+ 27/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1aff6494f03ebd2928@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+TRANSP:TRANSPARENT
+SUMMARY:Romans 15
+DESCRIPTION:Read Romans 15.\n\nQuestion: What did the first readers most ne
+ ed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d56339ba1fcf4f98e8c0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+TRANSP:TRANSPARENT
+SUMMARY:Romans 16
+DESCRIPTION:Read Romans 16.\n\nQuestion: Which single verse would you under
+ line\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e2415bc57e61620e038b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 1
+DESCRIPTION:New book: 1 Corinthians. Paul answers a divided\, gifted\, mess
+ y church: factions\, lawsuits\, marriage\, worship and the resurrection (c
+ h. 15).\n\nRead 1 Corinthians 1.\n\nQuestion: Is there a command to obey\,
+  an example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Unders
+ tand the Bible\, free on the App Store: https://apps.apple.com/us/app/wayf
+ old-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in
+ -a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io
+ /calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:70296e918e9e0598ee75@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 2
+DESCRIPTION:Read 1 Corinthians 2.\n\nQuestion: How would you explain this c
+ hapter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the 
+ Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-under
+ stand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2
+ 027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4692477122b09f2ad775@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 3
+DESCRIPTION:Read 1 Corinthians 3.\n\nQuestion: What does this chapter show 
+ you about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:011b5e5c63ef73178365@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 4
+DESCRIPTION:Read 1 Corinthians 4.\n\nQuestion: What did the first readers m
+ ost need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free o
+ n the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bibl
+ e/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/new-testamen
+ t-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9beac36d5f4c889f9d7d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 5
+DESCRIPTION:Read 1 Corinthians 5.\n\nQuestion: Which single verse would you
+  underline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on
+  the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible
+ /id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/new-testament
+ -in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:28053add5c2744d3fb62@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 6
+DESCRIPTION:Read 1 Corinthians 6.\n\nQuestion: Is there a command to obey\,
+  an example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Unders
+ tand the Bible\, free on the App Store: https://apps.apple.com/us/app/wayf
+ old-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in
+ -a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io
+ /calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e962c2cee4bbf550691a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 7
+DESCRIPTION:Read 1 Corinthians 7.\n\nQuestion: How would you explain this c
+ hapter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the 
+ Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-under
+ stand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2
+ 027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:418ceb0afa54b3489413@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 8
+DESCRIPTION:Read 1 Corinthians 8.\n\nQuestion: What does this chapter show 
+ you about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e0859680de3d0d8ba91b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 9
+DESCRIPTION:Read 1 Corinthians 9.\n\nQuestion: What did the first readers m
+ ost need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free o
+ n the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bibl
+ e/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/new-testamen
+ t-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc089c6b138ee62ea9c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 10
+DESCRIPTION:Read 1 Corinthians 10.\n\nQuestion: Which single verse would yo
+ u underline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free o
+ n the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bibl
+ e/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/new-testamen
+ t-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5f5c9b8c7204215090ee@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 11
+DESCRIPTION:Read 1 Corinthians 11.\n\nQuestion: Is there a command to obey\
+ , an example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Under
+ stand the Bible\, free on the App Store: https://apps.apple.com/us/app/way
+ fold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-i
+ n-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:32fe80cb7a095ac21ed2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 12
+DESCRIPTION:Read 1 Corinthians 12.\n\nQuestion: How would you explain this 
+ chapter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:13731d0df618db1c8667@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 13
+DESCRIPTION:Read 1 Corinthians 13.\n\nQuestion: What does this chapter show
+  you about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3640a727b8dda291fc39@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 14
+DESCRIPTION:Read 1 Corinthians 14.\n\nQuestion: What did the first readers 
+ most need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free 
+ on the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bib
+ le/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbo
+ ut this calendar: https://honestlittleapps.github.io/calendars/new-testame
+ nt-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d1408d51524685d28908@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 15
+DESCRIPTION:Read 1 Corinthians 15.\n\nQuestion: Which single verse would yo
+ u underline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free o
+ n the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bibl
+ e/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/new-testamen
+ t-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a58a0050efa83ed975@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+TRANSP:TRANSPARENT
+SUMMARY:1 Corinthians 16
+DESCRIPTION:Read 1 Corinthians 16.\n\nQuestion: Is there a command to obey\
+ , an example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Under
+ stand the Bible\, free on the App Store: https://apps.apple.com/us/app/way
+ fold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-i
+ n-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dd6e09aafc48cc0c64fe@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 1
+DESCRIPTION:New book: 2 Corinthians. Paul's most personal letter. He defend
+ s his ministry and finds strength in weakness (12:9).\n\nRead 2 Corinthian
+ s 1.\n\nQuestion: How would you explain this chapter to a friend in two se
+ ntences?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Stor
+ e: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-20
+ 27/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3f373e97446dff6fd184@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 2
+DESCRIPTION:Read 2 Corinthians 2.\n\nQuestion: What does this chapter show 
+ you about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:65a82af62af3418fd34b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 3
+DESCRIPTION:Read 2 Corinthians 3.\n\nQuestion: What did the first readers m
+ ost need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free o
+ n the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bibl
+ e/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/new-testamen
+ t-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:654ad754913ddb64127d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 4
+DESCRIPTION:Read 2 Corinthians 4.\n\nQuestion: Which single verse would you
+  underline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on
+  the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible
+ /id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/new-testament
+ -in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b80a0265246924366378@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 5
+DESCRIPTION:Read 2 Corinthians 5.\n\nQuestion: Is there a command to obey\,
+  an example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Unders
+ tand the Bible\, free on the App Store: https://apps.apple.com/us/app/wayf
+ old-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in
+ -a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io
+ /calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f7c1da962c1114f52469@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 6
+DESCRIPTION:Read 2 Corinthians 6.\n\nQuestion: How would you explain this c
+ hapter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the 
+ Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-under
+ stand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2
+ 027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b1546d4cf50c5af9615c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 7
+DESCRIPTION:Read 2 Corinthians 7.\n\nQuestion: What does this chapter show 
+ you about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:58ba91ba5951d89eda58@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 8
+DESCRIPTION:Read 2 Corinthians 8.\n\nQuestion: What did the first readers m
+ ost need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free o
+ n the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bibl
+ e/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/new-testamen
+ t-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:350da9ae843a80fafd85@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 9
+DESCRIPTION:Read 2 Corinthians 9.\n\nQuestion: Which single verse would you
+  underline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on
+  the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible
+ /id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/new-testament
+ -in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:27bfffca2a369f08a902@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 10
+DESCRIPTION:Read 2 Corinthians 10.\n\nQuestion: Is there a command to obey\
+ , an example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Under
+ stand the Bible\, free on the App Store: https://apps.apple.com/us/app/way
+ fold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-i
+ n-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1efb5da824bcc12925de@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 11
+DESCRIPTION:Read 2 Corinthians 11.\n\nQuestion: How would you explain this 
+ chapter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:263be425af2e0d3c126c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 12
+DESCRIPTION:Read 2 Corinthians 12.\n\nQuestion: What does this chapter show
+  you about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:75824fa69ed3332df6e3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+TRANSP:TRANSPARENT
+SUMMARY:2 Corinthians 13
+DESCRIPTION:Read 2 Corinthians 13.\n\nQuestion: What did the first readers 
+ most need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free 
+ on the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bib
+ le/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbo
+ ut this calendar: https://honestlittleapps.github.io/calendars/new-testame
+ nt-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7c28302e2f3dac926340@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+TRANSP:TRANSPARENT
+SUMMARY:Galatians 1
+DESCRIPTION:New book: Galatians. A sharp letter about grace. People are mad
+ e right with God by faith in Christ\, not by keeping the law.\n\nRead Gala
+ tians 1.\n\nQuestion: Which single verse would you underline\, and why?\n\
+ n—\nFrom Wayfold: Understand the Bible\, free on the App Store: https://
+ apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt=1291238
+ 76&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: https://
+ honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2b9c6b6ebf354e5da5c9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+TRANSP:TRANSPARENT
+SUMMARY:Galatians 2
+DESCRIPTION:Read Galatians 2.\n\nQuestion: Is there a command to obey\, an 
+ example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand
+  the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-
+ understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-y
+ ear-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d5267f22c247d871b3cc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+TRANSP:TRANSPARENT
+SUMMARY:Galatians 3
+DESCRIPTION:Read Galatians 3.\n\nQuestion: How would you explain this chapt
+ er to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bibl
+ e\, free on the App Store: https://apps.apple.com/us/app/wayfold-understan
+ d-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/ne
+ w-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:de7ec918739e39cd029d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+TRANSP:TRANSPARENT
+SUMMARY:Galatians 4
+DESCRIPTION:Read Galatians 4.\n\nQuestion: What does this chapter show you 
+ about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App St
+ ore: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203044
+ 62?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-
+ 2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b7f58faca0fdad0a340a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+TRANSP:TRANSPARENT
+SUMMARY:Galatians 5
+DESCRIPTION:Read Galatians 5.\n\nQuestion: What did the first readers most 
+ need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on th
+ e App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id
+ 6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/new-testament-in
+ -a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:be7b1494ea9f80424ca0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+TRANSP:TRANSPARENT
+SUMMARY:Galatians 6
+DESCRIPTION:Read Galatians 6.\n\nQuestion: Which single verse would you und
+ erline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the
+  App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6
+ 820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/new-testament-in-
+ a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8d49baa1dd0e32ef58bd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+TRANSP:TRANSPARENT
+SUMMARY:Ephesians 1
+DESCRIPTION:New book: Ephesians. Chapters 1–3 tell you who you are in Chr
+ ist. Chapters 4–6 tell you how to walk because of it.\n\nRead Ephesians 
+ 1.\n\nQuestion: Is there a command to obey\, an example to follow\, or a w
+ arning to heed?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:57793f98e2868486d6b3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+TRANSP:TRANSPARENT
+SUMMARY:Ephesians 2
+DESCRIPTION:Read Ephesians 2.\n\nQuestion: How would you explain this chapt
+ er to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bibl
+ e\, free on the App Store: https://apps.apple.com/us/app/wayfold-understan
+ d-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/ne
+ w-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:344c47ad8b586d13c5dc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+TRANSP:TRANSPARENT
+SUMMARY:Ephesians 3
+DESCRIPTION:Read Ephesians 3.\n\nQuestion: What does this chapter show you 
+ about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App St
+ ore: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203044
+ 62?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-
+ 2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0506e350f0ccd704b087@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+TRANSP:TRANSPARENT
+SUMMARY:Ephesians 4
+DESCRIPTION:Read Ephesians 4.\n\nQuestion: What did the first readers most 
+ need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on th
+ e App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id
+ 6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/new-testament-in
+ -a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bc20a62a197545945480@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+TRANSP:TRANSPARENT
+SUMMARY:Ephesians 5
+DESCRIPTION:Read Ephesians 5.\n\nQuestion: Which single verse would you und
+ erline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the
+  App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6
+ 820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/new-testament-in-
+ a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bfdca6cf1d19c4624518@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+TRANSP:TRANSPARENT
+SUMMARY:Ephesians 6
+DESCRIPTION:Read Ephesians 6.\n\nQuestion: Is there a command to obey\, an 
+ example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand
+  the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-
+ understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-y
+ ear-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6e2bd374e4d791d97c8b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+TRANSP:TRANSPARENT
+SUMMARY:Philippians 1
+DESCRIPTION:New book: Philippians. A thank-you letter from prison\, full of
+  joy. Look for 'rejoice' and the hymn in 2:5–11.\n\nRead Philippians 1.\
+ n\nQuestion: How would you explain this chapter to a friend in two sentenc
+ es?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: ht
+ tps://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt=1
+ 29123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ab3e3695d1e9d588c2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+TRANSP:TRANSPARENT
+SUMMARY:Philippians 2
+DESCRIPTION:Read Philippians 2.\n\nQuestion: What does this chapter show yo
+ u about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App 
+ Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030
+ 4462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/new-testament-in-a-yea
+ r-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f439026e2f260975b41d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+TRANSP:TRANSPARENT
+SUMMARY:Philippians 3
+DESCRIPTION:Read Philippians 3.\n\nQuestion: What did the first readers mos
+ t need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on 
+ the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/
+ id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout 
+ this calendar: https://honestlittleapps.github.io/calendars/new-testament-
+ in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:23f64a362d4bc4992228@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+TRANSP:TRANSPARENT
+SUMMARY:Philippians 4
+DESCRIPTION:Read Philippians 4.\n\nQuestion: Which single verse would you u
+ nderline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on t
+ he App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/i
+ d6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout t
+ his calendar: https://honestlittleapps.github.io/calendars/new-testament-i
+ n-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1c6e222285923bb18432@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+TRANSP:TRANSPARENT
+SUMMARY:Colossians 1
+DESCRIPTION:New book: Colossians. Christ is supreme over everything (1:15
+ –20)\, so nothing else needs adding.\n\nRead Colossians 1.\n\nQuestion: 
+ Is there a command to obey\, an example to follow\, or a warning to heed?\
+ n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: https:
+ //apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt=12912
+ 3876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:29724e473f9e8dc511bd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+TRANSP:TRANSPARENT
+SUMMARY:Colossians 2
+DESCRIPTION:Read Colossians 2.\n\nQuestion: How would you explain this chap
+ ter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bib
+ le\, free on the App Store: https://apps.apple.com/us/app/wayfold-understa
+ nd-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/n
+ ew-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9766aed7871d75e97bbb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+TRANSP:TRANSPARENT
+SUMMARY:Colossians 3
+DESCRIPTION:Read Colossians 3.\n\nQuestion: What does this chapter show you
+  about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App S
+ tore: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304
+ 462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year
+ -2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8a4d502df253d9860b49@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+TRANSP:TRANSPARENT
+SUMMARY:Colossians 4
+DESCRIPTION:Read Colossians 4.\n\nQuestion: What did the first readers most
+  need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on t
+ he App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/i
+ d6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout t
+ his calendar: https://honestlittleapps.github.io/calendars/new-testament-i
+ n-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d41ef62ffbb81730eb55@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+TRANSP:TRANSPARENT
+SUMMARY:1 Thessalonians 1
+DESCRIPTION:New book: 1 Thessalonians. Encouragement for a young\, persecut
+ ed church\, with hope for those who have died in Christ (4:13–18).\n\nRe
+ ad 1 Thessalonians 1.\n\nQuestion: Which single verse would you underline\
+ , and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App St
+ ore: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203044
+ 62?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-
+ 2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:49095b0642afeed38fe2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+TRANSP:TRANSPARENT
+SUMMARY:1 Thessalonians 2
+DESCRIPTION:Read 1 Thessalonians 2.\n\nQuestion: Is there a command to obey
+ \, an example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Unde
+ rstand the Bible\, free on the App Store: https://apps.apple.com/us/app/wa
+ yfold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-
+ in-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.
+ io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ca0c03364cc5a0e0fb42@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+TRANSP:TRANSPARENT
+SUMMARY:1 Thessalonians 3
+DESCRIPTION:Read 1 Thessalonians 3.\n\nQuestion: How would you explain this
+  chapter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand th
+ e Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-und
+ erstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year
+ -2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6ded8229a57cbefbd8e5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+TRANSP:TRANSPARENT
+SUMMARY:1 Thessalonians 4
+DESCRIPTION:Read 1 Thessalonians 4.\n\nQuestion: What does this chapter sho
+ w you about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:68afa2fdcef37d21f324@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+TRANSP:TRANSPARENT
+SUMMARY:1 Thessalonians 5
+DESCRIPTION:Read 1 Thessalonians 5.\n\nQuestion: What did the first readers
+  most need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free
+  on the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bi
+ ble/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAb
+ out this calendar: https://honestlittleapps.github.io/calendars/new-testam
+ ent-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7f5fb1111d1ea98941e8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+TRANSP:TRANSPARENT
+SUMMARY:2 Thessalonians 1
+DESCRIPTION:New book: 2 Thessalonians. Correcting confusion about the Day o
+ f the Lord\, and a word to people who had stopped working.\n\nRead 2 Thess
+ alonians 1.\n\nQuestion: Which single verse would you underline\, and why?
+ \n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: https
+ ://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt=1291
+ 23876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6989dd3c94aad8cb750d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+TRANSP:TRANSPARENT
+SUMMARY:2 Thessalonians 2
+DESCRIPTION:Read 2 Thessalonians 2.\n\nQuestion: Is there a command to obey
+ \, an example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Unde
+ rstand the Bible\, free on the App Store: https://apps.apple.com/us/app/wa
+ yfold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-
+ in-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.
+ io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:68a90eac01f45028f280@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+TRANSP:TRANSPARENT
+SUMMARY:2 Thessalonians 3
+DESCRIPTION:Read 2 Thessalonians 3.\n\nQuestion: How would you explain this
+  chapter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand th
+ e Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-und
+ erstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year
+ -2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:81040a08e843c1b93535@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+TRANSP:TRANSPARENT
+SUMMARY:1 Timothy 1
+DESCRIPTION:New book: 1 Timothy. Paul's instructions to a young leader in E
+ phesus about the church\, its leaders and money.\n\nRead 1 Timothy 1.\n\nQ
+ uestion: What does this chapter show you about God?\n\n—\nFrom Wayfold: 
+ Understand the Bible\, free on the App Store: https://apps.apple.com/us/ap
+ p/wayfold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testam
+ ent-in-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.git
+ hub.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b233e6d3d4a35dc1c6e0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+TRANSP:TRANSPARENT
+SUMMARY:1 Timothy 2
+DESCRIPTION:Read 1 Timothy 2.\n\nQuestion: What did the first readers most 
+ need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on th
+ e App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id
+ 6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/new-testament-in
+ -a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:775a3d105ac50b54a795@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+TRANSP:TRANSPARENT
+SUMMARY:1 Timothy 3
+DESCRIPTION:Read 1 Timothy 3.\n\nQuestion: Which single verse would you und
+ erline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the
+  App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6
+ 820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/new-testament-in-
+ a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:69ac76ae9e26bf14045a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+TRANSP:TRANSPARENT
+SUMMARY:1 Timothy 4
+DESCRIPTION:Read 1 Timothy 4.\n\nQuestion: Is there a command to obey\, an 
+ example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand
+  the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-
+ understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-y
+ ear-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd249afbc36bc411503@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+TRANSP:TRANSPARENT
+SUMMARY:1 Timothy 5
+DESCRIPTION:Read 1 Timothy 5.\n\nQuestion: How would you explain this chapt
+ er to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bibl
+ e\, free on the App Store: https://apps.apple.com/us/app/wayfold-understan
+ d-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/ne
+ w-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fc3878cba2d89a801a6e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+TRANSP:TRANSPARENT
+SUMMARY:1 Timothy 6
+DESCRIPTION:Read 1 Timothy 6.\n\nQuestion: What does this chapter show you 
+ about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App St
+ ore: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203044
+ 62?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-
+ 2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe70eddd57c4397f847@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+TRANSP:TRANSPARENT
+SUMMARY:2 Timothy 1
+DESCRIPTION:New book: 2 Timothy. Probably Paul's last letter. Guard the gos
+ pel\, endure\, and preach the word.\n\nRead 2 Timothy 1.\n\nQuestion: What
+  did the first readers most need to hear here?\n\n—\nFrom Wayfold: Under
+ stand the Bible\, free on the App Store: https://apps.apple.com/us/app/way
+ fold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-i
+ n-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:008461537aba660c08c4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+TRANSP:TRANSPARENT
+SUMMARY:2 Timothy 2
+DESCRIPTION:Read 2 Timothy 2.\n\nQuestion: Which single verse would you und
+ erline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the
+  App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6
+ 820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/new-testament-in-
+ a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:da8a7017be6ff3528992@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+TRANSP:TRANSPARENT
+SUMMARY:2 Timothy 3
+DESCRIPTION:Read 2 Timothy 3.\n\nQuestion: Is there a command to obey\, an 
+ example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand
+  the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-
+ understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-y
+ ear-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f919aefb30c0d1c66162@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+TRANSP:TRANSPARENT
+SUMMARY:2 Timothy 4
+DESCRIPTION:Read 2 Timothy 4.\n\nQuestion: How would you explain this chapt
+ er to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bibl
+ e\, free on the App Store: https://apps.apple.com/us/app/wayfold-understan
+ d-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/ne
+ w-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb93a9f488c9439a901@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+TRANSP:TRANSPARENT
+SUMMARY:Titus 1
+DESCRIPTION:New book: Titus. Short and practical: sound teaching produces g
+ ood works in Crete.\n\nRead Titus 1.\n\nQuestion: What does this chapter s
+ how you about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on th
+ e App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id
+ 6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/new-testament-in
+ -a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5357a11c1b03473032ea@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+TRANSP:TRANSPARENT
+SUMMARY:Titus 2
+DESCRIPTION:Read Titus 2.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:888b6610665c932928a7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+TRANSP:TRANSPARENT
+SUMMARY:Titus 3
+DESCRIPTION:Read Titus 3.\n\nQuestion: Which single verse would you underli
+ ne\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App
+  Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68203
+ 04462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-ye
+ ar-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2d33676f2c2936948a13@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+TRANSP:TRANSPARENT
+SUMMARY:Philemon 1
+DESCRIPTION:New book: Philemon. One chapter about one runaway slave\, Onesi
+ mus\, and what the gospel does to a relationship.\n\nRead Philemon 1.\n\nQ
+ uestion: Is there a command to obey\, an example to follow\, or a warning 
+ to heed?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Stor
+ e: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-20
+ 27/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:06f07a0f5ad716e0a729@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 1
+DESCRIPTION:New book: Hebrews. Jesus is better than the angels\, Moses\, th
+ e priesthood and the sacrifices. So don't drift back.\n\nRead Hebrews 1.\n
+ \nQuestion: How would you explain this chapter to a friend in two sentence
+ s?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store: htt
+ ps://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt=12
+ 9123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: htt
+ ps://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e8b22d8b89caa8c36584@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 2
+DESCRIPTION:Read Hebrews 2.\n\nQuestion: What does this chapter show you ab
+ out God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Stor
+ e: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-20
+ 27/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ee3f698b6ca4ef86f765@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 3
+DESCRIPTION:Read Hebrews 3.\n\nQuestion: What did the first readers most ne
+ ed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2208430ed26791c8f3f1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 4
+DESCRIPTION:Read Hebrews 4.\n\nQuestion: Which single verse would you under
+ line\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2333b2c74d8bcbf2c06b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 5
+DESCRIPTION:Read Hebrews 5.\n\nQuestion: Is there a command to obey\, an ex
+ ample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand t
+ he Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-un
+ derstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-yea
+ r-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dc03fc3381e3cfe19bee@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 6
+DESCRIPTION:Read Hebrews 6.\n\nQuestion: How would you explain this chapter
+  to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\
+ , free on the App Store: https://apps.apple.com/us/app/wayfold-understand-
+ the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new-
+ testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:19915277b84a765bfba6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 7
+DESCRIPTION:Read Hebrews 7.\n\nQuestion: What does this chapter show you ab
+ out God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Stor
+ e: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-20
+ 27/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:01ebbbc26fa542cabb2d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 8
+DESCRIPTION:Read Hebrews 8.\n\nQuestion: What did the first readers most ne
+ ed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dbdb264cbefae51ae2d1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 9
+DESCRIPTION:Read Hebrews 9.\n\nQuestion: Which single verse would you under
+ line\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f2b6628b0088b12fdf1b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 10
+DESCRIPTION:Read Hebrews 10.\n\nQuestion: Is there a command to obey\, an e
+ xample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand 
+ the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-u
+ nderstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-ye
+ ar-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d47b25e5ed907f474a8f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 11
+DESCRIPTION:Read Hebrews 11.\n\nQuestion: How would you explain this chapte
+ r to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible
+ \, free on the App Store: https://apps.apple.com/us/app/wayfold-understand
+ -the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new
+ -testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:75f59b8b00231362c6fc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 12
+DESCRIPTION:Read Hebrews 12.\n\nQuestion: What does this chapter show you a
+ bout God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Sto
+ re: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030446
+ 2?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2
+ 027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a3bbe98240f5d9136946@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+TRANSP:TRANSPARENT
+SUMMARY:Hebrews 13
+DESCRIPTION:Read Hebrews 13.\n\nQuestion: What did the first readers most n
+ eed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the
+  App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6
+ 820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/new-testament-in-
+ a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b14d8adecd02251443@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+TRANSP:TRANSPARENT
+SUMMARY:James 1
+DESCRIPTION:New book: James. Faith that works: trials\, the tongue\, favori
+ tism and patience. Practical like Proverbs.\n\nRead James 1.\n\nQuestion: 
+ Which single verse would you underline\, and why?\n\n—\nFrom Wayfold: Un
+ derstand the Bible\, free on the App Store: https://apps.apple.com/us/app/
+ wayfold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testamen
+ t-in-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.githu
+ b.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:df0b5a4948f2e007dee0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+TRANSP:TRANSPARENT
+SUMMARY:James 2
+DESCRIPTION:Read James 2.\n\nQuestion: Is there a command to obey\, an exam
+ ple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand the
+  Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-unde
+ rstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-
+ 2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1382fc497292c2641d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+TRANSP:TRANSPARENT
+SUMMARY:James 3
+DESCRIPTION:Read James 3.\n\nQuestion: How would you explain this chapter t
+ o a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\, 
+ free on the App Store: https://apps.apple.com/us/app/wayfold-understand-th
+ e-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/new-te
+ stament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6e8199e93e71f0fb7a6b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+TRANSP:TRANSPARENT
+SUMMARY:James 4
+DESCRIPTION:Read James 4.\n\nQuestion: What does this chapter show you abou
+ t God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Store:
+  https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?p
+ t=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/new-testament-in-a-year-2027
+ /
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:73c33efa80182af6c6cd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271109
+TRANSP:TRANSPARENT
+SUMMARY:James 5
+DESCRIPTION:Read James 5.\n\nQuestion: What did the first readers most need
+  to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:43064c468eac1d275d0f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+TRANSP:TRANSPARENT
+SUMMARY:1 Peter 1
+DESCRIPTION:New book: 1 Peter. Hope for Christians living as 'exiles' and s
+ uffering for doing good.\n\nRead 1 Peter 1.\n\nQuestion: Which single vers
+ e would you underline\, and why?\n\n—\nFrom Wayfold: Understand the Bibl
+ e\, free on the App Store: https://apps.apple.com/us/app/wayfold-understan
+ d-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&
+ mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/ne
+ w-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4d6f29a10a2494c4d4d9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+TRANSP:TRANSPARENT
+SUMMARY:1 Peter 2
+DESCRIPTION:Read 1 Peter 2.\n\nQuestion: Is there a command to obey\, an ex
+ ample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand t
+ he Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-un
+ derstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-yea
+ r-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d837bf39cb0d294a0587@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+TRANSP:TRANSPARENT
+SUMMARY:1 Peter 3
+DESCRIPTION:Read 1 Peter 3.\n\nQuestion: How would you explain this chapter
+  to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\
+ , free on the App Store: https://apps.apple.com/us/app/wayfold-understand-
+ the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new-
+ testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2bae6b871fb82614c9a8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+TRANSP:TRANSPARENT
+SUMMARY:1 Peter 4
+DESCRIPTION:Read 1 Peter 4.\n\nQuestion: What does this chapter show you ab
+ out God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App Stor
+ e: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/new-testament-in-a-year-20
+ 27/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd327c69babc4fa003b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+TRANSP:TRANSPARENT
+SUMMARY:1 Peter 5
+DESCRIPTION:Read 1 Peter 5.\n\nQuestion: What did the first readers most ne
+ ed to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the 
+ App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id68
+ 20304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a
+ -year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0e10e5bb959efcfdafea@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+TRANSP:TRANSPARENT
+SUMMARY:2 Peter 1
+DESCRIPTION:New book: 2 Peter. Grow in grace\, watch for false teachers\, a
+ nd remember that the Lord is patient (3:9).\n\nRead 2 Peter 1.\n\nQuestion
+ : Which single verse would you underline\, and why?\n\n—\nFrom Wayfold: 
+ Understand the Bible\, free on the App Store: https://apps.apple.com/us/ap
+ p/wayfold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testam
+ ent-in-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.git
+ hub.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:74ed53aba369c1919f62@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+TRANSP:TRANSPARENT
+SUMMARY:2 Peter 2
+DESCRIPTION:Read 2 Peter 2.\n\nQuestion: Is there a command to obey\, an ex
+ ample to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand t
+ he Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-un
+ derstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-yea
+ r-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a9ede9b15b42122d0a78@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+TRANSP:TRANSPARENT
+SUMMARY:2 Peter 3
+DESCRIPTION:Read 2 Peter 3.\n\nQuestion: How would you explain this chapter
+  to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\
+ , free on the App Store: https://apps.apple.com/us/app/wayfold-understand-
+ the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new-
+ testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:315a0459446070f42142@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271119
+DTEND;VALUE=DATE:20271120
+TRANSP:TRANSPARENT
+SUMMARY:1 John 1
+DESCRIPTION:New book: 1 John. Tests of real faith: believing the truth\, ob
+ eying and loving. 'God is love' (4:8).\n\nRead 1 John 1.\n\nQuestion: What
+  does this chapter show you about God?\n\n—\nFrom Wayfold: Understand th
+ e Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-und
+ erstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year
+ -2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d0efc7a2870910c75d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+TRANSP:TRANSPARENT
+SUMMARY:1 John 2
+DESCRIPTION:Read 1 John 2.\n\nQuestion: What did the first readers most nee
+ d to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on the A
+ pp Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682
+ 0304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-
+ year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4054ee3d2302106bde@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271123
+DTEND;VALUE=DATE:20271124
+TRANSP:TRANSPARENT
+SUMMARY:1 John 3
+DESCRIPTION:Read 1 John 3.\n\nQuestion: Which single verse would you underl
+ ine\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on the Ap
+ p Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820
+ 304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/new-testament-in-a-y
+ ear-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:11bb6d3503c2c1984ff1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+TRANSP:TRANSPARENT
+SUMMARY:1 John 4
+DESCRIPTION:Read 1 John 4.\n\nQuestion: Is there a command to obey\, an exa
+ mple to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understand th
+ e Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-und
+ erstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year
+ -2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a05beac5d725ba4d9666@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+TRANSP:TRANSPARENT
+SUMMARY:1 John 5
+DESCRIPTION:Read 1 John 5.\n\nQuestion: How would you explain this chapter 
+ to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bible\,
+  free on the App Store: https://apps.apple.com/us/app/wayfold-understand-t
+ he-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new-t
+ estament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8f1d9f90cb68750c07f7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+TRANSP:TRANSPARENT
+SUMMARY:2 John 1
+DESCRIPTION:New book: 2 John. A short note: walk in truth and love\, and do
+ n't welcome deceivers.\n\nRead 2 John 1.\n\nQuestion: What does this chapt
+ er show you about God?\n\n—\nFrom Wayfold: Understand the Bible\, free o
+ n the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bibl
+ e/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/new-testamen
+ t-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2fa89e58826c627e3bcf@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271130
+TRANSP:TRANSPARENT
+SUMMARY:3 John 1
+DESCRIPTION:New book: 3 John. A personal letter commending Gaius' hospitali
+ ty and calling out Diotrephes.\n\nRead 3 John 1.\n\nQuestion: What did the
+  first readers most need to hear here?\n\n—\nFrom Wayfold: Understand th
+ e Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold-und
+ erstand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year
+ -2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7f7fe19d909059136a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+TRANSP:TRANSPARENT
+SUMMARY:Jude 1
+DESCRIPTION:New book: Jude. Contend for the faith (v.3)\, and the doxology 
+ at the end (vv.24–25).\n\nRead Jude 1.\n\nQuestion: Which single verse w
+ ould you underline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\,
+  free on the App Store: https://apps.apple.com/us/app/wayfold-understand-t
+ he-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/new-t
+ estament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4c389174af9172c97c40@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 1
+DESCRIPTION:New book: Revelation. A vision written to seven real churches. 
+ However hard it gets\, the Lamb wins.\n\nRead Revelation 1.\n\nQuestion: I
+ s there a command to obey\, an example to follow\, or a warning to heed?\n
+ \n—\nFrom Wayfold: Understand the Bible\, free on the App Store: https:/
+ /apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462?pt=129123
+ 876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this calendar: https:/
+ /honestlittleapps.github.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1b27fbfa340f38a8bd74@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 2
+DESCRIPTION:Read Revelation 2.\n\nQuestion: How would you explain this chap
+ ter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bib
+ le\, free on the App Store: https://apps.apple.com/us/app/wayfold-understa
+ nd-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/n
+ ew-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d885de89cb31df21cc40@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271204
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 3
+DESCRIPTION:Read Revelation 3.\n\nQuestion: What does this chapter show you
+  about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App S
+ tore: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304
+ 462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year
+ -2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b34cba5fa1d3ce609107@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 4
+DESCRIPTION:Read Revelation 4.\n\nQuestion: What did the first readers most
+  need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on t
+ he App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/i
+ d6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout t
+ his calendar: https://honestlittleapps.github.io/calendars/new-testament-i
+ n-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1219f6d0f9f7f8eb6490@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 5
+DESCRIPTION:Read Revelation 5.\n\nQuestion: Which single verse would you un
+ derline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on th
+ e App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id
+ 6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/new-testament-in
+ -a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7b80db848fc60519f546@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 6
+DESCRIPTION:Read Revelation 6.\n\nQuestion: Is there a command to obey\, an
+  example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understan
+ d the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfold
+ -understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-
+ year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/ca
+ lendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d51911c07ae2ec51016f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271209
+DTEND;VALUE=DATE:20271210
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 7
+DESCRIPTION:Read Revelation 7.\n\nQuestion: How would you explain this chap
+ ter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bib
+ le\, free on the App Store: https://apps.apple.com/us/app/wayfold-understa
+ nd-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/n
+ ew-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8a25cf559fb8d4b56c6d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 8
+DESCRIPTION:Read Revelation 8.\n\nQuestion: What does this chapter show you
+  about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App S
+ tore: https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304
+ 462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/new-testament-in-a-year
+ -2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8214256c7a9ad27595f1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 9
+DESCRIPTION:Read Revelation 9.\n\nQuestion: What did the first readers most
+  need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on t
+ he App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/i
+ d6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout t
+ his calendar: https://honestlittleapps.github.io/calendars/new-testament-i
+ n-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6f3b718775cb433710c4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 10
+DESCRIPTION:Read Revelation 10.\n\nQuestion: Which single verse would you u
+ nderline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on t
+ he App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/i
+ d6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout t
+ his calendar: https://honestlittleapps.github.io/calendars/new-testament-i
+ n-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a863a0619e740db68d36@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 11
+DESCRIPTION:Read Revelation 11.\n\nQuestion: Is there a command to obey\, a
+ n example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understa
+ nd the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfol
+ d-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a
+ -year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/c
+ alendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5c8024d0f65aad2827@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 12
+DESCRIPTION:Read Revelation 12.\n\nQuestion: How would you explain this cha
+ pter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bi
+ ble\, free on the App Store: https://apps.apple.com/us/app/wayfold-underst
+ and-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-202
+ 7&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1627a494516f8c1cbdba@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 13
+DESCRIPTION:Read Revelation 13.\n\nQuestion: What does this chapter show yo
+ u about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App 
+ Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030
+ 4462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/new-testament-in-a-yea
+ r-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc6c17f99aa149cb59e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271220
+DTEND;VALUE=DATE:20271221
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 14
+DESCRIPTION:Read Revelation 14.\n\nQuestion: What did the first readers mos
+ t need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on 
+ the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/
+ id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout 
+ this calendar: https://honestlittleapps.github.io/calendars/new-testament-
+ in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fb23a0965551aa28d402@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271221
+DTEND;VALUE=DATE:20271222
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 15
+DESCRIPTION:Read Revelation 15.\n\nQuestion: Which single verse would you u
+ nderline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on t
+ he App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/i
+ d6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout t
+ his calendar: https://honestlittleapps.github.io/calendars/new-testament-i
+ n-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:91c51c7a349739420013@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 16
+DESCRIPTION:Read Revelation 16.\n\nQuestion: Is there a command to obey\, a
+ n example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understa
+ nd the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfol
+ d-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a
+ -year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/c
+ alendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6572f777a5cf9ecbf7c9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20271224
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 17
+DESCRIPTION:Read Revelation 17.\n\nQuestion: How would you explain this cha
+ pter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bi
+ ble\, free on the App Store: https://apps.apple.com/us/app/wayfold-underst
+ and-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-202
+ 7&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:55d33f6096b5ca6bf19d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 18
+DESCRIPTION:Read Revelation 18.\n\nQuestion: What does this chapter show yo
+ u about God?\n\n—\nFrom Wayfold: Understand the Bible\, free on the App 
+ Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/id682030
+ 4462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/new-testament-in-a-yea
+ r-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:76671e6a3b968280f770@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 19
+DESCRIPTION:Read Revelation 19.\n\nQuestion: What did the first readers mos
+ t need to hear here?\n\n—\nFrom Wayfold: Understand the Bible\, free on 
+ the App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/
+ id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout 
+ this calendar: https://honestlittleapps.github.io/calendars/new-testament-
+ in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:be1e4740758bc82105d2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271228
+DTEND;VALUE=DATE:20271229
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 20
+DESCRIPTION:Read Revelation 20.\n\nQuestion: Which single verse would you u
+ nderline\, and why?\n\n—\nFrom Wayfold: Understand the Bible\, free on t
+ he App Store: https://apps.apple.com/us/app/wayfold-understand-the-bible/i
+ d6820304462?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8\nAbout t
+ his calendar: https://honestlittleapps.github.io/calendars/new-testament-i
+ n-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1424035b94d3420cb5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20271230
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 21
+DESCRIPTION:Read Revelation 21.\n\nQuestion: Is there a command to obey\, a
+ n example to follow\, or a warning to heed?\n\n—\nFrom Wayfold: Understa
+ nd the Bible\, free on the App Store: https://apps.apple.com/us/app/wayfol
+ d-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a
+ -year-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/c
+ alendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:510cba6db1b17abb12f7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+TRANSP:TRANSPARENT
+SUMMARY:Revelation 22
+DESCRIPTION:Read Revelation 22.\n\nQuestion: How would you explain this cha
+ pter to a friend in two sentences?\n\n—\nFrom Wayfold: Understand the Bi
+ ble\, free on the App Store: https://apps.apple.com/us/app/wayfold-underst
+ and-the-bible/id6820304462?pt=129123876&ct=cal-new-testament-in-a-year-202
+ 7&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:eb8d21db531303e476dd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+TRANSP:TRANSPARENT
+SUMMARY:New Testament: catch-up day
+DESCRIPTION:You've reached the last weekday of 2027. Use today to finish an
+ y chapters you missed\, or reread your favourite one.\n\n—\nFrom Wayfold
+ : Understand the Bible\, free on the App Store: https://apps.apple.com/us/
+ app/wayfold-understand-the-bible/id6820304462?pt=129123876&ct=cal-new-test
+ ament-in-a-year-2027&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/new-testament-in-a-year-2027/
+URL:https://apps.apple.com/us/app/wayfold-understand-the-bible/id6820304462
+ ?pt=129123876&ct=cal-new-testament-in-a-year-2027&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,573 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Daily path puzzle
+X-WR-CALDESC:A free daily path puzzle in your calendar: a 4×4 grid\, move 
+ right or down\, find the only route that adds to the target. Every puzzle 
+ has exactly one answer. https://honestlittleapps.github.io/calendars/daily
+ -path-puzzle-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#1f6f73
+X-APPLE-CALENDAR-COLOR:#1f6f73
+BEGIN:VEVENT
+UID:af465a7c3d7fa77a0563@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Path puzzle: find the path that adds to 59
+DESCRIPTION:8  9  8  8\n9  4  3  9\n8  3  2  8\n5  3  2  9\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 59.\n\n\n\nAnswer:
+  → → → ↓ ↓ ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c050deafce7f80a49f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Path puzzle: find the path that adds to 47
+DESCRIPTION:7  8  3  1\n9  2  1  1\n4  4  1  8\n6  8  4  9\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 47.\n\n\n\nAnswer:
+  ↓ ↓ ↓ → → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3c60b20e0083f5767bdc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Path puzzle: find the path that adds to 28
+DESCRIPTION:5  8  1  2\n8  5  7  9\n2  5  6  4\n9  5  1  2\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 28.\n\n\n\nAnswer:
+  ↓ ↓ → ↓ → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8d813871bb71ad3c608a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Path puzzle: find the path that adds to 33
+DESCRIPTION:2  7  2  5\n7  2  1  1\n4  4  1  8\n7  7  7  2\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 33.\n\n\n\nAnswer:
+  ↓ ↓ → ↓ → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:da394af05a55ed1deac1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Path puzzle: find the path that adds to 29
+DESCRIPTION:4  5  6  2\n5  6  1  7\n2  3  4  2\n1  1  8  8\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 29.\n\n\n\nAnswer:
+  ↓ ↓ ↓ → → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:10e9499af68278575383@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Path puzzle: find the path that adds to 27
+DESCRIPTION:9  4  8  9\n4  3  7  7\n2  7  7  4\n1  5  5  1\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 27.\n\n\n\nAnswer:
+  ↓ ↓ ↓ → → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:37dfa8ce45460ac0ee72@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Path puzzle: find the path that adds to 32
+DESCRIPTION:3  7  2  1\n3  4  8  5\n1  6  5  7\n2  2  2  4\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 32.\n\n\n\nAnswer:
+  ↓ → ↓ → → ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ebe157b96354027f9151@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Path puzzle: find the path that adds to 26
+DESCRIPTION:4  1  6  6\n8  3  8  3\n7  3  3  5\n4  4  4  3\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 26.\n\n\n\nAnswer:
+  → ↓ → ↓ ↓ →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ae226a4c52fc1783f37b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Path puzzle: find the path that adds to 36
+DESCRIPTION:9  4  7  8\n2  7  1  2\n2  1  9  5\n4  7  5  7\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 36.\n\n\n\nAnswer:
+  ↓ ↓ ↓ → → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:855a4f6271b142e42599@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Path puzzle: find the path that adds to 45
+DESCRIPTION:5  9  3  2\n3  4  8  9\n2  5  4  4\n1  2  5  7\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 45.\n\n\n\nAnswer:
+  → → ↓ → ↓ ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c1cc77ecea187283621d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Path puzzle: find the path that adds to 28
+DESCRIPTION:4  1  1  3\n5  6  9  3\n2  6  3  8\n6  9  3  1\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 28.\n\n\n\nAnswer:
+  ↓ → ↓ → ↓ →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0f68de66e1dc2248599d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Path puzzle: find the path that adds to 29
+DESCRIPTION:8  6  5  1\n1  2  8  2\n5  6  3  2\n2  8  9  6\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 29.\n\n\n\nAnswer:
+  ↓ → → → ↓ ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7645cb1b038e1257101e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Path puzzle: find the path that adds to 34
+DESCRIPTION:3  6  6  2\n8  2  7  1\n8  1  7  7\n1  2  2  2\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 34.\n\n\n\nAnswer:
+  → ↓ → ↓ → ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8623fe984ac2f12da2fb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Path puzzle: find the path that adds to 42
+DESCRIPTION:5  7  6  7\n8  8  8  9\n2  9  9  1\n5  2  8  1\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 42.\n\n\n\nAnswer:
+  ↓ ↓ → → ↓ →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c1b8c6bc0b8113e68430@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Path puzzle: find the path that adds to 43
+DESCRIPTION:2  8  8  5\n1  6  5  3\n4  9  3  6\n8  8  4  6\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 43.\n\n\n\nAnswer:
+  → ↓ ↓ ↓ → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:35d8026d3796d78b9ece@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Path puzzle: find the path that adds to 26
+DESCRIPTION:5  4  7  4\n4  7  4  6\n4  3  3  8\n6  1  2  5\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 26.\n\n\n\nAnswer:
+  ↓ ↓ → → ↓ →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4ffab501e945f922dac6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Path puzzle: find the path that adds to 23
+DESCRIPTION:2  8  8  5\n4  7  7  9\n8  6  8  6\n2  1  5  1\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 23.\n\n\n\nAnswer:
+  ↓ ↓ ↓ → → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:42d54584f23002546fa1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Path puzzle: find the path that adds to 30
+DESCRIPTION:6  5  1  3\n7  8  4  1\n5  4  3  1\n2  8  2  9\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 30.\n\n\n\nAnswer:
+  → → ↓ ↓ ↓ →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f20984441c60a694def4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Path puzzle: find the path that adds to 45
+DESCRIPTION:2  4  4  8\n5  3  1  8\n9  1  3  4\n5  6  9  9\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 45.\n\n\n\nAnswer:
+  ↓ ↓ ↓ → → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3c136a05249527c3e370@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Path puzzle: find the path that adds to 50
+DESCRIPTION:3  7  4  2\n7  7  3  8\n8  4  1  7\n9  9  6  8\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 50.\n\n\n\nAnswer:
+  ↓ ↓ ↓ → → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:649dca145b72a8e84c0c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Path puzzle: find the path that adds to 23
+DESCRIPTION:4  2  2  4\n4  7  2  5\n9  6  5  1\n6  9  2  1\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 23.\n\n\n\nAnswer:
+  → ↓ → ↓ ↓ →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5d04d67c4a886bf2de11@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Path puzzle: find the path that adds to 37
+DESCRIPTION:6  9  7  5\n8  1  4  2\n7  1  3  9\n6  3  8  3\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 37.\n\n\n\nAnswer:
+  ↓ ↓ → → → ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:25c0f81dddca9c7bee55@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Path puzzle: find the path that adds to 44
+DESCRIPTION:9  8  8  2\n4  8  9  9\n5  9  3  9\n9  9  5  5\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 44.\n\n\n\nAnswer:
+  ↓ ↓ → → → ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c2ff08d3eba681ac7e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Path puzzle: find the path that adds to 48
+DESCRIPTION:4  5  3  9\n9  5  8  4\n7  9  2  9\n1  7  1  9\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 48.\n\n\n\nAnswer:
+  ↓ → → → ↓ ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:14866190b14a23a26de2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Path puzzle: find the path that adds to 43
+DESCRIPTION:9  7  9  2\n8  2  3  2\n9  8  7  7\n5  4  8  8\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 43.\n\n\n\nAnswer:
+  → ↓ → ↓ → ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:88cddc4100d9f0548513@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Path puzzle: find the path that adds to 33
+DESCRIPTION:6  7  8  9\n6  2  4  7\n1  5  3  1\n1  4  3  4\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 33.\n\n\n\nAnswer:
+  → → ↓ ↓ → ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:72175b3609d4a43b3a2c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Path puzzle: find the path that adds to 42
+DESCRIPTION:5  6  6  4\n8  2  8  2\n9  5  4  9\n7  1  7  7\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 42.\n\n\n\nAnswer:
+  ↓ ↓ → ↓ → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:43667aeba6b81dec224c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Path puzzle: find the path that adds to 35
+DESCRIPTION:9  3  9  4\n9  4  9  4\n9  3  4  6\n3  6  6  4\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 35.\n\n\n\nAnswer:
+  → ↓ ↓ ↓ → →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ff3538d26f4cbd90a257@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Path puzzle: find the path that adds to 32
+DESCRIPTION:4  2  3  4\n3  2  5  7\n2  7  7  9\n3  4  7  1\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 32.\n\n\n\nAnswer:
+  → ↓ ↓ → → ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f595d9bda2f610163f74@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Path puzzle: find the path that adds to 46
+DESCRIPTION:4  6  6  2\n9  6  9  4\n2  8  2  1\n1  9  9  8\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 46.\n\n\n\nAnswer:
+  ↓ → ↓ → ↓ →\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:046a9a52235615e7582f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Path puzzle: find the path that adds to 29
+DESCRIPTION:4  3  2  4\n3  3  5  2\n1  3  8  2\n2  6  7  8\n\nStart top-lef
+ t\, finish bottom-right\, moving only right or down. Add every number you 
+ step on\, including both ends. Exactly one path adds to 29.\n\n\n\nAnswer:
+  ↓ ↓ → → → ↓\n\n—\nFrom Sumthread\, free on the App Store: h
+ ttps://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=cal-da
+ ily-path-puzzle-calendar&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/daily-path-puzzle-calendar/
+URL:https://apps.apple.com/us/app/sumthread/id6829816144?pt=129123876&ct=ca
+ l-daily-path-puzzle-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

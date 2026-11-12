@@ -1,0 +1,542 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Daily journal prompts
+X-WR-CALDESC:A free calendar with one journaling prompt for each day of the
+  month\, including letters to your future self. Five minutes a day\; repea
+ ts monthly. https://honestlittleapps.github.io/calendars/daily-journal-pro
+ mpts-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#8f2a1f
+X-APPLE-CALENDAR-COLOR:#8f2a1f
+BEGIN:VEVENT
+UID:c6fa39a082899c789459@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What do you want to remember about today?\n\nFi
+ ve minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You: D
+ aily Letters\, free on the App Store: https://apps.apple.com/us/app/dear-y
+ ou-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-ca
+ lendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8d650d903ce47239cbbc@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Write to yourself one year from now. What do yo
+ u hope has changed?\n\nFive minutes. No editing. Nobody else will read it.
+ \n\n—\nFrom Dear You: Daily Letters\, free on the App Store: https://app
+ s.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal
+ -daily-journal-prompts-calendar&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1d48e7a74c2fd5925c5d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What's something you did well this week that no
+ body noticed?\n\nFive minutes. No editing. Nobody else will read it.\n\n
+ —\nFrom Dear You: Daily Letters\, free on the App Store: https://apps.ap
+ ple.com/us/app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-dai
+ ly-journal-prompts-calendar&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7e14fbdfddd09e3379ce@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Describe a small moment that made you smile rec
+ ently.\n\nFive minutes. No editing. Nobody else will read it.\n\n—\nFrom
+  Dear You: Daily Letters\, free on the App Store: https://apps.apple.com/u
+ s/app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journa
+ l-prompts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.git
+ hub.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce1fba5d768d81a1dfe@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What's worrying you? Write it down\, then write
+  what you'd tell a friend.\n\nFive minutes. No editing. Nobody else will r
+ ead it.\n\n—\nFrom Dear You: Daily Letters\, free on the App Store: http
+ s://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=129123876
+ &ct=cal-daily-journal-prompts-calendar&mt=8\nAbout this calendar: https://
+ honestlittleapps.github.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:34d4718711bd18c99541@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Who are you grateful for\, and why\, specifical
+ ly?\n\nFive minutes. No editing. Nobody else will read it.\n\n—\nFrom De
+ ar You: Daily Letters\, free on the App Store: https://apps.apple.com/us/a
+ pp/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-p
+ rompts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3f453535b1936f899aad@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What did you learn the hard way this year?\n\nF
+ ive minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You: 
+ Daily Letters\, free on the App Store: https://apps.apple.com/us/app/dear-
+ you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-c
+ alendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6f5b8d2802321ee321c3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Write a thank-you letter you'll never send.\n\n
+ Five minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You:
+  Daily Letters\, free on the App Store: https://apps.apple.com/us/app/dear
+ -you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-
+ calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fe2474a0fc085c430fc0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What would a kind version of you say about your
+  last mistake?\n\nFive minutes. No editing. Nobody else will read it.\n\n
+ —\nFrom Dear You: Daily Letters\, free on the App Store: https://apps.ap
+ ple.com/us/app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-dai
+ ly-journal-prompts-calendar&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:083119ae12fca5e86c25@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What does a good ordinary day look like for you
+ ?\n\nFive minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear
+  You: Daily Letters\, free on the App Store: https://apps.apple.com/us/app
+ /dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-pro
+ mpts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:97b9107278ef34b09a26@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Describe your life now to your 10-year-old self
+ .\n\nFive minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear
+  You: Daily Letters\, free on the App Store: https://apps.apple.com/us/app
+ /dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-pro
+ mpts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.i
+ o/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cc7b8a01d10363144e93@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What are you looking forward to this month?\n\n
+ Five minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You:
+  Daily Letters\, free on the App Store: https://apps.apple.com/us/app/dear
+ -you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-
+ calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:720f6fcf3abc3858b116@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What's a habit you'd like to start? Why haven't
+  you yet?\n\nFive minutes. No editing. Nobody else will read it.\n\n—\nF
+ rom Dear You: Daily Letters\, free on the App Store: https://apps.apple.co
+ m/us/app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-jou
+ rnal-prompts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.
+ github.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9befd2ea23533621032c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Write about a place that feels like home.\n\nFi
+ ve minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You: D
+ aily Letters\, free on the App Store: https://apps.apple.com/us/app/dear-y
+ ou-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-ca
+ lendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b80e6c560252519cbbef@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What did you used to love that you've stopped d
+ oing?\n\nFive minutes. No editing. Nobody else will read it.\n\n—\nFrom 
+ Dear You: Daily Letters\, free on the App Store: https://apps.apple.com/us
+ /app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal
+ -prompts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.gith
+ ub.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:be339ba383f2fecf13cb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Halfway through the month. What's gone better t
+ han expected?\n\nFive minutes. No editing. Nobody else will read it.\n\n
+ —\nFrom Dear You: Daily Letters\, free on the App Store: https://apps.ap
+ ple.com/us/app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-dai
+ ly-journal-prompts-calendar&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0c61cf241a5bd12a4fcb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Write to someone who shaped you.\n\nFive minute
+ s. No editing. Nobody else will read it.\n\n—\nFrom Dear You: Daily Lett
+ ers\, free on the App Store: https://apps.apple.com/us/app/dear-you-daily-
+ letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-calendar&mt
+ =8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dail
+ y-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:380d265aea6fe37c9afb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What would you do with a free Saturday and no o
+ bligations?\n\nFive minutes. No editing. Nobody else will read it.\n\n—\
+ nFrom Dear You: Daily Letters\, free on the App Store: https://apps.apple.
+ com/us/app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-j
+ ournal-prompts-calendar&mt=8\nAbout this calendar: https://honestlittleapp
+ s.github.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bd32721a04cb06a86912@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What's a belief you've changed your mind about?
+ \n\nFive minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear 
+ You: Daily Letters\, free on the App Store: https://apps.apple.com/us/app/
+ dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prom
+ pts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io
+ /calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0293a7d96b91c09db284@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Describe today using all five senses.\n\nFive m
+ inutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You: Daily
+  Letters\, free on the App Store: https://apps.apple.com/us/app/dear-you-d
+ aily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-calend
+ ar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars
+ /daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:58bc0b6cad15bb843562@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What are you proud of that you rarely mention?\
+ n\nFive minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear Y
+ ou: Daily Letters\, free on the App Store: https://apps.apple.com/us/app/d
+ ear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-promp
+ ts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/
+ calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a5235245708bf075b257@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What would you like to let go of?\n\nFive minut
+ es. No editing. Nobody else will read it.\n\n—\nFrom Dear You: Daily Let
+ ters\, free on the App Store: https://apps.apple.com/us/app/dear-you-daily
+ -letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-calendar&m
+ t=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/dai
+ ly-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c3683aa6aec18d2d7779@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Write a letter to yourself for a hard day.\n\nF
+ ive minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You: 
+ Daily Letters\, free on the App Store: https://apps.apple.com/us/app/dear-
+ you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-c
+ alendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:61148161a1831274d21b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What made you laugh this week?\n\nFive minutes.
+  No editing. Nobody else will read it.\n\n—\nFrom Dear You: Daily Letter
+ s\, free on the App Store: https://apps.apple.com/us/app/dear-you-daily-le
+ tters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-calendar&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/daily-
+ journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5db738487b4799a32827@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What do you need more of right now?\n\nFive min
+ utes. No editing. Nobody else will read it.\n\n—\nFrom Dear You: Daily L
+ etters\, free on the App Store: https://apps.apple.com/us/app/dear-you-dai
+ ly-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-calendar
+ &mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/d
+ aily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:26af520d35320be7a752@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Who do you want to be in five years?\n\nFive mi
+ nutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You: Daily 
+ Letters\, free on the App Store: https://apps.apple.com/us/app/dear-you-da
+ ily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-calenda
+ r&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d1bd0b98437491ddb4f0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What's a compliment you still remember?\n\nFive
+  minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You: Dai
+ ly Letters\, free on the App Store: https://apps.apple.com/us/app/dear-you
+ -daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts-cale
+ ndar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:048e953aef9b629be80e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: What's one thing you'd tell yourself last Janua
+ ry?\n\nFive minutes. No editing. Nobody else will read it.\n\n—\nFrom De
+ ar You: Daily Letters\, free on the App Store: https://apps.apple.com/us/a
+ pp/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-p
+ rompts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d6458c670de018c3e8b8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Write about a small act of kindness you saw.\n\
+ nFive minutes. No editing. Nobody else will read it.\n\n—\nFrom Dear You
+ : Daily Letters\, free on the App Store: https://apps.apple.com/us/app/dea
+ r-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journal-prompts
+ -calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/ca
+ lendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e6da0376a2d250d332e4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: End of the month: what's one sentence that sums
+  it up?\n\nFive minutes. No editing. Nobody else will read it.\n\n—\nFro
+ m Dear You: Daily Letters\, free on the App Store: https://apps.apple.com/
+ us/app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-daily-journ
+ al-prompts-calendar&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:09cc331010803f5889f0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Journal prompt of the day
+DESCRIPTION:Today's prompt: Seal a letter to future you. What should they k
+ now about now?\n\nFive minutes. No editing. Nobody else will read it.\n\n
+ —\nFrom Dear You: Daily Letters\, free on the App Store: https://apps.ap
+ ple.com/us/app/dear-you-daily-letters/id6792827344?pt=129123876&ct=cal-dai
+ ly-journal-prompts-calendar&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/daily-journal-prompts-calendar/
+URL:https://apps.apple.com/us/app/dear-you-daily-letters/id6792827344?pt=12
+ 9123876&ct=cal-daily-journal-prompts-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

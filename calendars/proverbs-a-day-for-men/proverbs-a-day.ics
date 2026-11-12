@@ -1,0 +1,590 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Proverbs a Day for Men
+X-WR-CALDESC:Read one chapter of Proverbs each day of the month\, with a sh
+ ort note and a practical challenge for men. Free calendar for iPhone\, Mac
+  and Google. https://honestlittleapps.github.io/calendars/proverbs-a-day-f
+ or-men/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#8a2c0c
+X-APPLE-CALENDAR-COLOR:#8a2c0c
+BEGIN:VEVENT
+UID:75ed5a758886eaea8cc2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Proverbs 1: Where wisdom starts
+DESCRIPTION:Read Proverbs 1 (about 5 minutes).\n\nProverbs 1:7 says wisdom 
+ begins with the fear of the LORD. Verses 10–19 describe men who chase a 
+ quick gain together and get caught by it.\n\nToday's challenge: Name one s
+ hortcut you've been tempted by this month. Decide today that you won't tak
+ e it.\n\n—\nFrom FORGED: Daily Bible for Men\, free on the App Store: ht
+ tps://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?pt=129
+ 123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d456938a8b0a194798fd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Proverbs 2: Dig for it
+DESCRIPTION:Read Proverbs 2 (about 5 minutes).\n\nProverbs 2:4 tells you to
+  search for understanding the way you would search for silver or buried tr
+ easure.\n\nToday's challenge: Give ten minutes to one question about God o
+ r life that you usually skip past.\n\n—\nFrom FORGED: Daily Bible for Me
+ n\, free on the App Store: https://apps.apple.com/us/app/forged-daily-bibl
+ e-for-men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAb
+ out this calendar: https://honestlittleapps.github.io/calendars/proverbs-a
+ -day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7ceaf8b87bfcd33b1f03@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Proverbs 3: Trust\, not your own read
+DESCRIPTION:Read Proverbs 3 (about 5 minutes).\n\nProverbs 3:5–6: trust t
+ he LORD with all your heart and don't lean on your own understanding. Vers
+ e 9: honor Him with your firstfruits.\n\nToday's challenge: Before your fi
+ rst decision today\, pray one sentence over it.\n\n—\nFrom FORGED: Daily
+  Bible for Men\, free on the App Store: https://apps.apple.com/us/app/forg
+ ed-daily-bible-for-men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for
+ -men&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calenda
+ rs/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1861f48ee544bf5680c6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Proverbs 4: Guard the source
+DESCRIPTION:Read Proverbs 4 (about 5 minutes).\n\nProverbs 4:23: guard your
+  heart above all else\, because everything you do flows from it.\n\nToday'
+ s challenge: Take one input out of your day (an app\, a feed\, a show) and
+  notice what changes.\n\n—\nFrom FORGED: Daily Bible for Men\, free on t
+ he App Store: https://apps.apple.com/us/app/forged-daily-bible-for-men/id6
+ 794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff0f7a3206b9ce80b07@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Proverbs 5: Faithful at home
+DESCRIPTION:Read Proverbs 5 (about 5 minutes).\n\nProverbs 5:15–18 warns 
+ against straying and calls a man to delight in the wife of his youth.\n\nT
+ oday's challenge: Do one specific\, unasked kindness for your wife or the 
+ person closest to you.\n\n—\nFrom FORGED: Daily Bible for Men\, free on 
+ the App Store: https://apps.apple.com/us/app/forged-daily-bible-for-men/id
+ 6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/proverbs-a-day-for-men
+ /
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d1267153413efd2a7d47@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Proverbs 6: Go to the ant
+DESCRIPTION:Read Proverbs 6 (about 5 minutes).\n\nProverbs 6:6–8 holds up
+  the ant\, which works without a boss. Verses 16–19 list seven things th
+ e LORD hates.\n\nToday's challenge: Finish the one task you've been puttin
+ g off longest. Today.\n\n—\nFrom FORGED: Daily Bible for Men\, free on t
+ he App Store: https://apps.apple.com/us/app/forged-daily-bible-for-men/id6
+ 794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e16cf61a3c716c32d544@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Proverbs 7: The slow slide
+DESCRIPTION:Read Proverbs 7 (about 5 minutes).\n\nProverbs 7 traces a young
+  man drifting step by step into a trap he could have walked around.\n\nTod
+ ay's challenge: Find the first step of a habit you want to quit and take t
+ hat step out.\n\n—\nFrom FORGED: Daily Bible for Men\, free on the App S
+ tore: https://apps.apple.com/us/app/forged-daily-bible-for-men/id679477204
+ 6?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar: ht
+ tps://honestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2c6d8f9e8cf263df6056@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Proverbs 8: Wisdom calls in public
+DESCRIPTION:Read Proverbs 8 (about 5 minutes).\n\nIn Proverbs 8\, wisdom st
+ ands at the gates and the crossroads\, calling out to anyone who will list
+ en.\n\nToday's challenge: Ask an older man you respect one real question t
+ his week.\n\n—\nFrom FORGED: Daily Bible for Men\, free on the App Store
+ : https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?pt
+ =129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6aec9e08171dd0566b25@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Proverbs 9: Correction is a gift
+DESCRIPTION:Read Proverbs 9 (about 5 minutes).\n\nProverbs 9:8–9: correct
+  a wise man and he will love you for it.\n\nToday's challenge: Ask someone
+ \, "What's one thing I could do better?" Then just say thank you.\n\n—\n
+ From FORGED: Daily Bible for Men\, free on the App Store: https://apps.app
+ le.com/us/app/forged-daily-bible-for-men/id6794772046?pt=129123876&ct=cal-
+ proverbs-a-day-for-men&mt=8\nAbout this calendar: https://honestlittleapps
+ .github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ce9afa518198ee504f1b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Proverbs 10: Walk straight
+DESCRIPTION:Read Proverbs 10 (about 5 minutes).\n\nProverbs 10:9: whoever w
+ alks in integrity walks securely. Verse 4: diligent hands bring wealth.\n\
+ nToday's challenge: Fix one small thing you've been fudging\, like a numbe
+ r\, an excuse or a promise.\n\n—\nFrom FORGED: Daily Bible for Men\, fre
+ e on the App Store: https://apps.apple.com/us/app/forged-daily-bible-for-m
+ en/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/proverbs-a-day-fo
+ r-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:27d06cc8aa2ee39bf592@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Proverbs 11: Pride\, then a fall
+DESCRIPTION:Read Proverbs 11 (about 5 minutes).\n\nProverbs 11:2: when prid
+ e comes\, disgrace follows\, but humility brings wisdom. Verse 25: the gen
+ erous are refreshed.\n\nToday's challenge: Give something away today witho
+ ut telling anyone.\n\n—\nFrom FORGED: Daily Bible for Men\, free on the 
+ App Store: https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794
+ 772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:58f203ba200774b97c66@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Proverbs 12: Love the correction
+DESCRIPTION:Read Proverbs 12 (about 5 minutes).\n\nProverbs 12:1 is blunt: 
+ whoever loves discipline loves knowledge. Verse 25: anxiety weighs a man d
+ own\, and a kind word cheers him up.\n\nToday's challenge: Send one encour
+ aging message to a man who's carrying a lot.\n\n—\nFrom FORGED: Daily Bi
+ ble for Men\, free on the App Store: https://apps.apple.com/us/app/forged-
+ daily-bible-for-men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-me
+ n&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f13d10ee2642674f23de@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Proverbs 13: Pick your company
+DESCRIPTION:Read Proverbs 13 (about 5 minutes).\n\nProverbs 13:20: walk wit
+ h the wise and become wise. A companion of fools suffers harm.\n\nToday's 
+ challenge: Look at the five people you spend the most time with. Make one 
+ call that moves you toward the wise.\n\n—\nFrom FORGED: Daily Bible for 
+ Men\, free on the App Store: https://apps.apple.com/us/app/forged-daily-bi
+ ble-for-men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\n
+ About this calendar: https://honestlittleapps.github.io/calendars/proverbs
+ -a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:98149e64429da96cd95d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Proverbs 14: The road that seems right
+DESCRIPTION:Read Proverbs 14 (about 5 minutes).\n\nProverbs 14:12: there is
+  a way that seems right to a man\, but its end is the way to death.\n\nTod
+ ay's challenge: Write down a choice you've justified to yourself. Read it 
+ out loud. Does it hold up?\n\n—\nFrom FORGED: Daily Bible for Men\, free
+  on the App Store: https://apps.apple.com/us/app/forged-daily-bible-for-me
+ n/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/proverbs-a-day-for
+ -men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2a3488842e8e4e136294@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Proverbs 15: A soft answer
+DESCRIPTION:Read Proverbs 15 (about 5 minutes).\n\nProverbs 15:1: a gentle 
+ answer turns away wrath\, but a harsh word stirs up anger.\n\nToday's chal
+ lenge: In your next tense conversation\, lower your voice and slow down on
+  purpose.\n\n—\nFrom FORGED: Daily Bible for Men\, free on the App Store
+ : https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?pt
+ =129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a69fdb99c4451702c5@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Proverbs 16: Commit the work
+DESCRIPTION:Read Proverbs 16 (about 5 minutes).\n\nProverbs 16:3: commit yo
+ ur work to the LORD and your plans will be established. Verse 18: pride go
+ es before destruction.\n\nToday's challenge: Pray over your to-do list bef
+ ore you start it.\n\n—\nFrom FORGED: Daily Bible for Men\, free on the A
+ pp Store: https://apps.apple.com/us/app/forged-daily-bible-for-men/id67947
+ 72046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3e9cd6e7baf9b772ddea@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Proverbs 17: A friend at all times
+DESCRIPTION:Read Proverbs 17 (about 5 minutes).\n\nProverbs 17:17: a friend
+  loves at all times\, and a brother is born for adversity. Verse 22: a che
+ erful heart is good medicine.\n\nToday's challenge: Check on a friend you 
+ haven't heard from in a while.\n\n—\nFrom FORGED: Daily Bible for Men\, 
+ free on the App Store: https://apps.apple.com/us/app/forged-daily-bible-fo
+ r-men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout 
+ this calendar: https://honestlittleapps.github.io/calendars/proverbs-a-day
+ -for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:17169acbde133aa75d3b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Proverbs 18: Listen first
+DESCRIPTION:Read Proverbs 18 (about 5 minutes).\n\nProverbs 18:13: answerin
+ g before you've listened is folly and shame. Verse 10: the name of the LOR
+ D is a strong tower.\n\nToday's challenge: In every conversation today\, l
+ et the other person finish before you answer.\n\n—\nFrom FORGED: Daily B
+ ible for Men\, free on the App Store: https://apps.apple.com/us/app/forged
+ -daily-bible-for-men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-m
+ en&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars
+ /proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:92c5309bc8e353a80b42@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Proverbs 19: Slow to anger
+DESCRIPTION:Read Proverbs 19 (about 5 minutes).\n\nProverbs 19:11: good sen
+ se makes a man slow to anger\, and it is his glory to overlook an offense.
+ \n\nToday's challenge: Let one offense go today without bringing it up.\n\
+ n—\nFrom FORGED: Daily Bible for Men\, free on the App Store: https://ap
+ ps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?pt=129123876&c
+ t=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:659ae4d7f64b4d0f5e44@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Proverbs 20: A faithful man
+DESCRIPTION:Read Proverbs 20 (about 5 minutes).\n\nProverbs 20:6: many men 
+ claim to be loyal\, but a faithful man\, who can find?\n\nToday's challeng
+ e: Keep one promise you made that everyone else has forgotten.\n\n—\nFro
+ m FORGED: Daily Bible for Men\, free on the App Store: https://apps.apple.
+ com/us/app/forged-daily-bible-for-men/id6794772046?pt=129123876&ct=cal-pro
+ verbs-a-day-for-men&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4c14f998f87b09502545@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Proverbs 21: Doing right beats ritual
+DESCRIPTION:Read Proverbs 21 (about 5 minutes).\n\nProverbs 21:3: doing wha
+ t is right and just matters more to the LORD than sacrifice.\n\nToday's ch
+ allenge: Make right one thing that's been unfair\, even if it costs you.\n
+ \n—\nFrom FORGED: Daily Bible for Men\, free on the App Store: https://a
+ pps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?pt=129123876&
+ ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar: https://honestlit
+ tleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:22ea7bb50c472bf2979a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Proverbs 22: Name and children
+DESCRIPTION:Read Proverbs 22 (about 5 minutes).\n\nProverbs 22:1: a good na
+ me is worth more than great riches. Verse 6: train up a child in the way h
+ e should go.\n\nToday's challenge: Spend fifteen minutes of undivided time
+  with a kid in your life.\n\n—\nFrom FORGED: Daily Bible for Men\, free 
+ on the App Store: https://apps.apple.com/us/app/forged-daily-bible-for-men
+ /id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/proverbs-a-day-for-
+ men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e52a7d3adf370188efdf@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Proverbs 23: Wealth has wings
+DESCRIPTION:Read Proverbs 23 (about 5 minutes).\n\nProverbs 23:4–5: don't
+  wear yourself out to get rich. Money can sprout wings and fly away.\n\nTo
+ day's challenge: Ask whether one purchase you're planning is about need or
+  about status.\n\n—\nFrom FORGED: Daily Bible for Men\, free on the App 
+ Store: https://apps.apple.com/us/app/forged-daily-bible-for-men/id67947720
+ 46?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar: h
+ ttps://honestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:79f6cc0bed3e7b5fc14a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Proverbs 24: Fall seven times
+DESCRIPTION:Read Proverbs 24 (about 5 minutes).\n\nProverbs 24:16: the righ
+ teous falls seven times and rises again. Verse 10: if you faint in the day
+  of adversity\, your strength is small.\n\nToday's challenge: Get back on 
+ the habit you dropped. Don't wait for Monday.\n\n—\nFrom FORGED: Daily B
+ ible for Men\, free on the App Store: https://apps.apple.com/us/app/forged
+ -daily-bible-for-men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-m
+ en&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars
+ /proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:394f75c5649552671bf6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Proverbs 25: Walls down
+DESCRIPTION:Read Proverbs 25 (about 5 minutes).\n\nProverbs 25:28: a man wi
+ thout self-control is like a city whose walls are broken down.\n\nToday's 
+ challenge: Pick one appetite to say no to today\, just once\, on purpose.\
+ n\n—\nFrom FORGED: Daily Bible for Men\, free on the App Store: https://
+ apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?pt=129123876
+ &ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar: https://honestli
+ ttleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:962c3adee5d5eef8e0d2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Proverbs 26: Don't return to it
+DESCRIPTION:Read Proverbs 26 (about 5 minutes).\n\nProverbs 26:11: like a d
+ og returning to its vomit\, a fool repeats his folly. Verses 4–5: know w
+ hen to answer and when not to.\n\nToday's challenge: Delete or block the t
+ hing you keep going back to.\n\n—\nFrom FORGED: Daily Bible for Men\, fr
+ ee on the App Store: https://apps.apple.com/us/app/forged-daily-bible-for-
+ men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/proverbs-a-day-f
+ or-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:10589518cb0073178f70@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Proverbs 27: Iron sharpens iron
+DESCRIPTION:Read Proverbs 27 (about 5 minutes).\n\nProverbs 27:17: as iron 
+ sharpens iron\, one man sharpens another. Verse 1: don't boast about tomor
+ row.\n\nToday's challenge: Invite one man to meet up regularly\, for coffe
+ e\, a walk or a workout.\n\n—\nFrom FORGED: Daily Bible for Men\, free o
+ n the App Store: https://apps.apple.com/us/app/forged-daily-bible-for-men/
+ id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/proverbs-a-day-for-m
+ en/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2def4b54d605014eebd4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Proverbs 28: Confess and turn
+DESCRIPTION:Read Proverbs 28 (about 5 minutes).\n\nProverbs 28:13: whoever 
+ hides his sins won't prosper\, but whoever confesses and turns from them f
+ inds mercy.\n\nToday's challenge: Tell God plainly what you've been hiding
+ . Then tell one trusted man.\n\n—\nFrom FORGED: Daily Bible for Men\, fr
+ ee on the App Store: https://apps.apple.com/us/app/forged-daily-bible-for-
+ men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/proverbs-a-day-f
+ or-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e3bcc50279703e18ff1b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Proverbs 29: Fear of man
+DESCRIPTION:Read Proverbs 29 (about 5 minutes).\n\nProverbs 29:25: the fear
+  of man lays a snare\, but whoever trusts in the LORD is safe.\n\nToday's 
+ challenge: Do one right thing today that you've avoided because of what pe
+ ople might think.\n\n—\nFrom FORGED: Daily Bible for Men\, free on the A
+ pp Store: https://apps.apple.com/us/app/forged-daily-bible-for-men/id67947
+ 72046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/proverbs-a-day-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a3604aed55f620c646ec@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Proverbs 30: Neither poverty nor riches
+DESCRIPTION:Read Proverbs 30 (about 5 minutes).\n\nProverbs 30:8–9 prays 
+ for neither poverty nor riches\, only daily bread\, so that you don't forg
+ et God or dishonor Him.\n\nToday's challenge: Thank God out loud for three
+  ordinary things you have today.\n\n—\nFrom FORGED: Daily Bible for Men\
+ , free on the App Store: https://apps.apple.com/us/app/forged-daily-bible-
+ for-men/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbou
+ t this calendar: https://honestlittleapps.github.io/calendars/proverbs-a-d
+ ay-for-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f2fca1bfc98260f4a559@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Proverbs 31: Speak up for others
+DESCRIPTION:Read Proverbs 31 (about 5 minutes).\n\nProverbs 31:8–9: open 
+ your mouth for those who can't speak for themselves. Verses 10–31 honor 
+ a woman of strength.\n\nToday's challenge: Use your voice once today for s
+ omeone who has less of one.\n\n—\nFrom FORGED: Daily Bible for Men\, fre
+ e on the App Store: https://apps.apple.com/us/app/forged-daily-bible-for-m
+ en/id6794772046?pt=129123876&ct=cal-proverbs-a-day-for-men&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/proverbs-a-day-fo
+ r-men/
+URL:https://apps.apple.com/us/app/forged-daily-bible-for-men/id6794772046?p
+ t=129123876&ct=cal-proverbs-a-day-for-men&mt=8
+END:VEVENT
+END:VCALENDAR
