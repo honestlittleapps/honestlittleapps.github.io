@@ -221,3 +221,13 @@
 - [Free school newsletter content](https://honestlittleapps.github.io/newsletter-content/school/)
 - [Free workplace wellness newsletter content](https://honestlittleapps.github.io/newsletter-content/workplace/)
 - [Free community newsletter content](https://honestlittleapps.github.io/newsletter-content/family/)
+
+## Free ready-to-import quiz sets (Kahoot!, Blooket, Gimkit, Quizlet/Knowt, Anki, Moodle GIFT, Microsoft Forms)
+
+- [Human Body Systems Quiz](https://honestlittleapps.github.io/quizzes/human-body-systems-quiz): 15 questions on the 11 body systems: organs, jobs and key terms. Grades 4–8 · Life science. Seven import formats plus a playable version.
+- [Books of the Bible Quiz](https://honestlittleapps.github.io/quizzes/books-of-the-bible-quiz): 15 questions on the order, sections and chapter counts of the 66 books. Sunday school · Youth group · Bible class. Seven import formats plus a playable version.
+- [U.S. History Dates Quiz](https://honestlittleapps.github.io/quizzes/us-history-dates-quiz): 15 "when did it happen?" and "which came first?" questions from 1776 to 1989. Grades 5–9 · U.S. history. Seven import formats plus a playable version.
+- [Sky & Sunset Science Quiz](https://honestlittleapps.github.io/quizzes/sky-and-sunset-science-quiz): 12 questions on light, scattering, golden hour and why sunsets turn red. Grades 4–8 · Physical science. Seven import formats plus a playable version.
+- [Times Tables Quiz: The Tricky Facts](https://honestlittleapps.github.io/quizzes/times-tables-tricky-facts-quiz): 15 of the times-table facts kids miss most, with near-miss answer choices. Grades 3–5 · Math facts. Seven import formats plus a playable version.
+- [Family Emergency Preparedness Quiz](https://honestlittleapps.github.io/quizzes/family-emergency-preparedness-quiz): 12 questions on kits, contacts, fire safety and what to do first. Families · Scouts · Health class. Seven import formats plus a playable version.
+- [Fruit of the Spirit Quiz](https://honestlittleapps.github.io/quizzes/fruit-of-the-spirit-quiz): 10 questions on Galatians 5:22–23 and the nine qualities. Kids church · Youth group · Small group. Seven import formats plus a playable version.
