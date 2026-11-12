@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Contractor calendar 2027
+X-WR-CALDESC:Free 2027 calendar for self-employed contractors: IRS quarterl
+ y estimated tax dates\, the 1099-NEC deadline\, a monthly unpaid-invoice c
+ hase and a Friday estimates reminder. https://honestlittleapps.github.io/c
+ alendars/contractor-tax-and-invoice-calendar-2027/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#1d3a6e
+X-APPLE-CALENDAR-COLOR:#1d3a6e
+BEGIN:VEVENT
+UID:e270bdaf69edbc3182e2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+TRANSP:TRANSPARENT
+SUMMARY:1099-NEC / 1099-MISC due to recipients and IRS (2026 tax year)
+DESCRIPTION:January 31\, 2027 falls on a Sunday\, so the deadline moves to 
+ Monday\, February 1\, 2027. If you paid a subcontractor $600 or more in 20
+ 26\, check the IRS's current rules and thresholds.\n\n—\nFrom ScopeBid: 
+ Estimate & Invoice\, free on the App Store: https://apps.apple.com/us/app/
+ scopebid-estimate-invoice/id6796729890?pt=129123876&ct=cal-contractor-tax-
+ and-invoice-cal&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/contractor-tax-and-invoice-calendar-2027/
+URL:https://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt
+ =129123876&ct=cal-contractor-tax-and-invoice-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9b6194b899ab9c90ab8e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+TRANSP:TRANSPARENT
+SUMMARY:Q1 estimated tax payment due (2027)
+DESCRIPTION:First 2027 estimated payment (Form 1040-ES)\, due the same day 
+ as the 2026 tax return. Confirm on irs.gov.\n\n—\nFrom ScopeBid: Estimat
+ e & Invoice\, free on the App Store: https://apps.apple.com/us/app/scopebi
+ d-estimate-invoice/id6796729890?pt=129123876&ct=cal-contractor-tax-and-inv
+ oice-cal&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/contractor-tax-and-invoice-calendar-2027/
+URL:https://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt
+ =129123876&ct=cal-contractor-tax-and-invoice-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:15c04f76f17baaf5ff9b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+TRANSP:TRANSPARENT
+SUMMARY:Q2 estimated tax payment due (2027)
+DESCRIPTION:Second 2027 estimated payment (Form 1040-ES). Confirm on irs.go
+ v.\n\n—\nFrom ScopeBid: Estimate & Invoice\, free on the App Store: http
+ s://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt=129123
+ 876&ct=cal-contractor-tax-and-invoice-cal&mt=8\nAbout this calendar: https
+ ://honestlittleapps.github.io/calendars/contractor-tax-and-invoice-calenda
+ r-2027/
+URL:https://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt
+ =129123876&ct=cal-contractor-tax-and-invoice-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7e04b2b9851290f8712d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+TRANSP:TRANSPARENT
+SUMMARY:Q3 estimated tax payment due (2027)
+DESCRIPTION:Third 2027 estimated payment (Form 1040-ES). Confirm on irs.gov
+ .\n\n—\nFrom ScopeBid: Estimate & Invoice\, free on the App Store: https
+ ://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt=1291238
+ 76&ct=cal-contractor-tax-and-invoice-cal&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/contractor-tax-and-invoice-calendar
+ -2027/
+URL:https://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt
+ =129123876&ct=cal-contractor-tax-and-invoice-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7e3298d48d62766f73@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+TRANSP:TRANSPARENT
+SUMMARY:Q4 estimated tax payment due (2027 tax year)
+DESCRIPTION:January 15\, 2028 is a Saturday\, and Monday\, January 17 is Ma
+ rtin Luther King Jr. Day\, so the payment is expected on Tuesday\, January
+  18\, 2028. Confirm on irs.gov.\n\n—\nFrom ScopeBid: Estimate & Invoice\
+ , free on the App Store: https://apps.apple.com/us/app/scopebid-estimate-i
+ nvoice/id6796729890?pt=129123876&ct=cal-contractor-tax-and-invoice-cal&mt=
+ 8\nAbout this calendar: https://honestlittleapps.github.io/calendars/contr
+ actor-tax-and-invoice-calendar-2027/
+URL:https://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt
+ =129123876&ct=cal-contractor-tax-and-invoice-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0e4cb31ad532c0eff6cf@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+TRANSP:TRANSPARENT
+SUMMARY:Q4 estimated tax payment due (2026 tax year)
+DESCRIPTION:Final 2026 estimated payment (Form 1040-ES). Confirm on irs.gov
+ .\n\n—\nFrom ScopeBid: Estimate & Invoice\, free on the App Store: https
+ ://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt=1291238
+ 76&ct=cal-contractor-tax-and-invoice-cal&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/contractor-tax-and-invoice-calendar
+ -2027/
+URL:https://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt
+ =129123876&ct=cal-contractor-tax-and-invoice-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd18710bcbe84698807@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Chase unpaid invoices
+DESCRIPTION:First of the month:\n• List every invoice that's past due.\n
+ • Send a short\, friendly reminder with the invoice number\, amount and 
+ a payment link.\n• Anything 60+ days late? Call instead of emailing.\n\n
+ —\nFrom ScopeBid: Estimate & Invoice\, free on the App Store: https://ap
+ ps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt=129123876&ct
+ =cal-contractor-tax-and-invoice-cal&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/contractor-tax-and-invoice-calendar-2027
+ /
+URL:https://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt
+ =129123876&ct=cal-contractor-tax-and-invoice-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:888798348efdeb00df92@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261120T160000
+DTEND:20261120T161500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Friday: send this week's estimates
+DESCRIPTION:Any site visits this week without a written estimate yet? Send 
+ them before the weekend\, while the job's still fresh for the customer.\n\
+ n—\nFrom ScopeBid: Estimate & Invoice\, free on the App Store: https://a
+ pps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt=129123876&c
+ t=cal-contractor-tax-and-invoice-cal&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/contractor-tax-and-invoice-calendar-202
+ 7/
+URL:https://apps.apple.com/us/app/scopebid-estimate-invoice/id6796729890?pt
+ =129123876&ct=cal-contractor-tax-and-invoice-cal&mt=8
+END:VEVENT
+END:VCALENDAR

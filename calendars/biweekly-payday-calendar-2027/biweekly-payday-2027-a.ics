@@ -1,0 +1,765 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Biweekly payday 2027 (A)
+X-WR-CALDESC:Free 2027 biweekly payday calendar for iPhone: every other Fri
+ day (two schedules)\, US federal holidays and a 2-minute pay stub check on
+  each payday. https://honestlittleapps.github.io/calendars/biweekly-payday
+ -calendar-2027/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#1d3f8f
+X-APPLE-CALENDAR-COLOR:#1d3f8f
+BEGIN:VEVENT
+UID:82ef4491d95745b2bac2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+TRANSP:TRANSPARENT
+SUMMARY:Payday #1 · check your stub
+DESCRIPTION:Biweekly payday 1 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7abd3e47d138321280d9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+TRANSP:TRANSPARENT
+SUMMARY:Payday #2 · check your stub
+DESCRIPTION:Biweekly payday 2 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f56c195bd1aa0d779d69@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+TRANSP:TRANSPARENT
+SUMMARY:Payday #3 · check your stub
+DESCRIPTION:Biweekly payday 3 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c49acb8ec51084ed7595@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+TRANSP:TRANSPARENT
+SUMMARY:Payday #4 · check your stub
+DESCRIPTION:Biweekly payday 4 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:116713b3bdafb15cdd8c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+TRANSP:TRANSPARENT
+SUMMARY:Payday #5 · check your stub
+DESCRIPTION:Biweekly payday 5 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:90bc32bc58c15a782a8d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+TRANSP:TRANSPARENT
+SUMMARY:Payday #6 · check your stub
+DESCRIPTION:Biweekly payday 6 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8735b465d17bc07226f8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+TRANSP:TRANSPARENT
+SUMMARY:Payday #7 · check your stub
+DESCRIPTION:Biweekly payday 7 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5695e684fe193732319d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+TRANSP:TRANSPARENT
+SUMMARY:Payday #8 · check your stub
+DESCRIPTION:Biweekly payday 8 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:da285dc88edd39df6027@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+TRANSP:TRANSPARENT
+SUMMARY:Payday #9 · check your stub
+DESCRIPTION:Biweekly payday 9 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:bdda38ef008be79a5656@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+TRANSP:TRANSPARENT
+SUMMARY:Payday #10 · check your stub
+DESCRIPTION:Biweekly payday 10 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e707eb924106554b37e8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+TRANSP:TRANSPARENT
+SUMMARY:Payday #11 · check your stub
+DESCRIPTION:Biweekly payday 11 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a586a6aee72aa7d28e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+TRANSP:TRANSPARENT
+SUMMARY:Payday #12 · check your stub
+DESCRIPTION:Biweekly payday 12 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9400fc093c280739d1cb@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+TRANSP:TRANSPARENT
+SUMMARY:Payday #13 · check your stub
+DESCRIPTION:Biweekly payday 13 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1b5fe8bb9135ea3c1043@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+TRANSP:TRANSPARENT
+SUMMARY:Payday #14 · check your stub
+DESCRIPTION:Biweekly payday 14 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fa0446992b54a9cce65d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+TRANSP:TRANSPARENT
+SUMMARY:Payday #15 · check your stub
+DESCRIPTION:Biweekly payday 15 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:47019d9427782cc802c0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+TRANSP:TRANSPARENT
+SUMMARY:Payday #16 · check your stub
+DESCRIPTION:Biweekly payday 16 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ed585900267e590ac622@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+TRANSP:TRANSPARENT
+SUMMARY:Payday #17 · check your stub
+DESCRIPTION:Biweekly payday 17 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1cae7ace8f265773e0ef@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+TRANSP:TRANSPARENT
+SUMMARY:Payday #18 · check your stub
+DESCRIPTION:Biweekly payday 18 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dad8771ab1e5d8cbac92@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+TRANSP:TRANSPARENT
+SUMMARY:Payday #19 · check your stub
+DESCRIPTION:Biweekly payday 19 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8892fc71901a86d45a61@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+TRANSP:TRANSPARENT
+SUMMARY:Payday #20 · check your stub
+DESCRIPTION:Biweekly payday 20 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b51763d068e5e7a89f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+TRANSP:TRANSPARENT
+SUMMARY:Payday #21 · check your stub
+DESCRIPTION:Biweekly payday 21 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:704b0dc5d08329585f03@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+TRANSP:TRANSPARENT
+SUMMARY:Payday #22 · check your stub
+DESCRIPTION:Biweekly payday 22 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4a439c879fe65787ef@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+TRANSP:TRANSPARENT
+SUMMARY:Payday #23 · check your stub
+DESCRIPTION:Biweekly payday 23 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f5697d9ced27c45e6435@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+TRANSP:TRANSPARENT
+SUMMARY:Payday #24 · check your stub
+DESCRIPTION:Biweekly payday 24 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d43454ed4a071fe57a07@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+TRANSP:TRANSPARENT
+SUMMARY:Payday #25 · check your stub
+DESCRIPTION:Biweekly payday 25 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Store
+ : https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?p
+ t=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calendar
+ : https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:4f0677b5ae8d53ab3f0b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+TRANSP:TRANSPARENT
+SUMMARY:Payday #26 · check your stub
+DESCRIPTION:Biweekly payday 26 of 2027.\n\nQuick stub check (2 minutes):\n
+ • Hours match what you worked\, including overtime?\n• Hourly rate and
+  any shift differential correct?\n• Deductions the same as last time\, o
+ r explained?\n\nCatching a mistake this week is far easier than in three m
+ onths.\n\nHeads up: Christmas Day (observed) falls on this payday. Many em
+ ployers pay the business day before. Check your schedule.\n\n—\nFrom Ear
+ nCheck: Shift & Pay Tracker\, free on the App Store: https://apps.apple.co
+ m/us/app/earncheck-shift-pay-tracker/id6798048163?pt=129123876&ct=cal-biwe
+ ekly-payday-calendar-2027&mt=8\nAbout this calendar: https://honestlittlea
+ pps.github.io/calendars/biweekly-payday-calendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:2663c5dfe11e40769b3c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+SUMMARY:New Year's Day
+DESCRIPTION:US federal holiday (observed): New Year's Day. Banks and the Fe
+ deral Reserve are typically closed\, so direct deposits may arrive a day e
+ arly or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the Ap
+ p Store: https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id67980
+ 48163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/biweekly-payday-cale
+ ndar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a26e34f2b67ffb455cfd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+TRANSP:TRANSPARENT
+SUMMARY:Martin Luther King Jr. Day
+DESCRIPTION:US federal holiday (observed): Martin Luther King Jr. Day. Bank
+ s and the Federal Reserve are typically closed\, so direct deposits may ar
+ rive a day early or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, fr
+ ee on the App Store: https://apps.apple.com/us/app/earncheck-shift-pay-tra
+ cker/id6798048163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\n
+ About this calendar: https://honestlittleapps.github.io/calendars/biweekly
+ -payday-calendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dbdc41d14fb4b09675ba@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+TRANSP:TRANSPARENT
+SUMMARY:Washington's Birthday
+DESCRIPTION:US federal holiday (observed): Washington's Birthday. Banks and
+  the Federal Reserve are typically closed\, so direct deposits may arrive 
+ a day early or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on
+  the App Store: https://apps.apple.com/us/app/earncheck-shift-pay-tracker/
+ id6798048163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/biweekly-payd
+ ay-calendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9715bedc1d571bfb7909@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+TRANSP:TRANSPARENT
+SUMMARY:Memorial Day
+DESCRIPTION:US federal holiday (observed): Memorial Day. Banks and the Fede
+ ral Reserve are typically closed\, so direct deposits may arrive a day ear
+ ly or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App 
+ Store: https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048
+ 163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/biweekly-payday-calend
+ ar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6440dc238fdd9073f852@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+TRANSP:TRANSPARENT
+SUMMARY:Juneteenth National Independence Day (observed)
+DESCRIPTION:US federal holiday (observed): Juneteenth National Independence
+  Day (observed). Banks and the Federal Reserve are typically closed\, so d
+ irect deposits may arrive a day early or late.\n\n—\nFrom EarnCheck: Shi
+ ft & Pay Tracker\, free on the App Store: https://apps.apple.com/us/app/ea
+ rncheck-shift-pay-tracker/id6798048163?pt=129123876&ct=cal-biweekly-payday
+ -calendar-2027&mt=8\nAbout this calendar: https://honestlittleapps.github.
+ io/calendars/biweekly-payday-calendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:70c254c5dfc23047488c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+TRANSP:TRANSPARENT
+SUMMARY:Juneteenth National Independence Day
+DESCRIPTION:US federal holiday (observed): Juneteenth National Independence
+  Day. Banks and the Federal Reserve are typically closed\, so direct depos
+ its may arrive a day early or late.\n\n—\nFrom EarnCheck: Shift & Pay Tr
+ acker\, free on the App Store: https://apps.apple.com/us/app/earncheck-shi
+ ft-pay-tracker/id6798048163?pt=129123876&ct=cal-biweekly-payday-calendar-2
+ 027&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendar
+ s/biweekly-payday-calendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:670bfa8abb5bb6ab98f3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+TRANSP:TRANSPARENT
+SUMMARY:Independence Day
+DESCRIPTION:US federal holiday (observed): Independence Day. Banks and the 
+ Federal Reserve are typically closed\, so direct deposits may arrive a day
+  early or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the 
+ App Store: https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id679
+ 8048163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/biweekly-payday-ca
+ lendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5230ab9fb5ad6f3700@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+TRANSP:TRANSPARENT
+SUMMARY:Independence Day (observed)
+DESCRIPTION:US federal holiday (observed): Independence Day (observed). Ban
+ ks and the Federal Reserve are typically closed\, so direct deposits may a
+ rrive a day early or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, f
+ ree on the App Store: https://apps.apple.com/us/app/earncheck-shift-pay-tr
+ acker/id6798048163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\
+ nAbout this calendar: https://honestlittleapps.github.io/calendars/biweekl
+ y-payday-calendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:51466a13bb9f61e8af40@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+TRANSP:TRANSPARENT
+SUMMARY:Labor Day
+DESCRIPTION:US federal holiday (observed): Labor Day. Banks and the Federal
+  Reserve are typically closed\, so direct deposits may arrive a day early 
+ or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App Sto
+ re: https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163
+ ?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/biweekly-payday-calendar-
+ 2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c3807802c5d8e6d4c486@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+TRANSP:TRANSPARENT
+SUMMARY:Columbus Day
+DESCRIPTION:US federal holiday (observed): Columbus Day. Banks and the Fede
+ ral Reserve are typically closed\, so direct deposits may arrive a day ear
+ ly or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App 
+ Store: https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048
+ 163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/biweekly-payday-calend
+ ar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:42f69c1a4b1ee8c5e002@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+TRANSP:TRANSPARENT
+SUMMARY:Veterans Day
+DESCRIPTION:US federal holiday (observed): Veterans Day. Banks and the Fede
+ ral Reserve are typically closed\, so direct deposits may arrive a day ear
+ ly or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App 
+ Store: https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048
+ 163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/biweekly-payday-calend
+ ar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6271edf63075242037d8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+TRANSP:TRANSPARENT
+SUMMARY:Thanksgiving Day
+DESCRIPTION:US federal holiday (observed): Thanksgiving Day. Banks and the 
+ Federal Reserve are typically closed\, so direct deposits may arrive a day
+  early or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the 
+ App Store: https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id679
+ 8048163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/biweekly-payday-ca
+ lendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e29516a6d1b3089da97a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Day (observed)
+DESCRIPTION:US federal holiday (observed): Christmas Day (observed). Banks 
+ and the Federal Reserve are typically closed\, so direct deposits may arri
+ ve a day early or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free
+  on the App Store: https://apps.apple.com/us/app/earncheck-shift-pay-track
+ er/id6798048163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAb
+ out this calendar: https://honestlittleapps.github.io/calendars/biweekly-p
+ ayday-calendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:199d39543ad48e25cbba@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Day
+DESCRIPTION:US federal holiday (observed): Christmas Day. Banks and the Fed
+ eral Reserve are typically closed\, so direct deposits may arrive a day ea
+ rly or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, free on the App
+  Store: https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id679804
+ 8163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nAbout this ca
+ lendar: https://honestlittleapps.github.io/calendars/biweekly-payday-calen
+ dar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6631560b8217c152d3a4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+TRANSP:TRANSPARENT
+SUMMARY:New Year's Day (observed)
+DESCRIPTION:US federal holiday (observed): New Year's Day (observed). Banks
+  and the Federal Reserve are typically closed\, so direct deposits may arr
+ ive a day early or late.\n\n—\nFrom EarnCheck: Shift & Pay Tracker\, fre
+ e on the App Store: https://apps.apple.com/us/app/earncheck-shift-pay-trac
+ ker/id6798048163?pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8\nA
+ bout this calendar: https://honestlittleapps.github.io/calendars/biweekly-
+ payday-calendar-2027/
+URL:https://apps.apple.com/us/app/earncheck-shift-pay-tracker/id6798048163?
+ pt=129123876&ct=cal-biweekly-payday-calendar-2027&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,559 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bible Trivia — daily question
+X-WR-CALDESC:One Bible trivia question each day of the month\, with the ans
+ wer and verse reference. Great for families\, kids and small groups. Free 
+ calendar for iPhone. https://honestlittleapps.github.io/calendars/bible-tr
+ ivia-question-of-the-day/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#1b2d5c
+X-APPLE-CALENDAR-COLOR:#1b2d5c
+BEGIN:VEVENT
+UID:755b5cf93b33097de081@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Bible trivia: How many books are in the Protestant Bible?
+DESCRIPTION:Today's question: How many books are in the Protestant Bible?\n
+ \nThink of your answer first.\n\n\n\nAnswer: 66: 39 in the Old Testament a
+ nd 27 in the New.\n\n—\nFrom Scrollway: Bible Study Game\, free on the A
+ pp Store: https://apps.apple.com/us/app/scrollway-bible-study-game/id68217
+ 70165?pt=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/bible-trivia-questi
+ on-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5042bdf851aa419cb286@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Bible trivia: Who was thrown into a den of lions?
+DESCRIPTION:Today's question: Who was thrown into a den of lions?\n\nThink 
+ of your answer first.\n\n\n\nAnswer: Daniel (Daniel 6).\n\n—\nFrom Scrol
+ lway: Bible Study Game\, free on the App Store: https://apps.apple.com/us/
+ app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-bible-triv
+ ia-question-of-the-d&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:77c456e06ca479b39a38@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Bible trivia: What is the shortest verse in most English Bibles?
+DESCRIPTION:Today's question: What is the shortest verse in most English Bi
+ bles?\n\nThink of your answer first.\n\n\n\nAnswer: John 11:35\, "Jesus we
+ pt."\n\n—\nFrom Scrollway: Bible Study Game\, free on the App Store: htt
+ ps://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=1291
+ 23876&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: htt
+ ps://honestlittleapps.github.io/calendars/bible-trivia-question-of-the-day
+ /
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:56f8b240aae80a60f60d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Bible trivia: Which disciple denied Jesus three times?
+DESCRIPTION:Today's question: Which disciple denied Jesus three times?\n\nT
+ hink of your answer first.\n\n\n\nAnswer: Peter (Luke 22:54–62).\n\n—\
+ nFrom Scrollway: Bible Study Game\, free on the App Store: https://apps.ap
+ ple.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal
+ -bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:24f75c76810e0535d1b3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Bible trivia: What was the name of Abraham's wife?
+DESCRIPTION:Today's question: What was the name of Abraham's wife?\n\nThink
+  of your answer first.\n\n\n\nAnswer: Sarah\, first called Sarai (Genesis 
+ 17:15).\n\n—\nFrom Scrollway: Bible Study Game\, free on the App Store: 
+ https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=1
+ 29123876&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: 
+ https://honestlittleapps.github.io/calendars/bible-trivia-question-of-the-
+ day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:06b72c6a69cfb14fda91@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Bible trivia: Which book comes right after the four Gospels?
+DESCRIPTION:Today's question: Which book comes right after the four Gospels
+ ?\n\nThink of your answer first.\n\n\n\nAnswer: Acts.\n\n—\nFrom Scrollw
+ ay: Bible Study Game\, free on the App Store: https://apps.apple.com/us/ap
+ p/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-bible-trivia
+ -question-of-the-d&mt=8\nAbout this calendar: https://honestlittleapps.git
+ hub.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0d65ce391343ba64f739@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Bible trivia: How many days and nights did it rain in the flood?
+DESCRIPTION:Today's question: How many days and nights did it rain in the f
+ lood?\n\nThink of your answer first.\n\n\n\nAnswer: Forty (Genesis 7:12).\
+ n\n—\nFrom Scrollway: Bible Study Game\, free on the App Store: https://
+ apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876
+ &ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://
+ honestlittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3f468112d2842502fee1@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Bible trivia: Who killed Goliath?
+DESCRIPTION:Today's question: Who killed Goliath?\n\nThink of your answer f
+ irst.\n\n\n\nAnswer: David\, with a sling and a stone (1 Samuel 17).\n\n
+ —\nFrom Scrollway: Bible Study Game\, free on the App Store: https://app
+ s.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct
+ =cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1d78a134f3cc6d3af439@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Bible trivia: In which town was Jesus born?
+DESCRIPTION:Today's question: In which town was Jesus born?\n\nThink of you
+ r answer first.\n\n\n\nAnswer: Bethlehem (Matthew 2:1).\n\n—\nFrom Scrol
+ lway: Bible Study Game\, free on the App Store: https://apps.apple.com/us/
+ app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-bible-triv
+ ia-question-of-the-d&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:741d6ea5e72547418763@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Bible trivia: What did Jesus turn water into at the wedding in Cana
+ ?
+DESCRIPTION:Today's question: What did Jesus turn water into at the wedding
+  in Cana?\n\nThink of your answer first.\n\n\n\nAnswer: Wine (John 2:1–1
+ 1).\n\n—\nFrom Scrollway: Bible Study Game\, free on the App Store: http
+ s://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=12912
+ 3876&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: http
+ s://honestlittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:123848ccc050da2f0e1a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Bible trivia: Who was swallowed by a great fish?
+DESCRIPTION:Today's question: Who was swallowed by a great fish?\n\nThink o
+ f your answer first.\n\n\n\nAnswer: Jonah (Jonah 1:17).\n\n—\nFrom Scrol
+ lway: Bible Study Game\, free on the App Store: https://apps.apple.com/us/
+ app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-bible-triv
+ ia-question-of-the-d&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a212736edf69e57625f0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Bible trivia: Which book contains the Ten Commandments first?
+DESCRIPTION:Today's question: Which book contains the Ten Commandments firs
+ t?\n\nThink of your answer first.\n\n\n\nAnswer: Exodus (chapter 20). They
+ 're repeated in Deuteronomy 5.\n\n—\nFrom Scrollway: Bible Study Game\, 
+ free on the App Store: https://apps.apple.com/us/app/scrollway-bible-study
+ -game/id6821770165?pt=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/bible-
+ trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5249b0c3562ed0932f72@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Bible trivia: What was Paul's name before he was called Paul?
+DESCRIPTION:Today's question: What was Paul's name before he was called Pau
+ l?\n\nThink of your answer first.\n\n\n\nAnswer: Saul (Acts 13:9).\n\n—\
+ nFrom Scrollway: Bible Study Game\, free on the App Store: https://apps.ap
+ ple.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal
+ -bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:eed861cb373e534a29ac@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Bible trivia: How many sons did Jacob have?
+DESCRIPTION:Today's question: How many sons did Jacob have?\n\nThink of you
+ r answer first.\n\n\n\nAnswer: Twelve\, the fathers of the twelve tribes.\
+ n\n—\nFrom Scrollway: Bible Study Game\, free on the App Store: https://
+ apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876
+ &ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://
+ honestlittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:27e791c3767010fd9270@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Bible trivia: Who was the first king of Israel?
+DESCRIPTION:Today's question: Who was the first king of Israel?\n\nThink of
+  your answer first.\n\n\n\nAnswer: Saul (1 Samuel 10).\n\n—\nFrom Scroll
+ way: Bible Study Game\, free on the App Store: https://apps.apple.com/us/a
+ pp/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-bible-trivi
+ a-question-of-the-d&mt=8\nAbout this calendar: https://honestlittleapps.gi
+ thub.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:41925416c5d39b59f13a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Bible trivia: What is the longest book in the Bible by chapters?
+DESCRIPTION:Today's question: What is the longest book in the Bible by chap
+ ters?\n\nThink of your answer first.\n\n\n\nAnswer: Psalms\, with 150.\n\n
+ —\nFrom Scrollway: Bible Study Game\, free on the App Store: https://app
+ s.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct
+ =cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:eb9de55554dcc7d73860@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Bible trivia: Which prophet was taken up in a whirlwind?
+DESCRIPTION:Today's question: Which prophet was taken up in a whirlwind?\n\
+ nThink of your answer first.\n\n\n\nAnswer: Elijah (2 Kings 2:11).\n\n—\
+ nFrom Scrollway: Bible Study Game\, free on the App Store: https://apps.ap
+ ple.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal
+ -bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1662fa3511369f51e0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Bible trivia: Who wrote most of the New Testament letters?
+DESCRIPTION:Today's question: Who wrote most of the New Testament letters?\
+ n\nThink of your answer first.\n\n\n\nAnswer: Paul\, with 13 letters tradi
+ tionally attributed to him.\n\n—\nFrom Scrollway: Bible Study Game\, fre
+ e on the App Store: https://apps.apple.com/us/app/scrollway-bible-study-ga
+ me/id6821770165?pt=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8\nA
+ bout this calendar: https://honestlittleapps.github.io/calendars/bible-tri
+ via-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9120c4729c16226f84dd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Bible trivia: What did God create on the first day?
+DESCRIPTION:Today's question: What did God create on the first day?\n\nThin
+ k of your answer first.\n\n\n\nAnswer: Light (Genesis 1:3–5).\n\n—\nFr
+ om Scrollway: Bible Study Game\, free on the App Store: https://apps.apple
+ .com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-bi
+ ble-trivia-question-of-the-d&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:533540cc398a5ef9660b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Bible trivia: Who betrayed Jesus for thirty pieces of silver?
+DESCRIPTION:Today's question: Who betrayed Jesus for thirty pieces of silve
+ r?\n\nThink of your answer first.\n\n\n\nAnswer: Judas Iscariot (Matthew 2
+ 6:14–16).\n\n—\nFrom Scrollway: Bible Study Game\, free on the App Sto
+ re: https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?
+ pt=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/bible-trivia-question-of-
+ the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:586c1c5bbe38ca63488a@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Bible trivia: Which woman hid two Israelite spies in Jericho?
+DESCRIPTION:Today's question: Which woman hid two Israelite spies in Jerich
+ o?\n\nThink of your answer first.\n\n\n\nAnswer: Rahab (Joshua 2).\n\n—\
+ nFrom Scrollway: Bible Study Game\, free on the App Store: https://apps.ap
+ ple.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal
+ -bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0f35abb3447b7a577f51@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Bible trivia: What is the last book of the Old Testament in Christi
+ an Bibles?
+DESCRIPTION:Today's question: What is the last book of the Old Testament in
+  Christian Bibles?\n\nThink of your answer first.\n\n\n\nAnswer: Malachi.\
+ n\n—\nFrom Scrollway: Bible Study Game\, free on the App Store: https://
+ apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876
+ &ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://
+ honestlittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5ee41b31472884c89f3b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Bible trivia: Who was the mother of John the Baptist?
+DESCRIPTION:Today's question: Who was the mother of John the Baptist?\n\nTh
+ ink of your answer first.\n\n\n\nAnswer: Elizabeth (Luke 1:57).\n\n—\nFr
+ om Scrollway: Bible Study Game\, free on the App Store: https://apps.apple
+ .com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-bi
+ ble-trivia-question-of-the-d&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0a5c870ac02b6e688e1c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Bible trivia: Which sea did the Israelites cross on dry ground?
+DESCRIPTION:Today's question: Which sea did the Israelites cross on dry gro
+ und?\n\nThink of your answer first.\n\n\n\nAnswer: The Red Sea (Exodus 14)
+ .\n\n—\nFrom Scrollway: Bible Study Game\, free on the App Store: https:
+ //apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=1291238
+ 76&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: https:
+ //honestlittleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ee3ef0dfdcdad31e007e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Bible trivia: How many people were saved on Noah's ark?
+DESCRIPTION:Today's question: How many people were saved on Noah's ark?\n\n
+ Think of your answer first.\n\n\n\nAnswer: Eight (1 Peter 3:20).\n\n—\nF
+ rom Scrollway: Bible Study Game\, free on the App Store: https://apps.appl
+ e.com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-b
+ ible-trivia-question-of-the-d&mt=8\nAbout this calendar: https://honestlit
+ tleapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:691d3b8e60867d86ff0d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Bible trivia: Who was the tax collector who climbed a tree to see J
+ esus?
+DESCRIPTION:Today's question: Who was the tax collector who climbed a tree 
+ to see Jesus?\n\nThink of your answer first.\n\n\n\nAnswer: Zacchaeus (Luk
+ e 19:1–10).\n\n—\nFrom Scrollway: Bible Study Game\, free on the App S
+ tore: https://apps.apple.com/us/app/scrollway-bible-study-game/id682177016
+ 5?pt=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/bible-trivia-question-o
+ f-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:631971aef1a8192c3332@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Bible trivia: What fruit of the Spirit comes first in Galatians 5:2
+ 2?
+DESCRIPTION:Today's question: What fruit of the Spirit comes first in Galat
+ ians 5:22?\n\nThink of your answer first.\n\n\n\nAnswer: Love.\n\n—\nFro
+ m Scrollway: Bible Study Game\, free on the App Store: https://apps.apple.
+ com/us/app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-bib
+ le-trivia-question-of-the-d&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e09c62217a6e5a4676b0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Bible trivia: Who interpreted Pharaoh's dreams?
+DESCRIPTION:Today's question: Who interpreted Pharaoh's dreams?\n\nThink of
+  your answer first.\n\n\n\nAnswer: Joseph (Genesis 41).\n\n—\nFrom Scrol
+ lway: Bible Study Game\, free on the App Store: https://apps.apple.com/us/
+ app/scrollway-bible-study-game/id6821770165?pt=129123876&ct=cal-bible-triv
+ ia-question-of-the-d&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/bible-trivia-question-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e004a620bf23a7381c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Bible trivia: Which book tells the story of a Moabite woman loyal t
+ o her mother-in-law?
+DESCRIPTION:Today's question: Which book tells the story of a Moabite woman
+  loyal to her mother-in-law?\n\nThink of your answer first.\n\n\n\nAnswer:
+  Ruth.\n\n—\nFrom Scrollway: Bible Study Game\, free on the App Store: h
+ ttps://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?pt=12
+ 9123876&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this calendar: h
+ ttps://honestlittleapps.github.io/calendars/bible-trivia-question-of-the-d
+ ay/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac743e218721ddce5ab@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Bible trivia: What are the first three words of the Bible in Englis
+ h?
+DESCRIPTION:Today's question: What are the first three words of the Bible i
+ n English?\n\nThink of your answer first.\n\n\n\nAnswer: "In the beginning
+ " (Genesis 1:1).\n\n—\nFrom Scrollway: Bible Study Game\, free on the Ap
+ p Store: https://apps.apple.com/us/app/scrollway-bible-study-game/id682177
+ 0165?pt=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/bible-trivia-questio
+ n-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ccfa735bde67836882bd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Bible trivia: Which apostle is called 'the disciple whom Jesus love
+ d'?
+DESCRIPTION:Today's question: Which apostle is called 'the disciple whom Je
+ sus loved'?\n\nThink of your answer first.\n\n\n\nAnswer: Traditionally Jo
+ hn (John 21:20–24).\n\n—\nFrom Scrollway: Bible Study Game\, free on t
+ he App Store: https://apps.apple.com/us/app/scrollway-bible-study-game/id6
+ 821770165?pt=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8\nAbout t
+ his calendar: https://honestlittleapps.github.io/calendars/bible-trivia-qu
+ estion-of-the-day/
+URL:https://apps.apple.com/us/app/scrollway-bible-study-game/id6821770165?p
+ t=129123876&ct=cal-bible-trivia-question-of-the-d&mt=8
+END:VEVENT
+END:VCALENDAR

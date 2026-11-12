@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bedtime wind-down
+X-WR-CALDESC:A free nightly 9:45pm wind-down reminder in your local time\, 
+ plus 2027 daylight-saving clock-change alerts for the US\, Canada\, UK and
+  EU. Subscribe in one tap. https://honestlittleapps.github.io/calendars/be
+ dtime-wind-down-reminder-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#2d327a
+X-APPLE-CALENDAR-COLOR:#2d327a
+BEGIN:VEVENT
+UID:3fd519d2a31f08effbc9@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261116T214500
+DTEND:20261116T214900
+TRANSP:TRANSPARENT
+RRULE:FREQ=DAILY
+SUMMARY:Wind-down: start your 4-minute reset
+DESCRIPTION:Lights down\, screens off or dimmed\, and one slow minute of br
+ eathing (in for 4\, out for 6). A consistent wind-down cue helps your brai
+ n recognise bedtime.\n\nAim for the same bedtime and wake time\, even on w
+ eekends. That's one of the best-supported sleep habits.\n\n—\nFrom Sleep
+ ward: Bedtime Routine\, free on the App Store: https://apps.apple.com/us/a
+ pp/sleepward-bedtime-routine/id6796299594?pt=129123876&ct=cal-bedtime-wind
+ -down-reminder-cal&mt=8\nAbout this calendar: https://honestlittleapps.git
+ hub.io/calendars/bedtime-wind-down-reminder-calendar/
+URL:https://apps.apple.com/us/app/sleepward-bedtime-routine/id6796299594?pt
+ =129123876&ct=cal-bedtime-wind-down-reminder-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:73a69845373a14b483c2@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:Clocks spring forward tonight (US & Canada)
+DESCRIPTION:Daylight saving time starts at 2:00am Sunday\, March 14\, 2027.
+  Go to bed 15–20 minutes earlier for a few nights before it to soften th
+ e lost hour.\n\n—\nFrom Sleepward: Bedtime Routine\, free on the App Sto
+ re: https://apps.apple.com/us/app/sleepward-bedtime-routine/id6796299594?p
+ t=129123876&ct=cal-bedtime-wind-down-reminder-cal&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/bedtime-wind-down-reminder
+ -calendar/
+URL:https://apps.apple.com/us/app/sleepward-bedtime-routine/id6796299594?pt
+ =129123876&ct=cal-bedtime-wind-down-reminder-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8c27c76671e9b1f33395@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271107
+TRANSP:TRANSPARENT
+SUMMARY:Clocks fall back tonight (US & Canada)
+DESCRIPTION:Daylight saving time ends at 2:00am Sunday\, November 7\, 2027.
+  Keep your usual wake time to adjust faster.\n\n—\nFrom Sleepward: Bedti
+ me Routine\, free on the App Store: https://apps.apple.com/us/app/sleepwar
+ d-bedtime-routine/id6796299594?pt=129123876&ct=cal-bedtime-wind-down-remin
+ der-cal&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cale
+ ndars/bedtime-wind-down-reminder-calendar/
+URL:https://apps.apple.com/us/app/sleepward-bedtime-routine/id6796299594?pt
+ =129123876&ct=cal-bedtime-wind-down-reminder-cal&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1988c98a9cc55c99ee02@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+TRANSP:TRANSPARENT
+SUMMARY:Clocks go forward tonight (UK & EU)
+DESCRIPTION:European summer time starts at 1:00am UTC on Sunday\, March 28\
+ , 2027. Shift bedtime a little earlier over the next few nights.\n\n—\nF
+ rom Sleepward: Bedtime Routine\, free on the App Store: https://apps.apple
+ .com/us/app/sleepward-bedtime-routine/id6796299594?pt=129123876&ct=cal-bed
+ time-wind-down-reminder-cal&mt=8\nAbout this calendar: https://honestlittl
+ eapps.github.io/calendars/bedtime-wind-down-reminder-calendar/
+URL:https://apps.apple.com/us/app/sleepward-bedtime-routine/id6796299594?pt
+ =129123876&ct=cal-bedtime-wind-down-reminder-cal&mt=8
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Start one thing — weekdays
+X-WR-CALDESC:A free weekday 9:30am calendar nudge to start one task for 10 
+ minutes\, with a different task-initiation tactic each day. Built for peop
+ le who find starting hard. https://honestlittleapps.github.io/calendars/ad
+ hd-task-start-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#c2454a
+X-APPLE-CALENDAR-COLOR:#c2454a
+BEGIN:VEVENT
+UID:2efd7cb8464601c689ec@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261116T093000
+DTEND:20261116T094000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Start one thing: 10 minutes
+DESCRIPTION:Choose one task. Just one. Start a 10-minute timer.\n\nMonday t
+ actic: Shrink it: what's the first two-minute step? Do just that.\n\nStart
+ ing is the hard part. Ten minutes is allowed to be all you do.\n\n—\nFro
+ m Now: ADHD Task Starter\, free on the App Store: https://apps.apple.com/u
+ s/app/now-adhd-task-starter/id6794488304?pt=129123876&ct=cal-adhd-task-sta
+ rt-calendar&mt=8\nAbout this calendar: https://honestlittleapps.github.io/
+ calendars/adhd-task-start-calendar/
+URL:https://apps.apple.com/us/app/now-adhd-task-starter/id6794488304?pt=129
+ 123876&ct=cal-adhd-task-start-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:07293be3e11d7d51e97c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261117T093000
+DTEND:20261117T094000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Start one thing: 10 minutes
+DESCRIPTION:Choose one task. Just one. Start a 10-minute timer.\n\nTuesday 
+ tactic: Body-double: start while someone else is working nearby\, or on a 
+ video call.\n\nStarting is the hard part. Ten minutes is allowed to be all
+  you do.\n\n—\nFrom Now: ADHD Task Starter\, free on the App Store: http
+ s://apps.apple.com/us/app/now-adhd-task-starter/id6794488304?pt=129123876&
+ ct=cal-adhd-task-start-calendar&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/adhd-task-start-calendar/
+URL:https://apps.apple.com/us/app/now-adhd-task-starter/id6794488304?pt=129
+ 123876&ct=cal-adhd-task-start-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:171d445d22114fd17082@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261118T093000
+DTEND:20261118T094000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Start one thing: 10 minutes
+DESCRIPTION:Choose one task. Just one. Start a 10-minute timer.\n\nWednesda
+ y tactic: Make it visible: set a 10-minute timer where you can see it\, an
+ d stop when it rings if you want to.\n\nStarting is the hard part. Ten min
+ utes is allowed to be all you do.\n\n—\nFrom Now: ADHD Task Starter\, fr
+ ee on the App Store: https://apps.apple.com/us/app/now-adhd-task-starter/i
+ d6794488304?pt=129123876&ct=cal-adhd-task-start-calendar&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/adhd-task-start-cal
+ endar/
+URL:https://apps.apple.com/us/app/now-adhd-task-starter/id6794488304?pt=129
+ 123876&ct=cal-adhd-task-start-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:7da6c184b004a63e9331@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261119T093000
+DTEND:20261119T094000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Start one thing: 10 minutes
+DESCRIPTION:Choose one task. Just one. Start a 10-minute timer.\n\nThursday
+  tactic: Prep the start: open the doc\, lay out the tools\, then walk away
+  for 60 seconds and come back.\n\nStarting is the hard part. Ten minutes i
+ s allowed to be all you do.\n\n—\nFrom Now: ADHD Task Starter\, free on 
+ the App Store: https://apps.apple.com/us/app/now-adhd-task-starter/id67944
+ 88304?pt=129123876&ct=cal-adhd-task-start-calendar&mt=8\nAbout this calend
+ ar: https://honestlittleapps.github.io/calendars/adhd-task-start-calendar/
+URL:https://apps.apple.com/us/app/now-adhd-task-starter/id6794488304?pt=129
+ 123876&ct=cal-adhd-task-start-calendar&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1b6a08b02a3ad92f1f2b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261120T093000
+DTEND:20261120T094000
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Start one thing: 10 minutes
+DESCRIPTION:Choose one task. Just one. Start a 10-minute timer.\n\nFriday t
+ actic: Pick the task that'll bother you all weekend\, and give it ten minu
+ tes now.\n\nStarting is the hard part. Ten minutes is allowed to be all yo
+ u do.\n\n—\nFrom Now: ADHD Task Starter\, free on the App Store: https:/
+ /apps.apple.com/us/app/now-adhd-task-starter/id6794488304?pt=129123876&ct=
+ cal-adhd-task-start-calendar&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/adhd-task-start-calendar/
+URL:https://apps.apple.com/us/app/now-adhd-task-starter/id6794488304?pt=129
+ 123876&ct=cal-adhd-task-start-calendar&mt=8
+END:VEVENT
+END:VCALENDAR

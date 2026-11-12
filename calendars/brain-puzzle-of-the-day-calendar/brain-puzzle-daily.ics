@@ -1,0 +1,561 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brain puzzle of the day
+X-WR-CALDESC:A free calendar with one logic puzzle\, riddle or number seque
+ nce each day of the month\, answer included below. A quick daily brain tea
+ ser for adults. https://honestlittleapps.github.io/calendars/brain-puzzle-
+ of-the-day-calendar/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#b4651a
+X-APPLE-CALENDAR-COLOR:#b4651a
+BEGIN:VEVENT
+UID:b56e54d500813b8bdfb6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:A bat and a ball cost $1.10 together. The bat costs $1.00 more 
+ than the ball. How much is the ball?\n\nGive it 60 seconds before you look
+ .\n\n\n\nAnswer: 5 cents. (Bat $1.05 + ball $0.05 = $1.10.)\n\n—\nFrom C
+ ognilo: Brain Training Games\, free on the App Store: https://apps.apple.c
+ om/us/app/cognilo-brain-training-games/id6808798253?pt=129123876&ct=cal-br
+ ain-puzzle-of-the-day-calend&mt=8\nAbout this calendar: https://honestlitt
+ leapps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e8fc797e3f39d8b3c1a3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=2
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:What comes next: 2\, 6\, 12\, 20\, 30\, ?\n\nGive it 60 seconds
+  before you look.\n\n\n\nAnswer: 42. The gaps go 4\, 6\, 8\, 10\, 12.\n\n
+ —\nFrom Cognilo: Brain Training Games\, free on the App Store: https://a
+ pps.apple.com/us/app/cognilo-brain-training-games/id6808798253?pt=12912387
+ 6&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this calendar: https:/
+ /honestlittleapps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:60c8492db5c17667be5e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:If 5 machines make 5 widgets in 5 minutes\, how long do 100 mac
+ hines take to make 100 widgets?\n\nGive it 60 seconds before you look.\n\n
+ \n\nAnswer: 5 minutes. Each machine makes one widget in 5 minutes.\n\n—\
+ nFrom Cognilo: Brain Training Games\, free on the App Store: https://apps.
+ apple.com/us/app/cognilo-brain-training-games/id6808798253?pt=129123876&ct
+ =cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:046b62a535141f8d0eb0@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=4
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:I'm an odd number. Take away one letter and I become even. What
+  number am I?\n\nGive it 60 seconds before you look.\n\n\n\nAnswer: Seven.
+  Remove the S and you get 'even'.\n\n—\nFrom Cognilo: Brain Training Gam
+ es\, free on the App Store: https://apps.apple.com/us/app/cognilo-brain-tr
+ aining-games/id6808798253?pt=129123876&ct=cal-brain-puzzle-of-the-day-cale
+ nd&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars
+ /brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:0dae5606c83436965187@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=5
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:A lily patch doubles every day and covers the lake on day 48. W
+ hen did it cover half?\n\nGive it 60 seconds before you look.\n\n\n\nAnswe
+ r: Day 47.\n\n—\nFrom Cognilo: Brain Training Games\, free on the App St
+ ore: https://apps.apple.com/us/app/cognilo-brain-training-games/id68087982
+ 53?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/brain-puzzle-of-the-da
+ y-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5af8c0a7ff73623b71f3@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=6
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Which is heavier: a kilogram of feathers or a kilogram of steel
+ ?\n\nGive it 60 seconds before you look.\n\n\n\nAnswer: Neither. Both weig
+ h one kilogram.\n\n—\nFrom Cognilo: Brain Training Games\, free on the A
+ pp Store: https://apps.apple.com/us/app/cognilo-brain-training-games/id680
+ 8798253?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout thi
+ s calendar: https://honestlittleapps.github.io/calendars/brain-puzzle-of-t
+ he-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1edb9d1bf1d8ce4c0223@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=7
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Mary's father has five daughters: Nana\, Nene\, Nini\, Nono. Wh
+ at's the fifth called?\n\nGive it 60 seconds before you look.\n\n\n\nAnswe
+ r: Mary.\n\n—\nFrom Cognilo: Brain Training Games\, free on the App Stor
+ e: https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this calen
+ dar: https://honestlittleapps.github.io/calendars/brain-puzzle-of-the-day-
+ calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:5dffbdadc6745d4eae6b@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=8
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:What comes next: 1\, 1\, 2\, 3\, 5\, 8\, ?\n\nGive it 60 second
+ s before you look.\n\n\n\nAnswer: 13. Each number is the sum of the previo
+ us two (Fibonacci).\n\n—\nFrom Cognilo: Brain Training Games\, free on t
+ he App Store: https://apps.apple.com/us/app/cognilo-brain-training-games/i
+ d6808798253?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout
+  this calendar: https://honestlittleapps.github.io/calendars/brain-puzzle-
+ of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:26e68b50d5cf8d70e903@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=9
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:How many times can you subtract 10 from 100?\n\nGive it 60 seco
+ nds before you look.\n\n\n\nAnswer: Once. After that you're subtracting fr
+ om 90.\n\n—\nFrom Cognilo: Brain Training Games\, free on the App Store:
+  https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253?p
+ t=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this calenda
+ r: https://honestlittleapps.github.io/calendars/brain-puzzle-of-the-day-ca
+ lendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:64f1d9df215780867b8d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=10
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:A clock shows 3:15. What's the angle between the hands?\n\nGive
+  it 60 seconds before you look.\n\n\n\nAnswer: 7.5°. The hour hand has mo
+ ved a quarter of the way from 3 to 4.\n\n—\nFrom Cognilo: Brain Training
+  Games\, free on the App Store: https://apps.apple.com/us/app/cognilo-brai
+ n-training-games/id6808798253?pt=129123876&ct=cal-brain-puzzle-of-the-day-
+ calend&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calen
+ dars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fb3b180bdbf90c0e0644@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=11
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:You're in a race and pass the person in 2nd place. What place a
+ re you in?\n\nGive it 60 seconds before you look.\n\n\n\nAnswer: 2nd.\n\n
+ —\nFrom Cognilo: Brain Training Games\, free on the App Store: https://a
+ pps.apple.com/us/app/cognilo-brain-training-games/id6808798253?pt=12912387
+ 6&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this calendar: https:/
+ /honestlittleapps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a855f4c33560d907aa72@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=12
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:What 5-letter word becomes shorter when you add two letters?\n\
+ nGive it 60 seconds before you look.\n\n\n\nAnswer: Short\, which becomes 
+ 'shorter'.\n\n—\nFrom Cognilo: Brain Training Games\, free on the App St
+ ore: https://apps.apple.com/us/app/cognilo-brain-training-games/id68087982
+ 53?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/brain-puzzle-of-the-da
+ y-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:30924bf3b3e5bcdca919@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=13
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Rearrange the letters of LISTEN to make another word.\n\nGive i
+ t 60 seconds before you look.\n\n\n\nAnswer: SILENT (also ENLIST\, TINSEL\
+ , INLETS).\n\n—\nFrom Cognilo: Brain Training Games\, free on the App St
+ ore: https://apps.apple.com/us/app/cognilo-brain-training-games/id68087982
+ 53?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this cal
+ endar: https://honestlittleapps.github.io/calendars/brain-puzzle-of-the-da
+ y-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:784c4a8ccbc573affa25@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=14
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Next in the series: J\, F\, M\, A\, M\, J\, J\, ?\n\nGive it 60
+  seconds before you look.\n\n\n\nAnswer: A\, for August. They're the first
+  letters of the months.\n\n—\nFrom Cognilo: Brain Training Games\, free 
+ on the App Store: https://apps.apple.com/us/app/cognilo-brain-training-gam
+ es/id6808798253?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nA
+ bout this calendar: https://honestlittleapps.github.io/calendars/brain-puz
+ zle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:27cf74c894d07e300e4d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=15
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:A farmer has 17 sheep. All but 9 run away. How many are left?\n
+ \nGive it 60 seconds before you look.\n\n\n\nAnswer: 9.\n\n—\nFrom Cogni
+ lo: Brain Training Games\, free on the App Store: https://apps.apple.com/u
+ s/app/cognilo-brain-training-games/id6808798253?pt=129123876&ct=cal-brain-
+ puzzle-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleap
+ ps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:dbfc7b1719a3e9c85529@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=16
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:What is half of 2 + 2?\n\nGive it 60 seconds before you look.\n
+ \n\n\nAnswer: 3. Half of 2 is 1\, then add 2 (order of operations).\n\n—
+ \nFrom Cognilo: Brain Training Games\, free on the App Store: https://apps
+ .apple.com/us/app/cognilo-brain-training-games/id6808798253?pt=129123876&c
+ t=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:85aa18c3214ff457d54c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Three boxes are labelled Apples\, Oranges and Mixed\, and every
+  label is wrong. You may pick one fruit from one box. Which box?\n\nGive i
+ t 60 seconds before you look.\n\n\n\nAnswer: Pick from 'Mixed'. It must ho
+ ld only one kind\, which tells you how to relabel all three.\n\n—\nFrom 
+ Cognilo: Brain Training Games\, free on the App Store: https://apps.apple.
+ com/us/app/cognilo-brain-training-games/id6808798253?pt=129123876&ct=cal-b
+ rain-puzzle-of-the-day-calend&mt=8\nAbout this calendar: https://honestlit
+ tleapps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:9cf1a3c85376fb5f6527@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=18
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Next: 3\, 9\, 27\, 81\, ?\n\nGive it 60 seconds before you look
+ .\n\n\n\nAnswer: 243. Multiply by 3 each time.\n\n—\nFrom Cognilo: Brain
+  Training Games\, free on the App Store: https://apps.apple.com/us/app/cog
+ nilo-brain-training-games/id6808798253?pt=129123876&ct=cal-brain-puzzle-of
+ -the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.github
+ .io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:160af93bb9313b37dff6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=19
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:A word with three double letters in a row?\n\nGive it 60 second
+ s before you look.\n\n\n\nAnswer: Bookkeeper (oo-kk-ee).\n\n—\nFrom Cogn
+ ilo: Brain Training Games\, free on the App Store: https://apps.apple.com/
+ us/app/cognilo-brain-training-games/id6808798253?pt=129123876&ct=cal-brain
+ -puzzle-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittlea
+ pps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:6ffdc1063cc04075461d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:If you have me\, you want to share me. If you share me\, you do
+ n't have me. What am I?\n\nGive it 60 seconds before you look.\n\n\n\nAnsw
+ er: A secret.\n\n—\nFrom Cognilo: Brain Training Games\, free on the App
+  Store: https://apps.apple.com/us/app/cognilo-brain-training-games/id68087
+ 98253?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/brain-puzzle-of-the
+ -day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:523381d828f7cf033f60@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=21
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Next: 1\, 4\, 9\, 16\, 25\, ?\n\nGive it 60 seconds before you 
+ look.\n\n\n\nAnswer: 36. They're square numbers.\n\n—\nFrom Cognilo: Bra
+ in Training Games\, free on the App Store: https://apps.apple.com/us/app/c
+ ognilo-brain-training-games/id6808798253?pt=129123876&ct=cal-brain-puzzle-
+ of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.gith
+ ub.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:addaa7dd6841ebec1ca4@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=22
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:How many months have 28 days?\n\nGive it 60 seconds before you 
+ look.\n\n\n\nAnswer: All twelve.\n\n—\nFrom Cognilo: Brain Training Game
+ s\, free on the App Store: https://apps.apple.com/us/app/cognilo-brain-tra
+ ining-games/id6808798253?pt=129123876&ct=cal-brain-puzzle-of-the-day-calen
+ d&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calendars/
+ brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:32bb4313a8bd535bd8e8@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Two fathers and two sons go fishing and catch three fish\, one 
+ each. How?\n\nGive it 60 seconds before you look.\n\n\n\nAnswer: There are
+  only three people: grandfather\, father and son.\n\n—\nFrom Cognilo: Br
+ ain Training Games\, free on the App Store: https://apps.apple.com/us/app/
+ cognilo-brain-training-games/id6808798253?pt=129123876&ct=cal-brain-puzzle
+ -of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.git
+ hub.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:3e7f0891375d7612e22f@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=24
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Next: Z\, X\, V\, T\, R\, ?\n\nGive it 60 seconds before you lo
+ ok.\n\n\n\nAnswer: P. Go backwards\, skipping one letter each time.\n\n—
+ \nFrom Cognilo: Brain Training Games\, free on the App Store: https://apps
+ .apple.com/us/app/cognilo-brain-training-games/id6808798253?pt=129123876&c
+ t=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this calendar: https://ho
+ nestlittleapps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:aebc424c7c7c4dc6fd82@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=25
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:What can you hold in your right hand but never in your left?\n\
+ nGive it 60 seconds before you look.\n\n\n\nAnswer: Your left hand (or lef
+ t elbow).\n\n—\nFrom Cognilo: Brain Training Games\, free on the App Sto
+ re: https://apps.apple.com/us/app/cognilo-brain-training-games/id680879825
+ 3?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this cale
+ ndar: https://honestlittleapps.github.io/calendars/brain-puzzle-of-the-day
+ -calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd45fd202310a6257cd@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=26
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:If today is Wednesday\, what day is 100 days from now?\n\nGive 
+ it 60 seconds before you look.\n\n\n\nAnswer: Friday. 100 = 14 weeks + 2 d
+ ays.\n\n—\nFrom Cognilo: Brain Training Games\, free on the App Store: h
+ ttps://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253?pt=
+ 129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8\nAbout this calendar:
+  https://honestlittleapps.github.io/calendars/brain-puzzle-of-the-day-cale
+ ndar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:42b6fd7984476c262097@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=27
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:A brick weighs 1 kg plus half a brick. How much does a brick we
+ igh?\n\nGive it 60 seconds before you look.\n\n\n\nAnswer: 2 kg.\n\n—\nF
+ rom Cognilo: Brain Training Games\, free on the App Store: https://apps.ap
+ ple.com/us/app/cognilo-brain-training-games/id6808798253?pt=129123876&ct=c
+ al-brain-puzzle-of-the-day-calend&mt=8\nAbout this calendar: https://hones
+ tlittleapps.github.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:a0783896ed9db8d56309@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=28
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:What word is spelled wrong in every dictionary?\n\nGive it 60 s
+ econds before you look.\n\n\n\nAnswer: "Wrong."\n\n—\nFrom Cognilo: Brai
+ n Training Games\, free on the App Store: https://apps.apple.com/us/app/co
+ gnilo-brain-training-games/id6808798253?pt=129123876&ct=cal-brain-puzzle-o
+ f-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.githu
+ b.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5bab014189d587ee5e@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=29
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:Next: 2\, 3\, 5\, 7\, 11\, 13\, ?\n\nGive it 60 seconds before 
+ you look.\n\n\n\nAnswer: 17. They're prime numbers.\n\n—\nFrom Cognilo: 
+ Brain Training Games\, free on the App Store: https://apps.apple.com/us/ap
+ p/cognilo-brain-training-games/id6808798253?pt=129123876&ct=cal-brain-puzz
+ le-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:de11e19c2bad25c43d59@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=30
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:A doctor gives you 3 pills\, one every half hour. How long unti
+ l they're gone?\n\nGive it 60 seconds before you look.\n\n\n\nAnswer: 1 ho
+ ur. Now\, 30 minutes and 60 minutes.\n\n—\nFrom Cognilo: Brain Training 
+ Games\, free on the App Store: https://apps.apple.com/us/app/cognilo-brain
+ -training-games/id6808798253?pt=129123876&ct=cal-brain-puzzle-of-the-day-c
+ alend&mt=8\nAbout this calendar: https://honestlittleapps.github.io/calend
+ ars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:49d2de107f3745468a91@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+RRULE:FREQ=MONTHLY;BYMONTHDAY=31
+SUMMARY:Brain puzzle of the day
+DESCRIPTION:What has keys but can't open locks?\n\nGive it 60 seconds befor
+ e you look.\n\n\n\nAnswer: A piano (or a keyboard).\n\n—\nFrom Cognilo: 
+ Brain Training Games\, free on the App Store: https://apps.apple.com/us/ap
+ p/cognilo-brain-training-games/id6808798253?pt=129123876&ct=cal-brain-puzz
+ le-of-the-day-calend&mt=8\nAbout this calendar: https://honestlittleapps.g
+ ithub.io/calendars/brain-puzzle-of-the-day-calendar/
+URL:https://apps.apple.com/us/app/cognilo-brain-training-games/id6808798253
+ ?pt=129123876&ct=cal-brain-puzzle-of-the-day-calend&mt=8
+END:VEVENT
+END:VCALENDAR

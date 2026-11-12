@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Busy season 2027
+X-WR-CALDESC:Free 2027 calendar for salons\, barbers\, photographers and ot
+ her booked businesses: peak dates with 'open bookings' reminders 3 weeks a
+ head\, plus Monday confirmations. https://honestlittleapps.github.io/calen
+ dars/appointment-business-busy-season-calendar-2027/
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+COLOR:#12806a
+X-APPLE-CALENDAR-COLOR:#12806a
+BEGIN:VEVENT
+UID:dc338d05bd1843cb354d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+TRANSP:TRANSPARENT
+SUMMARY:Valentine's Day
+DESCRIPTION:Valentine's Day. For salons\, barbers\, photographers\, trainer
+ s and other appointment businesses\, the weeks before this date are usuall
+ y the busiest.\n\n—\nFrom BookingSolved: Client Booking\, free on the Ap
+ p Store: https://apps.apple.com/us/app/bookingsolved-client-booking/id6800
+ 187784?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8\nAbout this
+  calendar: https://honestlittleapps.github.io/calendars/appointment-busine
+ ss-busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:499bde7341e389717504@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:Open bookings for Valentine's Day
+DESCRIPTION:Three weeks out from Valentine's Day.\n• Post your available 
+ slots now.\n• Message regular clients first\, before the slots go public
+ .\n• Decide your deposit and cancellation policy for the rush.\n\n—\nF
+ rom BookingSolved: Client Booking\, free on the App Store: https://apps.ap
+ ple.com/us/app/bookingsolved-client-booking/id6800187784?pt=129123876&ct=c
+ al-appointment-business-busy-seas&mt=8\nAbout this calendar: https://hones
+ tlittleapps.github.io/calendars/appointment-business-busy-season-calendar-
+ 2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:63795b3a615de4bcc9ac@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+TRANSP:TRANSPARENT
+SUMMARY:Easter Sunday
+DESCRIPTION:Easter Sunday. For salons\, barbers\, photographers\, trainers 
+ and other appointment businesses\, the weeks before this date are usually 
+ the busiest.\n\n—\nFrom BookingSolved: Client Booking\, free on the App 
+ Store: https://apps.apple.com/us/app/bookingsolved-client-booking/id680018
+ 7784?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/appointment-business
+ -busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:34fb6f194d12d6b21a70@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+TRANSP:TRANSPARENT
+SUMMARY:Open bookings for Easter Sunday
+DESCRIPTION:Three weeks out from Easter Sunday.\n• Post your available sl
+ ots now.\n• Message regular clients first\, before the slots go public.\
+ n• Decide your deposit and cancellation policy for the rush.\n\n—\nFro
+ m BookingSolved: Client Booking\, free on the App Store: https://apps.appl
+ e.com/us/app/bookingsolved-client-booking/id6800187784?pt=129123876&ct=cal
+ -appointment-business-busy-seas&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/appointment-business-busy-season-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:99de4866eca5450532b7@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+TRANSP:TRANSPARENT
+SUMMARY:Mother's Day (US)
+DESCRIPTION:Mother's Day (US). For salons\, barbers\, photographers\, train
+ ers and other appointment businesses\, the weeks before this date are usua
+ lly the busiest.\n\n—\nFrom BookingSolved: Client Booking\, free on the 
+ App Store: https://apps.apple.com/us/app/bookingsolved-client-booking/id68
+ 00187784?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/appointment-busi
+ ness-busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:827e5f42732b649ce319@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+TRANSP:TRANSPARENT
+SUMMARY:Open bookings for Mother's Day (US)
+DESCRIPTION:Three weeks out from Mother's Day (US).\n• Post your availabl
+ e slots now.\n• Message regular clients first\, before the slots go publ
+ ic.\n• Decide your deposit and cancellation policy for the rush.\n\n—\
+ nFrom BookingSolved: Client Booking\, free on the App Store: https://apps.
+ apple.com/us/app/bookingsolved-client-booking/id6800187784?pt=129123876&ct
+ =cal-appointment-business-busy-seas&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/appointment-business-busy-season-calenda
+ r-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:d5defd9b2387fa259157@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+TRANSP:TRANSPARENT
+SUMMARY:Father's Day (US)
+DESCRIPTION:Father's Day (US). For salons\, barbers\, photographers\, train
+ ers and other appointment businesses\, the weeks before this date are usua
+ lly the busiest.\n\n—\nFrom BookingSolved: Client Booking\, free on the 
+ App Store: https://apps.apple.com/us/app/bookingsolved-client-booking/id68
+ 00187784?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/appointment-busi
+ ness-busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:c634ae9ede0943e73870@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+TRANSP:TRANSPARENT
+SUMMARY:Open bookings for Father's Day (US)
+DESCRIPTION:Three weeks out from Father's Day (US).\n• Post your availabl
+ e slots now.\n• Message regular clients first\, before the slots go publ
+ ic.\n• Decide your deposit and cancellation policy for the rush.\n\n—\
+ nFrom BookingSolved: Client Booking\, free on the App Store: https://apps.
+ apple.com/us/app/bookingsolved-client-booking/id6800187784?pt=129123876&ct
+ =cal-appointment-business-busy-seas&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/appointment-business-busy-season-calenda
+ r-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:fdfe273beba7321eaa01@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+TRANSP:TRANSPARENT
+SUMMARY:Thanksgiving (US)
+DESCRIPTION:Thanksgiving (US). For salons\, barbers\, photographers\, train
+ ers and other appointment businesses\, the weeks before this date are usua
+ lly the busiest.\n\n—\nFrom BookingSolved: Client Booking\, free on the 
+ App Store: https://apps.apple.com/us/app/bookingsolved-client-booking/id68
+ 00187784?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8\nAbout th
+ is calendar: https://honestlittleapps.github.io/calendars/appointment-busi
+ ness-busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e70c0ee870a5defb1235@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+TRANSP:TRANSPARENT
+SUMMARY:Open bookings for Thanksgiving (US)
+DESCRIPTION:Three weeks out from Thanksgiving (US).\n• Post your availabl
+ e slots now.\n• Message regular clients first\, before the slots go publ
+ ic.\n• Decide your deposit and cancellation policy for the rush.\n\n—\
+ nFrom BookingSolved: Client Booking\, free on the App Store: https://apps.
+ apple.com/us/app/bookingsolved-client-booking/id6800187784?pt=129123876&ct
+ =cal-appointment-business-busy-seas&mt=8\nAbout this calendar: https://hon
+ estlittleapps.github.io/calendars/appointment-business-busy-season-calenda
+ r-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:b481f4022a719c72c69d@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+TRANSP:TRANSPARENT
+SUMMARY:Christmas Day
+DESCRIPTION:Christmas Day. For salons\, barbers\, photographers\, trainers 
+ and other appointment businesses\, the weeks before this date are usually 
+ the busiest.\n\n—\nFrom BookingSolved: Client Booking\, free on the App 
+ Store: https://apps.apple.com/us/app/bookingsolved-client-booking/id680018
+ 7784?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8\nAbout this c
+ alendar: https://honestlittleapps.github.io/calendars/appointment-business
+ -busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:f7921aa4280f452ca2cf@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271205
+TRANSP:TRANSPARENT
+SUMMARY:Open bookings for Christmas Day
+DESCRIPTION:Three weeks out from Christmas Day.\n• Post your available sl
+ ots now.\n• Message regular clients first\, before the slots go public.\
+ n• Decide your deposit and cancellation policy for the rush.\n\n—\nFro
+ m BookingSolved: Client Booking\, free on the App Store: https://apps.appl
+ e.com/us/app/bookingsolved-client-booking/id6800187784?pt=129123876&ct=cal
+ -appointment-business-busy-seas&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/appointment-business-busy-season-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:cad2a61a92047b47b6d6@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+TRANSP:TRANSPARENT
+SUMMARY:New Year's Eve
+DESCRIPTION:New Year's Eve. For salons\, barbers\, photographers\, trainers
+  and other appointment businesses\, the weeks before this date are usually
+  the busiest.\n\n—\nFrom BookingSolved: Client Booking\, free on the App
+  Store: https://apps.apple.com/us/app/bookingsolved-client-booking/id68001
+ 87784?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8\nAbout this 
+ calendar: https://honestlittleapps.github.io/calendars/appointment-busines
+ s-busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:e99233e4dc256bca261c@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+TRANSP:TRANSPARENT
+SUMMARY:Open bookings for New Year's Eve
+DESCRIPTION:Three weeks out from New Year's Eve.\n• Post your available s
+ lots now.\n• Message regular clients first\, before the slots go public.
+ \n• Decide your deposit and cancellation policy for the rush.\n\n—\nFr
+ om BookingSolved: Client Booking\, free on the App Store: https://apps.app
+ le.com/us/app/bookingsolved-client-booking/id6800187784?pt=129123876&ct=ca
+ l-appointment-business-busy-seas&mt=8\nAbout this calendar: https://honest
+ littleapps.github.io/calendars/appointment-business-busy-season-calendar-2
+ 027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:31e387ee81c1b4e7d1ec@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+TRANSP:TRANSPARENT
+SUMMARY:Prom season: open bookings
+DESCRIPTION:Prom season usually runs April–May. Hair\, makeup\, nails and
+  photo sessions book out early. Publish your availability now.\n\n—\nFro
+ m BookingSolved: Client Booking\, free on the App Store: https://apps.appl
+ e.com/us/app/bookingsolved-client-booking/id6800187784?pt=129123876&ct=cal
+ -appointment-business-busy-seas&mt=8\nAbout this calendar: https://honestl
+ ittleapps.github.io/calendars/appointment-business-busy-season-calendar-20
+ 27/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8fefad21fa0124cf9383@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:Wedding season starts
+DESCRIPTION:May through October is peak wedding season in much of the US. B
+ lock your trial and day-of slots early.\n\n—\nFrom BookingSolved: Client
+  Booking\, free on the App Store: https://apps.apple.com/us/app/bookingsol
+ ved-client-booking/id6800187784?pt=129123876&ct=cal-appointment-business-b
+ usy-seas&mt=8\nAbout this calendar: https://honestlittleapps.github.io/cal
+ endars/appointment-business-busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:485d980303a1bb317712@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+TRANSP:TRANSPARENT
+SUMMARY:Back-to-school rush
+DESCRIPTION:Haircuts\, photos and tutoring spike in the weeks before school
+  starts. Open extra slots.\n\n—\nFrom BookingSolved: Client Booking\, fr
+ ee on the App Store: https://apps.apple.com/us/app/bookingsolved-client-bo
+ oking/id6800187784?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+ \nAbout this calendar: https://honestlittleapps.github.io/calendars/appoin
+ tment-business-busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+BEGIN:VEVENT
+UID:8c5e606deaf689e53513@honestlittleapps.github.io
+DTSTAMP:20261112T030000Z
+DTSTART:20261116T083000
+DTEND:20261116T084500
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY
+SUMMARY:Monday: confirm this week's appointments
+DESCRIPTION:Send a quick confirmation to everyone booked this week. Confirm
+ ations cut no-shows and free up slots you can refill.\n\n—\nFrom Booking
+ Solved: Client Booking\, free on the App Store: https://apps.apple.com/us/
+ app/bookingsolved-client-booking/id6800187784?pt=129123876&ct=cal-appointm
+ ent-business-busy-seas&mt=8\nAbout this calendar: https://honestlittleapps
+ .github.io/calendars/appointment-business-busy-season-calendar-2027/
+URL:https://apps.apple.com/us/app/bookingsolved-client-booking/id6800187784
+ ?pt=129123876&ct=cal-appointment-business-busy-seas&mt=8
+END:VEVENT
+END:VCALENDAR
