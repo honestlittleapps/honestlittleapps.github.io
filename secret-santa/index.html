@@ -1,0 +1,81 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Free Secret Santa Generator — Draw Names Online, Private Links, No Sign-Up</title><meta name="description" content="Free Secret Santa name generator: enter names, a budget and a date, exclude couples, and get a private link for each person to text. No emails, no account, nothing stored."><link rel="canonical" href="https://honestlittleapps.github.io/secret-santa/"><link rel="icon" href="https://honestlittleapps.github.io/favicon.png"><link rel="apple-touch-icon" href="https://honestlittleapps.github.io/apple-touch-icon.png">
+<meta property="og:title" content="Free Secret Santa Generator — Draw Names Online, Private Links, No Sign-Up"><meta property="og:description" content="Free Secret Santa name generator: enter names, a budget and a date, exclude couples, and get a private link for each person to text. No emails, no account, nothing stored."><meta property="og:url" content="https://honestlittleapps.github.io/secret-santa/"><meta property="og:type" content="website"><meta property="og:site_name" content="Honest Little Apps"><meta property="og:image" content="https://honestlittleapps.github.io/secret-santa/og.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#1f5f4a">
+<style>:root{--a:#1f5f4a;--b:#0f2a24}*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;font:17px/1.55 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:#1d1d1f;background:#f6f5f2}
+a{color:var(--a)}p,li{overflow-wrap:anywhere}
+.wrap{max-width:820px;margin:0 auto;padding:0 18px}
+header.top{padding:14px 0;font-size:14px;color:#6e6e73}header.top a{color:#6e6e73;text-decoration:none}
+.hero{background:linear-gradient(160deg,var(--a),var(--b));color:#fff;border-radius:22px;padding:26px 22px 22px;margin:6px 0 20px;position:relative;overflow:hidden}
+.hero .kick{font-size:13px;letter-spacing:.08em;text-transform:uppercase;opacity:.85;font-weight:650}
+.hero h1{font-size:31px;line-height:1.12;margin:8px 0 10px;letter-spacing:-.02em}
+.hero p{font-size:18px;margin:0 0 14px;opacity:.95;max-width:36em}
+.hero .small{font-size:14px;opacity:.82;margin:10px 0 0}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:12px 17px;border-radius:14px;font-weight:650;text-decoration:none;font-size:16px;border:0;cursor:pointer;font-family:inherit}
+.btn.main{background:#fff;color:#111}.btn.alt{background:rgba(255,255,255,.16);color:#fff;border:1px solid rgba(255,255,255,.35)}
+.btn.dark{background:var(--a);color:#fff}.btn.ghost{background:#fff;color:var(--a);border:1px solid #dcdad3}
+.btns{display:flex;flex-wrap:wrap;gap:10px}
+.card{background:#fff;border-radius:18px;padding:20px;box-shadow:0 1px 0 rgba(0,0,0,.04),0 8px 24px rgba(0,0,0,.05);margin:0 0 20px}
+h2{font-size:23px;letter-spacing:-.01em;margin:28px 0 10px}
+.small{font-size:14px;color:#6e6e73}
+.app{display:flex;gap:16px;align-items:center;background:#fff;border-radius:18px;padding:18px;margin:26px 0;box-shadow:0 8px 24px rgba(0,0,0,.05)}
+.app img{width:72px;height:72px;border-radius:17px;flex:0 0 72px}.app .t{font-weight:700}.app p{margin:4px 0 10px;font-size:15px;color:#424245}
+footer{margin:36px 0 40px;font-size:14px;color:#6e6e73;line-height:2}footer a{color:#6e6e73}
+input,select,textarea{font:inherit;padding:11px 12px;border-radius:12px;border:1px solid #d2d0c8;width:100%;background:#fff}
+label{font-weight:600;font-size:15px;display:block;margin:12px 0 6px}
+.doors{display:grid;grid-template-columns:repeat(auto-fill,minmax(112px,1fr));gap:10px;margin:0 0 20px}
+.door{aspect-ratio:1;border-radius:16px;border:0;cursor:pointer;font:700 30px/1 inherit;color:#fff;background:linear-gradient(150deg,var(--a),var(--b));position:relative;box-shadow:inset 0 0 0 2px rgba(255,255,255,.18);transition:transform .15s}
+.door:hover{transform:translateY(-2px)}.door small{display:block;font-size:11px;font-weight:600;opacity:.8;margin-top:6px;letter-spacing:.06em;text-transform:uppercase}
+.door.locked{filter:saturate(.35) brightness(1.05);opacity:.55;cursor:default}.door.open{background:#fff;color:var(--a);box-shadow:inset 0 0 0 2px var(--a)}
+.door.today{outline:3px solid #ffd166;outline-offset:2px;animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{50%{outline-color:rgba(255,209,102,.3)}}
+dialog{border:0;border-radius:22px;max-width:520px;width:calc(100% - 28px);padding:0;box-shadow:0 30px 80px rgba(0,0,0,.35)}
+dialog::backdrop{background:rgba(10,10,20,.55)}
+.dl{padding:24px}.dl .num{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:#6e6e73;font-weight:650}
+.dl h3{font-size:24px;margin:6px 0 10px;line-height:1.2}.dl blockquote{margin:0 0 12px;font:20px/1.5 Georgia,serif}
+.dl .ref{font-weight:700;color:var(--a);margin-bottom:12px}.dl .do{background:#f6f5f2;border-radius:14px;padding:12px 14px;margin:0 0 16px}
+.prog{height:10px;background:#e7e5df;border-radius:9px;overflow:hidden;margin:6px 0 4px}.prog i{display:block;height:100%;background:var(--a);width:0;transition:width .4s}
+.faq dt{font-weight:700;margin-top:14px}.faq dd{margin:4px 0 0}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebApplication", "name": "Free Secret Santa Generator", "url": "https://honestlittleapps.github.io/secret-santa/", "description": "Free Secret Santa name generator: enter names, a budget and a date, exclude couples, and get a private link for each person to text. No emails, no account, nothing stored.", "applicationCategory": "UtilitiesApplication", "operatingSystem": "Any", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Honest Little Apps"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I draw names for Secret Santa online without emails?", "acceptedAnswer": {"@type": "Answer", "text": "Type the names here, tap Draw names, then send each person their own link by text or WhatsApp. Each link reveals only that person's match."}}, {"@type": "Question", "name": "Can I stop couples from drawing each other?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Add each pair to the exclusions box, like Ana + Ben. The draw will never match them."}}, {"@type": "Question", "name": "Can the organiser take part too?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. As long as you only open your own link, you'll only see your own match, the same as everyone else."}}, {"@type": "Question", "name": "Is anything saved?", "acceptedAnswer": {"@type": "Answer", "text": "No. The draw happens on your device and the match is scrambled into each link. There's no account and no server storage."}}]}, {"@type": "MobileApplication", "name": "MoneyShield: Sub Tracker", "operatingSystem": "iOS", "url": "https://apps.apple.com/app/id6787559121", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "publisher": {"@type": "Organization", "name": "Honest Little Apps"}}]}</script></head><body><div class="wrap">
+<header class="top"><a href="https://honestlittleapps.github.io/">Honest Little Apps</a> · <a href="https://honestlittleapps.github.io/december/">December</a></header>
+<section class="hero"><div class="kick">Free Secret Santa generator · no sign-up, no emails</div><h1>Draw names for Secret Santa in 30 seconds</h1>
+<p>Type everyone's names, set a budget and the swap date, and get one private link for each person. Text each person their link. Nobody, including you, sees who got whom unless they open someone else's link.</p></section>
+<div class="card" id="setup"><label for="ev">Event name</label><input id="ev" value="Family Secret Santa 2026" maxlength="60">
+<div style="display:flex;gap:10px;flex-wrap:wrap"><div style="flex:1;min-width:140px"><label for="bu">Spending limit</label><input id="bu" value="$25" maxlength="16"></div><div style="flex:1;min-width:160px"><label for="dt">Swap date</label><input id="dt" type="date" value="2026-12-20"></div></div>
+<label for="nm">Names (one per line)</label><textarea id="nm" rows="7" placeholder="Ana&#10;Ben&#10;Chloe&#10;Dev&#10;Eli"></textarea>
+<label for="ex">Pairs who shouldn't draw each other (optional)</label><textarea id="ex" rows="2" placeholder="Ana + Ben&#10;Chloe + Dev"></textarea>
+<p class="small">Couples or people who live together usually go here. One pair per line, joined with +.</p>
+<div class="btns" style="margin-top:12px"><button class="btn dark" onclick="draw()">Draw names</button></div></div>
+<div class="card" id="res" hidden><h2 style="margin-top:0">Send each person their link</h2><p class="small">Tap a name to text or share that person's link. Each link shows only that person's match.</p><div id="links"></div>
+<div class="btns" style="margin-top:12px"><button class="btn ghost" onclick="draw()">Re-draw</button></div></div>
+<div class="card" id="reveal" hidden style="text-align:center"></div><div class="app"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/43/77/dc4377db-b044-e886-c59b-1b7b32d4e61b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200bb.jpg" alt="MoneyShield app icon" width="72" height="72" loading="lazy"><div><div class="t">MoneyShield: Sub Tracker</div><p>December is when free trials sneak in, and January is when they renew. MoneyShield keeps your subscriptions in one private list and tells you which to cancel before the next charge.</p><a class="btn dark" href="https://apps.apple.com/app/id6787559121?pt=129123876&ct=dec-secret-santa&mt=8" rel="noopener">Free on the App Store</a></div></div><h2>How the private links work</h2><p>The draw happens in your browser. Each person's match is scrambled into their own link (after the # sign), so it's never stored on a server and there's no sign-up or email. Anyone holding a link can open it, so send each link only to its owner.</p><h2>Questions</h2><dl class="faq"><dt>How do I draw names for Secret Santa online without emails?</dt><dd>Type the names here, tap Draw names, then send each person their own link by text or WhatsApp. Each link reveals only that person&#x27;s match.</dd><dt>Can I stop couples from drawing each other?</dt><dd>Yes. Add each pair to the exclusions box, like Ana + Ben. The draw will never match them.</dd><dt>Can the organiser take part too?</dt><dd>Yes. As long as you only open your own link, you&#x27;ll only see your own match, the same as everyone else.</dd><dt>Is anything saved?</dt><dd>No. The draw happens on your device and the match is scrambled into each link. There&#x27;s no account and no server storage.</dd></dl><div id="toast" style="position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#111;color:#fff;padding:10px 16px;border-radius:12px;opacity:0;transition:opacity .3s;font-size:15px;pointer-events:none;z-index:9"></div><script>function toast(m){const t=document.getElementById('toast');t.textContent=m;t.style.opacity=1;clearTimeout(t._h);t._h=setTimeout(()=>t.style.opacity=0,2600)}
+function wrapText(c,txt,x,y,maxW,lh){const w=txt.split(' ');let line='',out=[];for(const s of w){const t=line?line+' '+s:s;if(c.measureText(t).width>maxW&&line){out.push(line);line=s}else line=t}out.push(line);out.forEach((l,i)=>c.fillText(l,x,y+i*lh));return y+out.length*lh}
+function saveCanvas(cv,name){cv.toBlob(b=>{const f=new File([b],name,{type:'image/png'});if(navigator.canShare&&navigator.canShare({files:[f]})){navigator.share({files:[f]}).catch(()=>{})}else{const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=name;a.click()}},'image/png')}
+
+const enc=o=>btoa(unescape(encodeURIComponent(JSON.stringify(o)))).split('').reverse().join('').replace(/=/g,'');
+const dec=s=>{s=s.split('').reverse().join('');while(s.length%4)s+='=';return JSON.parse(decodeURIComponent(escape(atob(s))))};
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+function draw(){const names=[...new Set(document.getElementById('nm').value.split('\n').map(s=>s.trim()).filter(Boolean))];
+if(names.length<3){toast('Add at least 3 names.');return}
+const ex=document.getElementById('ex').value.split('\n').map(l=>l.split('+').map(s=>s.trim().toLowerCase())).filter(p=>p.length===2&&p[0]&&p[1]);
+const bad=(a,b)=>ex.some(p=>(p[0]===a.toLowerCase()&&p[1]===b.toLowerCase())||(p[1]===a.toLowerCase()&&p[0]===b.toLowerCase()));
+let ok=null;for(let t=0;t<4000&&!ok;t++){const o=shuffle(names.slice());let good=true;for(let i=0;i<o.length;i++){const g=o[(i+1)%o.length];if(bad(o[i],g)){good=false;break}}if(good)ok=o}
+if(!ok){toast('Those exclusions make a draw impossible. Remove one and try again.');return}
+const ev=document.getElementById('ev').value.trim()||'Secret Santa',bu=document.getElementById('bu').value.trim(),dt=document.getElementById('dt').value;
+const L=document.getElementById('links');L.innerHTML='';
+ok.forEach((n,i)=>{const u=location.origin+location.pathname+'#'+enc({n,g:ok[(i+1)%ok.length],e:ev,b:bu,d:dt});const row=document.createElement('div');row.style.cssText='display:flex;gap:10px;align-items:center;justify-content:space-between;padding:10px 0;border-top:1px solid #eee';
+row.innerHTML='<b></b><span class=btns><button class="btn dark">Send link</button><button class="btn ghost">Copy</button></span>';row.querySelector('b').textContent=n;
+const msg=n+', your '+ev+' match is ready (keep it secret!): '+u;
+row.querySelector('.dark').onclick=()=>{if(navigator.share)navigator.share({text:msg}).catch(()=>{});else location.href='sms:?&body='+encodeURIComponent(msg)};
+row.querySelector('.ghost').onclick=()=>navigator.clipboard.writeText(msg).then(()=>toast('Copied '+n+'\'s link.'));L.appendChild(row)});
+document.getElementById('res').hidden=false;document.getElementById('res').scrollIntoView({behavior:'smooth'})}
+if(location.hash.length>8){try{const o=dec(location.hash.slice(1));document.getElementById('setup').hidden=true;document.querySelector('.hero h1').textContent=o.e;
+document.querySelector('.hero p').textContent='Hi '+o.n+'! Tap the gift to see who you\'re buying for. Keep it secret.';
+const r=document.getElementById('reveal');r.hidden=false;const when=o.d?new Date(o.d+'T12:00').toLocaleDateString([], {weekday:'long',month:'long',day:'numeric'}):'';
+r.innerHTML='<button id=gift aria-label="Open your gift" style="font-size:96px;background:none;border:0;cursor:pointer;animation:wob 1.2s ease-in-out infinite">🎁</button><div id=who hidden><div class=small>You are buying a gift for</div><div style="font-size:40px;font-weight:800;margin:6px 0;color:var(--a)"></div><p></p><button class="btn ghost" onclick="location.href=location.pathname">Make your own Secret Santa</button></div><style>@keyframes wob{50%{transform:rotate(-8deg) scale(1.05)}}</style>';
+document.getElementById('gift').onclick=()=>{document.getElementById('gift').hidden=true;const w=document.getElementById('who');w.hidden=false;w.querySelector('div:nth-child(2)').textContent=o.g;
+w.querySelector('p').textContent=(o.b?'Spending limit: '+o.b+'. ':'')+(when?'Gift swap: '+when+'.':'')}}catch(err){}}
+</script>
+<footer><a href="https://honestlittleapps.github.io/december/">December collection</a> · <a href="https://honestlittleapps.github.io/advent/verse-a-day/">Advent verse calendar</a> · <a href="https://honestlittleapps.github.io/advent/december-sky/">December sky calendar</a> · <a href="https://honestlittleapps.github.io/advent/kindness-for-kids/">Kindness Advent for kids</a> · <a href="https://honestlittleapps.github.io/secret-santa/">Secret Santa generator</a> · <a href="https://honestlittleapps.github.io/word-for-2027/">Word for 2027</a> · <a href="https://honestlittleapps.github.io/my-phone-year/">My phone year</a> · <a href="https://honestlittleapps.github.io/phone-free-pact/">Phone-free pact</a> · <a href="https://honestlittleapps.github.io/cards/">E-cards</a> · <a href="https://honestlittleapps.github.io/calendars/">Calendars</a><br>Made by Honest Little Apps, a small independent iPhone app studio. Free, no sign-up, nothing you type leaves your device.</footer>
+</div></body></html>
