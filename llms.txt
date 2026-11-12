@@ -222,12 +222,36 @@
 - [Free workplace wellness newsletter content](https://honestlittleapps.github.io/newsletter-content/workplace/)
 - [Free community newsletter content](https://honestlittleapps.github.io/newsletter-content/family/)
 
-## Free ready-to-import quiz sets (Kahoot!, Blooket, Gimkit, Quizlet/Knowt, Anki, Moodle GIFT, Microsoft Forms)
+## SVG cut files (Cricut, Silhouette, Glowforge)
+- [Be Still and Know SVG](https://honestlittleapps.github.io/svg-cut-files/be-still-and-know/): for wall decals, mugs, journals.
+- [Thy Word Is a Lamp SVG](https://honestlittleapps.github.io/svg-cut-files/thy-word-is-a-lamp/): for Bible covers, wall art, tote bags.
+- [Love Joy Peace SVG](https://honestlittleapps.github.io/svg-cut-files/love-joy-peace/): for kids' shirts, Sunday school crafts, signs.
+- [Iron Sharpens Iron SVG](https://honestlittleapps.github.io/svg-cut-files/iron-sharpens-iron/): for men's shirts, tumblers, workshop signs.
+- [Hydration Station SVG](https://honestlittleapps.github.io/svg-cut-files/hydration-station/): for water bottles, office signs, gym decals.
+- [Drink Your Water SVG](https://honestlittleapps.github.io/svg-cut-files/drink-your-water/): for water bottle decals and tumblers.
+- [Merry Christmas (Ornament) SVG](https://honestlittleapps.github.io/svg-cut-files/merry-christmas-ornament/): for ornaments, gift tags, pillows.
+- [Date Night Jar SVG](https://honestlittleapps.github.io/svg-cut-files/date-night-jar/): for jar labels, gift kits, couples' crafts.
+- [Emergency Kit Label SVG](https://honestlittleapps.github.io/svg-cut-files/emergency-kit-label/): for bin labels for go-bags and supply totes.
+- [First Aid Label SVG](https://honestlittleapps.github.io/svg-cut-files/first-aid-label/): for first-aid boxes and cabinet labels.
+- [Grateful Heart SVG](https://honestlittleapps.github.io/svg-cut-files/grateful-heart/): for Thanksgiving signs, journals, cards.
+- [One Thing at a Time SVG](https://honestlittleapps.github.io/svg-cut-files/one-thing-at-a-time/): for desk signs, planners, laptop decals.
 
-- [Human Body Systems Quiz](https://honestlittleapps.github.io/quizzes/human-body-systems-quiz): 15 questions on the 11 body systems: organs, jobs and key terms. Grades 4–8 · Life science. Seven import formats plus a playable version.
-- [Books of the Bible Quiz](https://honestlittleapps.github.io/quizzes/books-of-the-bible-quiz): 15 questions on the order, sections and chapter counts of the 66 books. Sunday school · Youth group · Bible class. Seven import formats plus a playable version.
-- [U.S. History Dates Quiz](https://honestlittleapps.github.io/quizzes/us-history-dates-quiz): 15 "when did it happen?" and "which came first?" questions from 1776 to 1989. Grades 5–9 · U.S. history. Seven import formats plus a playable version.
-- [Sky & Sunset Science Quiz](https://honestlittleapps.github.io/quizzes/sky-and-sunset-science-quiz): 12 questions on light, scattering, golden hour and why sunsets turn red. Grades 4–8 · Physical science. Seven import formats plus a playable version.
-- [Times Tables Quiz: The Tricky Facts](https://honestlittleapps.github.io/quizzes/times-tables-tricky-facts-quiz): 15 of the times-table facts kids miss most, with near-miss answer choices. Grades 3–5 · Math facts. Seven import formats plus a playable version.
-- [Family Emergency Preparedness Quiz](https://honestlittleapps.github.io/quizzes/family-emergency-preparedness-quiz): 12 questions on kits, contacts, fire safety and what to do first. Families · Scouts · Health class. Seven import formats plus a playable version.
-- [Fruit of the Spirit Quiz](https://honestlittleapps.github.io/quizzes/fruit-of-the-spirit-quiz): 10 questions on Galatians 5:22–23 and the nine qualities. Kids church · Youth group · Small group. Seven import formats plus a playable version.
+## Ambient TV scenes (live, with sound)
+- [Virtual Fireplace](https://honestlittleapps.github.io/ambience/virtual-fireplace/): A crackling fire for your TV, with a soft warm glow and real-sounding crackles.
+- [Snowy Window at Night](https://honestlittleapps.github.io/ambience/snowy-window/): Gentle snow falling past a window over a sleeping town, with soft winter wind.
+- [Rain on the Window](https://honestlittleapps.github.io/ambience/rain-on-the-window/): Steady rain running down the glass with a low rumble: good for focus or sleep.
+- [Firefly Forest](https://honestlittleapps.github.io/ambience/firefly-forest/): Fireflies drifting under the moon in a quiet forest, with night crickets.
+- [Night Ocean Waves](https://honestlittleapps.github.io/ambience/night-ocean/): Slow waves rolling in under the moon, about one every nine seconds.
+- [Slow Sunset](https://honestlittleapps.github.io/ambience/slow-sunset/): A sky that slowly moves through golden hour and blue hour, over and over.
+
+## Free mini-courses (no email)
+- [The 7-Day Better Sleep Reset](https://honestlittleapps.github.io/courses/7-day-better-sleep-reset/): 7 days, for anyone who wants to fall asleep more easily and wake up less groggy.
+- [The 5-Day Subscription Reset](https://honestlittleapps.github.io/courses/5-day-subscription-reset/): 5 days, for anyone who suspects they're paying for more subscriptions than they use.
+- [The 7-Day Start-the-Task Course](https://honestlittleapps.github.io/courses/7-day-start-the-task-course/): 7 days, for ADHD brains and anyone else who finds starting harder than doing.
+
+## Original bedtime stories (read-aloud + PDF)
+- [The Littlest Raindrop](https://honestlittleapps.github.io/bedtime-stories/the-littlest-raindrop/): ages 3–7, 4-minute read.
+- [Seven Wants to Make Ten](https://honestlittleapps.github.io/bedtime-stories/seven-wants-to-make-ten/): ages 4–7, 4-minute read.
+- [The Sun Who Said Goodnight Slowly](https://honestlittleapps.github.io/bedtime-stories/the-sun-who-said-goodnight-slowly/): ages 3–8, 4-minute read.
+- [Bear's Bedtime Steps](https://honestlittleapps.github.io/bedtime-stories/bears-bedtime-steps/): ages 2–6, 3-minute read.
+- [The Night Gardeners](https://honestlittleapps.github.io/bedtime-stories/the-night-gardeners-of-puffgrove/): ages 4–8, 4-minute read.
