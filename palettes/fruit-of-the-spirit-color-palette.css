@@ -1,0 +1,27 @@
+/* Fruit of the Spirit palette — free from Honest Little Apps · https://honestlittleapps.github.io/palettes/fruit-of-the-spirit-color-palette */
+:root {
+  --fruit-of-the-spirit-1: #C2255C; /* Love */
+  --fruit-of-the-spirit-2: #F59F00; /* Joy */
+  --fruit-of-the-spirit-3: #4DABF7; /* Peace */
+  --fruit-of-the-spirit-4: #69DB7C; /* Patience */
+  --fruit-of-the-spirit-5: #F783AC; /* Kindness */
+  --fruit-of-the-spirit-6: #FFD43B; /* Goodness */
+  --fruit-of-the-spirit-7: #5C7CFA; /* Faithfulness */
+  --fruit-of-the-spirit-8: #E599F7; /* Gentleness */
+  --fruit-of-the-spirit-9: #20C997; /* Self-control */
+}
+
+/* Tailwind: theme.extend.colors */
+/*
+  'fruit-of-the-spirit': {
+      '100': '#C2255C',
+      '200': '#F59F00',
+      '300': '#4DABF7',
+      '400': '#69DB7C',
+      '500': '#F783AC',
+      '600': '#FFD43B',
+      '700': '#5C7CFA',
+      '800': '#E599F7',
+      '900': '#20C997'
+  }
+*/

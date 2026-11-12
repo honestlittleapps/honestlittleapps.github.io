@@ -1,0 +1,23 @@
+/* Golden Hour palette — free from Honest Little Apps · https://honestlittleapps.github.io/palettes/golden-hour-color-palette */
+:root {
+  --golden-hour-1: #FFF1C1; /* Last Light */
+  --golden-hour-2: #FFD27A; /* Honey */
+  --golden-hour-3: #FFB347; /* Apricot Sun */
+  --golden-hour-4: #F28C38; /* Ember */
+  --golden-hour-5: #D9603B; /* Terracotta Sky */
+  --golden-hour-6: #8C3B3B; /* Rosewood Dusk */
+  --golden-hour-7: #3D2C4E; /* First Shadow */
+}
+
+/* Tailwind: theme.extend.colors */
+/*
+  'golden-hour': {
+      '100': '#FFF1C1',
+      '200': '#FFD27A',
+      '300': '#FFB347',
+      '400': '#F28C38',
+      '500': '#D9603B',
+      '600': '#8C3B3B',
+      '700': '#3D2C4E'
+  }
+*/

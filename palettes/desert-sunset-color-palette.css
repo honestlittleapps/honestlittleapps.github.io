@@ -1,0 +1,23 @@
+/* Desert Sunset palette — free from Honest Little Apps · https://honestlittleapps.github.io/palettes/desert-sunset-color-palette */
+:root {
+  --desert-sunset-1: #F7E3C3; /* Sand */
+  --desert-sunset-2: #EFBF8A; /* Dune */
+  --desert-sunset-3: #E2895C; /* Canyon Peach */
+  --desert-sunset-4: #C8553D; /* Red Rock */
+  --desert-sunset-5: #8F3E3E; /* Clay Wine */
+  --desert-sunset-6: #5B2A3C; /* Mesa Plum */
+  --desert-sunset-7: #2E1F2C; /* Desert Night */
+}
+
+/* Tailwind: theme.extend.colors */
+/*
+  'desert-sunset': {
+      '100': '#F7E3C3',
+      '200': '#EFBF8A',
+      '300': '#E2895C',
+      '400': '#C8553D',
+      '500': '#8F3E3E',
+      '600': '#5B2A3C',
+      '700': '#2E1F2C'
+  }
+*/

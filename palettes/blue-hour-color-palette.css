@@ -1,0 +1,23 @@
+/* Blue Hour palette — free from Honest Little Apps · https://honestlittleapps.github.io/palettes/blue-hour-color-palette */
+:root {
+  --blue-hour-1: #F2E9F7; /* Afterglow */
+  --blue-hour-2: #C9B6E4; /* Lilac Haze */
+  --blue-hour-3: #8E9AD9; /* Periwinkle */
+  --blue-hour-4: #4F6BB3; /* Twilight Blue */
+  --blue-hour-5: #2B3F7A; /* Dusk Navy */
+  --blue-hour-6: #18224A; /* Night Ink */
+  --blue-hour-7: #0B1128; /* Deep Night */
+}
+
+/* Tailwind: theme.extend.colors */
+/*
+  'blue-hour': {
+      '100': '#F2E9F7',
+      '200': '#C9B6E4',
+      '300': '#8E9AD9',
+      '400': '#4F6BB3',
+      '500': '#2B3F7A',
+      '600': '#18224A',
+      '700': '#0B1128'
+  }
+*/

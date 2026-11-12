@@ -1,0 +1,23 @@
+/* Grove Pastels palette — free from Honest Little Apps · https://honestlittleapps.github.io/palettes/grove-pastels-color-palette */
+:root {
+  --grove-pastels-1: #FFF6E5; /* Cream Puff */
+  --grove-pastels-2: #FFD6E0; /* Blossom */
+  --grove-pastels-3: #E2C2FF; /* Lilac Puff */
+  --grove-pastels-4: #B8E0D2; /* Mint Leaf */
+  --grove-pastels-5: #95D5B2; /* Clover */
+  --grove-pastels-6: #FFE49E; /* Buttercup */
+  --grove-pastels-7: #6C8E7B; /* Moss */
+}
+
+/* Tailwind: theme.extend.colors */
+/*
+  'grove-pastels': {
+      '100': '#FFF6E5',
+      '200': '#FFD6E0',
+      '300': '#E2C2FF',
+      '400': '#B8E0D2',
+      '500': '#95D5B2',
+      '600': '#FFE49E',
+      '700': '#6C8E7B'
+  }
+*/

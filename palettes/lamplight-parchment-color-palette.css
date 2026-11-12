@@ -1,0 +1,23 @@
+/* Lamplight & Parchment palette — free from Honest Little Apps · https://honestlittleapps.github.io/palettes/lamplight-parchment-color-palette */
+:root {
+  --lamplight-parchment-1: #FBF5E9; /* Parchment */
+  --lamplight-parchment-2: #EADBC0; /* Linen */
+  --lamplight-parchment-3: #D4B483; /* Candle Wax */
+  --lamplight-parchment-4: #B07A1E; /* Lamplight */
+  --lamplight-parchment-5: #8A5A2B; /* Walnut */
+  --lamplight-parchment-6: #5A3A22; /* Leather */
+  --lamplight-parchment-7: #2E2118; /* Ink */
+}
+
+/* Tailwind: theme.extend.colors */
+/*
+  'lamplight-parchment': {
+      '100': '#FBF5E9',
+      '200': '#EADBC0',
+      '300': '#D4B483',
+      '400': '#B07A1E',
+      '500': '#8A5A2B',
+      '600': '#5A3A22',
+      '700': '#2E2118'
+  }
+*/

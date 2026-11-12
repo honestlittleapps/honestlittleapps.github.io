@@ -1,0 +1,23 @@
+/* Midnight Wind-Down palette — free from Honest Little Apps · https://honestlittleapps.github.io/palettes/midnight-wind-down-color-palette */
+:root {
+  --midnight-wind-down-1: #E8E6F7; /* Moonlight */
+  --midnight-wind-down-2: #B9B4E6; /* Lavender Fog */
+  --midnight-wind-down-3: #7F79C9; /* Soft Violet */
+  --midnight-wind-down-4: #4338CA; /* Indigo */
+  --midnight-wind-down-5: #2C2A7A; /* Late Indigo */
+  --midnight-wind-down-6: #1A1946; /* Midnight */
+  --midnight-wind-down-7: #0D0C24; /* Lights Out */
+}
+
+/* Tailwind: theme.extend.colors */
+/*
+  'midnight-wind-down': {
+      '100': '#E8E6F7',
+      '200': '#B9B4E6',
+      '300': '#7F79C9',
+      '400': '#4338CA',
+      '500': '#2C2A7A',
+      '600': '#1A1946',
+      '700': '#0D0C24'
+  }
+*/

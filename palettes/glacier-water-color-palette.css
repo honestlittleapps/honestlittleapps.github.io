@@ -1,0 +1,23 @@
+/* Glacier Water palette — free from Honest Little Apps · https://honestlittleapps.github.io/palettes/glacier-water-color-palette */
+:root {
+  --glacier-water-1: #F0FBFF; /* Mist */
+  --glacier-water-2: #CDEFFB; /* Ice Melt */
+  --glacier-water-3: #93D9F2; /* Shallows */
+  --glacier-water-4: #4DB8E5; /* Lagoon */
+  --glacier-water-5: #1E88E5; /* Fresh Blue */
+  --glacier-water-6: #135EA8; /* Deep Water */
+  --glacier-water-7: #0B3A6B; /* Abyss */
+}
+
+/* Tailwind: theme.extend.colors */
+/*
+  'glacier-water': {
+      '100': '#F0FBFF',
+      '200': '#CDEFFB',
+      '300': '#93D9F2',
+      '400': '#4DB8E5',
+      '500': '#1E88E5',
+      '600': '#135EA8',
+      '700': '#0B3A6B'
+  }
+*/
