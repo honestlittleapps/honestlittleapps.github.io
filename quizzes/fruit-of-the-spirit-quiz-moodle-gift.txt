@@ -1,0 +1,73 @@
+// Fruit of the Spirit Quiz — free quiz from Honest Little Apps (https://honestlittleapps.github.io/quizzes/fruit-of-the-spirit-quiz)
+// Companion iPhone app: Ninefruit: Fruit of the Spirit https://apps.apple.com/app/id6820778195?pt=129123876&ct=gift-ninefruit&mt=8
+$CATEGORY: Fruit of the Spirit Quiz
+
+::Q01:: Which book lists the fruit of the Spirit? {
+  =Galatians
+  ~Romans
+  ~Ephesians
+  ~James
+}
+
+::Q02:: How many qualities are in the fruit of the Spirit? {
+  =Nine
+  ~Seven
+  ~Ten
+  ~Twelve
+}
+
+::Q03:: Which quality is listed first? {
+  =Love
+  ~Joy
+  ~Peace
+  ~Faithfulness
+}
+
+::Q04:: Which quality is listed last? {
+  =Self-control
+  ~Gentleness
+  ~Kindness
+  ~Goodness
+}
+
+::Q05:: Which of these is NOT one of the nine? {
+  =Wisdom
+  ~Patience
+  ~Kindness
+  ~Joy
+}
+
+::Q06:: In the KJV, "longsuffering" means... {
+  =Patience
+  ~Sadness
+  ~Courage
+  ~Strength
+}
+
+::Q07:: In the KJV, "temperance" means... {
+  =Self-control
+  ~Calmness
+  ~Weather
+  ~Fairness
+}
+
+::Q08:: Which quality comes right after love? {
+  =Joy
+  ~Peace
+  ~Patience
+  ~Hope
+}
+
+::Q09:: Who wrote the letter to the Galatians? {
+  =Paul
+  ~Peter
+  ~John
+  ~Luke
+}
+
+::Q10:: Galatians 5\:22 is in which Testament? {
+  =New Testament
+  ~Old Testament
+  ~Neither
+  ~Both
+}

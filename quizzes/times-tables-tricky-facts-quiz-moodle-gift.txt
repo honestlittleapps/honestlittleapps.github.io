@@ -1,0 +1,108 @@
+// Times Tables Quiz: The Tricky Facts — free quiz from Honest Little Apps (https://honestlittleapps.github.io/quizzes/times-tables-tricky-facts-quiz)
+// Companion iPhone app: Brainy Bucks: Math & Reading https://apps.apple.com/app/id6788619891?pt=129123876&ct=gift-brainybucks&mt=8
+$CATEGORY: Times Tables Quiz\: The Tricky Facts
+
+::Q01:: What is 6 × 7? {
+  =42
+  ~36
+  ~41
+  ~49
+}
+
+::Q02:: What is 4 × 8? {
+  =32
+  ~28
+  ~31
+  ~40
+}
+
+::Q03:: What is 7 × 8? {
+  =56
+  ~49
+  ~55
+  ~64
+}
+
+::Q04:: What is 6 × 9? {
+  =54
+  ~48
+  ~53
+  ~63
+}
+
+::Q05:: What is 3 × 9? {
+  =27
+  ~24
+  ~26
+  ~36
+}
+
+::Q06:: What is 8 × 8? {
+  =64
+  ~56
+  ~63
+  ~72
+}
+
+::Q07:: What is 7 × 7? {
+  =49
+  ~42
+  ~48
+  ~56
+}
+
+::Q08:: What is 4 × 7? {
+  =28
+  ~24
+  ~27
+  ~35
+}
+
+::Q09:: What is 8 × 9? {
+  =72
+  ~64
+  ~71
+  ~81
+}
+
+::Q10:: What is 6 × 8? {
+  =48
+  ~42
+  ~47
+  ~56
+}
+
+::Q11:: What is 9 × 9? {
+  =81
+  ~72
+  ~80
+  ~90
+}
+
+::Q12:: What is 3 × 8? {
+  =24
+  ~21
+  ~23
+  ~32
+}
+
+::Q13:: What is 7 × 9? {
+  =63
+  ~56
+  ~62
+  ~72
+}
+
+::Q14:: What is 6 × 6? {
+  =36
+  ~30
+  ~35
+  ~42
+}
+
+::Q15:: What is 4 × 9? {
+  =36
+  ~32
+  ~35
+  ~45
+}

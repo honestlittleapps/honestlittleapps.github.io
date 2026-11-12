@@ -1,0 +1,108 @@
+// Human Body Systems Quiz — free quiz from Honest Little Apps (https://honestlittleapps.github.io/quizzes/human-body-systems-quiz)
+// Companion iPhone app: Body Unpacked: Health Atlas https://apps.apple.com/app/id6819135509?pt=129123876&ct=gift-bodyunpacked&mt=8
+$CATEGORY: Human Body Systems Quiz
+
+::Q01:: Which body system makes hormones? {
+  =Endocrine
+  ~Digestive
+  ~Lymphatic
+  ~Urinary
+}
+
+::Q02:: How many bones does a typical adult skeleton have? {
+  =206
+  ~186
+  ~256
+  ~300
+}
+
+::Q03:: Which organ pumps blood around the body? {
+  =Heart
+  ~Lungs
+  ~Liver
+  ~Kidneys
+}
+
+::Q04:: Which organs filter waste out of the blood to make urine? {
+  =Kidneys
+  ~Lungs
+  ~Stomach
+  ~Spleen
+}
+
+::Q05:: Which muscle under the lungs helps you breathe? {
+  =Diaphragm
+  ~Biceps
+  ~Pectorals
+  ~Quadriceps
+}
+
+::Q06:: What is the largest organ of the human body? {
+  =Skin
+  ~Liver
+  ~Brain
+  ~Lungs
+}
+
+::Q07:: Where are most nutrients from food absorbed? {
+  =Small intestine
+  ~Stomach
+  ~Large intestine
+  ~Esophagus
+}
+
+::Q08:: The brain and spinal cord make up the... {
+  =Central nervous system
+  ~Endocrine system
+  ~Lymphatic system
+  ~Skeletal system
+}
+
+::Q09:: Which type of muscle is found only in the heart? {
+  =Cardiac muscle
+  ~Skeletal muscle
+  ~Smooth muscle
+  ~Ligament
+}
+
+::Q10:: Tiny air sacs in the lungs where oxygen enters the blood\: {
+  =Alveoli
+  ~Villi
+  ~Neurons
+  ~Nephrons
+}
+
+::Q11:: Which blood cells fight infection? {
+  =White blood cells
+  ~Red blood cells
+  ~Platelets
+  ~Plasma
+}
+
+::Q12:: Which blood vessels carry blood away from the heart? {
+  =Arteries
+  ~Veins
+  ~Capillaries
+  ~Lymph vessels
+}
+
+::Q13:: What is the main job of red bone marrow? {
+  =Making blood cells
+  ~Storing bile
+  ~Filtering air
+  ~Making saliva
+}
+
+::Q14:: Which organ makes bile to help digest fat? {
+  =Liver
+  ~Pancreas
+  ~Stomach
+  ~Kidney
+}
+
+::Q15:: The thymus and spleen belong to which system? {
+  =Lymphatic and immune
+  ~Digestive
+  ~Respiratory
+  ~Urinary
+}

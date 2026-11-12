@@ -1,0 +1,22 @@
+"Blooket
+Import Template",,,,,,,
+Question #,Question Text,Answer 1,Answer 2,"Answer 3
+(Optional)","Answer 4
+(Optional)","Time Limit (sec)
+(Max: 300 seconds)","Correct Answer(s)
+(Only include Answer #)"
+1,How many books are in the Protestant Bible?,39,27,73,66,20,4
+2,What is the first book of the Bible?,Exodus,Matthew,Psalms,Genesis,20,4
+3,What is the last book of the Bible?,Revelation,Malachi,Acts,Jude,20,1
+4,Which book has the most chapters?,Genesis,Isaiah,Jeremiah,Psalms,20,4
+5,How many books are in the New Testament?,22,27,39,30,20,2
+6,Which of these is one of the four Gospels?,Romans,Acts,Luke,Hebrews,20,3
+7,Which book comes right after the four Gospels?,Acts,Romans,Revelation,James,20,1
+8,Which is one of the five books of the Law?,Joshua,Deuteronomy,Job,Ruth,20,2
+9,Which of these is a Minor Prophet?,Isaiah,Jonah,Ezekiel,Daniel,20,2
+10,Which book has only one chapter?,James,Ruth,Titus,Jude,20,4
+11,Who wrote the letter to the Romans?,Paul,Peter,John,James,20,1
+12,How many chapters are in Genesis?,31,50,40,66,20,2
+13,Which book is in the Poetry and Wisdom section?,Proverbs,Hosea,Leviticus,Nehemiah,20,1
+14,How many books are in the Old Testament?,46,27,36,39,20,4
+15,Which book comes right before Matthew?,Zechariah,Revelation,Malachi,Mark,20,3

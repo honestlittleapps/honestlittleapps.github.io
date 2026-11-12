@@ -1,0 +1,87 @@
+// Family Emergency Preparedness Quiz — free quiz from Honest Little Apps (https://honestlittleapps.github.io/quizzes/family-emergency-preparedness-quiz)
+// Companion iPhone app: Family Ready: Emergency Plan https://apps.apple.com/app/id6792019825?pt=129123876&ct=gift-familyready&mt=8
+$CATEGORY: Family Emergency Preparedness Quiz
+
+::Q01:: How much water per person per day for an emergency kit? {
+  =1 gallon
+  ~1 cup
+  ~1 pint
+  ~5 gallons
+}
+
+::Q02:: Many guides suggest supplies for at least how many days? {
+  =3 days
+  ~1 day
+  ~12 hours
+  ~1 hour
+}
+
+::Q03:: Why pick an out-of-area emergency contact? {
+  =Long-distance calls often connect when local ones fail
+  ~They can drive over fastest
+  ~They know your neighbours
+  ~Local numbers stop working forever
+}
+
+::Q04:: When phone lines are busy in a disaster, which often gets through? {
+  =A text message
+  ~A long voice call
+  ~A video call
+  ~A fax
+}
+
+::Q05:: Which tool gets alerts if power and cell service are down? {
+  =Battery or hand-crank radio
+  ~Smart TV
+  ~Desktop computer
+  ~Landline answering machine
+}
+
+::Q06:: You smell gas at home. What should you do first? {
+  =Leave, then call from outside
+  ~Light a candle to see
+  ~Switch on the lights
+  ~Open the oven door
+}
+
+::Q07:: What is a meeting place near home for? {
+  =Sudden emergencies like a house fire
+  ~Weekend picnics
+  ~Picking up mail
+  ~Long-distance evacuations
+}
+
+::Q08:: Your go-bag should include copies of... {
+  =Important documents and IDs
+  ~Old magazines
+  ~Your whole photo album
+  ~Board games only
+}
+
+::Q09:: How often should you test your smoke alarms? {
+  =Once a month
+  ~Once every 5 years
+  ~Only when it beeps
+  ~Never
+}
+
+::Q10:: In a home fire, the rule is... {
+  =Get out, stay out, call 911
+  ~Save your belongings first
+  ~Hide in a closet
+  ~Open every window
+}
+
+::Q11:: Which is NOT usually in a basic emergency kit? {
+  =A television
+  ~Flashlight
+  ~First-aid kit
+  ~Whistle
+}
+
+::Q12:: A hand-crank or battery radio is useful because... {
+  =It works without power or cell service
+  ~It charges your car
+  ~It purifies water
+  ~It calls 911 for you
+}

@@ -1,0 +1,87 @@
+// Sky & Sunset Science Quiz — free quiz from Honest Little Apps (https://honestlittleapps.github.io/quizzes/sky-and-sunset-science-quiz)
+// Companion iPhone app: Asterfold: Sunset Planner https://apps.apple.com/app/id6806044403?pt=129123876&ct=gift-asterfold&mt=8
+$CATEGORY: Sky & Sunset Science Quiz
+
+::Q01:: Which colours does air scatter the most? {
+  =Blue and violet
+  ~Red and orange
+  ~Yellow and green
+  ~All colours equally
+}
+
+::Q02:: What is the scattering of light by air molecules called? {
+  =Rayleigh scattering
+  ~Mie scattering
+  ~Doppler effect
+  ~Refraction
+}
+
+::Q03:: Why are sunsets orange and red? {
+  =Light crosses more air, so blue scatters away
+  ~The Sun cools in the evening
+  ~Clouds absorb blue light
+  ~Earth's shadow is red
+}
+
+::Q04:: White sunlight is a mix of... {
+  =All the colours of the rainbow
+  ~Only yellow light
+  ~Only red and blue
+  ~Only ultraviolet
+}
+
+::Q05:: When is golden hour? {
+  =Just before sunset and after sunrise
+  ~At noon
+  ~At midnight
+  ~Only during an eclipse
+}
+
+::Q06:: What is blue hour? {
+  =Twilight just after sunset or before sunrise
+  ~The hour before noon
+  ~Any cloudy hour
+  ~The first hour after midnight
+}
+
+::Q07:: Which clouds often make the most colourful sunsets? {
+  =Mid- and high-level clouds
+  ~Thick low fog
+  ~Dark storm clouds overhead
+  ~Smoke from a fire
+}
+
+::Q08:: In which direction does the Sun set? {
+  =Roughly west
+  ~Roughly east
+  ~Due north
+  ~Due south
+}
+
+::Q09:: About how long does sunlight take to reach Earth? {
+  =About 8 minutes
+  ~About 8 seconds
+  ~About 8 hours
+  ~About 8 days
+}
+
+::Q10:: A prism splits white light into colours by... {
+  =Refraction
+  ~Reflection
+  ~Absorption
+  ~Magnetism
+}
+
+::Q11:: Which visible colour has the longest wavelength? {
+  =Red
+  ~Violet
+  ~Blue
+  ~Green
+}
+
+::Q12:: Why do clouds look white? {
+  =Their droplets scatter all colours about equally
+  ~They are made only of snow
+  ~They reflect only blue
+  ~They give off their own light
+}
