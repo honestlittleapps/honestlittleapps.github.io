@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Honest Little Apps//Advent 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hydration Advent Calendar
+X-WR-CALDESC:One door a day, December 1-24 2026. Free from Honest Little A
+ pps.
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-1@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Day 1: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 1 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-2@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Day 2: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 2 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-3@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Day 3: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 3 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-4@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Day 4: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 4 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-5@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Day 5: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 5 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-6@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Day 6: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 6 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-7@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Day 7: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 7 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-8@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Day 8: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 8 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-9@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Day 9: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 9 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-10@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Day 10: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 10 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-11@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Day 11: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 11 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-12@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Day 12: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 12 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-13@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Day 13: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 13 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-14@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Day 14: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 14 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-15@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Day 15: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 15 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-16@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Day 16: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 16 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-17@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Day 17: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 17 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-18@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Day 18: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 18 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-19@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Day 19: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 19 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-20@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Day 20: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 20 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-21@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Day 21: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 21 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-22@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Day 22: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 22 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-23@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Day 23: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 23 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hydration-advent-calendar-2026-24@honestlittleapps.github.io
+DTSTAMP:20261112T060000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Day 24: open today's door 🎄
+DESCRIPTION:Today's door on the Hydration Advent Calendar: https://honestl
+ ittleapps.github.io/advent/hydration-advent-calendar/
+URL:https://honestlittleapps.github.io/advent/hydration-advent-calendar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Day 24 is open
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
