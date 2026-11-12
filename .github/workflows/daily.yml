@@ -1,0 +1,61 @@
+name: Build daily pages and deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build today pages, RSS feeds and daily sitemap
+        run: python3 tools/daily.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Ping IndexNow with today's pages
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          import json, urllib.request
+          urls = open("today/urls.txt").read().split()
+          body = json.dumps({"host": "honestlittleapps.github.io", "key": "25e24f30e892102c2625ea465111b960",
+                             "keyLocation": "https://honestlittleapps.github.io/25e24f30e892102c2625ea465111b960.txt", "urlList": urls}).encode()
+          for ep in ["https://api.indexnow.org/indexnow", "https://www.bing.com/indexnow"]:
+              try:
+                  r = urllib.request.urlopen(urllib.request.Request(ep, data=body, headers={"Content-Type": "application/json; charset=utf-8"}), timeout=20)
+                  print(ep, r.status)
+              except Exception as e:
+                  print(ep, e)
+          PY
+      - name: Keep the daily schedule alive (weekly heartbeat commit)
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        run: |
+          if [ "$(date -u +%u)" = "1" ]; then
+            date -u +%F > data/heartbeat.txt
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git add data/heartbeat.txt
+            git commit -m "Weekly heartbeat" || true
+            git push || true
+          fi
