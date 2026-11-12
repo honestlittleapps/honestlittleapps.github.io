@@ -1,0 +1,68 @@
+#separator:tab
+#html:false
+Genesis	Book 1 of 66 · Old Testament · Law · 50 chapters · before Exodus
+Exodus	Book 2 of 66 · Old Testament · Law · 40 chapters · comes after Genesis, before Leviticus
+Leviticus	Book 3 of 66 · Old Testament · Law · 27 chapters · comes after Exodus, before Numbers
+Numbers	Book 4 of 66 · Old Testament · Law · 36 chapters · comes after Leviticus, before Deuteronomy
+Deuteronomy	Book 5 of 66 · Old Testament · Law · 34 chapters · comes after Numbers, before Joshua
+Joshua	Book 6 of 66 · Old Testament · History · 24 chapters · comes after Deuteronomy, before Judges
+Judges	Book 7 of 66 · Old Testament · History · 21 chapters · comes after Joshua, before Ruth
+Ruth	Book 8 of 66 · Old Testament · History · 4 chapters · comes after Judges, before 1 Samuel
+1 Samuel	Book 9 of 66 · Old Testament · History · 31 chapters · comes after Ruth, before 2 Samuel
+2 Samuel	Book 10 of 66 · Old Testament · History · 24 chapters · comes after 1 Samuel, before 1 Kings
+1 Kings	Book 11 of 66 · Old Testament · History · 22 chapters · comes after 2 Samuel, before 2 Kings
+2 Kings	Book 12 of 66 · Old Testament · History · 25 chapters · comes after 1 Kings, before 1 Chronicles
+1 Chronicles	Book 13 of 66 · Old Testament · History · 29 chapters · comes after 2 Kings, before 2 Chronicles
+2 Chronicles	Book 14 of 66 · Old Testament · History · 36 chapters · comes after 1 Chronicles, before Ezra
+Ezra	Book 15 of 66 · Old Testament · History · 10 chapters · comes after 2 Chronicles, before Nehemiah
+Nehemiah	Book 16 of 66 · Old Testament · History · 13 chapters · comes after Ezra, before Esther
+Esther	Book 17 of 66 · Old Testament · History · 10 chapters · comes after Nehemiah, before Job
+Job	Book 18 of 66 · Old Testament · Poetry & Wisdom · 42 chapters · comes after Esther, before Psalms
+Psalms	Book 19 of 66 · Old Testament · Poetry & Wisdom · 150 chapters · comes after Job, before Proverbs
+Proverbs	Book 20 of 66 · Old Testament · Poetry & Wisdom · 31 chapters · comes after Psalms, before Ecclesiastes
+Ecclesiastes	Book 21 of 66 · Old Testament · Poetry & Wisdom · 12 chapters · comes after Proverbs, before Song of Solomon
+Song of Solomon	Book 22 of 66 · Old Testament · Poetry & Wisdom · 8 chapters · comes after Ecclesiastes, before Isaiah
+Isaiah	Book 23 of 66 · Old Testament · Major Prophets · 66 chapters · comes after Song of Solomon, before Jeremiah
+Jeremiah	Book 24 of 66 · Old Testament · Major Prophets · 52 chapters · comes after Isaiah, before Lamentations
+Lamentations	Book 25 of 66 · Old Testament · Major Prophets · 5 chapters · comes after Jeremiah, before Ezekiel
+Ezekiel	Book 26 of 66 · Old Testament · Major Prophets · 48 chapters · comes after Lamentations, before Daniel
+Daniel	Book 27 of 66 · Old Testament · Major Prophets · 12 chapters · comes after Ezekiel, before Hosea
+Hosea	Book 28 of 66 · Old Testament · Minor Prophets · 14 chapters · comes after Daniel, before Joel
+Joel	Book 29 of 66 · Old Testament · Minor Prophets · 3 chapters · comes after Hosea, before Amos
+Amos	Book 30 of 66 · Old Testament · Minor Prophets · 9 chapters · comes after Joel, before Obadiah
+Obadiah	Book 31 of 66 · Old Testament · Minor Prophets · 1 chapter · comes after Amos, before Jonah
+Jonah	Book 32 of 66 · Old Testament · Minor Prophets · 4 chapters · comes after Obadiah, before Micah
+Micah	Book 33 of 66 · Old Testament · Minor Prophets · 7 chapters · comes after Jonah, before Nahum
+Nahum	Book 34 of 66 · Old Testament · Minor Prophets · 3 chapters · comes after Micah, before Habakkuk
+Habakkuk	Book 35 of 66 · Old Testament · Minor Prophets · 3 chapters · comes after Nahum, before Zephaniah
+Zephaniah	Book 36 of 66 · Old Testament · Minor Prophets · 3 chapters · comes after Habakkuk, before Haggai
+Haggai	Book 37 of 66 · Old Testament · Minor Prophets · 2 chapters · comes after Zephaniah, before Zechariah
+Zechariah	Book 38 of 66 · Old Testament · Minor Prophets · 14 chapters · comes after Haggai, before Malachi
+Malachi	Book 39 of 66 · Old Testament · Minor Prophets · 4 chapters · comes after Zechariah, before Matthew
+Matthew	Book 40 of 66 · New Testament · Gospels · 28 chapters · comes after Malachi, before Mark
+Mark	Book 41 of 66 · New Testament · Gospels · 16 chapters · comes after Matthew, before Luke
+Luke	Book 42 of 66 · New Testament · Gospels · 24 chapters · comes after Mark, before John
+John	Book 43 of 66 · New Testament · Gospels · 21 chapters · comes after Luke, before Acts
+Acts	Book 44 of 66 · New Testament · History (early church) · 28 chapters · comes after John, before Romans
+Romans	Book 45 of 66 · New Testament · Paul's letters · 16 chapters · comes after Acts, before 1 Corinthians
+1 Corinthians	Book 46 of 66 · New Testament · Paul's letters · 16 chapters · comes after Romans, before 2 Corinthians
+2 Corinthians	Book 47 of 66 · New Testament · Paul's letters · 13 chapters · comes after 1 Corinthians, before Galatians
+Galatians	Book 48 of 66 · New Testament · Paul's letters · 6 chapters · comes after 2 Corinthians, before Ephesians
+Ephesians	Book 49 of 66 · New Testament · Paul's letters · 6 chapters · comes after Galatians, before Philippians
+Philippians	Book 50 of 66 · New Testament · Paul's letters · 4 chapters · comes after Ephesians, before Colossians
+Colossians	Book 51 of 66 · New Testament · Paul's letters · 4 chapters · comes after Philippians, before 1 Thessalonians
+1 Thessalonians	Book 52 of 66 · New Testament · Paul's letters · 5 chapters · comes after Colossians, before 2 Thessalonians
+2 Thessalonians	Book 53 of 66 · New Testament · Paul's letters · 3 chapters · comes after 1 Thessalonians, before 1 Timothy
+1 Timothy	Book 54 of 66 · New Testament · Paul's letters · 6 chapters · comes after 2 Thessalonians, before 2 Timothy
+2 Timothy	Book 55 of 66 · New Testament · Paul's letters · 4 chapters · comes after 1 Timothy, before Titus
+Titus	Book 56 of 66 · New Testament · Paul's letters · 3 chapters · comes after 2 Timothy, before Philemon
+Philemon	Book 57 of 66 · New Testament · Paul's letters · 1 chapter · comes after Titus, before Hebrews
+Hebrews	Book 58 of 66 · New Testament · General letters · 13 chapters · comes after Philemon, before James
+James	Book 59 of 66 · New Testament · General letters · 5 chapters · comes after Hebrews, before 1 Peter
+1 Peter	Book 60 of 66 · New Testament · General letters · 5 chapters · comes after James, before 2 Peter
+2 Peter	Book 61 of 66 · New Testament · General letters · 3 chapters · comes after 1 Peter, before 1 John
+1 John	Book 62 of 66 · New Testament · General letters · 5 chapters · comes after 2 Peter, before 2 John
+2 John	Book 63 of 66 · New Testament · General letters · 1 chapter · comes after 1 John, before 3 John
+3 John	Book 64 of 66 · New Testament · General letters · 1 chapter · comes after 2 John, before Jude
+Jude	Book 65 of 66 · New Testament · General letters · 1 chapter · comes after 3 John, before Revelation
+Revelation	Book 66 of 66 · New Testament · Prophecy · 22 chapters · comes after Jude

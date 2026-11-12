@@ -1,0 +1,145 @@
+Front,Back,Group
+1 × 1,1 · Square number: 1² = 1.,1s
+1 × 2,2 · Twos: just double it.,1s
+1 × 3,3,1s
+1 × 4,"4 · Fours: double, then double again.",1s
+1 × 5,5 · Fives always end in 0 or 5.,1s
+1 × 6,6,1s
+1 × 7,7,1s
+1 × 8,8,1s
+1 × 9,9 · Nines trick: the digits of the answer add up to 9 (for 9×1 to 9×10).,1s
+1 × 10,10 · Tens: add a zero.,1s
+1 × 11,"11 · For 11×1 to 11×9, just repeat the digit.",1s
+1 × 12,12,1s
+2 × 1,2,2s
+2 × 2,4 · Square number: 2² = 4.,2s
+2 × 3,6,2s
+2 × 4,"8 · Fours: double, then double again.",2s
+2 × 5,10 · Fives always end in 0 or 5.,2s
+2 × 6,12,2s
+2 × 7,14,2s
+2 × 8,16,2s
+2 × 9,18 · Nines trick: the digits of the answer add up to 9 (for 9×1 to 9×10).,2s
+2 × 10,20 · Tens: add a zero.,2s
+2 × 11,"22 · For 11×1 to 11×9, just repeat the digit.",2s
+2 × 12,24,2s
+3 × 1,3,3s
+3 × 2,6 · Twos: just double it.,3s
+3 × 3,9 · Square number: 3² = 9.,3s
+3 × 4,"12 · Fours: double, then double again.",3s
+3 × 5,15 · Fives always end in 0 or 5.,3s
+3 × 6,18,3s
+3 × 7,21,3s
+3 × 8,24,3s
+3 × 9,27 · Nines trick: the digits of the answer add up to 9 (for 9×1 to 9×10).,3s
+3 × 10,30 · Tens: add a zero.,3s
+3 × 11,"33 · For 11×1 to 11×9, just repeat the digit.",3s
+3 × 12,36,3s
+4 × 1,4,4s
+4 × 2,8 · Twos: just double it.,4s
+4 × 3,12,4s
+4 × 4,16 · Square number: 4² = 16.,4s
+4 × 5,20 · Fives always end in 0 or 5.,4s
+4 × 6,24,4s
+4 × 7,28,4s
+4 × 8,32,4s
+4 × 9,36 · Nines trick: the digits of the answer add up to 9 (for 9×1 to 9×10).,4s
+4 × 10,40 · Tens: add a zero.,4s
+4 × 11,"44 · For 11×1 to 11×9, just repeat the digit.",4s
+4 × 12,48,4s
+5 × 1,5,5s
+5 × 2,10 · Twos: just double it.,5s
+5 × 3,15,5s
+5 × 4,"20 · Fours: double, then double again.",5s
+5 × 5,25 · Square number: 5² = 25.,5s
+5 × 6,30,5s
+5 × 7,35,5s
+5 × 8,40,5s
+5 × 9,45 · Nines trick: the digits of the answer add up to 9 (for 9×1 to 9×10).,5s
+5 × 10,50 · Tens: add a zero.,5s
+5 × 11,"55 · For 11×1 to 11×9, just repeat the digit.",5s
+5 × 12,60,5s
+6 × 1,6,6s
+6 × 2,12 · Twos: just double it.,6s
+6 × 3,18,6s
+6 × 4,"24 · Fours: double, then double again.",6s
+6 × 5,30 · Fives always end in 0 or 5.,6s
+6 × 6,36 · Square number: 6² = 36.,6s
+6 × 7,42,6s
+6 × 8,48,6s
+6 × 9,54 · Nines trick: the digits of the answer add up to 9 (for 9×1 to 9×10).,6s
+6 × 10,60 · Tens: add a zero.,6s
+6 × 11,"66 · For 11×1 to 11×9, just repeat the digit.",6s
+6 × 12,72,6s
+7 × 1,7,7s
+7 × 2,14 · Twos: just double it.,7s
+7 × 3,21,7s
+7 × 4,"28 · Fours: double, then double again.",7s
+7 × 5,35 · Fives always end in 0 or 5.,7s
+7 × 6,42,7s
+7 × 7,49 · Square number: 7² = 49.,7s
+7 × 8,56,7s
+7 × 9,63 · Nines trick: the digits of the answer add up to 9 (for 9×1 to 9×10).,7s
+7 × 10,70 · Tens: add a zero.,7s
+7 × 11,"77 · For 11×1 to 11×9, just repeat the digit.",7s
+7 × 12,84,7s
+8 × 1,8,8s
+8 × 2,16 · Twos: just double it.,8s
+8 × 3,24,8s
+8 × 4,"32 · Fours: double, then double again.",8s
+8 × 5,40 · Fives always end in 0 or 5.,8s
+8 × 6,48,8s
+8 × 7,56,8s
+8 × 8,64 · Square number: 8² = 64.,8s
+8 × 9,72 · Nines trick: the digits of the answer add up to 9 (for 9×1 to 9×10).,8s
+8 × 10,80 · Tens: add a zero.,8s
+8 × 11,"88 · For 11×1 to 11×9, just repeat the digit.",8s
+8 × 12,96,8s
+9 × 1,9,9s
+9 × 2,18 · Twos: just double it.,9s
+9 × 3,27,9s
+9 × 4,"36 · Fours: double, then double again.",9s
+9 × 5,45 · Fives always end in 0 or 5.,9s
+9 × 6,54,9s
+9 × 7,63,9s
+9 × 8,72,9s
+9 × 9,81 · Square number: 9² = 81.,9s
+9 × 10,90 · Tens: add a zero.,9s
+9 × 11,"99 · For 11×1 to 11×9, just repeat the digit.",9s
+9 × 12,108,9s
+10 × 1,10,10s
+10 × 2,20 · Twos: just double it.,10s
+10 × 3,30,10s
+10 × 4,"40 · Fours: double, then double again.",10s
+10 × 5,50 · Fives always end in 0 or 5.,10s
+10 × 6,60,10s
+10 × 7,70,10s
+10 × 8,80,10s
+10 × 9,90 · Nines trick: the digits of the answer add up to 9 (for 9×1 to 9×10).,10s
+10 × 10,100 · Square number: 10² = 100.,10s
+10 × 11,110,10s
+10 × 12,120,10s
+11 × 1,11,11s
+11 × 2,22 · Twos: just double it.,11s
+11 × 3,33,11s
+11 × 4,"44 · Fours: double, then double again.",11s
+11 × 5,55 · Fives always end in 0 or 5.,11s
+11 × 6,66,11s
+11 × 7,77,11s
+11 × 8,88,11s
+11 × 9,99,11s
+11 × 10,110 · Tens: add a zero.,11s
+11 × 11,121 · Square number: 11² = 121.,11s
+11 × 12,132,11s
+12 × 1,12,12s
+12 × 2,24 · Twos: just double it.,12s
+12 × 3,36,12s
+12 × 4,"48 · Fours: double, then double again.",12s
+12 × 5,60 · Fives always end in 0 or 5.,12s
+12 × 6,72,12s
+12 × 7,84,12s
+12 × 8,96,12s
+12 × 9,108,12s
+12 × 10,120 · Tens: add a zero.,12s
+12 × 11,132,12s
+12 × 12,144 · Square number: 12² = 144.,12s

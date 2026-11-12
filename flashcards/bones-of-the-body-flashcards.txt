@@ -1,0 +1,40 @@
+#separator:tab
+#html:false
+Skull: the braincase	Cranium · 8 bones that protect the brain
+Lower jaw	Mandible · the only skull bone that moves (it hinges at the jaw joint)
+Upper jaw	Maxilla · holds the upper teeth and forms part of the eye socket and nose
+Cheekbone	Zygomatic bone · forms the prominence of the cheek
+U-shaped bone in the front of the neck	Hyoid · the only bone not joined to another bone; anchors the tongue
+Smallest bone in the body	Stapes (stirrup) · in the middle ear, about 3 mm long
+Three tiny bones of the middle ear	Malleus (hammer), incus (anvil), stapes (stirrup) · pass sound vibrations to the inner ear
+Neck vertebrae	Cervical vertebrae · 7 bones (C1–C7)
+Top vertebra that holds up the skull	Atlas (C1) · lets you nod 'yes'
+Second neck vertebra	Axis (C2) · its peg lets you turn your head 'no'
+Upper and mid-back vertebrae	Thoracic vertebrae · 12 bones (T1–T12), each joined to a pair of ribs
+Lower-back vertebrae	Lumbar vertebrae · 5 large bones (L1–L5) that carry most of your weight
+Triangle-shaped bone at the base of the spine	Sacrum · 5 vertebrae fused together, joins the pelvis
+Tailbone	Coccyx · 3–5 small fused vertebrae
+Breastbone	Sternum · flat bone in the middle of the chest where most ribs attach
+Ribs	12 pairs · 7 'true' ribs attach to the sternum, 3 'false' ribs attach indirectly, 2 'floating' ribs don't attach at the front
+Collarbone	Clavicle · connects the arm to the body; one of the most commonly broken bones
+Shoulder blade	Scapula · flat triangular bone on the back of the shoulder
+Upper arm bone	Humerus · runs from shoulder to elbow (the 'funny bone' is actually the ulnar nerve here)
+Forearm bone on the thumb side	Radius · rotates around the ulna so you can turn your palm up and down
+Forearm bone on the little-finger side	Ulna · forms the point of the elbow
+Wrist bones	Carpals · 8 small bones in two rows
+Bones of the palm	Metacarpals · 5 bones, one leading to each finger
+Finger bones	Phalanges · 14 in each hand (2 in the thumb, 3 in each finger)
+Hip bone	Hip bone (os coxae) · 3 bones fused together: ilium, ischium and pubis
+The bone you sit on	Ischium · the lower, back part of the hip bone
+Thigh bone	Femur · the longest and strongest bone in the body
+Kneecap	Patella · the largest sesamoid bone (a bone that sits inside a tendon)
+Shinbone	Tibia · the large weight-bearing bone of the lower leg
+Thin bone on the outside of the lower leg	Fibula · supports the ankle and anchors muscles
+Ankle and back-of-foot bones	Tarsals · 7 bones
+Heel bone	Calcaneus · the largest tarsal bone
+Ankle bone that connects the leg to the foot	Talus · sits between the tibia/fibula and the heel bone
+Long bones of the foot	Metatarsals · 5 bones
+Toe bones	Phalanges · 14 in each foot
+How many bones does an adult have?	206 · a newborn has around 270–300, many of which fuse as they grow
+Where are more than half of your bones?	Hands and feet · 27 in each hand (with the wrist) and 26 in each foot = 106
+Longest bone in the body	Femur (thigh bone)
